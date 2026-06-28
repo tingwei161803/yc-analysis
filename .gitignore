@@ -1,0 +1,15 @@
+# Build intermediates — regenerable from data/build/normalize.py
+# (re-fetches the public yc-oss dataset, then re-chunks)
+data/build/normalized.json
+data/build/chunks/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.playwright-mcp/

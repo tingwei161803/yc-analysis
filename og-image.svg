@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1512"/><stop offset="1" stop-color="#2A1606"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="64" y="72" width="96" height="96" rx="22" fill="#FB651E"/>
+  <text x="112" y="142" font-family="Space Grotesk, sans-serif" font-size="64" font-weight="700" fill="#fff" text-anchor="middle">Y</text>
+  <text x="184" y="142" font-family="Space Grotesk, sans-serif" font-size="40" font-weight="600" fill="#F4ECE1">Y Combinator Atlas</text>
+  <text x="64" y="320" font-family="Space Grotesk, sans-serif" font-size="92" font-weight="700" fill="#FBF7F2">Every YC company,</text>
+  <text x="64" y="420" font-family="Space Grotesk, sans-serif" font-size="92" font-weight="700" fill="#FB651E">batch &amp; idea.</text>
+  <text x="64" y="520" font-family="Inter, sans-serif" font-size="34" fill="#B3A899">5,988 startups · 50 batches · S05 → today · bilingual &amp; searchable</text>
+</svg>
