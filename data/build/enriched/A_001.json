@@ -1,0 +1,240 @@
+[
+  {
+    "slug": "stripe",
+    "summary": {
+      "en": "Payments and economic infrastructure that lets businesses accept money and run financial operations online.",
+      "zh": "為企業提供線上收款與金融營運的支付與經濟基礎設施。"
+    },
+    "highlight": {
+      "en": "Stripe is YC's most valuable company ever and the poster child of the accelerator's fintech success. A February 2026 tender offer valued it at $159 billion, up from $91.5 billion a year earlier.",
+      "zh": "Stripe 是 YC 史上最有價值的公司,也是該加速器金融科技成功的代表作。2026 年 2 月的股權收購交易將其估值定在 1,590 億美元,較一年前的 915 億美元大幅成長。"
+    },
+    "valuation_tier": "hectocorn",
+    "funding": {
+      "en": "Last valued ~$159B (Feb 2026 tender offer); raised >$9B total",
+      "zh": "最新估值約 1,590 億美元(2026 年 2 月股權收購);累計募資超過 90 億美元"
+    },
+    "founders": "Patrick Collison, John Collison",
+    "sources": [
+      { "title": "Stripe's valuation soars 74% to $159 billion | TechCrunch", "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/" },
+      { "title": "Stripe valued at $159 billion after tender offer | CNBC", "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html" }
+    ]
+  },
+  {
+    "slug": "mixpanel",
+    "summary": {
+      "en": "Product and event analytics that lets teams measure user behavior and make data-driven decisions.",
+      "zh": "提供產品與事件分析,讓團隊衡量使用者行為並做出數據驅動的決策。"
+    },
+    "highlight": {
+      "en": "An early YC analytics player whose customers include OpenAI, Netflix and Uber. It hit unicorn status in 2021 with a $200M Series C from Bain Capital at a ~$1.05B valuation.",
+      "zh": "Mixpanel 是 YC 早期的分析類公司,客戶包括 OpenAI、Netflix 與 Uber。2021 年憑藉 Bain Capital 領投的 2 億美元 C 輪、約 10.5 億美元估值躋身獨角獸。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$1.05B (2021 Series C); raised ~$277M total",
+      "zh": "估值約 10.5 億美元(2021 年 C 輪);累計募資約 2.77 億美元"
+    },
+    "founders": "Suhail Doshi, Tim Trefren",
+    "sources": [
+      { "title": "Mixpanel scores $200M Series C | TechCrunch", "url": "https://techcrunch.com/2021/11/15/seven-years-after-last-venture-investment-mixpanel-scores-200m-series-c/" },
+      { "title": "Mixpanel - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mixpanel" }
+    ]
+  },
+  {
+    "slug": "wepay",
+    "summary": {
+      "en": "Multi-party payments API for SaaS, point-of-sale platforms and online marketplaces.",
+      "zh": "為 SaaS、POS 平台與線上市集提供多方支付 API。"
+    },
+    "highlight": {
+      "en": "WePay pioneered embedded payments for platforms before exiting to a banking giant. JPMorgan Chase acquired it in 2017 in a deal reported at up to $400 million.",
+      "zh": "WePay 在嵌入式平台支付領域開先河,最終被銀行巨頭收購。摩根大通於 2017 年收購,交易金額據報導最高達 4 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by JPMorgan Chase in 2017 (~$300-400M)",
+      "zh": "2017 年由摩根大通收購(約 3 至 4 億美元)"
+    },
+    "founders": "Bill Clerico, Rich Aberman",
+    "sources": [
+      { "title": "JPMorgan buys fintech start-up WePay | CNBC", "url": "https://www.cnbc.com/2017/10/18/jpmorgan-buys-fintech-start-up-wepay.html" },
+      { "title": "J.P. Morgan Chase Acquires WePay In $400M Deal | Retail TouchPoints", "url": "https://www.retailtouchpoints.com/features/news-briefs/j-p-morgan-chase-acquires-wepay-in-400m-deal" }
+    ]
+  },
+  {
+    "slug": "optimizely",
+    "summary": {
+      "en": "Digital experience platform for A/B testing, experimentation and marketing content optimization.",
+      "zh": "提供 A/B 測試、實驗與行銷內容優化的數位體驗平台。"
+    },
+    "highlight": {
+      "en": "Optimizely turned web experimentation into a mainstream marketing discipline after raising over $200M. It was acquired by Episerver (an Insight Partners company) in 2020, which then rebranded under the Optimizely name.",
+      "zh": "Optimizely 在募資逾 2 億美元後,將網站實驗推廣為主流行銷方法。2020 年被 Episerver(Insight Partners 旗下公司)收購,後者並更名為 Optimizely。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Episerver in 2020; had raised >$200M",
+      "zh": "2020 年被 Episerver 收購;此前募資超過 2 億美元"
+    },
+    "founders": "Dan Siroker, Pete Koomen",
+    "sources": [
+      { "title": "Optimizely acquired by Episerver | TechCrunch", "url": "https://techcrunch.com/2020/09/03/episerver-acquires-optimizely/" },
+      { "title": "Optimizely - Wikipedia", "url": "https://en.wikipedia.org/wiki/Optimizely" }
+    ]
+  },
+  {
+    "slug": "cardpool",
+    "summary": {
+      "en": "Gift card exchange marketplace to buy, sell or trade new and pre-owned gift cards.",
+      "zh": "禮品卡交易市集,可買賣或交換全新及二手禮品卡。"
+    },
+    "highlight": {
+      "en": "Cardpool built one of the earliest consumer marketplaces for discounted gift cards out of YC. It was later acquired by Blackhawk Network, the prepaid and gift card giant.",
+      "zh": "Cardpool 是 YC 中最早期的折扣禮品卡消費者市集之一,後來被預付卡與禮品卡巨頭 Blackhawk Network 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Blackhawk Network",
+      "zh": "被 Blackhawk Network 收購"
+    },
+    "founders": "Anson Tsui",
+    "sources": []
+  },
+  {
+    "slug": "500friends",
+    "summary": {
+      "en": "Customer loyalty and retention marketing platform serving CMOs and retail brands.",
+      "zh": "為行銷長與零售品牌提供顧客忠誠度與留存行銷平台。"
+    },
+    "highlight": {
+      "en": "500Friends built a SaaS loyalty platform that became an enterprise marketing offering. It was acquired by Merkle, where it became Merkle Loyalty Solutions.",
+      "zh": "500Friends 打造的 SaaS 忠誠度平台後來成為企業行銷產品,被 Merkle 收購並改名為 Merkle Loyalty Solutions。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Merkle",
+      "zh": "被 Merkle 收購"
+    },
+    "founders": "",
+    "sources": []
+  },
+  {
+    "slug": "pagerduty",
+    "summary": {
+      "en": "Incident response and operations platform giving teams real-time visibility into critical apps and services.",
+      "zh": "事件回應與營運平台,讓團隊即時掌握關鍵應用與服務狀態。"
+    },
+    "highlight": {
+      "en": "PagerDuty became a defining YC enterprise SaaS success, serving over 10,000 customers like Slack and Lululemon. It went public on the NYSE in April 2019 at roughly a $1.3 billion valuation.",
+      "zh": "PagerDuty 成為 YC 企業級 SaaS 的代表性成功案例,服務 Slack、Lululemon 等逾 1 萬家客戶。2019 年 4 月在紐約證交所上市,估值約 13 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd on NYSE in 2019 at ~$1.3B valuation",
+      "zh": "2019 年在紐約證交所上市,估值約 13 億美元"
+    },
+    "founders": "Alex Solomon, Andrew Miklas, Baskar Puvanathasan",
+    "sources": [
+      { "title": "How PagerDuty Became a $1.9B Public Co.", "url": "https://www.unicorngrowth.io/p/pagerduty-alex-solomon" },
+      { "title": "Alex Solomon - PagerDuty | Crunchbase", "url": "https://www.crunchbase.com/person/alex-solomon" }
+    ]
+  },
+  {
+    "slug": "homejoy",
+    "summary": {
+      "en": "On-demand marketplace matching customers with vetted, background-checked home cleaning professionals.",
+      "zh": "隨選媒合平台,為顧客配對經審核與背景查核的居家清潔專業人員。"
+    },
+    "highlight": {
+      "en": "Homejoy was an early on-demand home services darling founded by sibling duo Aaron and Adora Cheung. It became a cautionary tale of the gig economy, shutting down in 2015 amid worker-classification lawsuits.",
+      "zh": "Homejoy 由 Aaron 與 Adora Cheung 兄妹創立,是早期隨選居家服務的明星公司。後來在勞工身分歸類訴訟中於 2015 年關閉,成為零工經濟的警世案例。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Shut down in 2015; raised ~$40M",
+      "zh": "2015 年關閉;累計募資約 4,000 萬美元"
+    },
+    "founders": "Aaron Cheung, Adora Cheung",
+    "sources": []
+  },
+  {
+    "slug": "presto",
+    "summary": {
+      "en": "Restaurant automation using computer vision, voice AI and payments for big chains like McDonald's and Chili's.",
+      "zh": "餐廳自動化方案,以電腦視覺、語音 AI 與支付服務麥當勞、Chili's 等大型連鎖。"
+    },
+    "highlight": {
+      "en": "Presto (formerly E la Carte) brought tabletop tech and drive-thru voice AI to major restaurant chains. It went public via SPAC in 2022 at a ~$1B implied valuation but was delisted from Nasdaq in 2024 amid liquidity troubles.",
+      "zh": "Presto(前身為 E la Carte)為大型餐廳連鎖帶來桌邊科技與得來速語音 AI。2022 年透過 SPAC 上市,隱含估值約 10 億美元,但因流動性問題於 2024 年自 Nasdaq 下市。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "SPAC IPO in 2022 (~$1B implied); delisted from Nasdaq in 2024",
+      "zh": "2022 年 SPAC 上市(隱含估值約 10 億美元);2024 年自 Nasdaq 下市"
+    },
+    "founders": "Rajat Suri",
+    "sources": [
+      { "title": "Presto Automation delisted from Nasdaq | Restaurant Dive", "url": "https://www.restaurantdive.com/news/presto-automation-delisted-from-nasdaq-during-voice-ai-pivot/723684/" }
+    ]
+  },
+  {
+    "slug": "hipmunk",
+    "summary": {
+      "en": "Travel search engine that visually compared flights and hotels to take the agony out of booking.",
+      "zh": "旅遊搜尋引擎,以視覺化方式比較機票與飯店,讓訂位不再痛苦。"
+    },
+    "highlight": {
+      "en": "Co-founded by Reddit's Steve Huffman, Hipmunk reimagined flight search with its signature 'Agony' sort. It was acquired by SAP Concur in 2016 and shut down in 2020.",
+      "zh": "Hipmunk 由 Reddit 共同創辦人 Steve Huffman 共同創立,以招牌的「Agony」排序重新想像機票搜尋。2016 年被 SAP Concur 收購,並於 2020 年關閉。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by SAP Concur in 2016; shut down in 2020",
+      "zh": "2016 年被 SAP Concur 收購;2020 年關閉"
+    },
+    "founders": "Adam Goldstein, Steve Huffman",
+    "sources": [
+      { "title": "Four years after being acquired, Hipmunk is shutting down | TechCrunch", "url": "https://techcrunch.com/2020/01/14/four-years-after-being-acquired-hipmunk-is-shutting-down/" }
+    ]
+  },
+  {
+    "slug": "futureadvisor",
+    "summary": {
+      "en": "Digital wealth management and robo-advisory service offering low-cost portfolio management for everyday investors.",
+      "zh": "數位財富管理與機器人理財服務,為一般投資人提供低成本的投資組合管理。"
+    },
+    "highlight": {
+      "en": "FutureAdvisor was an early robo-advisor democratizing wealth management for mass-affluent households. It was acquired by asset-management giant BlackRock in 2015.",
+      "zh": "FutureAdvisor 是早期的機器人理財顧問,讓中產家庭也能享有財富管理服務。2015 年被資產管理巨頭 BlackRock 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by BlackRock in 2015 (reported ~$150M)",
+      "zh": "2015 年被 BlackRock 收購(據報導約 1.5 億美元)"
+    },
+    "founders": "Bo Lu, Jon Xu",
+    "sources": []
+  },
+  {
+    "slug": "goat-group",
+    "summary": {
+      "en": "Global marketplace for authentic sneakers, apparel and accessories, including Flight Club and Grailed.",
+      "zh": "全球正品球鞋、服飾與配件市集,旗下包含 Flight Club 與 Grailed。"
+    },
+    "highlight": {
+      "en": "GOAT Group pioneered ship-to-verify authentication and built a 50M-member community across four brands. A June 2021 Series F valued it at $3.7 billion, making it a clear unicorn (and approaching decacorn talk).",
+      "zh": "GOAT Group 開創「先送驗、後出貨」的驗證模式,以四個品牌打造逾 5,000 萬會員的社群。2021 年 6 月的 F 輪將其估值定在 37 億美元,穩居獨角獸之列。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$3.7B (2021 Series F); raised $195M in that round",
+      "zh": "最新估值約 37 億美元(2021 年 F 輪);該輪募資 1.95 億美元"
+    },
+    "founders": "Eddy Lu, Daishin Sugano",
+    "sources": [
+      { "title": "Sneaker marketplace GOAT hits $3.7B valuation in Series F raise | TechCrunch", "url": "https://techcrunch.com/2021/06/24/sneaker-marketplace-goat-hits-3-7-billion-valuation-in-series-f-raise/" },
+      { "title": "GOAT Group - Wikipedia", "url": "https://en.wikipedia.org/wiki/GOAT_Group" }
+    ]
+  }
+]

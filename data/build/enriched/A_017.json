@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "accept-inc",
+    "summary": {
+      "en": "A fintech that turns mortgage-ready buyers into all-cash homebuyers so they can compete and close in days.",
+      "zh": "一家金融科技公司,讓符合貸款資格的買家也能用全現金出價買房,從而在競爭中勝出並在數日內完成交易。"
+    },
+    "highlight": {
+      "en": "Accept.inc (formerly BoardRE) helped open YC's wave of 'power buyer' real-estate fintechs that let regular buyers match cash offers. It was acquired by HomeLight in June 2022 (in an all-stock deal alongside HomeLight's $115M raise) and its operations were folded in.",
+      "zh": "Accept.inc(前身為 BoardRE)是 YC 一波「強勢買家」房地產金融科技浪潮的開創者之一,讓一般買家也能比擬全現金出價。該公司於 2022 年 6 月被 HomeLight 以全股票方式收購(同期 HomeLight 募得 1.15 億美元),業務隨後整併。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by HomeLight (June 2022, all-stock; terms undisclosed)",
+      "zh": "2022 年 6 月被 HomeLight 以全股票收購,金額未公開"
+    },
+    "founders": "Adam Pollack, Nate Gruendemann, Nick Friedman",
+    "sources": [
+      { "title": "HomeLight Raises $115M And Acquires Cash Offer Rival Accept.inc | Inman", "url": "https://www.inman.com/2022/06/16/homelight-raises-115m-and-acquires-cash-offer-rival-accept-inc/" },
+      { "title": "HomeLight buys cash-offer fintech Accept.inc | National Mortgage News", "url": "https://www.nationalmortgagenews.com/news/homelight-buys-cash-offer-fintech-accept-inc" }
+    ]
+  },
+  {
+    "slug": "memfault",
+    "summary": {
+      "en": "An IoT reliability platform for remote device monitoring, debugging, and over-the-air firmware updates at scale.",
+      "zh": "一個物聯網可靠性平台,可大規模遠端監控、除錯裝置,並進行 OTA 韌體更新。"
+    },
+    "highlight": {
+      "en": "Built by engineers from Pebble, Oculus, and Fitbit, Memfault pioneered 'device reliability engineering' for connected hardware. Nordic Semiconductor acquired it in June 2025 for about $120M to launch the first complete chip-to-cloud lifecycle platform.",
+      "zh": "由 Pebble、Oculus 與 Fitbit 的工程師打造,Memfault 為聯網硬體開創了「裝置可靠性工程」。Nordic Semiconductor 於 2025 年 6 月以約 1.2 億美元收購,推出首個完整的晶片到雲端生命週期管理平台。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $24M Series B; acquired by Nordic Semiconductor for ~$120M (June 2025)",
+      "zh": "募得 2,400 萬美元 B 輪;2025 年 6 月被 Nordic Semiconductor 以約 1.2 億美元收購"
+    },
+    "founders": "François Baldassari, Chris Coleman, Tyler Hoffman",
+    "sources": [
+      { "title": "Nordic Semiconductor acquires Memfault | nordicsemi.com", "url": "https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault" },
+      { "title": "Memfault Raises $24 Million in Series B Funding | Memfault", "url": "https://memfault.com/news/memfault-raises-24-million-in-series-b-funding-supercharge-iot-reliability-platform/" }
+    ]
+  },
+  {
+    "slug": "hatch",
+    "summary": {
+      "en": "An AI customer-service platform that builds voice, email, and SMS agents to communicate with a business's customers.",
+      "zh": "一個 AI 客服平台,可建立語音、電子郵件與簡訊智能代理,代企業與客戶溝通。"
+    },
+    "highlight": {
+      "en": "Hatch is part of YC's wave of AI customer-engagement startups, repositioning from outbound messaging into an AI CSR (customer service representative) platform. Per YC, the company is listed as acquired.",
+      "zh": "Hatch 屬於 YC 一波 AI 客戶互動新創,從外撥訊息轉型為 AI 客服代表平台。根據 YC 資料,該公司狀態為已被收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "",
+    "sources": []
+  },
+  {
+    "slug": "forage",
+    "summary": {
+      "en": "Free online job simulations from top employers that let students build skills and get discovered for hiring.",
+      "zh": "由頂尖雇主提供的免費線上工作模擬,讓學生培養技能並被企業發掘錄用。"
+    },
+    "highlight": {
+      "en": "Forage scaled to millions of students by partnering with employers like J.P. Morgan, Lyft, and Walmart to offer 'day in the life' virtual job simulations. After raising a $25M Series B in 2021, it was acquired by education firm EAB in April 2024.",
+      "zh": "Forage 透過與摩根大通、Lyft、Walmart 等雇主合作,提供「一日員工體驗」虛擬工作模擬,觸及數百萬學生。在 2021 年募得 2,500 萬美元 B 輪後,於 2024 年 4 月被教育公司 EAB 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$34M (incl. $25M Series B, 2021); acquired by EAB (April 2024)",
+      "zh": "募得約 3,400 萬美元(含 2021 年 2,500 萬美元 B 輪);2024 年 4 月被 EAB 收購"
+    },
+    "founders": "Tom Brunskill, Pasha Rayan",
+    "sources": [
+      { "title": "EAB to Acquire Forage | EAB", "url": "https://eab.com/about/newsroom/press/eab-acquires-forage/" },
+      { "title": "Blackbird-backed job simulations edtech Forage exits to US merger | Startup Daily", "url": "https://www.startupdaily.net/topic/business/blackbird-backed-job-simulations-edtech-forage-exits-to-us-merger/" }
+    ]
+  },
+  {
+    "slug": "breadfast",
+    "summary": {
+      "en": "Egypt's leading online grocery brand, delivering thousands of fresh and CPG products on-demand in under 60 minutes.",
+      "zh": "埃及領先的線上雜貨品牌,可在 60 分鐘內隨選配送數千種生鮮與快消品。"
+    },
+    "highlight": {
+      "en": "Breadfast aims to be the 'Gopuff for Africa and the Middle East' with a vertically integrated supply chain delivering 3,500+ SKUs across Egypt. It raised a $26M Series A in 2021 and later secured a $10M EBRD-backed Series B financing to fund nationwide expansion.",
+      "zh": "Breadfast 以垂直整合的供應鏈在埃及配送逾 3,500 種商品,志在成為「非洲與中東的 Gopuff」。該公司於 2021 年募得 2,600 萬美元 A 輪,之後再獲歐洲復興開發銀行(EBRD)支持的 1,000 萬美元 B 輪融資以擴展全國市場。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $26M Series A (2021); $10M EBRD-backed Series B financing",
+      "zh": "募得 2,600 萬美元 A 輪(2021);另獲 EBRD 支持的 1,000 萬美元 B 輪融資"
+    },
+    "founders": "Mostafa Amin, Muhammad Habib, Abdullah Nofal",
+    "sources": [
+      { "title": "Egypt's Breadfast wants to build 'Gopuff for Africa and Middle East', gets $26M | TechCrunch", "url": "https://techcrunch.com/2021/11/03/egypts-breadfast-wants-to-build-gopuff-for-africa-and-middle-east-gets-26m-backing/" },
+      { "title": "Egypt-Based Breadfast Secures $10M from EBRD | Arab Founders", "url": "https://arabfounders.net/en/breadfast-lands-10m-ebrd-nationwide-expansion-egypt/" }
+    ]
+  },
+  {
+    "slug": "pair-team",
+    "summary": {
+      "en": "A tech-enabled care system for complex, low-income Medicaid and Medicare patients addressing medical and social needs.",
+      "zh": "一套科技賦能的照護系統,服務情況複雜的低收入 Medicaid 與 Medicare 患者,兼顧醫療與社會需求。"
+    },
+    "highlight": {
+      "en": "Pair Team runs one of the largest medical groups for complex, low-income patients, partnering with community health centers to close care gaps, including for people experiencing homelessness. It has raised over $26M, with a $9M Series A in 2023, and is building a vertically integrated AI care manager.",
+      "zh": "Pair Team 經營全美最大規模的複雜低收入患者醫療團隊之一,與社區健康中心合作彌補照護缺口,包括服務無家者。該公司已募得逾 2,600 萬美元(含 2023 年 900 萬美元 A 輪),並正打造垂直整合的 AI 照護管理系統。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$26M total (incl. $9M Series A, 2023)",
+      "zh": "累計募得逾 2,600 萬美元(含 2023 年 900 萬美元 A 輪)"
+    },
+    "founders": "Neil Batlivala, Cassie Choi",
+    "sources": [
+      { "title": "Pair Team Secures $7.3 Million in Funding | Business Wire", "url": "https://www.businesswire.com/news/home/20211207005189/en/Pair-Team-Secures-$7.3-Million-in-Funding-to-Build-Primary-Care-Infrastructure-for-Medicaid-and-Underserved-Populations" },
+      { "title": "Pair Team: A Business Model That Closes Care Gaps | California Health Care Foundation", "url": "https://www.chcf.org/resource/pair-team-business-model-closes-care-gaps-people-experiencing-homelessness/" }
+    ]
+  },
+  {
+    "slug": "laika",
+    "summary": {
+      "en": "A Latin American online pet ecosystem offering 4,000+ products plus services as a one-stop shop for pet owners.",
+      "zh": "一個拉丁美洲線上寵物生態系,提供逾 4,000 種商品與多項服務,是寵物飼主的一站式購物平台。"
+    },
+    "highlight": {
+      "en": "LAIKA set out to be the top-of-mind 'one-stop shop' for pets in Latin America, combining an online and offline platform for products, services, and pet healthcare. Starting in Colombia, it consolidates the seven-plus places owners typically visit each year into a single marketplace.",
+      "zh": "LAIKA 立志成為拉丁美洲寵物市場最具知名度的「一站式商店」,結合線上線下平台,提供商品、服務與寵物醫療。該公司從哥倫比亞起步,將飼主每年通常要造訪的七個以上地點整合進單一市場。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "",
+    "sources": []
+  },
+  {
+    "slug": "odeko",
+    "summary": {
+      "en": "An operations and supply platform that helps independent cafes and coffee shops order, manage, and grow their business.",
+      "zh": "一個營運與供應平台,協助獨立咖啡館訂貨、管理並擴展業務。"
+    },
+    "highlight": {
+      "en": "Odeko bundles supply ordering, mobile ordering, and back-office tools so independent cafes can compete with global chains, serving 14,000+ customers. It has raised nearly $300M total, including a $126M Series E in 2025 (with $96M equity led by B Capital).",
+      "zh": "Odeko 將供貨訂購、行動點餐與後台工具整合,協助獨立咖啡館對抗全球連鎖品牌,服務超過 14,000 家客戶。該公司累計募資近 3 億美元,含 2025 年 1.26 億美元 E 輪(其中 9,600 萬美元股權由 B Capital 領投)。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$300M total (incl. $126M Series E, 2025)",
+      "zh": "累計募得約 3 億美元(含 2025 年 1.26 億美元 E 輪)"
+    },
+    "founders": "Dane Atkinson",
+    "sources": [
+      { "title": "Odeko Raises $126 Million in Series E Funding | Business Wire", "url": "https://www.businesswire.com/news/home/20250304733369/en/Odeko-Raises-$126-Million-in-Series-E-Funding-to-Empower-Independent-Food-Businesses-and-Fuel-Their-Growth" },
+      { "title": "Coffee Shop Software Provider Odeko Nears $300 Million in Funding | Daily Coffee News", "url": "https://dailycoffeenews.com/2025/03/06/coffee-shop-software-provider-odeko-nears-300-million-in-funding/" }
+    ]
+  },
+  {
+    "slug": "obie",
+    "summary": {
+      "en": "An insurtech offering embedded, expert-backed investment property insurance for landlords, agents, and investors.",
+      "zh": "一家保險科技公司,為房東、仲介與投資人提供嵌入式、專家支持的投資物業保險。"
+    },
+    "highlight": {
+      "en": "Obie streamlines insurance for real estate investors with embedded technology, having secured $60B in coverage. It raised about $39.6M (including a $25.5M Series B led by Battery Ventures) and was acquired by The Baldwin Group (Nasdaq: BWIN) in January 2026.",
+      "zh": "Obie 以嵌入式技術簡化房地產投資人的保險流程,已承保達 600 億美元。該公司募得約 3,960 萬美元(含由 Battery Ventures 領投的 2,550 萬美元 B 輪),並於 2026 年 1 月被 The Baldwin Group(Nasdaq: BWIN)收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$39.6M (incl. $25.5M Series B); acquired by The Baldwin Group (Jan 2026)",
+      "zh": "募得約 3,960 萬美元(含 2,550 萬美元 B 輪);2026 年 1 月被 The Baldwin Group 收購"
+    },
+    "founders": "Aaron Letzeiser, Ryan Letzeiser",
+    "sources": [
+      { "title": "Aaron and Ryan Letzeiser of Obie Named Entrepreneur of the Year Finalists | Obie", "url": "https://www.obieinsurance.com/blog/aaron-letzeiser-and-ryan-letzeiser-of-obie-named-entrepreneur-of-the-year-2026-finalists" },
+      { "title": "Obie - Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/obiesoft" }
+    ]
+  },
+  {
+    "slug": "localyze",
+    "summary": {
+      "en": "A global mobility platform that automates immigration, relocation, and compliance for companies and their employees.",
+      "zh": "一個全球人才流動平台,為企業與員工自動化處理移民、搬遷與合規流程。"
+    },
+    "highlight": {
+      "en": "Localyze became a leading European global-mobility platform, scaling expert visa and relocation workflows for cross-border hiring. Backed by General Catalyst and having raised over $48M, it was acquired by Boundless Immigration in October 2025.",
+      "zh": "Localyze 成為歐洲領先的全球人才流動平台,為跨境招聘擴展簽證與搬遷的專家流程。該公司獲 General Catalyst 支持、募得逾 4,800 萬美元,並於 2025 年 10 月被 Boundless Immigration 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$48M; acquired by Boundless Immigration (Oct 2025)",
+      "zh": "募得逾 4,800 萬美元;2025 年 10 月被 Boundless Immigration 收購"
+    },
+    "founders": "Hanna Asmussen, Franzi Löw, Lukas Reiß",
+    "sources": [
+      { "title": "Boundless Acquires European Mobility Leader Localyze | Boundless", "url": "https://www.boundless.com/press/boundless-acquires-european-mobility-leader-localyze-creating-a-unified-solution-to-navigate-global-workforce-challenges" },
+      { "title": "Hanna Asmussen, CEO of Localyze: Over $48 Million Raised | Frontlines.io", "url": "https://www.frontlines.io/podcasts/hanna-asmussen/" }
+    ]
+  },
+  {
+    "slug": "compound",
+    "summary": {
+      "en": "An all-in-one wealth management platform for tech employees, covering equity, crypto, real estate, and tax planning.",
+      "zh": "一個專為科技業員工打造的一站式財富管理平台,涵蓋股權、加密貨幣、房地產與稅務規劃。"
+    },
+    "highlight": {
+      "en": "Compound gave tech workers a single view of their illiquid assets, from startup equity to crypto, with software-enabled financial and tax advice. It raised $37M, then merged with Alternativ Wealth to form Compound Planning, a digital family office overseeing about $1.2B in assets.",
+      "zh": "Compound 讓科技業員工能在單一介面掌握從新創股權到加密貨幣等流動性低的資產,並提供軟體驅動的財務與稅務建議。該公司募得 3,700 萬美元,之後與 Alternativ Wealth 合併為 Compound Planning,管理約 12 億美元資產的數位家族辦公室。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $37M; merged into Compound Planning (~$1.2B AUM digital family office)",
+      "zh": "募得 3,700 萬美元;合併為 Compound Planning(管理約 12 億美元資產的數位家族辦公室)"
+    },
+    "founders": "Jordan Gonen, Jacob Schein",
+    "sources": [
+      { "title": "New Wealth Manager Compound Comes Out of Stealth With $37M | WealthManagement.com", "url": "https://www.wealthmanagement.com/technology/new-wealth-manager-compound-comes-out-stealth-mode-37m-funding" },
+      { "title": "Two startups merge into $1.2 billion digital family office | InvestmentNews", "url": "https://www.investmentnews.com/industry-news/news/two-startups-merge-into-1-2-billion-digital-family-office-243242" }
+    ]
+  },
+  {
+    "slug": "99minutos",
+    "summary": {
+      "en": "A Latin American e-commerce logistics network offering fast, same-day, and carbon-free delivery across major cities.",
+      "zh": "一個拉丁美洲電商物流網路,在主要城市提供快速、當日與零碳排配送服務。"
+    },
+    "highlight": {
+      "en": "99minutos is building last-mile logistics infrastructure for e-commerce across Mexico, Chile, Colombia, and Peru, handling 15M+ packages a year. It raised an $82M Series C led by Oak HC/FT in 2022, bringing total funding to roughly $129M.",
+      "zh": "99minutos 正在墨西哥、智利、哥倫比亞與祕魯為電商打造最後一哩物流基礎設施,每年處理逾 1,500 萬個包裹。該公司於 2022 年募得由 Oak HC/FT 領投的 8,200 萬美元 C 輪,累計募資約 1.29 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$129M total (incl. $82M Series C led by Oak HC/FT, 2022)",
+      "zh": "累計募得約 1.29 億美元(含 2022 年由 Oak HC/FT 領投的 8,200 萬美元 C 輪)"
+    },
+    "founders": "Alexis Patjane, David Berdichevsky, Pablo Casorzo",
+    "sources": [
+      { "title": "99minutos Raises $82 Million Series C Round Led by OAK HC/FT | PR Newswire", "url": "https://www.prnewswire.com/news-releases/99minutos-raises-82-million-series-c-round-led-by-oak-hcft-301493845.html" },
+      { "title": "99minutos clocks in fresh capital for logistics infrastructure in Latin America | TechCrunch", "url": "https://techcrunch.com/2022/03/02/99minutos-logistics-infrastructure-latin-america/" }
+    ]
+  }
+]

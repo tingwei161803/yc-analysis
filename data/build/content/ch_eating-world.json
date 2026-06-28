@@ -1,0 +1,54 @@
+{
+  "id": "eating-world",
+  "icon": "public",
+  "title": { "en": "Eating the World", "zh": "吞噬世界" },
+  "lede": {
+    "en": "From a 2005 summer experiment writing small checks to many founders, Y Combinator's alumni now span the apps people order dinner on, the rails money moves over, and the software companies run on.",
+    "zh": "從 2005 年夏天那場「對許多創辦人開小額支票」的實驗起步,如今 Y Combinator 的校友橫跨人們點晚餐的 App、金錢流動的金流軌道,以及企業賴以運作的軟體。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "The Aggregate Ledger", "zh": "總體帳本" },
+      "paragraphs": {
+        "en": [
+          "Since Paul Graham, Jessica Livingston, Robert Morris and Trevor Blackwell launched the first batch in 2005, YC has funded more than 5,000 companies, and the headline figures are genuinely large: depending on the source and methodology, the combined valuation of the portfolio is cited somewhere in the range of roughly $600 billion to $800 billion, with on the order of 80 to 100 companies having crossed the $1 billion unicorn threshold and a handful reaching decacorn scale. These numbers should be read with care. They mix public market caps that move daily with private valuations frozen at the last funding round, and they are dominated by a small number of outliers rather than spread evenly across the cohort.",
+          "That concentration is the real story of the ledger. A few public names, led by Airbnb, DoorDash, Coinbase and Instacart, account for the large majority of the realized public-market value, while the most valuable private company in the family, payments firm Stripe, was marked at $91.5 billion in a February 2025 employee tender and higher in subsequent secondary sales. The thousands of other YC startups, most of which never reach a billion dollars, are the base of a power-law distribution in which the top of the curve carries almost all the weight."
+        ],
+        "zh": [
+          "自 Paul Graham、Jessica Livingston、Robert Morris 與 Trevor Blackwell 在 2005 年推出第一個梯次以來,YC 已資助超過 5,000 家公司,而其頭條數字確實龐大:依資料來源與計算方式不同,整體投資組合的合計估值約落在 6,000 億至 8,000 億美元區間,大約有 80 到 100 家公司跨過 10 億美元的獨角獸門檻,少數幾家更達到百億美元級的「十角獸」規模。但這些數字需謹慎解讀。它們把每天變動的公開市場市值,與凍結在上一輪募資的私募估值混在一起,而且是由極少數的異數主導,並非平均分布於整個梯次。",
+          "這種集中度才是帳本真正的故事。少數幾家上市公司——以 Airbnb、DoorDash、Coinbase 與 Instacart 為首——就佔了已實現公開市場價值的絕大多數;而這個大家族中最有價值的私人公司、金流業者 Stripe,在 2025 年 2 月的員工股權回購中被定價為 915 億美元,後續的次級市場交易更高。其餘數千家從未跨過 10 億美元的 YC 新創,則構成了這條冪律分布的底層——曲線頂端幾乎承載了所有的重量。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The IPO Class of 2020-2024", "zh": "2020 至 2024 的上市班底" },
+      "paragraphs": {
+        "en": [
+          "The portfolio's public face was forged in a compressed window. On the same day, December 9, 2020, both Airbnb and DoorDash debuted, each closing far above its offer price in the pandemic-era boom. Coinbase followed with a direct listing on Nasdaq in April 2021, foregoing a traditional raise. After a long IPO drought, Instacart went public in September 2023 near a $10 billion valuation, well below its 2021 private peak, and Reddit priced at $34 a share in March 2024 for roughly a $6.4 billion valuation, in the first major social-media listing since Pinterest in 2019. Earlier, Dropbox had been one of 2018's largest tech IPOs.",
+          "What this run demonstrates is less a single triumph than a cycle. The 2020-2021 cohort priced into euphoria; the 2023-2024 cohort priced into a colder, higher-rate market that demanded a path to profit, and several of these stocks traded well below their listing-day highs in the years after. Taken together they show that YC's model can carry companies all the way to the public markets across very different macro regimes, while also exposing how much of the celebrated valuation is mark-to-market and therefore reversible."
+        ],
+        "zh": [
+          "投資組合的公開面貌,是在一段被壓縮的時間窗內鍛造出來的。2020 年 12 月 9 日同一天,Airbnb 與 DoorDash 雙雙掛牌,在疫情時代的熱潮中皆以遠高於發行價收盤。Coinbase 緊接著在 2021 年 4 月以直接上市方式登陸 Nasdaq,放棄了傳統的募資。歷經漫長的 IPO 乾旱後,Instacart 於 2023 年 9 月以接近 100 億美元的估值上市,遠低於其 2021 年的私募高點;Reddit 則在 2024 年 3 月以每股 34 美元、約 64 億美元估值定價,成為自 2019 年 Pinterest 以來首宗大型社群媒體掛牌。更早之前,Dropbox 曾是 2018 年最大型的科技 IPO 之一。",
+          "這一連串掛牌展現的,與其說是單一的勝利,不如說是一個週期。2020 至 2021 年的班底是在亢奮中定價;2023 至 2024 年的班底則是在更冷、利率更高、要求獲利路徑的市場中定價,而其中數檔股票在上市後數年都遠低於掛牌當日的高點。合在一起看,它們說明 YC 的模式能在截然不同的總體環境下,把公司一路送上公開市場;但也暴露出那些被歌頌的估值,有多大比例其實是「按市價計價」、因而可以逆轉的。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Three Verticals, Reshaped", "zh": "三條賽道,被重塑" },
+      "paragraphs": {
+        "en": [
+          "Across consumer, fintech and B2B software, YC alumni did not merely participate in markets; in places they reset the defaults. In consumer, Airbnb normalized staying in a stranger's home and DoorDash helped make on-demand delivery an everyday utility, while Reddit and Instacart anchored online community and grocery logistics respectively. In fintech, Coinbase became the most visible regulated on-ramp to crypto, and Stripe turned accepting a payment into a few lines of code, lowering the barrier for a generation of internet businesses to charge money at all.",
+          "The B2B layer is less famous but arguably stickier, with companies such as Gusto in payroll, Brex and Ramp in corporate spend, and a long tail of developer and infrastructure tools embedding themselves into how other startups are built. This is the recursive effect that gives the chapter its title: YC-funded infrastructure increasingly powers the next YC batch, so the accelerator's footprint compounds not only through valuation but through the tooling and distribution that later founders inherit by default. The honest caveat is that influence is not the same as dominance; in every one of these categories YC companies compete with, and are often outsized by, incumbents and non-YC challengers."
+        ],
+        "zh": [
+          "在消費、金融科技與 B2B 軟體這三條賽道上,YC 校友不只是市場的參與者;在某些地方,他們重設了「預設值」。在消費端,Airbnb 讓「住進陌生人家裡」變得稀鬆平常,DoorDash 協助把隨選外送變成日常的基礎設施,而 Reddit 與 Instacart 則分別錨定了線上社群與生鮮物流。在金融科技端,Coinbase 成為通往加密貨幣最顯眼的受監管入口,Stripe 則把「收一筆款」變成幾行程式碼,大幅降低了整整一個世代的網路事業「能夠收錢」這件事的門檻。",
+          "B2B 這一層較不出名,卻可說黏著度更高:Gusto 之於薪資、Brex 與 Ramp 之於企業支出,加上一長串嵌入「其他新創如何被打造」流程裡的開發者與基礎設施工具。這正是賦予本章標題的遞迴效應:YC 資助的基礎設施,愈來愈多地驅動著下一個 YC 梯次,於是這家加速器的足跡,不只透過估值複利成長,也透過後來創辦人預設繼承的工具與通路而擴大。但誠實的但書是:影響力不等於支配力——在上述每一個類別中,YC 公司都與既有巨頭及非 YC 挑戰者競爭,且往往被後者的規模壓過。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's aggregate impact is real but lopsided: a handful of names like Airbnb, Coinbase and Stripe carry almost the entire dollar figure, so the headline portfolio valuation is less a portrait of broad success than a measure of how heavy the tail-end winners have grown. The more durable legacy may be structural rather than financial, in that YC has now funded enough of the payments, payroll, and developer plumbing that subsequent founders build on its alumni by default, quietly turning the accelerator into part of the infrastructure it keeps trying to disrupt.",
+    "zh": "YC 的總體影響力真實存在,但極不對稱:Airbnb、Coinbase、Stripe 等少數名字幾乎扛起了全部的金額,因此頭條的投資組合估值,與其說是廣泛成功的肖像,不如說是衡量那少數尾端贏家長得有多沉重的指標。更持久的遺產或許是結構性而非財務性的——YC 如今已資助了夠多的金流、薪資與開發者底層管線,以致後來的創辦人預設就站在它的校友之上;這悄然地把這家加速器,變成它一再試圖顛覆的那套基礎設施的一部分。"
+  }
+}

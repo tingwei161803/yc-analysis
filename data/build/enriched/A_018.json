@@ -1,0 +1,251 @@
+[
+  {
+    "slug": "whatnot",
+    "summary": {
+      "en": "Whatnot is the largest U.S. livestream shopping marketplace, connecting buyers and sellers across collectibles, fashion, and more.",
+      "zh": "Whatnot 是美國最大的直播購物平台，串連買家與賣家交易收藏品、時尚、球鞋等各類商品。"
+    },
+    "highlight": {
+      "en": "One of YC's breakout consumer winners, Whatnot pioneered livestream commerce in the West. Its October 2025 Series F raised $225M at an $11.5B valuation, with over $6B in annual GMV.",
+      "zh": "Whatnot 是 YC 最成功的消費型新創之一，在西方市場開創直播電商。2025 年 10 月 F 輪募資 2.25 億美元、估值達 115 億美元，年度商品交易總額超過 60 億美元。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Last valued ~$11.5B (Series F, Oct 2025); raised >$700M total, $6B+ annual GMV",
+      "zh": "最新估值約 115 億美元（2025 年 10 月 F 輪）；累計募資超過 7 億美元，年度 GMV 逾 60 億美元"
+    },
+    "founders": "Grant LaFontaine, Logan Head, Aidan Powell",
+    "sources": [
+      { "title": "Whatnot Lands $225M Series F, More Than Doubles Valuation to $11.5B", "url": "https://news.crunchbase.com/venture/ecommerce-unicorn-whatnot-raises-seriesf/" },
+      { "title": "Livestream shopping app Whatnot raises $265M, valuation nearly $5B", "url": "https://techcrunch.com/2025/01/08/livestream-shopping-app-whatnot-raises-265m-pinning-valuation-at-nearly-5b/" }
+    ]
+  },
+  {
+    "slug": "h1",
+    "summary": {
+      "en": "H1 runs a global data platform mapping every healthcare professional and organization to connect the healthcare ecosystem.",
+      "zh": "H1 經營全球醫療數據平台，盤點每一位醫療專業人員與機構，串連整個醫療生態系。"
+    },
+    "highlight": {
+      "en": "H1 became a leading healthcare data play among YC startups, used by pharma and medical device firms. It raised a $100M Series C led by Altimeter in 2021 and a fresh $40M round led by CVS Health Ventures.",
+      "zh": "H1 成為 YC 新創中領先的醫療數據公司，獲製藥與醫療器材廠商採用。2021 年由 Altimeter 領投 1 億美元 C 輪，近期再獲 CVS Health Ventures 領投 4,000 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Valued ~$773M; raised $123M Series C plus a later $40M round led by CVS Health Ventures",
+      "zh": "估值約 7.73 億美元；C 輪募資 1.23 億美元，後續再由 CVS Health Ventures 領投 4,000 萬美元"
+    },
+    "founders": "Ariel Katz, Ian Sax",
+    "sources": [
+      { "title": "H1 Inc. - Wikipedia", "url": "https://en.wikipedia.org/wiki/H1_Inc." },
+      { "title": "H1 secures $40M from CVS", "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/" }
+    ]
+  },
+  {
+    "slug": "orange-health-labs",
+    "summary": {
+      "en": "Orange Health Labs is India's fastest at-home diagnostics service, offering 30-minute sample collection and 6-hour reports.",
+      "zh": "Orange Health Labs 是印度最快的到府檢驗服務，提供 30 分鐘採檢與 6 小時內出報告。"
+    },
+    "highlight": {
+      "en": "Backed by Accel, General Catalyst, YC, and Amazon, Orange Health became one of India's most loved diagnostics brands. It has raised ~$47M, including a Series B extension in December 2024 with Amazon's Sambhav fund.",
+      "zh": "獲 Accel、General Catalyst、YC 與 Amazon 支持，Orange Health 成為印度最受喜愛的檢驗品牌之一。累計募資約 4,700 萬美元，含 2024 年 12 月 Amazon Sambhav 基金參與的 B 輪延伸。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$47M across 4 rounds; Series A led by YC and Accel, Series B led by Bertelsmann India",
+      "zh": "累計募資約 4,700 萬美元、共 4 輪；A 輪由 YC 與 Accel 領投，B 輪由 Bertelsmann India 領投"
+    },
+    "founders": "Dhruv Gupta, Tarun Bhambra",
+    "sources": [
+      { "title": "Orange Health - Tracxn Company Profile", "url": "https://tracxn.com/d/companies/orangehealth/__BcE1BKW0NStmkOvD1f7TevAB7v2xBBADMMKq_oEcfCc" },
+      { "title": "Orange Health Labs raises $30Mn Series C", "url": "https://www.indianretailer.com/news/funding-alert-healthcare-startup-orange-health-labs-raises-30-mn-series-c-round" }
+    ]
+  },
+  {
+    "slug": "zip",
+    "summary": {
+      "en": "Zip is an intake-to-procure platform giving any employee a single front door to request, approve, and manage B2B spend.",
+      "zh": "Zip 是一套 intake-to-procure 採購平台，讓所有員工透過單一入口發起、核准並管理企業 B2B 支出。"
+    },
+    "highlight": {
+      "en": "Zip became a YC unicorn by reinventing enterprise procurement orchestration. Its October 2024 $190M Series D, the largest procurement-tech round in over two decades, valued it at over $2.2B.",
+      "zh": "Zip 重塑企業採購流程協作，成為 YC 獨角獸。2024 年 10 月 1.9 億美元 D 輪是逾二十年來採購科技最大募資，估值超過 22 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$2.2B (Series D, Oct 2024); raised $358M+ total",
+      "zh": "最新估值約 22 億美元（2024 年 10 月 D 輪）；累計募資超過 3.58 億美元"
+    },
+    "founders": "Rujul Zaparde, Lu Cheng",
+    "sources": [
+      { "title": "Procurement Startup Zip Valued at $2.2 Billion After $190M Round", "url": "https://www.pymnts.com/news/investment-tracker/2024/zip-valued-2-billion-dollars-after-funding-round/" },
+      { "title": "Zip raises $190 million in Series D funding", "url": "https://ziphq.com/blog/series-d" }
+    ]
+  },
+  {
+    "slug": "marketforce",
+    "summary": {
+      "en": "MarketForce built a super-app for African neighbourhood merchants to source inventory, accept payments, and resell digital services.",
+      "zh": "MarketForce 打造非洲社區商家的超級 App，協助補貨、收款並轉售數位服務。"
+    },
+    "highlight": {
+      "en": "A high-profile African YC startup, MarketForce raised $42.5M in 2022 at a $100M+ valuation and served 270,000 merchants at peak. After a funding crunch, it wound down its RejaReja B2B e-commerce arm in 2024 and pivoted to social commerce.",
+      "zh": "MarketForce 曾是備受矚目的非洲 YC 新創，2022 年以逾 1 億美元估值募得 4,250 萬美元，高峰服務 27 萬商家。資金緊縮後於 2024 年關閉 RejaReja B2B 電商業務，轉向社交電商。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $42.5M (incl. $40M Series A debt-equity in 2022 at $100M+ valuation); B2B arm wound down 2024",
+      "zh": "累計募資 4,250 萬美元（含 2022 年以逾 1 億美元估值的 4,000 萬美元 A 輪股債）；B2B 業務於 2024 年結束"
+    },
+    "founders": "Tesh Mbaabu, Mesongo Sibuti",
+    "sources": [
+      { "title": "MarketForce winds down its B2B e-commerce arm", "url": "https://techcrunch.com/2024/04/19/marketforce-winds-down-its-b2b-e-commerce-arm/" },
+      { "title": "MarketForce exits three markets, launches social commerce spinout", "url": "https://techcrunch.com/2023/10/28/marketforce-exits-three-markets/" }
+    ]
+  },
+  {
+    "slug": "momence",
+    "summary": {
+      "en": "Momence is scheduling, payments, and marketing software for fitness studios, gyms, and wellness businesses.",
+      "zh": "Momence 是為健身工作室、健身房與健康事業打造的排程、支付與行銷軟體。"
+    },
+    "highlight": {
+      "en": "Momence grew to serve over 4,500 fitness and wellness businesses after launching in 2020. It was acquired by Clubessential Holdings (backed by Battery Ventures and Silver Lake) in January 2025.",
+      "zh": "Momence 自 2020 年創立後成長至服務逾 4,500 家健身與健康事業，並於 2025 年 1 月被 Clubessential Holdings（由 Battery Ventures 與 Silver Lake 支持）收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Clubessential Holdings in January 2025 (deal terms undisclosed)",
+      "zh": "2025 年 1 月被 Clubessential Holdings 收購（交易金額未揭露）"
+    },
+    "founders": "Vojta Drmota",
+    "sources": [
+      { "title": "Clubessential Holdings Acquires SaaS Platform Momence", "url": "https://athletechnews.com/clubessential-holdings-acquires-saas-platform-momence/" },
+      { "title": "Momence Joins Clubessential Holdings", "url": "https://xplor.com/press/momence-joins-clubessential-holdings/" }
+    ]
+  },
+  {
+    "slug": "skio",
+    "summary": {
+      "en": "Skio is subscription management software for direct-to-consumer brands selling on Shopify.",
+      "zh": "Skio 是為 Shopify 上 DTC 品牌打造的訂閱管理軟體。"
+    },
+    "highlight": {
+      "en": "Skio became a capital-efficient YC success in Shopify's ecosystem, reaching $32M ARR on just $8M raised. It delivered a $105M cash exit for its team and investors.",
+      "zh": "Skio 在 Shopify 生態系中以高資本效率成為 YC 成功案例，僅募資 800 萬美元便達成 3,200 萬美元 ARR，最終以 1.05 億美元現金被收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "$105M cash exit; $32M ARR on just $8M raised",
+      "zh": "1.05 億美元現金退場；僅募資 800 萬美元即達 3,200 萬美元 ARR"
+    },
+    "founders": "Kennan Davison",
+    "sources": []
+  },
+  {
+    "slug": "safebase",
+    "summary": {
+      "en": "SafeBase is a Trust Center platform that lets security teams automate and scale customer security reviews and questionnaires.",
+      "zh": "SafeBase 是 Trust Center 平台，讓資安團隊自動化並規模化處理客戶資安審查與問卷。"
+    },
+    "highlight": {
+      "en": "Used by over 1,000 organizations including OpenAI, Twilio, and CrowdStrike, SafeBase became the category leader in trust centers. Compliance automation firm Drata acquired it for $250M in February 2025.",
+      "zh": "SafeBase 獲逾 1,000 家組織採用，包括 OpenAI、Twilio 與 CrowdStrike，成為信任中心領域龍頭。合規自動化公司 Drata 於 2025 年 2 月以 2.5 億美元收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Drata for $250M in February 2025",
+      "zh": "2025 年 2 月被 Drata 以 2.5 億美元收購"
+    },
+    "founders": "Al Yang, Adar Arnon",
+    "sources": [
+      { "title": "Security compliance firm Drata acquires SafeBase for $250M", "url": "https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/" },
+      { "title": "Drata to Acquire SafeBase in $250 Million Deal", "url": "https://www.securityweek.com/drata-to-acquire-safebase-in-250-million-deal/" }
+    ]
+  },
+  {
+    "slug": "pardes-bio",
+    "summary": {
+      "en": "Pardes Biosciences developed oral antiviral drugs to treat and prevent viral infections such as COVID-19.",
+      "zh": "Pardes Biosciences 開發口服抗病毒藥物，用於治療與預防 COVID-19 等病毒感染。"
+    },
+    "highlight": {
+      "en": "Pardes went public via a SPAC merger in December 2021, raising ~$274M. After its lead COVID antiviral failed a Phase 2 trial in 2023, it was acquired by MediPacific for $2.13 per share plus contingent value rights.",
+      "zh": "Pardes 於 2021 年 12 月透過 SPAC 合併上市，募得約 2.74 億美元。其主力新冠抗病毒藥於 2023 年二期試驗失敗後，被 MediPacific 以每股 2.13 美元加或有價值權利收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "IPO via SPAC (Dec 2021) raised ~$274M; acquired by MediPacific in 2023 at $2.13/share plus CVRs",
+      "zh": "2021 年 12 月經 SPAC 上市募得約 2.74 億美元；2023 年被 MediPacific 以每股 2.13 美元加或有價值權利收購"
+    },
+    "founders": "Uri Lopatin, Lee Arnold, Brian Kearney",
+    "sources": [
+      { "title": "Pardes Biosciences to be Acquired by MediPacific", "url": "https://ir.pardesbio.com/news-releases/news-release-details/pardes-biosciences-enters-agreement-be-acquired-medipacific-inc" },
+      { "title": "Pardes Biosciences To Be Acquired By MediPacific", "url": "https://www.nasdaq.com/articles/pardes-biosciences-to-be-acquired-by-medipacific-pardes-up-in-pre-market" }
+    ]
+  },
+  {
+    "slug": "redcliffe-lifetech",
+    "summary": {
+      "en": "Redcliffe Labs is one of India's largest omni-channel diagnostics platforms, offering 3,600+ tests via at-home collection.",
+      "zh": "Redcliffe Labs 是印度最大的全通路檢驗平台之一，透過到府採檢提供逾 3,600 項檢測。"
+    },
+    "highlight": {
+      "en": "Redcliffe scaled to 200+ cities and 70+ labs with same-day reports, processing 250K+ test parameters daily. It raised a $42M Series C led by LeapFrog Investments in September 2024, lifting total funding to ~$116M.",
+      "zh": "Redcliffe 擴展至逾 200 個城市、70 多座實驗室並當日出報告，每日處理逾 25 萬項檢測參數。2024 年 9 月由 LeapFrog Investments 領投 4,200 萬美元 C 輪，累計募資約 1.16 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$116M total; $42M Series C led by LeapFrog Investments (Sept 2024)",
+      "zh": "累計募資約 1.16 億美元；2024 年 9 月由 LeapFrog Investments 領投 4,200 萬美元 C 輪"
+    },
+    "founders": "Dheeraj Jain, Aditya Kandoi, Ashish Dubey",
+    "sources": [
+      { "title": "Redcliffe Lifetech raises $61mn; LeapFrog Investments leads", "url": "https://www.business-standard.com/article/companies/redcliffe-lifetech-raises-61-mn-for-expansion-leapfrog-investments-leads-122050600356_1.html" },
+      { "title": "Redcliffe Labs - Tracxn Company Profile", "url": "https://tracxn.com/d/companies/redcliffe-labs/__dVMEYu9d3MjzD3vV3gFAmesD0X3g7iVkaAeQSoQVm6Y" }
+    ]
+  },
+  {
+    "slug": "zepto",
+    "summary": {
+      "en": "Zepto delivers groceries in 10 minutes across India via a network of optimized micro-warehouses known as dark stores.",
+      "zh": "Zepto 透過一張優化的微型倉庫（dark store）網絡，在印度提供 10 分鐘雜貨外送。"
+    },
+    "highlight": {
+      "en": "Founded by teenage Stanford dropouts, Zepto became one of YC and India's most prominent quick-commerce unicorns. Its October 2025 $450M round led by CalPERS valued it at $7B, with ~1.7M daily orders.",
+      "zh": "由史丹佛輟學的少年創辦，Zepto 成為 YC 與印度最受矚目的即時電商獨角獸之一。2025 年 10 月由 CalPERS 領投 4.5 億美元，估值達 70 億美元，每日訂單約 170 萬筆。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$7B (Oct 2025); raised ~$2.9B+ total, ~1.7M daily orders",
+      "zh": "最新估值約 70 億美元（2025 年 10 月）；累計募資逾 29 億美元，每日訂單約 170 萬筆"
+    },
+    "founders": "Aadit Palicha, Kaivalya Vohra",
+    "sources": [
+      { "title": "Zepto raises $450M at $7B valuation", "url": "https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/" },
+      { "title": "Zepto (company) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Zepto_(company)" }
+    ]
+  },
+  {
+    "slug": "tractian",
+    "summary": {
+      "en": "Tractian builds integrated hardware, software, and AI to monitor industrial assets and eliminate manufacturing downtime.",
+      "zh": "Tractian 結合硬體、軟體與 AI 監控工業設備，消除製造業停機時間。"
+    },
+    "highlight": {
+      "en": "Tractian emerged as a leading industrial AI player from YC, bringing predictive maintenance to asset-heavy factories. It raised a $120M Series C led by Sapphire Ventures in December 2024, taking total funding past $183M.",
+      "zh": "Tractian 是 YC 出身的工業 AI 領導者，為重資產工廠帶來預測性維護。2024 年 12 月由 Sapphire Ventures 領投 1.2 億美元 C 輪，累計募資逾 1.83 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$183M total; $120M Series C led by Sapphire Ventures (Dec 2024)",
+      "zh": "累計募資約 1.83 億美元；2024 年 12 月由 Sapphire Ventures 領投 1.2 億美元 C 輪"
+    },
+    "founders": "Igor Marinelli, Gabriel Lameirinhas",
+    "sources": [
+      { "title": "Manufacturing AI Startup Tractian Locks Up $120M Series C", "url": "https://news.crunchbase.com/venture/sapphire-led-raise-manufacturing-ai-startup-tractian/" },
+      { "title": "Tractian Raises $120M to Eliminate Industrial Downtime Worldwide", "url": "https://tractian.com/en/blog/tractian-raises-series-c-to-eliminate-industrial-downtime-worldwide" }
+    ]
+  }
+]

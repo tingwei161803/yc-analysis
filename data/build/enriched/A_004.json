@@ -1,0 +1,243 @@
+[
+  {
+    "slug": "authy",
+    "summary": {
+      "en": "Two-factor authentication (2FA) platform that lets developers add strong, app-based security to websites and apps.",
+      "zh": "雙因素驗證（2FA）平台，讓開發者為網站與應用程式加入強固的 App 式安全防護。"
+    },
+    "highlight": {
+      "en": "An early YC security success, Authy was acquired by Twilio in February 2015 and became its core authentication product. It had protected users across 6,000+ sites including Coinbase and Cloudflare before the deal.",
+      "zh": "Authy 是 YC 早期的資安成功案例，2015 年 2 月被 Twilio 收購並成為其核心驗證產品。收購前已為 Coinbase、Cloudflare 等逾 6,000 個網站的使用者提供保護。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$3.8M before being acquired by Twilio (2015, terms undisclosed)",
+      "zh": "被 Twilio 收購前募得約 380 萬美元（2015 年，金額未公開）"
+    },
+    "founders": "Daniel Palacio",
+    "sources": [
+      { "title": "Twilio Acquires Two-Factor Authentication Service Authy | TechCrunch", "url": "https://techcrunch.com/2015/02/24/twilio-acquires-two-factor-authentication-service-authy/" }
+    ]
+  },
+  {
+    "slug": "yourmechanic",
+    "summary": {
+      "en": "On-demand mobile car repair service that sends certified mechanics to a customer's home or office.",
+      "zh": "隨叫隨到的行動汽車維修服務，派遣合格技師到顧客的住家或辦公室提供服務。"
+    },
+    "highlight": {
+      "en": "A YC W12 marketplace that pioneered transparent, doorstep auto repair across major US metros. Backed by a16z, SoftBank and Ashton Kutcher, it raised over $32M before being acquired by Seattle-based Wrench in June 2022.",
+      "zh": "YC W12 的媒合平台，率先在美國各大都會推動透明、到府的汽車維修服務。獲 a16z、軟銀與 Ashton Kutcher 投資，募得逾 3,200 萬美元，2022 年 6 月被西雅圖的 Wrench 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$32M; acquired by Wrench in 2022 (terms undisclosed)",
+      "zh": "募得逾 3,200 萬美元；2022 年被 Wrench 收購（金額未公開）"
+    },
+    "founders": "Art Agrawal, Dongyi Liao",
+    "sources": [
+      { "title": "YourMechanic - Wikipedia", "url": "https://en.wikipedia.org/wiki/YourMechanic" }
+    ]
+  },
+  {
+    "slug": "42floors",
+    "summary": {
+      "en": "Online search engine for commercial office space, with rich photography and listing data across US markets.",
+      "zh": "商用辦公空間的線上搜尋引擎，提供涵蓋美國各市場的高品質照片與物件資料。"
+    },
+    "highlight": {
+      "en": "A YC W12 proptech that built a free, transparent database covering over 10 billion square feet of office space. It was acquired by flexible-office company Knotel in July 2018, with its 70-person team joining to power Knotel's real estate data platform.",
+      "zh": "YC W12 的房地產科技公司，打造涵蓋逾 100 億平方英尺辦公空間的免費透明資料庫。2018 年 7 月被彈性辦公空間公司 Knotel 收購，70 人團隊加入並支撐其房地產資料平台。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Knotel in 2018 (terms undisclosed)",
+      "zh": "2018 年被 Knotel 收購（金額未公開）"
+    },
+    "founders": "Jason Freedman",
+    "sources": [
+      { "title": "Knotel acquires 42Floors | TechCrunch", "url": "https://techcrunch.com/2018/07/18/knotel-acquires-42floors-in-order-to-build-the-blockchain-of-property/" }
+    ]
+  },
+  {
+    "slug": "icracked",
+    "summary": {
+      "en": "On-demand smartphone repair network whose certified technicians fix devices at the customer's chosen location.",
+      "zh": "隨叫隨到的智慧型手機維修網路，由合格技師在顧客指定地點修復裝置。"
+    },
+    "highlight": {
+      "en": "Started in a UC Santa Barbara dorm, iCracked grew into a multinational repair network spanning several countries with thousands of technicians. It was acquired in 2019 by SquareTrade, the Allstate-owned protection-plan company.",
+      "zh": "起步於加州大學聖塔芭芭拉分校的宿舍，iCracked 發展為橫跨多國、擁有數千名技師的跨國維修網路。2019 年被 Allstate 旗下的保固服務公司 SquareTrade 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by SquareTrade (Allstate) in 2019 (terms undisclosed)",
+      "zh": "2019 年被 SquareTrade（Allstate 旗下）收購（金額未公開）"
+    },
+    "founders": "AJ Forsythe, Anthony Martin",
+    "sources": [
+      { "title": "Allstate Buys iCracked, an On-Demand Repair Service - Carrier Management", "url": "https://www.carriermanagement.com/news/2019/02/12/189675.htm" }
+    ]
+  },
+  {
+    "slug": "sendhub",
+    "summary": {
+      "en": "Business SMS platform for sending and managing text, voice and voicemail communications at scale.",
+      "zh": "企業簡訊平台，可大規模傳送與管理文字、語音及語音信箱通訊。"
+    },
+    "highlight": {
+      "en": "A YC W12 startup that began as a messaging tool for a teacher and grew into a business SMS service backed by Menlo Ventures and 500 Startups. It was acquired by IT services firm Cameo Global in June 2016.",
+      "zh": "YC W12 的新創公司，最初是給老師用的訊息工具，後發展為由 Menlo Ventures 與 500 Startups 投資的企業簡訊服務。2016 年 6 月被 IT 服務公司 Cameo Global 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised a $3M Series A; acquired by Cameo Global in 2016",
+      "zh": "募得 300 萬美元 A 輪；2016 年被 Cameo Global 收購"
+    },
+    "founders": "Ash Rust, Garrett Johnson, Ryan Pfeffer, John Fallone",
+    "sources": [
+      { "title": "SendHub has been acquired by Cameo Global", "url": "https://www.sendhub.com/sendhub-has-been-acquired-by-cameo-global/" }
+    ]
+  },
+  {
+    "slug": "tilt",
+    "summary": {
+      "en": "Mobile group-payments and crowdfunding service that let communities pool, collect and fundraise money online.",
+      "zh": "行動群組付款與群眾募資服務，讓社群在線上集資、收款與募款。"
+    },
+    "highlight": {
+      "en": "Originally Crowdtilt out of YC W12, Tilt raised from a16z and hit a reported $400M valuation in 2015. It was acquired by Airbnb for around $12M in an acqui-hire in 2017, with its team joining Airbnb's group-travel efforts.",
+      "zh": "前身為 YC W12 的 Crowdtilt，Tilt 獲 a16z 投資，2015 年估值一度傳達 4 億美元。2017 年以約 1,200 萬美元被 Airbnb 以人才收購方式買下，團隊加入 Airbnb 的群組旅遊業務。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Peaked at a reported ~$400M valuation in 2015; acquired by Airbnb for ~$12M in 2017",
+      "zh": "2015 年估值一度傳達約 4 億美元；2017 年以約 1,200 萬美元被 Airbnb 收購"
+    },
+    "founders": "James Beshara, Khaled Hussein",
+    "sources": [
+      { "title": "Airbnb finalizes deal to buy social payments startup Tilt | TechCrunch", "url": "https://techcrunch.com/2017/02/22/airbnb-finalizes-deal-to-buy-social-payments-startups-tilt/" }
+    ]
+  },
+  {
+    "slug": "fond",
+    "summary": {
+      "en": "SaaS platform consolidating employee rewards, recognition and corporate perks for HR teams.",
+      "zh": "整合員工獎勵、表揚與企業福利的 SaaS 平台，服務 HR 團隊。"
+    },
+    "highlight": {
+      "en": "A YC W12 HR-tech company serving enterprises such as Salesforce and Weight Watchers. It was acquired in March 2023 by UK-based employee-engagement firm Reward Gateway to strengthen its rewards-and-recognition offering.",
+      "zh": "YC W12 的 HR 科技公司，服務 Salesforce、Weight Watchers 等企業客戶。2023 年 3 月被英國員工敬業度公司 Reward Gateway 收購，以強化其獎勵與表揚產品線。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Reward Gateway in 2023 (terms undisclosed)",
+      "zh": "2023 年被 Reward Gateway 收購（金額未公開）"
+    },
+    "founders": "Taro Fukuyama, Atsuhiro Takahashi, Sunny Tsang",
+    "sources": [
+      { "title": "Reward Gateway Acquires Fond to Strengthen R&R Offering", "url": "https://www.rewardgateway.com/press-releases/reward-gateway-acquires-fond" }
+    ]
+  },
+  {
+    "slug": "coinbase",
+    "summary": {
+      "en": "Crypto exchange and wallet where consumers and merchants buy, sell, store and transact in digital currencies.",
+      "zh": "加密貨幣交易所與錢包，讓消費者與商家買賣、儲存並交易數位貨幣。"
+    },
+    "highlight": {
+      "en": "The most valuable YC fintech, Coinbase went public via a direct Nasdaq listing in April 2021 (peaking near $85B). As of June 2026 it trades on Nasdaq (COIN) with a market cap of roughly $40B.",
+      "zh": "Coinbase 是 YC 最具價值的金融科技公司，2021 年 4 月以直接上市方式登上 Nasdaq（峰值近 850 億美元）。截至 2026 年 6 月在 Nasdaq（COIN）交易，市值約 400 億美元。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Public on Nasdaq (COIN); market cap ~$40B as of June 2026",
+      "zh": "於 Nasdaq 上市（COIN）；2026 年 6 月市值約 400 億美元"
+    },
+    "founders": "Brian Armstrong, Fred Ehrsam",
+    "sources": [
+      { "title": "Coinbase Global (COIN) Market Cap - CompaniesMarketCap", "url": "https://companiesmarketcap.com/coinbase/marketcap/" },
+      { "title": "Brian Armstrong Net Worth 2026 - Datawallet", "url": "https://www.datawallet.com/crypto/brian-armstrong-net-worth" }
+    ]
+  },
+  {
+    "slug": "instacart",
+    "summary": {
+      "en": "North America's leading online grocery marketplace, offering same-day delivery and pickup from 1,400+ retail banners.",
+      "zh": "北美領先的線上雜貨市集，提供當日外送與自取，合作零售品牌逾 1,400 個。"
+    },
+    "highlight": {
+      "en": "A defining YC S12 consumer marketplace, Instacart IPO'd on Nasdaq (CART) in September 2023 at a ~$9.9B valuation. Co-founder Apoorva Mehta exited the board with a fortune reported around $1.1-1.3B.",
+      "zh": "Instacart 是 YC S12 的標誌性消費市集，2023 年 9 月以約 99 億美元估值在 Nasdaq（CART）上市。共同創辦人 Apoorva Mehta 卸任董事時，身價傳達約 11 至 13 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd on Nasdaq (CART) in 2023 at ~$9.9B valuation; peaked at ~$39B private valuation in 2021",
+      "zh": "2023 年於 Nasdaq（CART）上市，估值約 99 億美元；2021 年私募估值峰值約 390 億美元"
+    },
+    "founders": "Apoorva Mehta, Brandon Leonardo, Maxwell Mullen",
+    "sources": [
+      { "title": "Instacart's founder is worth $1.3 billion after IPO - Fortune", "url": "https://fortune.com/2023/09/19/instacart-cofounder-net-worth/" }
+    ]
+  },
+  {
+    "slug": "benchling",
+    "summary": {
+      "en": "Cloud R&D platform giving life-sciences teams modern software to design experiments and manage biotech data.",
+      "zh": "雲端研發平台，為生命科學團隊提供現代化軟體，用於設計實驗與管理生技資料。"
+    },
+    "highlight": {
+      "en": "A standout YC S12 enterprise SaaS, Benchling powers R&D for biotech leaders like Regeneron, Eli Lilly and Sanofi. It was valued at $6.1B in a 2021 round led by Franklin Templeton and Altimeter.",
+      "zh": "Benchling 是 YC S12 出色的企業 SaaS，為 Regeneron、Eli Lilly、Sanofi 等生技龍頭提供研發動能。2021 年由 Franklin Templeton 與 Altimeter 領投的募資中估值達 61 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$6.1B (2021); raised >$400M total",
+      "zh": "最近估值約 61 億美元（2021 年）；累計募得逾 4 億美元"
+    },
+    "founders": "Sajith Wickramasekara, Ashu Singhal",
+    "sources": [
+      { "title": "Benchling Valued at $6.1 Billion in New Funding - Lead Edge", "url": "https://leadedge.com/news/biotech-platform-benchling-valued-at-61-billion-in-new-funding/" }
+    ]
+  },
+  {
+    "slug": "zapier",
+    "summary": {
+      "en": "No-code workflow automation platform connecting thousands of work apps so users can automate repetitive tasks.",
+      "zh": "無程式碼工作流程自動化平台，串接數千個工作應用程式，讓使用者自動化重複性任務。"
+    },
+    "highlight": {
+      "en": "A famously capital-efficient YC S12 company, Zapier scaled to a $5B valuation (2021) on just ~$1.4M of venture funding, reaching profitability within three years. It now connects more than 6,000 apps.",
+      "zh": "Zapier 是 YC S12 以資本效率聞名的公司，僅靠約 140 萬美元創投資金便在 2021 年達到 50 億美元估值，並在三年內轉虧為盈。如今串接逾 6,000 個應用程式。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued at ~$5B in 2021; raised only ~$1.4M of venture capital",
+      "zh": "2021 年估值約 50 億美元；僅募得約 140 萬美元創投資金"
+    },
+    "founders": "Wade Foster, Bryan Helmig, Mike Knoop",
+    "sources": [
+      { "title": "Wade Foster built Zapier to $5 billion in valuation with just $1.4 million in VC - Founders Network", "url": "https://foundersnetwork.com/wade-foster-built-zapier-to-5-billion-in-valuation-with-just-1-4-million-in-vc/" }
+    ]
+  },
+  {
+    "slug": "lever",
+    "summary": {
+      "en": "Talent acquisition suite combining an applicant tracking system (ATS) with candidate CRM and analytics.",
+      "zh": "人才招募套件，整合應徵者追蹤系統（ATS）、人才 CRM 與分析工具。"
+    },
+    "highlight": {
+      "en": "A leading YC S12 recruiting-software brand used by Netflix, Spotify and over 5,000 companies, Lever raised $123M before exiting. It was acquired by talent-acquisition group Employ in August 2022.",
+      "zh": "Lever 是 YC S12 領先的招募軟體品牌，客戶包含 Netflix、Spotify 等逾 5,000 家公司，退場前募得 1.23 億美元。2022 年 8 月被人才招募集團 Employ 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $123M; acquired by Employ in 2022 (terms undisclosed)",
+      "zh": "募得 1.23 億美元；2022 年被 Employ 收購（金額未公開）"
+    },
+    "founders": "Sarah Nahm, Nate Smith, Randal Truong, Brian Noguchi",
+    "sources": [
+      { "title": "Lever Joins Employ to Accelerate Growth - Business Wire", "url": "https://www.businesswire.com/news/home/20220805005292/en/Lever-Joins-Employ-to-Accelerate-Growth" }
+    ]
+  }
+]

@@ -1,0 +1,254 @@
+[
+{
+  "slug": "chaldal",
+  "summary": {
+    "en": "Online grocery delivery platform serving Dhaka and other cities across Bangladesh.",
+    "zh": "服務孟加拉達卡及其他城市的線上生鮮雜貨外送平台。"
+  },
+  "highlight": {
+    "en": "Chaldal is one of YC's earliest bets on emerging-market grocery delivery, pioneering the 'dark store' warehouse model in Bangladesh. Its 2021 Series C raised $10M (led by Wise co-founder Taavet Hinrikus) at a ~$100M post-money valuation, making it the country's largest grocery e-commerce player.",
+    "zh": "Chaldal 是 YC 對新興市場生鮮外送的最早期投資之一,在孟加拉率先採用「暗倉」倉儲模式。2021 年 C 輪募得 1,000 萬美元(由 Wise 共同創辦人 Taavet Hinrikus 領投),投後估值約 1 億美元,使其成為該國最大的生鮮電商。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Raised ~$30M total; Series C (2021) ~$100M valuation",
+    "zh": "累計募資約 3,000 萬美元;2021 年 C 輪估值約 1 億美元"
+  },
+  "founders": "Waseem Alim, Zia Ashraf, Tejas Viswanath",
+  "sources": [
+    { "title": "Chaldal raises $10M Series C — TechCrunch", "url": "https://techcrunch.com/2021/09/14/chaldal-bangladeshs-largest-grocery-delivery-platform-raises-10m-series-c/" },
+    { "title": "Chaldal.com — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chaldal.com" }
+  ]
+},
+{
+  "slug": "human-interest",
+  "summary": {
+    "en": "Affordable 401(k) retirement plan provider for small and medium-sized businesses.",
+    "zh": "為中小型企業提供平價 401(k) 退休金計畫的供應商。"
+  },
+  "highlight": {
+    "en": "Founded at YC as Captain401, Human Interest set out to bring retirement benefits to the roughly half of US workers without them. It crossed into unicorn territory and was valued at $1.33B in a $267M July 2024 round led by Marshall Wace and Baillie Gifford, having raised over $500M to date.",
+    "zh": "Human Interest 在 YC 時名為 Captain401,目標是為約半數沒有退休福利的美國勞工提供退休金。公司已躋身獨角獸之列,在 2024 年 7 月由 Marshall Wace 與 Baillie Gifford 領投的 2.67 億美元募資中估值達 13.3 億美元,累計募資超過 5 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Valued $1.33B (2024); raised >$500M total",
+    "zh": "2024 年估值 13.3 億美元;累計募資超過 5 億美元"
+  },
+  "founders": "Roger Lee, Paul Sawaya",
+  "sources": [
+    { "title": "Human Interest notches $1.33B valuation — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2024-07-17/retirement-tech-startup-human-interest-notches-1-33-billion-valuation" },
+    { "title": "Human Interest valued at $1.33B in $267M round — SiliconANGLE", "url": "https://siliconangle.com/2024/07/17/retirement-startup-human-interest-valued-1-33b-new-267m-financing-round/" }
+  ]
+},
+{
+  "slug": "ironclad",
+  "summary": {
+    "en": "AI-powered contract lifecycle management platform for legal and business teams.",
+    "zh": "為法務與業務團隊打造的 AI 驅動合約生命週期管理平台。"
+  },
+  "highlight": {
+    "en": "Ironclad became a flagship YC legal-tech unicorn, used by L'Oréal, Heineken and Salesforce to manage contracts. Its January 2022 Series E added $150M (led by Franklin Templeton) at a $3.2B valuation, pushing total funding past $330M.",
+    "zh": "Ironclad 已成為 YC 法律科技領域的代表性獨角獸,獲萊雅、海尼根與 Salesforce 等公司用於合約管理。2022 年 1 月 E 輪由 Franklin Templeton 領投募得 1.5 億美元,估值達 32 億美元,累計募資超過 3.3 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Valued $3.2B (2022); raised ~$333M total",
+    "zh": "2022 年估值 32 億美元;累計募資約 3.33 億美元"
+  },
+  "founders": "Jason Boehmig, Cai GoGwilt",
+  "sources": [
+    { "title": "Ironclad raises $150M at $3.2B valuation — SiliconANGLE", "url": "https://siliconangle.com/2022/01/18/digital-contract-management-startup-ironclad-raises-150m-3-2b-valuation/" },
+    { "title": "Ironclad (software) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ironclad_(software)" }
+  ]
+},
+{
+  "slug": "xendit",
+  "summary": {
+    "en": "Payment infrastructure platform powering businesses across Southeast Asia.",
+    "zh": "為東南亞企業提供金流基礎設施的支付平台。"
+  },
+  "highlight": {
+    "en": "Often called 'the Stripe of Southeast Asia,' Xendit became Indonesia's prominent fintech unicorn after a $150M Tiger Global-led round in 2021. A $300M Series D in May 2022 (Coatue and Insight Partners) lifted total funding above $500M.",
+    "zh": "Xendit 常被稱為「東南亞的 Stripe」,在 2021 年由 Tiger Global 領投的 1.5 億美元募資後成為印尼指標性金融科技獨角獸。2022 年 5 月由 Coatue 與 Insight Partners 領投的 3 億美元 D 輪,使累計募資超過 5 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Unicorn (2021); raised >$500M total",
+    "zh": "2021 年成為獨角獸;累計募資超過 5 億美元"
+  },
+  "founders": "Moses Lo, Tessa Wijaya, Bo Chen, Juan Gonzalez",
+  "sources": [
+    { "title": "Xendit banks $300M Series D — TechCrunch", "url": "https://techcrunch.com/2022/05/19/southeast-asian-payments-infrastructure-unicorn-xendit-banks-300m/" },
+    { "title": "Xendit becomes a unicorn with $150M led by Tiger Global — TechCrunch", "url": "https://techcrunch.com/2021/09/14/indonesian-fintech-xendit-is-now-a-unicorn-with-150m-in-fresh-funding-led-by-tiger-global/" }
+  ]
+},
+{
+  "slug": "go1",
+  "summary": {
+    "en": "Enterprise learning platform aggregating training content from top providers worldwide.",
+    "zh": "匯集全球頂尖供應商培訓內容的企業學習平台。"
+  },
+  "highlight": {
+    "en": "Go1 grew from a Brisbane garage into Australia's edtech unicorn and the world's largest curated learning content ecosystem. A 2021 Series D of ~$200M (backers include SoftBank, Microsoft's M12 and Salesforce Ventures) valued it above $1B, with total funding around $430M.",
+    "zh": "Go1 從布里斯本的車庫起家,成長為澳洲的教育科技獨角獸,並打造出全球最大的精選學習內容生態系。2021 年約 2 億美元的 D 輪(投資者包括軟銀、微軟 M12 與 Salesforce Ventures)使其估值突破 10 億美元,累計募資約 4.3 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Valued >$1B (2021); raised ~$430M total",
+    "zh": "2021 年估值超過 10 億美元;累計募資約 4.3 億美元"
+  },
+  "founders": "Vu Tran, Andrew Barnes, Chris Eigeland, Chris Hood",
+  "sources": [
+    { "title": "Go1 raises $200M at $1B+ valuation — TechCrunch", "url": "https://techcrunch.com/2021/07/19/go1-raises-200m-at-a-1b-valuation-to-boost-its-curated-enterprise-learning-platform/" },
+    { "title": "Logan edtech Go1 hits unicorn status — Business News Australia", "url": "https://www.businessnewsaustralia.com/articles/logan-edtech-go1-hits-unicorn-status-as-valuation-exceeds--1-billion.html" }
+  ]
+},
+{
+  "slug": "instawork",
+  "summary": {
+    "en": "On-demand staffing app connecting hourly hospitality workers with local businesses.",
+    "zh": "媒合時薪制餐旅工作者與在地企業的隨需人力派遣 App。"
+  },
+  "highlight": {
+    "en": "Instawork is a YC-backed marketplace creating flexible economic opportunity for hourly workers and the businesses that need them fast. It has raised about $160M (backers include Benchmark, Spark Capital and GV), reaching a roughly $560M valuation in its 2023 Series D.",
+    "zh": "Instawork 是 YC 投資的媒合平台,為時薪工作者及急需人力的企業創造靈活的經濟機會。公司累計募資約 1.6 億美元(投資者包括 Benchmark、Spark Capital 與 GV),2023 年 D 輪估值約 5.6 億美元。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Valued ~$560M (2023); raised ~$160M total",
+    "zh": "2023 年估值約 5.6 億美元;累計募資約 1.6 億美元"
+  },
+  "founders": "Sumir Meghani, Saureen Shah",
+  "sources": [
+    { "title": "Instawork — Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/instawork" },
+    { "title": "The Lead List: High-Growth Companies — Crunchbase Blog", "url": "https://about.crunchbase.com/blog/the-lead-list-june-2023" }
+  ]
+},
+{
+  "slug": "oolu",
+  "summary": {
+    "en": "Off-grid solar energy provider bringing affordable power to rural West Africa.",
+    "zh": "為西非鄉村地區提供平價電力的離網太陽能供應商。"
+  },
+  "highlight": {
+    "en": "Oolu was an early YC clean-energy bet, financing pay-as-you-go solar systems for off-grid households across Senegal and West Africa. It was acquired by Ignite Power in 2024, folding into a larger pan-African distributed-energy operator.",
+    "zh": "Oolu 是 YC 早期的潔淨能源投資,為塞內加爾及西非的離網家庭提供隨用隨付的太陽能系統融資。公司於 2024 年被 Ignite Power 收購,併入更大的泛非分散式能源營運商。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by Ignite Power (2024)",
+    "zh": "2024 年被 Ignite Power 收購"
+  },
+  "founders": "Nilmi Senaratna, Dan Rosa",
+  "sources": [
+    { "title": "Oolu is bringing solar energy to West Africa — TechCrunch", "url": "https://techcrunch.com/2015/07/31/oolu-is-bringing-solar-energy-to-west-africas-off-grid-population/" },
+    { "title": "Oolu — Y Combinator", "url": "https://www.ycombinator.com/companies/oolu" }
+  ]
+},
+{
+  "slug": "scentbird",
+  "summary": {
+    "en": "Monthly subscription service offering designer fragrance samples for $14.95.",
+    "zh": "每月 14.95 美元提供設計師品牌香水試用的訂閱服務。"
+  },
+  "highlight": {
+    "en": "Scentbird helped popularize the fragrance-subscription model, letting members sample from 500+ designer scents each month. Its $18.6M Series A (led by Goodwater Capital) was one of the largest for a female-led DTC brand, and total funding reached around $29M.",
+    "zh": "Scentbird 協助普及香水訂閱模式,讓會員每月可從 500 多款設計師品牌香水中試用。由 Goodwater Capital 領投的 1,860 萬美元 A 輪,是女性主導的 DTC 品牌中規模最大的募資之一,累計募資約 2,900 萬美元。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Raised ~$29M total; Series A $18.6M",
+    "zh": "累計募資約 2,900 萬美元;A 輪 1,860 萬美元"
+  },
+  "founders": "Mariya Nurislamova, Sergei Gusev, Andrei Rebrov, Rachel ten Brink",
+  "sources": [
+    { "title": "Scentbird raises $18.6M Series A — BeautyMatter", "url": "https://beautymatter.com/articles/scentbird-secures-186-million-series-a-funding" },
+    { "title": "Scentbird — Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/scentbird" }
+  ]
+},
+{
+  "slug": "openinvest",
+  "summary": {
+    "en": "Values-based investing platform personalizing portfolios at scale for wealth managers.",
+    "zh": "為財富管理機構大規模客製化價值導向投資組合的平台。"
+  },
+  "highlight": {
+    "en": "OpenInvest was one of the first VC-backed Public Benefit Corporations, pioneering ESG and values-based portfolio personalization. It was acquired by J.P. Morgan in 2021 to power values-based offerings across the bank's Private Bank and Wealth Management.",
+    "zh": "OpenInvest 是最早一批由創投支持的公益公司之一,率先推出 ESG 與價值導向的投資組合客製化。公司於 2021 年被摩根大通收購,用於強化其私人銀行與財富管理的價值導向產品。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by J.P. Morgan (2021)",
+    "zh": "2021 年被摩根大通收購"
+  },
+  "founders": "Conor Murray, Joshua Levin, Phillip Wei",
+  "sources": [
+    { "title": "J.P. Morgan agrees to acquire OpenInvest — JPMorganChase", "url": "https://www.jpmorganchase.com/newsroom/press-releases/2021/jpmorgan-agrees-to-acquire-openinvest" },
+    { "title": "JPMorgan is buying an ESG investing platform — CNBC", "url": "https://www.cnbc.com/2021/06/29/jpmorgan-is-buying-an-esg-investing-platform-in-banks-third-fintech-acquisition-of-the-past-year.html" }
+  ]
+},
+{
+  "slug": "bluecrew",
+  "summary": {
+    "en": "Tech-driven W-2 staffing platform filling blue-collar and hourly jobs on demand.",
+    "zh": "以技術驅動、以正式雇員模式隨需填補藍領與時薪職缺的人力派遣平台。"
+  },
+  "highlight": {
+    "en": "Bluecrew set out to modernize traditional temp agencies with a data-driven platform that screens, matches and dispatches W-2 hourly workers. After being acquired by IAC, it was sold to staffing leader EmployBridge in 2022, joining a combined company with over $4B in annual revenue.",
+    "zh": "Bluecrew 以資料驅動的平台篩選、媒合並調度正式雇員制的時薪工作者,意圖革新傳統臨時人力仲介。公司先被 IAC 收購,2022 年再被人力派遣龍頭 EmployBridge 併購,加入年營收逾 40 億美元的合併公司。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by EmployBridge (2022, from IAC)",
+    "zh": "2022 年由 IAC 出售給 EmployBridge"
+  },
+  "founders": "Cooper Newby, Gino Rooney, Michele Casertano",
+  "sources": [
+    { "title": "EmployBridge completes acquisition of Bluecrew", "url": "https://www.employbridge.com/about-us/news-and-press/2022/employbridge-completes-acquisition-of-bluecrew" },
+    { "title": "EmployBridge to Acquire IAC's Bluecrew — GlobeNewswire", "url": "https://www.globenewswire.com/news-release/2022/10/04/2528321/0/en/EmployBridge-to-Acquire-IAC-s-Bluecrew.html" }
+  ]
+},
+{
+  "slug": "triplebyte",
+  "summary": {
+    "en": "Technical hiring platform matching engineers to jobs via adaptive skills assessments.",
+    "zh": "透過自適應技能評測為工程師媒合工作的技術招募平台。"
+  },
+  "highlight": {
+    "en": "Co-founded by former YC partner Harj Taggar, Triplebyte built blind, skills-based technical assessments that placed engineers at firms like Apple, Stripe and Dropbox. Its adaptive assessment technology and team were acquired by interview platform Karat in 2023.",
+    "zh": "由前 YC 合夥人 Harj Taggar 共同創辦,Triplebyte 打造盲測、以技能為本的技術評測,協助工程師進入 Apple、Stripe 與 Dropbox 等公司。其自適應評測技術與團隊於 2023 年被面試平台 Karat 收購。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by Karat (2023); raised ~$48M",
+    "zh": "2023 年被 Karat 收購;累計募資約 4,800 萬美元"
+  },
+  "founders": "Harj Taggar, Ammon Bartram, Guillaume Luccisano",
+  "sources": [
+    { "title": "Karat snaps up Triplebyte — TechCrunch", "url": "https://techcrunch.com/2023/03/16/technical-recruitment-platform-karat-snaps-up-triplebyte-to-add-ai-based-quizzes-for-engineers/" },
+    { "title": "Karat acquires assessment technology from Triplebyte — Karat", "url": "https://karat.com/karat-acquires-leading-adaptive-assessment-technology-from-triplebyte/" }
+  ]
+},
+{
+  "slug": "second-measure",
+  "summary": {
+    "en": "Consumer transaction-data analytics platform tracking company and spending trends.",
+    "zh": "追蹤企業表現與消費趨勢的消費交易資料分析平台。"
+  },
+  "highlight": {
+    "en": "Second Measure analyzed billions of anonymized purchases to give investors near-real-time reads on company performance and consumer behavior. It was acquired by Bloomberg in December 2020 and now powers the Bloomberg Second Measure consumer-spend offering.",
+    "zh": "Second Measure 分析數十億筆匿名消費交易,為投資人提供近乎即時的企業表現與消費行為洞察。公司於 2020 年 12 月被 Bloomberg 收購,如今驅動 Bloomberg Second Measure 消費支出產品。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by Bloomberg (2020)",
+    "zh": "2020 年被 Bloomberg 收購"
+  },
+  "founders": "Michael Babineau, Lillian Chou",
+  "sources": [
+    { "title": "Bloomberg Completes Acquisition of Second Measure — Bloomberg", "url": "https://www.bloomberg.com/company/press/second-measure/" },
+    { "title": "Bloomberg Completes Acquisition of Second Measure — PR Newswire", "url": "https://www.prnewswire.com/news-releases/bloomberg-completes-acquisition-of-second-measure-301198398.html" }
+  ]
+}
+]

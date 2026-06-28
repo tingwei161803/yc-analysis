@@ -1,0 +1,54 @@
+{
+  "id": "standard-deal",
+  "icon": "payments",
+  "title": { "en": "The Standard Deal", "zh": "標準投資條件" },
+  "lede": {
+    "en": "Y Combinator turned the most fraught moment in a startup's life—setting a price on itself—into a non-negotiable, take-it-or-leave-it contract that every founder gets and no founder bargains over.",
+    "zh": "Y Combinator 把新創生命中最棘手的一刻——為自己定價——變成了一份不容議價、要不要隨你的標準合約:每位創辦人拿到的條件都一樣,沒人需要討價還價。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "From $20k for 6% to a Moving Target", "zh": "從 6% 換 2 萬美元到不斷變動的數字" },
+      "paragraphs": {
+        "en": [
+          "When Paul Graham and his co-founders ran the first batch in the summer of 2005, the offer was deliberately small: roughly $20,000 in exchange for about 6% of each company. The sum was barely enough to live on—the point was the program, the network, and the demo day, not the cash. As YC's reputation compounded, the number climbed in fits and starts. In 2011 Yuri Milner and SV Angel began layering an additional uncapped note on top of YC's own check; by 2014 the headline figure was $120,000 for 7%; in 2018 it rose to $150,000 for 7%; and in June 2020, citing the pandemic and a desire to fund thousands more companies, YC trimmed it back to $125,000 for 7%.",
+          "Two things mattered more than any single dollar figure. First, the equity stake settled at 7% and stayed there—a round, memorable number that became the anchor for every conversation about YC dilution. Second, in late 2013 YC introduced the SAFE (Simple Agreement for Future Equity), and in 2018 the post-money SAFE, replacing convertible notes with a short, standardised instrument. The SAFE collapsed a fundraise down to one or two negotiable variables, and because YC published it as an open template, it spread far beyond YC itself to become the default early-stage instrument across Silicon Valley."
+        ],
+        "zh": [
+          "2005 年夏天,Paul Graham 與共同創辦人辦第一屆梯隊時,開出的條件刻意很小:大約 2 萬美元換每家公司約 6% 的股權。這筆錢勉強夠生活——重點在於課程、人脈與 Demo Day,而不是那筆現金。隨著 YC 聲譽複利累積,金額斷斷續續往上爬。2011 年 Yuri Milner 與 SV Angel 開始在 YC 自己的支票之上,再疊一張無上限的可轉換票據;2014 年檯面上的數字是 7% 換 12 萬美元;2018 年漲到 7% 換 15 萬美元;而 2020 年 6 月,YC 以疫情與想資助更多公司為由,把金額調回 7% 換 12.5 萬美元。",
+          "比起任何單一金額,有兩件事更關鍵。其一,股權比例最終定在 7% 並維持不變——這個好記的整數,成了所有關於 YC 稀釋討論的定錨。其二,YC 在 2013 年底推出 SAFE(未來股權簡單協議),並於 2018 年推出 post-money SAFE,用一份簡短、標準化的文件取代可轉換票據。SAFE 把一輪募資壓縮成一兩個可協商的變數,而由於 YC 把它當成開放範本公布,它的影響力遠遠超出 YC 本身,成為整個矽谷早期階段的預設工具。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The $500k Split: Certainty Plus Optionality", "zh": "50 萬美元的拆分:確定性加上選擇權" },
+      "paragraphs": {
+        "en": [
+          "On January 11, 2022, YC announced the deal that defines the program today: a total of $500,000, split across two separate SAFEs. The first is the familiar one—$125,000 for 7% on a post-money SAFE, a fixed and known price. The second is the new piece—$375,000 on an uncapped SAFE carrying a Most Favored Nation (MFN) provision. 'Uncapped' means no valuation is attached up front; the MFN clause means that this SAFE automatically adopts the terms of the lowest-cap (or otherwise most favorable) SAFE the company issues between the start of the batch and its next priced equity round.",
+          "The design splits the investment into two psychologically distinct halves. The $125k half is certainty: a founder knows exactly what they gave up. The $375k half is deferred and founder-friendly by construction—YC explicitly takes whatever terms the founder later negotiates with other investors, rather than dictating a price during the batch when the company is at its most fragile and information-poor. In effect, YC hands over real operating capital while postponing the valuation question to the moment the founder has the most leverage to answer it well."
+        ],
+        "zh": [
+          "2022 年 1 月 11 日,YC 公布了定義今日課程的條件:總額 50 萬美元,拆成兩張獨立的 SAFE。第一張是大家熟悉的那張——post-money SAFE,12.5 萬美元換 7%,價格固定且已知。第二張是新增的部分——37.5 萬美元的無上限 SAFE,附帶最惠國待遇(MFN)條款。「無上限」代表事先不綁定估值;MFN 條款則意味著,在梯隊開始到下一輪定價股權融資之間,公司若發行任何上限更低(或條件更優惠)的 SAFE,這張 SAFE 會自動採用那組條件。",
+          "這個設計把投資拆成心理上截然不同的兩半。12.5 萬那一半是確定性:創辦人清楚知道自己交出了什麼。37.5 萬那一半在結構上是延後且對創辦人友善的——YC 明確地接受創辦人日後與其他投資人談成的條件,而不是在公司最脆弱、資訊最匱乏的梯隊期間替它定價。實際上,YC 交出真正的營運資金,同時把估值問題推遲到創辦人最有籌碼把它談好的那一刻。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Why One Deal for Everyone", "zh": "為什麼所有人都用同一份條件" },
+      "paragraphs": {
+        "en": [
+          "A single, public, identical deal does quiet but heavy work. It removes negotiation entirely: a 19-year-old first-time founder and a serial entrepreneur with two exits sign the same paper, so neither time nor leverage is spent haggling, and no one wonders afterward whether they were taken advantage of. It also makes YC's economics legible at scale—when you fund hundreds of companies per batch, you cannot bespoke-negotiate each one, so standardisation is what allows the model to grow toward thousands of startups a year without proportionally more deal-making.",
+          "The trade-offs are real and worth naming. A flat 7% is comparatively expensive for an already-traction-rich startup that could have raised on better terms elsewhere, and the uncapped MFN SAFE, while founder-friendly in tone, still adds $375k of future dilution whose size depends on a round the founder hasn't run yet. Critics note that 'standard' also means 'non-negotiable,' and that uncapped MFN paper can complicate cap tables and downstream rounds. But for the median founder—uncertain, under-leveraged, and prone to underpricing themselves—a known, uniform deal is precisely the kind of guardrail that converts a high-stakes negotiation into a signature."
+        ],
+        "zh": [
+          "一份公開、人人相同的條件,默默做著沉重的工作。它徹底移除了協商:一位 19 歲的首次創辦人,和一位有過兩次成功退出的連續創業者,簽的是同一份文件,於是沒人把時間與籌碼花在討價還價上,事後也沒人懷疑自己是不是被佔了便宜。它也讓 YC 的經濟模型在規模上變得清晰——當你每一梯隊資助數百家公司,你不可能逐家客製談判,因此標準化正是這個模式能朝每年數千家新創成長、卻不需按比例增加談判工作的關鍵。",
+          "代價是真實的,值得明說。對一家已有強勁成長、本可在別處談到更好條件的新創而言,固定的 7% 相對昂貴;而那張無上限 MFN SAFE 雖然語氣對創辦人友善,仍多加了 37.5 萬美元的未來稀釋,其規模取決於一輪創辦人尚未跑過的募資。批評者指出,「標準」也意味著「不可議價」,而無上限 MFN 文件可能讓股權結構與後續輪次變得複雜。但對中位數的創辦人——不確定、籌碼不足、又容易低估自己——一份已知、統一的條件,正是把一場高風險談判化為一個簽名的那種護欄。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "The genius of the standard deal is not its generosity but its uniformity: by refusing to negotiate, YC removes the single transaction where inexperienced founders most reliably lose. The $375k uncapped MFN SAFE is the tell—YC would rather inherit the founder's future negotiating leverage than impose a price today, betting that a founder who priced themselves at the right moment is worth more than a few extra points captured at the wrong one.",
+    "zh": "標準投資條件的高明之處不在於慷慨,而在於統一:藉由拒絕議價,YC 移除了那筆最容易讓沒經驗的創辦人吃虧的交易。37.5 萬美元的無上限 MFN SAFE 正是線索所在——YC 寧可繼承創辦人未來的談判籌碼,也不願在今天強加一個價格,賭的是一位在對的時機替自己定價的創辦人,價值高過在錯的時機多搶下的那幾個百分點。"
+  }
+}

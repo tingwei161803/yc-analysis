@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "fivestars",
+    "summary": {
+      "en": "Customer loyalty and payments platform that turns transactions into repeat business for small local merchants.",
+      "zh": "顧客忠誠度與支付平台,把每筆交易轉化為在地小商家的回頭客生意。"
+    },
+    "highlight": {
+      "en": "A YC W11 alum that grew to 60M+ users across 14,000+ small businesses, driving over $3B in local sales a year. SumUp acquired Fivestars in October 2021 for $317M in cash and stock.",
+      "zh": "YC W11 校友,成長至涵蓋逾 14,000 家小商家、超過 6,000 萬名用戶,每年帶動超過 30 億美元的在地銷售額。SumUp 於 2021 年 10 月以 3.17 億美元的現金加股票收購 Fivestars。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by SumUp for $317M (2021); last valued ~$285M before the deal",
+      "zh": "2021 年被 SumUp 以 3.17 億美元收購;收購前估值約 2.85 億美元"
+    },
+    "founders": "Victor Ho, Matt Doka",
+    "sources": [
+      { "title": "European point of sale provider SumUp acquires Fivestars for $317M | TechCrunch", "url": "https://techcrunch.com/2021/10/13/european-point-of-sale-provider-sumup-acquires-customer-loyalty-startup-fivestars-for-317m/" },
+      { "title": "SumUp Completes Acquisition of Fivestars", "url": "https://www.sumup.com/en-us/press/fivestarsacquisition/" }
+    ]
+  },
+  {
+    "slug": "drchrono",
+    "summary": {
+      "en": "Cloud EHR, practice management, and medical billing platform for modern medical practices and their patients.",
+      "zh": "為現代醫療診所及其病患打造的雲端電子病歷、診所管理與醫療帳務平台。"
+    },
+    "highlight": {
+      "en": "An early mobile-first EHR (YC W11) used by thousands of physicians and millions of patients, processing billions in medical billing. EverCommerce acquired DrChrono in November 2021 for roughly $180M, folding it into its EverHealth group.",
+      "zh": "早期主打行動裝置的電子病歷系統(YC W11),服務數千名醫師與數百萬名病患,處理數十億美元的醫療帳務。EverCommerce 於 2021 年 11 月以約 1.8 億美元收購 DrChrono,併入旗下 EverHealth 事業群。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by EverCommerce for ~$180M (2021)",
+      "zh": "2021 年被 EverCommerce 以約 1.8 億美元收購"
+    },
+    "founders": "Michael Nusimow, Daniel Kivatinos",
+    "sources": [
+      { "title": "EverCommerce Completes Acquisition of DrChrono", "url": "https://investors.evercommerce.com/news-releases/news-release-details/evercommerce-completes-acquisition-drchrono-leading-cloud-based" },
+      { "title": "EverCommerce to acquire DrChrono for approximately $180 million | MarketScreener", "url": "https://www.marketscreener.com/quote/stock/EVERCOMMERCE-INC-124268140/news/EverCommerce-Inc-entered-into-a-definitive-agreement-to-acquire-DrChrono-Inc-for-approximately-18-36899086/" }
+    ]
+  },
+  {
+    "slug": "hellosign",
+    "summary": {
+      "en": "eSignature, digital workflow, and electronic fax software for small and mid-market businesses.",
+      "zh": "為中小型企業打造的電子簽名、數位工作流程與電子傳真軟體。"
+    },
+    "highlight": {
+      "en": "Started as HelloFax and became a leading DocuSign challenger trusted by 80,000+ companies. Dropbox acquired HelloSign in early 2019 for $230M to add e-signature to its document workflows.",
+      "zh": "前身為 HelloFax,後成為挑戰 DocuSign 的主要對手,獲逾 8 萬家企業採用。Dropbox 於 2019 年初以 2.3 億美元收購 HelloSign,為其文件工作流程加入電子簽名功能。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Dropbox for $230M (2019)",
+      "zh": "2019 年被 Dropbox 以 2.3 億美元收購"
+    },
+    "founders": "Joseph Walla, Neal O'Mara",
+    "sources": [
+      { "title": "Dropbox snares HelloSign for $230M | TechCrunch", "url": "https://techcrunch.com/2019/01/28/dropbox-snares-hellosign-for-230m-gets-workflow-and-esignature/" },
+      { "title": "Dropbox to Acquire HelloSign | Dropbox", "url": "https://dropbox.gcs-web.com/news-releases/news-release-details/dropbox-acquire-hellosign" }
+    ]
+  },
+  {
+    "slug": "humble-bundle",
+    "summary": {
+      "en": "Pay-what-you-want storefront and subscription for games, ebooks, and software that supports charity.",
+      "zh": "讓你自訂價格購買遊戲、電子書與軟體並支持公益的商店與訂閱平台。"
+    },
+    "highlight": {
+      "en": "A YC W11 distribution platform that pioneered pay-what-you-want bundles and has raised over $250M for charity. IGN Entertainment (Ziff Davis) acquired Humble Bundle in October 2017 for an undisclosed sum.",
+      "zh": "YC W11 的數位內容平台,開創「自訂價格」組合包模式,已為公益募得超過 2.5 億美元。IGN Entertainment(Ziff Davis 旗下)於 2017 年 10 月以未公開金額收購 Humble Bundle。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by IGN Entertainment / Ziff Davis (2017, terms undisclosed)",
+      "zh": "2017 年被 IGN Entertainment / Ziff Davis 收購(金額未公開)"
+    },
+    "founders": "Jeff Rosen, John Graham",
+    "sources": [
+      { "title": "Humble Bundle has been acquired by IGN | Android Police", "url": "https://www.androidpolice.com/2017/10/14/humble-bundle-acquired-gaming-media-company-ign/" },
+      { "title": "Humble Bundle - Wikipedia", "url": "https://en.wikipedia.org/wiki/Humble_Bundle" }
+    ]
+  },
+  {
+    "slug": "comprehend",
+    "summary": {
+      "en": "Clinical intelligence SaaS that unifies and analyzes trial data to speed up and improve clinical trials.",
+      "zh": "臨床智能 SaaS,整合並分析試驗資料,以加速並提升臨床試驗的速度與品質。"
+    },
+    "highlight": {
+      "en": "A YC W11 healthcare startup backed by Sequoia and Lightspeed that built centralized monitoring and data-review tools for clinical operations. Saama Technologies acquired Comprehend Systems in August 2019 to form a combined clinical analytics company.",
+      "zh": "YC W11 醫療新創,獲 Sequoia 與 Lightspeed 投資,為臨床作業打造集中監測與資料審查工具。Saama Technologies 於 2019 年 8 月收購 Comprehend Systems,合併成立臨床分析公司。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Saama Technologies (2019, terms undisclosed); backed by Sequoia and Lightspeed",
+      "zh": "2019 年被 Saama Technologies 收購(金額未公開);獲 Sequoia 與 Lightspeed 投資"
+    },
+    "founders": "Rick Morrison, Jud Gardner",
+    "sources": [
+      { "title": "Saama Technologies Acquires Comprehend Systems", "url": "https://www.clinicalresearchnewsonline.com/news/2019/08/14/saama-technologies-acquires-comprehend-systems" },
+      { "title": "Saama and Comprehend to Form Preeminent Clinical Analytics Platform Company | Business Wire", "url": "https://www.businesswire.com/news/home/20190813005158/en/Saama-and-Comprehend-to-Form-Preeminent-Clinical-Analytics-Platform-Company" }
+    ]
+  },
+  {
+    "slug": "pebble",
+    "summary": {
+      "en": "Maker of the customizable Pebble smartwatch that delivers phone notifications and runs third-party apps.",
+      "zh": "可客製化 Pebble 智慧手錶的製造商,可顯示手機通知並執行第三方應用程式。"
+    },
+    "highlight": {
+      "en": "A YC W11 hardware icon whose 2012 Kickstarter became one of the platform's biggest-ever campaigns and helped define the smartwatch era. Fitbit acquired Pebble's software and IP in December 2016 (reported $35-40M) and wound down the hardware.",
+      "zh": "YC W11 的硬體代表作,其 2012 年 Kickstarter 募資成為該平台史上最大規模之一,並定義了智慧手錶時代。Fitbit 於 2016 年 12 月收購 Pebble 的軟體與智財(據報 3,500 萬至 4,000 萬美元),硬體業務隨之結束。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Software/IP acquired by Fitbit in 2016 (reported $35-40M); raised tens of millions via Kickstarter and VC",
+      "zh": "2016 年軟體與智財被 Fitbit 收購(據報 3,500 萬至 4,000 萬美元);透過 Kickstarter 與創投募得數千萬美元"
+    },
+    "founders": "Eric Migicovsky",
+    "sources": [
+      { "title": "Pebble confirms it's shutting down, devs and software going to Fitbit | TechCrunch", "url": "https://techcrunch.com/2016/12/07/pebble-confirms-its-shutting-down-devs-and-software-going-to-fitbit/" },
+      { "title": "Pebble Shuts Down After Fitbit Buys Software | PYMNTS", "url": "https://www.pymnts.com/news/retail/2016/pebble-shuts-down-after-fitbit-buys-software/" }
+    ]
+  },
+  {
+    "slug": "apportable",
+    "summary": {
+      "en": "Cross-compiler that ported Objective-C iOS apps and games to Android without a separate Java codebase.",
+      "zh": "跨平台編譯器,可將 Objective-C 編寫的 iOS 應用與遊戲移植到 Android,無需另寫 Java 程式碼。"
+    },
+    "highlight": {
+      "en": "A YC W11 developer-tools startup used by top mobile games like Kingdom Rush and Osmos and the SpriteBuilder toolset. Apportable was acqui-hired by Google in 2015 after raising around $7.5M from investors including Google Ventures.",
+      "zh": "YC W11 的開發者工具新創,獲 Kingdom Rush、Osmos 等熱門手遊及 SpriteBuilder 工具套件採用。Apportable 在募得約 750 萬美元(投資者包括 Google Ventures)後,於 2015 年被 Google 以人才收購方式併入。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acqui-hired by Google (2015); raised ~$7.5M (Google Ventures, YC and others)",
+      "zh": "2015 年被 Google 以人才收購;募得約 750 萬美元(Google Ventures、YC 等)"
+    },
+    "founders": "Collin Jackson, Ian Fischer",
+    "sources": [
+      { "title": "Google Secretly Acqui-Hired Mobile App Development Startup Apportable", "url": "https://thelettertwo.com/work/google-secretly-acqui-hired-mobile-app-development-startup-apportable/" },
+      { "title": "Apportable Lands $5M to Help Developers Convert iOS Games to Android | TechCrunch", "url": "https://techcrunch.com/2014/02/05/used-by-zynga-pocket-gems-and-more-apportable-lands-5m-to-help-developers-automatically-convert-ios-games-to-android/" }
+    ]
+  },
+  {
+    "slug": "mailgun",
+    "summary": {
+      "en": "Developer-focused email API for sending, receiving, and tracking transactional and marketing email.",
+      "zh": "以開發者為核心的電子郵件 API,用於發送、接收與追蹤交易型與行銷型郵件。"
+    },
+    "highlight": {
+      "en": "A YC W11 email-delivery platform used by Slack, Lyft, GitHub, and Reddit; acquired by Rackspace in 2012 then spun back out in 2017. Its parent Pathwire was acquired by Sinch in 2021 in a deal valued at roughly $1.9B.",
+      "zh": "YC W11 的電子郵件投遞平台,獲 Slack、Lyft、GitHub、Reddit 採用;2012 年被 Rackspace 收購,2017 年再度獨立。其母公司 Pathwire 於 2021 年被 Sinch 以約 19 億美元的交易收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Rackspace (2012); parent Pathwire acquired by Sinch for ~$1.9B (2021)",
+      "zh": "2012 年被 Rackspace 收購;母公司 Pathwire 於 2021 年被 Sinch 以約 19 億美元收購"
+    },
+    "founders": "Ev Kontsevoy, Taylor Wakefield",
+    "sources": [
+      { "title": "Mailgun - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mailgun" },
+      { "title": "Mailgun Is Being Acquired By Rackspace | Mailgun", "url": "https://www.mailgun.com/blog/company/mailgun-is-being-acquired-by-rackspace/" }
+    ]
+  },
+  {
+    "slug": "gocardless",
+    "summary": {
+      "en": "UK fintech building a global bank-to-bank payment network for recurring and one-off direct debit payments.",
+      "zh": "英國金融科技公司,打造全球銀行對銀行支付網路,處理定期與單次直接扣款付款。"
+    },
+    "highlight": {
+      "en": "A YC S11 fintech serving 75,000+ businesses and processing over $30B a year across 30+ countries. It became a unicorn in 2022 at a $2.1B valuation, and in December 2025 Mollie agreed to acquire GoCardless for €1.05B.",
+      "zh": "YC S11 金融科技公司,服務逾 75,000 家企業,每年於 30 多個國家處理超過 300 億美元的款項。2022 年以 21 億美元估值晉身獨角獸,2025 年 12 月 Mollie 同意以 10.5 億歐元收購 GoCardless。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$2.1B (2022); raised ~$540M total; Mollie acquisition agreed at €1.05B (2025)",
+      "zh": "最近估值約 21 億美元(2022 年);累計募資約 5.4 億美元;2025 年 Mollie 同意以 10.5 億歐元收購"
+    },
+    "founders": "Hiroki Takeuchi, Matt Robinson, Tom Blomfield",
+    "sources": [
+      { "title": "GoCardless - Wikipedia", "url": "https://en.wikipedia.org/wiki/GoCardless" },
+      { "title": "GoCardless enters unicorn club with $312 million funding and $2.1 billion valuation | Tech.eu", "url": "https://tech.eu/2022/02/08/gocardless-enters-unicorn-club-with-312-million-funding-and-21-billion-valuation/" }
+    ]
+  },
+  {
+    "slug": "segment",
+    "summary": {
+      "en": "Customer data platform with a single API to collect, clean, and route first-party data to other tools.",
+      "zh": "顧客資料平台,透過單一 API 收集、清理並將第一方資料導向各種工具。"
+    },
+    "highlight": {
+      "en": "A YC S11 breakout that defined the customer data platform (CDP) category and reached a $1.5B private valuation. Twilio acquired Segment in late 2020 for $3.2B in an all-stock deal.",
+      "zh": "YC S11 的爆紅公司,定義了顧客資料平台(CDP)類別,私募估值達 15 億美元。Twilio 於 2020 年底以 32 億美元的全股票交易收購 Segment。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Twilio for $3.2B (2020); last private valuation ~$1.5B",
+      "zh": "2020 年被 Twilio 以 32 億美元收購;最後一輪私募估值約 15 億美元"
+    },
+    "founders": "Peter Reinhardt, Calvin French-Owen, Ilya Volodarsky, Ian Storm Taylor",
+    "sources": [
+      { "title": "Twilio wraps $3.2B purchase of Segment | TechCrunch", "url": "https://techcrunch.com/2020/11/02/twilio-wraps-3-2b-purchase-of-segment-after-warp-speed-courtship/" },
+      { "title": "Twilio Completes Acquisition of Segment | Twilio", "url": "https://www.twilio.com/en-us/press/releases/twilio-completes-acquisition-segment-market-leading-customer-data-platform" }
+    ]
+  },
+  {
+    "slug": "firebase",
+    "summary": {
+      "en": "Mobile and web app platform giving developers real-time backend, database, and growth tooling.",
+      "zh": "行動與網頁應用平台,提供開發者即時後端、資料庫與成長工具。"
+    },
+    "highlight": {
+      "en": "A YC S11 startup whose real-time backend became beloved by developers building iOS, Android, and web apps. Google acquired Firebase in October 2014, and it is now Google's flagship app development platform.",
+      "zh": "YC S11 新創,其即時後端深受開發 iOS、Android 與網頁應用的工程師喜愛。Google 於 2014 年 10 月收購 Firebase,如今已成為 Google 的旗艦級應用開發平台。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Google (2014, terms undisclosed); raised ~$13M before the deal",
+      "zh": "2014 年被 Google 收購(金額未公開);收購前募得約 1,300 萬美元"
+    },
+    "founders": "James Tamplin, Andrew Lee",
+    "sources": [
+      { "title": "Google Acquires Firebase To Help Developers Build Better Real-Time Apps | TechCrunch", "url": "https://techcrunch.com/2014/10/21/google-acquires-firebase-to-help-developers-build-better-realtime-apps/" },
+      { "title": "Firebase - Wikipedia", "url": "https://en.wikipedia.org/wiki/Firebase" }
+    ]
+  },
+  {
+    "slug": "codecademy",
+    "summary": {
+      "en": "Leading online learning platform offering interactive courses for in-demand technical and coding skills.",
+      "zh": "領先的線上學習平台,提供互動式課程,教授高需求的技術與程式設計技能。"
+    },
+    "highlight": {
+      "en": "A YC S11 edtech that introduced free interactive coding courses explored by tens of millions of learners worldwide. Skillsoft acquired Codecademy in 2021-2022 for approximately $525M in cash and stock.",
+      "zh": "YC S11 的教育科技公司,推出免費互動式程式課程,全球數千萬名學習者使用。Skillsoft 於 2021 至 2022 年以約 5.25 億美元的現金加股票收購 Codecademy。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Skillsoft for ~$525M (announced 2021, closed 2022)",
+      "zh": "被 Skillsoft 以約 5.25 億美元收購(2021 年宣布,2022 年完成)"
+    },
+    "founders": "Zach Sims, Ryan Bubinski",
+    "sources": [
+      { "title": "Skillsoft buys coding education platform Codecademy for $525M | SiliconANGLE", "url": "https://siliconangle.com/2021/12/22/skillsoft-buys-coding-education-platform-codecademy-525m/" },
+      { "title": "Skillsoft to Acquire Codecademy | Skillsoft", "url": "https://www.skillsoft.com/press-releases/skillsoft-to-acquire-codecademy-a-leading-platform-for-learning-high-demand-technical-skills-creating-a-worldwide-community-of-more-than-85-million-learners" }
+    ]
+  }
+]

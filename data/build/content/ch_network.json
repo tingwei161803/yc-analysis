@@ -1,0 +1,52 @@
+{
+  "id": "network",
+  "icon": "hub",
+  "title": { "en": "The Alumni Network & Bookface", "zh": "校友網絡與 Bookface" },
+  "lede": {
+    "en": "The three months of batch are the advertisement; the decades of alumni network are the product.",
+    "zh": "三個月的 batch 只是廣告,真正的產品是那張延續數十年的校友網絡。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "Bookface: the network made software", "zh": "Bookface:被寫成軟體的人際網絡" },
+      "paragraphs": {
+        "en": [
+          "Bookface is YC's private internal platform — part directory, part forum, part deal desk — and it is the closest thing the firm has to a real product. Much of it was built by Garry Tan during his time as a YC partner from 2011 to 2015, before he returned in 2022 as president and CEO. The mechanics are deliberately mundane: a searchable directory of essentially every person who has ever gone through YC, filterable by batch, city, university, prior employer, and industry; a forum where founders ask and answer questions with an unusually high signal-to-noise ratio because every participant is a peer who has lived the same problem; and a distribution layer for partner-written playbooks and negotiated software discounts. Observers describe it as a blend of LinkedIn, Quora, and Facebook restricted to one community.",
+          "What makes Bookface load-bearing rather than a perk is the trust norm wrapped around it. YC asks founders not to repeat what they read there, and the candor depends on that wall: people post real fundraising numbers, blunt ratings of specific VCs, and admissions of near-death moments they would never publish. A 2021 TechCrunch piece probed exactly this tension — whether 'what happens at YC stays at YC' — because the value of the forum is inseparable from its privacy. The honest reading is that the secrecy is both the moat and the risk: it concentrates extraordinary information inside the network while making that same network harder to audit from outside."
+        ],
+        "zh": [
+          "Bookface 是 YC 的私有內部平台——一半是名錄、一半是論壇、一半是採購窗口——也是這家公司最接近「真正產品」的東西。它的大部分功能由 Garry Tan 於 2011 至 2015 年擔任 YC 合夥人期間打造,他後來在 2022 年以總裁兼執行長身分回鍋。其運作刻意地平凡:一份幾乎涵蓋所有 YC 校友的可搜尋名錄,可依梯次、城市、學校、前東家、產業篩選;一個論壇,因為每個提問與回答者都是經歷過同樣難題的同儕,訊噪比異常地高;以及一個用來發放合夥人撰寫的 playbook 與議定軟體折扣的分發層。觀察者常形容它是限定單一社群版的 LinkedIn、Quora 與 Facebook 綜合體。",
+          "讓 Bookface 成為承重結構、而非只是福利的,是包裹在它外層的信任規範。YC 要求創辦人不要把在上面看到的內容外傳,而那份坦白正建立在這道牆之上:人們會貼出真實的募資數字、對特定創投毫不留情的評價,以及那些他們絕不會公開的瀕死時刻。2021 年 TechCrunch 一篇報導正是探討這種張力——「在 YC 發生的事是否就留在 YC」——因為論壇的價值與它的私密性密不可分。誠實的解讀是:這份保密既是護城河,也是風險。它把非凡的資訊集中在網絡內部,卻也讓這個網絡更難從外部被檢視。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Founder-to-founder help at scale", "zh": "規模化的創辦人互助" },
+      "paragraphs": {
+        "en": [
+          "The directory's leverage comes from sheer accumulated mass. YC has funded more than 5,000 companies whose combined valuation exceeds $800 billion, including over 100 unicorns; by YC's own count the community was approaching 10,000 founders in early 2023, with broader tallies citing 9,000 to 11,000-plus people across 4,000-plus companies. A first-time founder logging in can, within minutes, find an alum who has navigated a SOC 2 audit, a crypto-friendly accountant, or a warm path to a specific partner at a specific fund. Topic-specific channels and WhatsApp groups segment this further — hardware, biotech, fintech, international, and groups for women, Black, and Hispanic and Latino founders — so help arrives from people who share the same niche, not just the same logo.",
+          "It is worth being precise about what this is and is not. The forum does not manufacture good companies; selection does most of that work, and survivorship makes the network look more magical than the median experience. What the network reliably compresses is search time. A question that might take a solo founder weeks of cold outreach — who is a fair lead for a $2M seed, which vendor will not lock you in, how aggressive is this term sheet — collapses to a single post answered by someone with direct experience. The edge is not secret knowledge so much as the removal of friction and the credible signal that the person answering has skin in the same game."
+        ],
+        "zh": [
+          "這份名錄的槓桿來自純粹累積出來的質量。YC 已資助超過 5,000 家公司,合計估值超過 8,000 億美元,其中逾百家為獨角獸;依 YC 自己的統計,這個社群在 2023 年初已接近一萬名創辦人,更寬鬆的計算則指出橫跨四千多家公司的人數約在九千到一萬一千多人之間。一位首次創業者登入後,幾分鐘內就能找到走過 SOC 2 稽核的校友、熟悉加密貨幣的會計師,或通往某基金某位合夥人的溫暖引薦路徑。主題式頻道與 WhatsApp 群組再進一步切分——硬體、生技、金融科技、國際,以及女性、黑人、西語裔與拉丁裔創辦人的群組——讓伸出援手的人不只共享同一個標誌,還共享同一個利基。",
+          "值得精確地說清楚它是什麼、不是什麼。論壇本身並不製造好公司;篩選機制才是主力,而倖存者偏差讓這個網絡顯得比中位數體驗更神奇。網絡真正能穩定壓縮的,是搜尋成本。一個單打獨鬥的創辦人可能要花數週冷啟動聯繫才能回答的問題——誰是 200 萬美元種子輪的合理領投、哪家供應商不會把你綁死、這份條款書有多激進——在這裡濃縮成一則貼文,由一位有直接經驗的人回覆。它的優勢與其說是祕密知識,不如說是摩擦的移除,以及「回答者與你押在同一場賭局」這個可信的訊號。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Work at a Startup and the compounding loop", "zh": "Work at a Startup 與複利迴圈" },
+      "paragraphs": {
+        "en": [
+          "The network also reaches outward through Work at a Startup, YC's job platform, where one application can be sent to roles across more than 1,000 active YC companies — from week-old batch startups offering meaningful equity to late-stage firms with thousands of employees. This turns hiring, normally a founder's most painful bottleneck, into a shared utility: talent that joins one YC company is already inside the orbit, and engineers who leave often start companies that apply back to YC. Founder verification, surfaced through YC's 'Verify Founders' tooling, lets outside parties confirm someone really went through the program, extending the network's trust signal beyond Bookface's walls."
+        ],
+        "zh": [
+          "這個網絡也透過 YC 的徵才平台 Work at a Startup 向外延伸:一份履歷就能投遞到超過一千家在營運的 YC 公司職缺——從成立一週、提供可觀股權的 batch 新創,到擁有數千名員工的後期公司。這把徵才——通常是創辦人最痛的瓶頸——變成一項共享公用設施:加入某家 YC 公司的人才,本就已在這個軌道內;而離開的工程師,往往又創立新公司再申請回 YC。透過 YC 的「Verify Founders」工具呈現的創辦人驗證機制,讓外部對象能確認某人確實走過這個計畫,將網絡的信任訊號延伸到 Bookface 高牆之外。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's durable advantage is not its $125K check or even its brand — capital and prestige are copyable. It is that every successful exit, every new batch, and every job filled adds a node to a private graph that competitors cannot replicate without first spending fifteen years and thousands of companies. The network is the one asset that gets stronger precisely because it is used, which is why YC's real product was never the three-month program — it was the membership that begins when the program ends.",
+    "zh": "YC 真正持久的優勢,不是那張 12.5 萬美元的支票,甚至也不是它的品牌——資本與聲望都可被複製。它的優勢在於:每一次成功退場、每一個新梯次、每一個被填補的職缺,都為一張私有圖譜新增一個節點,而競爭者若不先花上十五年、累積數千家公司,根本無從複製。這個網絡是唯一一項「正因為被使用而變得更強」的資產——也正因如此,YC 真正的產品從來不是那三個月的計畫,而是計畫結束後才開始的那份會員身分。"
+  }
+}

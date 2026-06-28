@@ -1,0 +1,992 @@
+[
+{
+"slug": "captain",
+"summary": {
+"en": "Captain gives AI agents accurate, scalable knowledge search across enterprise files.",
+"zh": "Captain 為 AI 代理提供準確且可擴展的企業檔案知識搜尋。"
+},
+"highlight": {
+"en": "Indexing data from S3, SharePoint, and Google Drive, Captain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines.",
+"zh": "Captain 索引 S3、SharePoint 與 Google Drive 的資料，在 Open-RAG-Benchmark 上以高於標準 RAG 流程逾 20% 的準確率奪冠。"
+}
+},
+{
+"slug": "generalastro",
+"summary": {
+"en": "General Astronautics builds robotics for space research and development.",
+"zh": "General Astronautics 打造用於太空研發的機器人。"
+},
+"highlight": {
+"en": "The company develops robots designed for microgravity research and manufacturing in space.",
+"zh": "該公司開發專為太空微重力環境研究與製造而設計的機器人。"
+}
+},
+{
+"slug": "inviscid-ai",
+"summary": {
+"en": "Inviscid AI runs real-time physics simulations for industrial facilities and data centers.",
+"zh": "Inviscid AI 為工業設施與資料中心提供即時物理模擬。"
+},
+"highlight": {
+"en": "Inviscid pairs IoT sensor data with CFD modeling to build digital twins that optimize airflow and ventilation while cutting HVAC power and cooling costs.",
+"zh": "Inviscid 結合 IoT 感測資料與 CFD 建模打造數位孿生，優化氣流與通風，同時降低 HVAC 電耗與冷卻成本。"
+}
+},
+{
+"slug": "eos-ai",
+"summary": {
+"en": "Eos AI is an autonomous operating system that turns clinic data into actionable insights.",
+"zh": "Eos AI 是一套自主作業系統，將診所資料轉化為可行動的洞察。"
+},
+"highlight": {
+"en": "Eos harmonizes historical data into a centralized index, treating a patient's record as one continuous story to predict outcomes and recover hospital revenue.",
+"zh": "Eos 統整歷史資料並建立集中索引，將病患紀錄視為連續故事以預測病程並協助醫院回收營收。"
+}
+},
+{
+"slug": "payna",
+"summary": {
+"en": "Payna is an AI licensing agent that automates compliance filings for regulated industries.",
+"zh": "Payna 是一個 AI 牌照代理，為受監管產業自動處理合規申報。"
+},
+"highlight": {
+"en": "Starting with lending and money transmission, Payna automates filings, renewals, and regulator follow-ups so teams replace spreadsheets and outside firms.",
+"zh": "Payna 從借貸與資金轉移切入，自動處理申報、續期與監管往返，讓團隊擺脫試算表與外部事務所。"
+}
+},
+{
+"slug": "one-robot",
+"summary": {
+"en": "One Robot builds world-model simulation environments for robot training and evaluation.",
+"zh": "One Robot 打造世界模型模擬環境，用於機器人訓練與評估。"
+},
+"highlight": {
+"en": "Its simulations are realistic to see and interact with, letting teams train robot policies on hard tasks like textile and box folding without robot-time limits.",
+"zh": "其模擬環境兼具視覺與互動真實感，讓團隊在布料與紙箱摺疊等高難度任務上訓練機器人策略，不受實機時間限制。"
+}
+},
+{
+"slug": "syntropy",
+"summary": {
+"en": "Syntropy is an autonomous coding agent that turns feature descriptions into tested implementations.",
+"zh": "Syntropy 是一個自主編碼代理，將功能描述轉化為經測試的實作。"
+},
+"highlight": {
+"en": "Built for complex long-horizon tasks, Syntropy returns a production-ready PR from a description, joins your Slack for updates, and supports custom MCP.",
+"zh": "Syntropy 專為複雜長程任務打造，依描述產出可上線的 PR，加入你的 Slack 回報進度，並支援自訂 MCP 整合。"
+}
+},
+{
+"slug": "kita",
+"summary": {
+"en": "Kita automates credit review and underwriting for lenders in emerging markets.",
+"zh": "Kita 為新興市場的放貸機構自動化信用審查與承保。"
+},
+"highlight": {
+"en": "Kita extracts fraud-checked data and localized risk signals from messy documents and links them to repayment outcomes so its models keep improving.",
+"zh": "Kita 從雜亂文件中萃取經防詐驗證的資料與在地化風險訊號，並連結還款結果使模型持續優化。"
+}
+},
+{
+"slug": "klaus-ai",
+"summary": {
+"en": "Klaus AI delivers fast, secure cloud-hosted OpenClaw instances connected to your chat apps.",
+"zh": "Klaus AI 提供快速、安全的雲端代管 OpenClaw 執行個體，並串接你的聊天應用程式。"
+},
+"highlight": {
+"en": "Klaus sets up a personal cloud OpenClaw instance connected to Slack or other messaging apps in three minutes, with security features and skills pre-installed.",
+"zh": "Klaus 在三分鐘內於雲端建立個人 OpenClaw 執行個體並串接 Slack 等通訊應用，預先安裝安全功能與常用技能。"
+}
+},
+{
+"slug": "ruma-care",
+"summary": {
+"en": "Ruma Care is the operations stack that automates admin work for biologic infusion clinics.",
+"zh": "Ruma Care 是自動化生物製劑輸注診所行政作業的營運平台。"
+},
+"highlight": {
+"en": "Ruma starts with prior authorizations for biologics costing $80-150K+ per patient yearly, drugs insurers deny at a 37% rate, leaving providers unreimbursed.",
+"zh": "Ruma 從每名病患年費逾 8 至 15 萬美元的生物製劑事前授權切入，這類藥物年保險拒賠率達 37%，常使醫療方無法獲得給付。"
+}
+},
+{
+"slug": "lucent",
+"summary": {
+"en": "Lucent is an AI product manager that improves products by analyzing user behavior.",
+"zh": "Lucent 是一個 AI 產品經理，透過分析使用者行為來改善產品。"
+},
+"highlight": {
+"en": "Lucent uses AI to watch and understand user sessions, automatically detecting bugs and UX issues so products improve based on how people actually behave.",
+"zh": "Lucent 運用 AI 觀察並理解使用者工作階段，自動偵測錯誤與體驗問題，使產品依實際行為持續改善。"
+}
+},
+{
+"slug": "runanywhere",
+"summary": {
+"en": "RunAnywhere makes shipping on-device AI at scale a default, enterprise-ready workflow.",
+"zh": "RunAnywhere 讓大規模裝置端 AI 部署成為企業級的預設工作流程。"
+},
+"highlight": {
+"en": "It offers one SDK to run models on-device plus a control plane to manage models, enforce policies, and measure outcomes across thousands of varied devices.",
+"zh": "其提供單一 SDK 在裝置端執行模型，搭配控制平面跨數千台不同裝置管理模型、執行政策並衡量成效。"
+}
+},
+{
+"slug": "sonarly",
+"summary": {
+"en": "Sonarly makes software self-healing by triaging alerts and producing root-cause fixes.",
+"zh": "Sonarly 透過分流警報並產出根因修復，讓軟體能自我修復。"
+},
+"highlight": {
+"en": "Connecting to Sentry, Datadog, and Grafana, Sonarly removes noise then investigates logs, traces, and code to deliver a ready-to-merge fix PR or a better rule.",
+"zh": "Sonarly 串接 Sentry、Datadog 與 Grafana，過濾雜訊後調查日誌、追蹤與程式碼，產出可合併的修復 PR 或更佳警報規則。"
+}
+},
+{
+"slug": "axis-2",
+"summary": {
+"en": "Axis is an AI copilot for trading desks, starting with commodities markets.",
+"zh": "Axis 是交易檯的 AI 副駕駛，首先切入大宗商品市場。"
+},
+"highlight": {
+"en": "Axis lets traders deploy models that monitor commodities markets, an analytical layer spanning derivatives, refinery data, inventory, and geopolitical events.",
+"zh": "Axis 讓交易員部署模型監控大宗商品市場，提供橫跨衍生品、煉油資料、儲存庫存與地緣政治事件的分析層。"
+}
+},
+{
+"slug": "shortkit",
+"summary": {
+"en": "ShortKit is media infrastructure that lets any consumer app launch TikTok-grade experiences.",
+"zh": "ShortKit 是媒體基礎設施，讓任何消費型應用都能推出 TikTok 等級的體驗。"
+},
+"highlight": {
+"en": "Built by a YouTube Shorts infra veteran, ShortKit handles the full short-form media stack, from client SDKs and video infra to recommendation and monetization.",
+"zh": "由 YouTube Shorts 基礎設施資深工程師打造，ShortKit 涵蓋完整短影音堆疊，從用戶端 SDK、影音基礎設施到推薦與變現。"
+}
+},
+{
+"slug": "rev1",
+"summary": {
+"en": "REV1 is Claude Code for mechanical engineers, automating 3D-to-2D drawing creation.",
+"zh": "REV1 是機械工程師版的 Claude Code，自動化 3D 轉 2D 製圖。"
+},
+"highlight": {
+"en": "REV1 turns 3D designs into 2D manufacturing drawings, over 25% of a mechanical engineer's work, compressing hours into minutes with consistent, better results.",
+"zh": "REV1 將 3D 設計轉為 2D 製造圖，這佔機械工程師逾四分之一的工作，把數小時壓縮成數分鐘並維持一致且更高的品質。"
+}
+},
+{
+"slug": "sentrial",
+"summary": {
+"en": "Sentrial is a Datadog-style monitoring platform for AI agent reliability.",
+"zh": "Sentrial 是 Datadog 風格的監控平台，專注於 AI 代理的可靠性。"
+},
+"highlight": {
+"en": "When an AI product loops, hallucinates, or frustrates users, Sentrial detects it in real time, diagnoses the root cause, and recommends specific fixes.",
+"zh": "當 AI 產品陷入迴圈、產生幻覺或惹惱使用者時，Sentrial 即時偵測、診斷根因並推薦具體修復方案。"
+}
+},
+{
+"slug": "cofia",
+"summary": {
+"en": "Cofia builds AI automations that implement themselves for internal operations.",
+"zh": "Cofia 打造能自我實作的 AI 自動化，服務內部營運。"
+},
+"highlight": {
+"en": "Cofia learns how a team runs its internal operations and automatically automates the highest-ROI workflows without manual setup.",
+"zh": "Cofia 學習團隊執行內部營運的方式，自動將投資報酬率最高的工作流程自動化，無需人工設定。"
+}
+},
+{
+"slug": "protent",
+"summary": {
+"en": "Protent provides real-time video intelligence for law enforcement and security teams.",
+"zh": "Protent 為執法與安全團隊提供即時影像情報。"
+},
+"highlight": {
+"en": "Protent detects early escalation patterns and predictive threat signals as incidents unfold, giving security teams context to act before situations spiral.",
+"zh": "Protent 在事件發生過程中偵測早期升級模式與預測性威脅訊號，為安全團隊提供情境以在情勢失控前介入。"
+}
+},
+{
+"slug": "baseframe",
+"summary": {
+"en": "BaseFrame is a desktop app that detects what AI can automate for each employee.",
+"zh": "BaseFrame 是一款桌面應用，偵測 AI 能為每位員工自動化的工作。"
+},
+"highlight": {
+"en": "BaseFrame uses local models on existing email, docs, Slack, calendar, and file history to find each person's highest-value automations without data leaving.",
+"zh": "BaseFrame 用本地模型分析既有的郵件、文件、Slack、行事曆與檔案紀錄，找出每人最具價值的自動化，且資料不外流。"
+}
+},
+{
+"slug": "strand-ai",
+"summary": {
+"en": "Strand AI builds multimodal foundation models to predict uncollected patient biology.",
+"zh": "Strand AI 打造多模態基礎模型，預測尚未採集的病患生物資料。"
+},
+"highlight": {
+"en": "Strand's imputed bio-data helps pharma select better trial patients and shave months off launches; its spatial-biology model beats SOTA at far lower cost.",
+"zh": "Strand 補全的生物資料協助藥廠挑選更佳試驗病患並縮短數月上市時程，其空間生物學模型以極低成本超越業界最佳。"
+}
+},
+{
+"slug": "beacon-health",
+"summary": {
+"en": "Beacon Health builds AI employees for primary care practices.",
+"zh": "Beacon Health 為基層醫療診所打造 AI 員工。"
+},
+"highlight": {
+"en": "Beacon's AI employees automate background workflows like preventative screenings, prior authorizations, referrals, and risk adjustment, directly inside the EHR.",
+"zh": "Beacon 的 AI 員工在診所電子病歷系統內，自動化預防篩檢、事前授權、轉診與風險調整等後台工作流程。"
+}
+},
+{
+"slug": "cascade",
+"summary": {
+"en": "Cascade helps companies align AI models to their proprietary data and workflows.",
+"zh": "Cascade 協助企業將 AI 模型對齊自身的專有資料與工作流程。"
+},
+"highlight": {
+"en": "By distilling a company's proprietary data and workflows into aligned models, Cascade delivers higher-throughput intelligence that works better and cheaper.",
+"zh": "Cascade 將企業專有資料與工作流程蒸餾為對齊模型，提供更佳、更快、更省的高吞吐智慧。"
+}
+},
+{
+"slug": "burt",
+"summary": {
+"en": "Burt builds AI teammates that handle repetitive work for logistics teams.",
+"zh": "Burt 為物流團隊打造處理重複工作的 AI 隊友。"
+},
+"highlight": {
+"en": "Burt helps freight brokers and forwarders, who run on razor-thin margins, build AI teammates for repetitive tasks so teams can focus on customers and growth.",
+"zh": "Burt 協助利潤微薄的貨運經紀與承攬業者打造 AI 隊友，接手重複任務，讓團隊專注於客戶與成長。"
+}
+},
+{
+"slug": "celltype",
+"summary": {
+"en": "CellType is an agentic drug company that simulates human biology with AI.",
+"zh": "CellType 是一家用 AI 模擬人類生物學的代理式藥物公司。"
+},
+"highlight": {
+"en": "CellType's AI agents run the full drug discovery pipeline on biological foundation models; its core tech, built with Google DeepMind, validated a cancer signal.",
+"zh": "CellType 的 AI 代理在生物基礎模型上執行完整藥物探索流程，其與 Google DeepMind 共建的核心技術已驗證一項新癌症治療訊號。"
+}
+},
+{
+"slug": "zerosettle",
+"summary": {
+"en": "ZeroSettle is a drop-in SDK that switches in-app purchases to direct billing.",
+"zh": "ZeroSettle 是一個即插即用 SDK，將應用內購買切換為直接付款。"
+},
+"highlight": {
+"en": "ZeroSettle's mobile SDK takes 15 minutes to set up and switches customers from App Store billing to direct billing, unlocking zero fees and instant payouts.",
+"zh": "ZeroSettle 的行動 SDK 只需 15 分鐘設定，將顧客從 App Store 計費切換為直接付款，免除抽成並實現即時撥款。"
+}
+},
+{
+"slug": "kyten-technologies",
+"summary": {
+"en": "Kyten Technologies manufactures custom aerospace-grade battery packs.",
+"zh": "Kyten Technologies 製造客製化的航太級電池組。"
+},
+"highlight": {
+"en": "A team that put 5,000+ battery packs into space at Starlink is building a factory for high-volume aerospace-grade packs for drones, subs, and satellites.",
+"zh": "由曾在 Starlink 將逾 5,000 組電池送上太空的團隊創立，Kyten 正建廠為無人機、潛艇與衛星量產航太級電池組。"
+}
+},
+{
+"slug": "palus-finance",
+"summary": {
+"en": "Palus Finance is a financial advisor for startups after a fundraise.",
+"zh": "Palus Finance 是新創公司募資後的財務顧問。"
+},
+"highlight": {
+"en": "As an actual fiduciary, not a bank with a salesperson, Palus advises on cash storage, runway, and finance/ops setup, and its cash management earns extra yield.",
+"zh": "Palus 是真正的受託人而非附帶業務員的銀行，提供現金存放、資金跑道與財務營運建議，其現金管理能賺取額外收益。"
+}
+},
+{
+"slug": "tepali",
+"summary": {
+"en": "Tepali is an AI-native operating system for medspas and wellness clinics.",
+"zh": "Tepali 是醫美與健康診所的 AI 原生作業系統。"
+},
+"highlight": {
+"en": "Tepali replaces fragmented software with one system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
+"zh": "Tepali 以單一紀錄系統取代零散軟體，由 AI 代理負責櫃檯接待、病患文件與名單轉換。"
+}
+},
+{
+"slug": "cumulus-labs",
+"summary": {
+"en": "Cumulus Labs is a unified multimodal inference platform for shipping AI in production.",
+"zh": "Cumulus Labs 是統一的多模態推論平台，用於將 AI 推上生產環境。"
+},
+"highlight": {
+"en": "Cumulus replaces fragmented AI tooling with one platform; its Ion engine on custom NVIDIA Grace GPUs uses in-house kernels for 30-50% more throughput than vLLM.",
+"zh": "Cumulus 以單一平台取代零散 AI 工具，其 Ion 引擎在客製 NVIDIA Grace GPU 上採自研核心，吞吐量較 vLLM 或 SGLang 高 30 至 50%。"
+}
+},
+{
+"slug": "verdex",
+"summary": {
+"en": "Verdex is an AI insurance adjuster that verifies claims with data like satellite imagery.",
+"zh": "Verdex 是一個 AI 保險理賠員，利用衛星影像等資料核實理賠。"
+},
+"highlight": {
+"en": "Verdex uses data streams such as satellite imagery to verify and process insurance claims instantly, and currently helps insure over 11% of US farmland.",
+"zh": "Verdex 運用衛星影像等資料流即時核實並處理保險理賠，目前協助承保美國逾 11% 的農地。"
+}
+},
+{
+"slug": "autositu",
+"summary": {
+"en": "AutoSitu is an AI-native workspace for city development plan reviews.",
+"zh": "AutoSitu 是城市開發計畫審查的 AI 原生工作空間。"
+},
+"highlight": {
+"en": "AutoSitu deploys coordinated AI agents inside cities' cross-department review workflows, providing expert-level guidance and catching issues in minutes.",
+"zh": "AutoSitu 在城市跨部門審查流程中部署協作 AI 代理，提供專家級指引並在數分鐘而非數日內找出問題。"
+}
+},
+{
+"slug": "mousecat",
+"summary": {
+"en": "MouseCat enables companies to automatically investigate and mitigate fraud.",
+"zh": "MouseCat 讓企業能自動調查並化解詐欺。"
+},
+"highlight": {
+"en": "MouseCat lets companies automatically detect, investigate, and mitigate emerging fraud trends.",
+"zh": "MouseCat 讓企業能自動偵測、調查並化解新興的詐欺趨勢。"
+}
+},
+{
+"slug": "skillsync",
+"summary": {
+"en": "Skillsync is an AI recruiter that hires engineers based on what they've shipped.",
+"zh": "Skillsync 是一個 AI 招募者，依工程師實際交付的成果來招募人才。"
+},
+"highlight": {
+"en": "Skillsync makes GitHub searchable for hiring so companies find engineers building in their domain; clients include Ramp, Bun, and Zed, with Bun seeing 5x.",
+"zh": "Skillsync 讓 GitHub 可供招募搜尋，使企業找到在其領域開發的工程師，客戶含 Ramp、Bun、Zed，其中 Bun 轉換率提升 5 倍。"
+}
+},
+{
+"slug": "robodock",
+"summary": {
+"en": "RoboDock builds robots that run autonomous depots for electric and autonomous fleets.",
+"zh": "RoboDock 打造機器人，為電動與自駕車隊營運自主停車場。"
+},
+"highlight": {
+"en": "RoboDock's robots automate depot tasks like charging and vehicle checks, turning fleet depots from manual sites into self-running systems that cut costs.",
+"zh": "RoboDock 的機器人自動化充電與車輛檢查等作業，將車隊停車場從人工據點轉為自動系統，降低成本並提升妥善率。"
+}
+},
+{
+"slug": "ashr",
+"summary": {
+"en": "Ashr is an automated multi-modal testing and evals platform for AI agents.",
+"zh": "Ashr 是一個自動化的多模態測試與評估平台，專為 AI 代理打造。"
+},
+"highlight": {
+"en": "Ashr generates large volumes of authentic user journeys through an agent's tool calls across voice, text, image, and file generation with custom eval metrics.",
+"zh": "Ashr 透過代理的工具呼叫產生大量真實使用者旅程，支援語音、文字、影像與檔案生成，並提供自訂評估指標。"
+}
+},
+{
+"slug": "octapulse",
+"summary": {
+"en": "OctaPulse uses computer vision and robotics to automate quality inspection in fish farms.",
+"zh": "OctaPulse 運用電腦視覺與機器人，自動化魚場的品質檢測。"
+},
+"highlight": {
+"en": "OctaPulse cuts fish inspection from about 5 minutes to under 30 seconds at over 90% accuracy, targeting the $300B aquaculture industry's manual phenotyping QA.",
+"zh": "OctaPulse 將每尾魚檢測從約 5 分鐘縮短至 30 秒內，準確率逾 90%，瞄準 3,000 億美元水產養殖業的人工表型與畸形品檢。"
+}
+},
+{
+"slug": "salus",
+"summary": {
+"en": "Salus provides guardrails that validate an AI agent's actions before they execute.",
+"zh": "Salus 提供護欄，在 AI 代理執行動作前先行驗證。"
+},
+"highlight": {
+"en": "Salus wraps around an agent and checks actions at run time, blocking incorrect ones like a refund without an order ID and giving feedback to guide retries.",
+"zh": "Salus 的 API 包覆代理並在執行期檢查其動作，攔截錯誤行為（如未查訂單編號就退款），並立即回饋以引導重試。"
+}
+},
+{
+"slug": "fern-bot",
+"summary": {
+"en": "Fern is building infrastructure to enable physical AI at scale.",
+"zh": "Fern 正打造基礎設施，以大規模實現實體 AI。"
+},
+"highlight": {
+"en": "Fern focuses on enabling physical AI at scale.",
+"zh": "Fern 專注於大規模實現實體 AI。"
+}
+},
+{
+"slug": "orthogonal",
+"summary": {
+"en": "Orthogonal enables agentic payments so AI agents can discover and pay for APIs.",
+"zh": "Orthogonal 實現代理式付款，讓 AI 代理能發現並付費使用 API。"
+},
+"highlight": {
+"en": "Orthogonal lets any agent instantly discover, access, and pay per use for hundreds of APIs with no subscriptions; providers list once and get paid each call.",
+"zh": "Orthogonal 讓任何代理即時發現、存取並按次付費使用數百個 API，無需訂閱，供應商上架一次即可在每次呼叫獲得報酬。"
+}
+},
+{
+"slug": "q2q",
+"summary": {
+"en": "Q2Q was an AI-native outbound engine helping private equity teams source acquisition targets.",
+"zh": "Q2Q 曾是 AI 原生的外撥引擎，協助私募股權團隊尋找併購標的。"
+},
+"highlight": {
+"en": "Like a team of AI interns, Q2Q took buying criteria, found companies, wrote personalized emails, and booked first calls with owners after human approval.",
+"zh": "Q2Q 如同 AI 實習生團隊，依買方條件尋找公司、撰寫個人化郵件並安排與業主的初次通話，發送前由真人核可訊息。"
+}
+},
+{
+"slug": "ventura",
+"summary": {
+"en": "Ventura builds an AI workforce for distributors and manufacturers, starting with quoting.",
+"zh": "Ventura 為經銷商與製造商打造 AI 人力，首先切入報價作業。"
+},
+"highlight": {
+"en": "Ventura plugs into existing ERPs, follows a team's SOPs, and learns its tribal knowledge to handle quoting and order entry, getting smarter with each task.",
+"zh": "Ventura 串接既有 ERP，遵循標準作業程序並習得內隱知識來處理報價與訂單輸入，每完成一項任務就更聰明。"
+}
+},
+{
+"slug": "terranox-ai",
+"summary": {
+"en": "Terranox AI is the first AI-powered uranium discovery company.",
+"zh": "Terranox AI 是首家以 AI 驅動的鈾礦探勘公司。"
+},
+"highlight": {
+"en": "Vertically integrated, Terranox finds high-grade uranium deposits in North America using AI trained on 70+ years of exploration outcomes to fuel nuclear energy.",
+"zh": "Terranox 採垂直整合，運用以逾 70 年探勘成果訓練的 AI 在北美尋找高品位鈾礦，為核能提供燃料。"
+}
+},
+{
+"slug": "confluence-labs",
+"summary": {
+"en": "Confluence Labs builds AI models that learn from experience in data-sparse domains.",
+"zh": "Confluence Labs 打造能在資料稀缺領域中從經驗學習的 AI 模型。"
+},
+"highlight": {
+"en": "Confluence builds AI that designs effective experiments in data-sparse domains like molecule design, new physics, and materials, learning from limited data.",
+"zh": "Confluence 打造的 AI 能在分子設計、新物理與材料等資料稀缺領域設計高效實驗，並從有限資料中最大化學習。"
+}
+},
+{
+"slug": "brownie",
+"summary": {
+"en": "IncidentFox is an AI SRE agent that triages, coordinates, and fixes production incidents.",
+"zh": "IncidentFox 是一個 AI SRE 代理，負責分流、協調並修復生產環境事件。"
+},
+"highlight": {
+"en": "IncidentFox's AI SRE agents automatically learn each customer's system so they operate just like an in-house engineer.",
+"zh": "IncidentFox 的 AI SRE 代理會自動學習每位客戶的系統，運作起來如同內部工程師。"
+}
+},
+{
+"slug": "unisson",
+"summary": {
+"en": "Unisson builds AI agents that automate B2B software implementation.",
+"zh": "Unisson 打造自動化 B2B 軟體導入的 AI 代理。"
+},
+"highlight": {
+"en": "Within 20 minutes Unisson's agents learn any product and, usable via Slack, text, or email, handle health audits, onboarding, administration, and integrations.",
+"zh": "Unisson 的代理在 20 分鐘內學會任何產品，並可透過 Slack、簡訊或郵件使用，處理客戶健康度稽核、上線、管理與自訂整合。"
+}
+},
+{
+"slug": "proximitty",
+"summary": {
+"en": "Proximitty is an AI operating system for commercial loans.",
+"zh": "Proximitty 是商業貸款的 AI 作業系統。"
+},
+"highlight": {
+"en": "Proximitty builds regulator-grade AI agents that parse documents, spread financials, automate loan operations, and track covenants so banks underwrite faster.",
+"zh": "Proximitty 打造符合監管的 AI 代理，可解析文件、編製財報、自動化貸款作業並追蹤契約條款，協助銀行加速承保。"
+}
+},
+{
+"slug": "cajal-technologies",
+"summary": {
+"en": "Cajal scales formal verification to accelerate scientific discovery.",
+"zh": "Cajal 大規模擴展形式化驗證，以加速科學發現。"
+},
+"highlight": {
+"en": "Cajal deploys superhuman AI mathematicians using Lean to formally verify mathematical statements, grounding AI in truth, starting in quantum computing.",
+"zh": "Cajal 運用 Lean 部署超人類 AI 數學家來形式化驗證數學命題，讓 AI 立基於真理，並從量子運算與金融起步。"
+}
+},
+{
+"slug": "laurence",
+"summary": {
+"en": "Laurence advertises like hedge funds trade, optimizing ad bids with quantitative methods.",
+"zh": "Laurence 以避險基金交易的方式投放廣告，用量化方法優化廣告出價。"
+},
+"highlight": {
+"en": "Replacing the manual if-else guesswork of advertising, Laurence drives a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
+"zh": "Laurence 取代廣告中以 if-else 規則猜測的人工方式，讓 Amazon 品牌在導入一個月內淨利提升 15 至 40%。"
+}
+},
+{
+"slug": "jinba",
+"summary": {
+"en": "Jinba lets enterprise teams build AI workflows through chat in plain language.",
+"zh": "Jinba 讓企業團隊以自然語言透過對話建立 AI 工作流程。"
+},
+"highlight": {
+"en": "Jinba lets teams vibe-code AI workflows in plain language with no engineers, plus enterprise permissions, audit logging, and on-prem; it serves 40,000 users.",
+"zh": "Jinba 讓團隊以自然語言、無需工程師即可建構 AI 工作流程，並具企業權限、稽核記錄與地端部署，已服務 4 萬名使用者。"
+}
+},
+{
+"slug": "seeing-systems",
+"summary": {
+"en": "Seeing Systems engineers modular, AI-commanded strike drones for defence.",
+"zh": "Seeing Systems 為國防打造模組化、AI 指揮的攻擊無人機。"
+},
+"highlight": {
+"en": "Combining hardware modularity with an agentic control system, Seeing Systems cuts lifecycle cost by 2x+; customers include UK Royal Marine Commandos and NATO.",
+"zh": "Seeing Systems 結合硬體模組化與代理式控制系統，將生命週期成本降低逾兩倍，客戶含英國皇家陸戰隊突擊隊與北約部隊。"
+}
+},
+{
+"slug": "synthetic-sciences",
+"summary": {
+"en": "Synthetic Sciences builds foundation models for scientific research.",
+"zh": "Synthetic Sciences 為科學研究打造基礎模型。"
+},
+"highlight": {
+"en": "Synthetic builds both a product that captures high-quality research-process data at scale and the training to turn that data into models with scientific taste.",
+"zh": "Synthetic 同時打造可大規模擷取高品質研究過程資料的產品，以及將資料轉化為具真正科學品味模型的訓練方法。"
+}
+},
+{
+"slug": "visibl-semiconductors",
+"summary": {
+"en": "Visibl Semiconductors offers a faster, lower-cost path to custom silicon.",
+"zh": "Visibl Semiconductors 提供更快、成本更低的客製晶片開發途徑。"
+},
+"highlight": {
+"en": "Visibl handles the full path from design through verification, foundry management, and production, making custom ASICs accessible to robotics and IoT hardware.",
+"zh": "Visibl 涵蓋從設計、驗證、晶圓代工管理到量產的完整流程，讓機器人、無人機、IoT 與邊緣硬體公司也能負擔客製 ASIC。"
+}
+},
+{
+"slug": "end-close",
+"summary": {
+"en": "End Close builds AI-powered reconciliation for high-volume payments companies.",
+"zh": "End Close 為高交易量的支付公司打造 AI 驅動的對帳系統。"
+},
+"highlight": {
+"en": "Built by the founder of Modern Treasury's reconciliation org, End Close uses AI agents for exception handling, where 99% of manual reconciliation work happens.",
+"zh": "由 Modern Treasury 對帳團隊創建者打造，End Close 以 AI 代理處理例外，這正是 99% 人工對帳工作的所在。"
+}
+},
+{
+"slug": "fenrock-ai",
+"summary": {
+"en": "Fenrock AI builds AI agents for banking back-office and compliance.",
+"zh": "Fenrock AI 為銀行後台與合規打造 AI 代理。"
+},
+"highlight": {
+"en": "Pitched as the Harvey for traditional financial services, Fenrock's agents help small- to mid-sized US banks 10x back-office work and pass regulatory exams.",
+"zh": "Fenrock 定位為傳統金融服務版的 Harvey，其代理協助美國中小型銀行將後台功能提升十倍並通過監管檢查。"
+}
+},
+{
+"slug": "approxima",
+"summary": {
+"en": "Approxima builds agents that scope, code, validate, and merge software changes autonomously.",
+"zh": "Approxima 打造能自主規劃、編碼、驗證並合併軟體變更的代理。"
+},
+"highlight": {
+"en": "Approxima's agents handle routine maintenance, bug fixes, and updates, validating fixes end-to-end in sandbox environments before merging to production.",
+"zh": "Approxima 的代理處理例行維護、錯誤修復與漸進更新，在沙箱環境中端到端驗證修復後才合併至生產環境。"
+}
+},
+{
+"slug": "congruent",
+"summary": {
+"en": "Congruent builds AI-native radars for self-driving cars.",
+"zh": "Congruent 為自駕車打造 AI 原生雷達。"
+},
+"highlight": {
+"en": "Congruent pairs a radar architecture that exposes raw sensor data with a world-model-based radar simulator, fitting radar to end-to-end pipelines for autonomy.",
+"zh": "Congruent 結合可輸出原始感測資料的雷達架構與基於世界模型的雷達模擬器，讓雷達相容於自駕的端到端神經網路流程。"
+}
+},
+{
+"slug": "emdash",
+"summary": {
+"en": "Emdash is an open-source agentic development environment for running parallel coding agents.",
+"zh": "Emdash 是一個開源的代理式開發環境，可平行執行多個編碼代理。"
+},
+"highlight": {
+"en": "Emdash is an agent-first, provider-agnostic desktop app that lets engineering teams develop software faster by running multiple coding agents in parallel.",
+"zh": "Emdash 是以代理為核心、不限供應商的桌面應用，讓工程團隊透過平行執行多個編碼代理更快開發軟體。"
+}
+},
+{
+"slug": "sitefire",
+"summary": {
+"en": "Sitefire is a marketing suite that helps brands get discovered by AI agents.",
+"zh": "Sitefire 是一套行銷工具，協助品牌被 AI 代理發現。"
+},
+"highlight": {
+"en": "Sitefire identifies which content drives AI visibility in tools like ChatGPT and OpenClaw, then automatically creates it and runs on-page and off-page actions.",
+"zh": "Sitefire 找出哪些內容能在 ChatGPT、OpenClaw 等工具中提升 AI 能見度，並自動產製內容、執行站內外行動。"
+}
+},
+{
+"slug": "forum",
+"summary": {
+"en": "Forum is building the first exchange to trade on cultural attention.",
+"zh": "Forum 正打造首個以文化關注度為交易標的的交易所。"
+},
+"highlight": {
+"en": "Forum creates indices from search, social, and streaming data to measure what the world cares about, letting users long or short attention as an asset class.",
+"zh": "Forum 從搜尋、社群與串流資料建立指數衡量世界的關注焦點，讓使用者做多或做空，並將關注度引入為一種資產類別。"
+}
+},
+{
+"slug": "axionorbital-space",
+"summary": {
+"en": "AxionOrbital Space builds foundation models for 24/7 Earth observation through clouds and darkness.",
+"zh": "AxionOrbital Space 打造基礎模型，實現穿透雲層與黑夜的全天候地球觀測。"
+},
+"highlight": {
+"en": "Using deterministic one-step diffusion, AxionOrbital translates raw radar backscatter into analysis-ready optical imagery in real time, even when optics fail.",
+"zh": "AxionOrbital 運用確定性單步擴散，即時將原始雷達回波轉為可分析的光學影像，因光學衛星有 70% 時間無法使用。"
+}
+},
+{
+"slug": "mendral",
+"summary": {
+"en": "Mendral is an AI DevOps engineer that observes, diagnoses, acts, and learns continuously.",
+"zh": "Mendral 是一個 AI DevOps 工程師，能持續觀測、診斷、行動並學習。"
+},
+"highlight": {
+"en": "Mendral autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, evolving into a self-improving delivery system.",
+"zh": "Mendral 自主處理 CI 失敗、不穩定測試、緩慢建置、損壞發行與程式碼審查，演進為無需人工的自我改進交付系統。"
+}
+},
+{
+"slug": "byteport",
+"summary": {
+"en": "Byteport provides global upload acceleration for files from 1GB to 100TB.",
+"zh": "Byteport 提供 1GB 至 100TB 檔案的全球上傳加速。"
+},
+"highlight": {
+"en": "Byteport builds mission-critical network infrastructure for robotics, satellite, AI, and enterprise applications, accelerating online file transfer at any size.",
+"zh": "Byteport 為機器人、衛星、AI 與企業應用打造關鍵任務網路基礎設施，為各種規模的公司加速線上檔案傳輸。"
+}
+},
+{
+"slug": "bubble-lab",
+"summary": {
+"en": "Bubble Lab turns natural language into production-ready visual workflows.",
+"zh": "Bubble Lab 將自然語言轉化為可上線的視覺化工作流程。"
+},
+"highlight": {
+"en": "Built for ops teams, Bubble Lab turns plain language into visual workflows with built-in observability, logs, and execution traces, deployable to Slack fast.",
+"zh": "Bubble Lab 專為營運團隊打造，將自然語言轉為內建可觀測性、日誌與執行追蹤的視覺化工作流程，一鍵部署至 Slack。"
+}
+},
+{
+"slug": "polymath",
+"summary": {
+"en": "Polymath builds simulation environments to train and evaluate long-horizon AI agents.",
+"zh": "Polymath 打造模擬環境，用於訓練與評估長程 AI 代理。"
+},
+"highlight": {
+"en": "Polymath builds simulated worlds reflecting the real world so agents learn through experience; the team comes from UC Berkeley, Hume AI, Plaid, and Amazon.",
+"zh": "Polymath 打造反映真實世界的模擬世界，讓代理透過經驗學習，團隊來自 UC Berkeley、Hume AI、Plaid 與 Amazon。"
+}
+},
+{
+"slug": "o11",
+"summary": {
+"en": "o11 builds bespoke AI software for financial services firms.",
+"zh": "o11 為金融服務公司打造客製化 AI 軟體。"
+},
+"highlight": {
+"en": "o11 studies how a firm actually works, then deploys custom AI agents and plugins for Excel, PowerPoint, and Word plus data room, DealCloud, and Salesforce.",
+"zh": "o11 研究公司實際運作方式，再部署客製 AI 代理與 Excel、PowerPoint、Word 外掛，並整合資料室、DealCloud 與 Salesforce。"
+}
+},
+{
+"slug": "glue",
+"summary": {
+"en": "Glue is an open-source interface design canvas for AI agents.",
+"zh": "Glue 是一個開源的介面設計畫布，專為 AI 代理打造。"
+},
+"highlight": {
+"en": "Glue gives coding agents an infinite canvas to create and iterate on interfaces and turn changes into production-ready code in real time, like Figma's loop.",
+"zh": "Glue 為編碼代理提供無限畫布來建立與迭代介面，並即時將變更轉為可上線的程式碼，重現 Figma 的回饋循環。"
+}
+},
+{
+"slug": "chasi",
+"summary": {
+"en": "Chasi is an AI revenue engine for the equipment dealer industry.",
+"zh": "Chasi 是設備經銷產業的 AI 營收引擎。"
+},
+"highlight": {
+"en": "With fleet utilization often below 60%, Chasi plugs into a dealer's stack to deploy 24/7 AI agents handling sales, rentals, and service without added headcount.",
+"zh": "在車隊使用率常低於 60% 的情況下，Chasi 串接經銷商系統，部署全天候 AI 代理處理銷售、租賃與維修，無需增加人力。"
+}
+},
+{
+"slug": "booko",
+"summary": {
+"en": "Booko dynamically prices bookable time slots to help businesses sell unsold time.",
+"zh": "Booko 為可預約的時段動態定價，協助業者賣出未售出的時間。"
+},
+"highlight": {
+"en": "Booko integrates with existing booking systems to adjust prices by utilization and demand, with early customers seeing ~20% revenue uplift from unsold time.",
+"zh": "Booko 串接既有預約系統，依使用率與需求調整價格，早期客戶從原本閒置的時段獲得約 20% 的營收提升。"
+}
+},
+{
+"slug": "foreman",
+"summary": {
+"en": "Foreman is an AI-powered project management platform for construction contractors.",
+"zh": "Foreman 是專為營造承包商打造的 AI 專案管理平台。"
+},
+"highlight": {
+"en": "Contractors upload plans, photos, or a description and Foreman's AI generates structured takeoffs, estimates, and proposals in minutes, all tied to the job.",
+"zh": "承包商上傳圖面、照片或描述，Foreman 的 AI 在數分鐘內產出結構化估算、報價與提案，所有紀錄皆圍繞案件整理。"
+}
+},
+{
+"slug": "crow",
+"summary": {
+"en": "Crow builds AI for commercial real estate.",
+"zh": "Crow 為商業不動產打造 AI。"
+},
+"highlight": {
+"en": "Crow focuses on bringing AI to the commercial real estate industry.",
+"zh": "Crow 專注於將 AI 帶入商業不動產產業。"
+}
+},
+{
+"slug": "the-token-company",
+"summary": {
+"en": "The Token Company offers compression middleware that improves LLM outputs.",
+"zh": "The Token Company 提供壓縮中介軟體，改善大型語言模型的輸出。"
+},
+"highlight": {
+"en": "Its middleware removes context bloat in milliseconds to cut costs and latency; in a blind LLM study, compressed requests raised preference and lifted sales 5%.",
+"zh": "其中介軟體在毫秒內移除冗餘脈絡以降低成本與延遲，在盲測 LLM 競技研究中，壓縮請求提升偏好並使購買量增加 5%。"
+}
+},
+{
+"slug": "maven",
+"summary": {
+"en": "Maven is payments infrastructure that lets AI voice agents collect payments by phone.",
+"zh": "Maven 是支付基礎設施，讓 AI 語音代理能透過電話收款。"
+},
+"highlight": {
+"en": "Maven enables AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all gateways.",
+"zh": "Maven 讓 AI 語音代理透過單一 API 呼叫在電話中收款，跨所有支付閘道處理刷卡與 PCI 合規。"
+}
+},
+{
+"slug": "sila",
+"summary": {
+"en": "Sila is an agentic work messaging and collaboration platform where teams and AI work as one.",
+"zh": "Sila 是一個代理式工作通訊與協作平台，讓團隊與 AI 合而為一。"
+},
+"highlight": {
+"en": "Sila's mission is to define the standard for how companies will work, with teams and AI collaborating as one in an agentic messaging platform.",
+"zh": "Sila 的使命是定義企業未來的工作標準，讓團隊與 AI 在代理式通訊平台中合而為一地協作。"
+}
+},
+{
+"slug": "grade",
+"summary": {
+"en": "Grade is an API for performance-based payroll that pays for results, not hours.",
+"zh": "Grade 是一個績效薪資的 API，依成果而非工時付薪。"
+},
+"highlight": {
+"en": "Like Deel or Gusto but for completed work, Grade lets companies pay AI agents and contractors by tasks done and targets hit, handling compliance and payouts.",
+"zh": "Grade 如同 Deel 或 Gusto 但以完成工作計酬，讓企業依任務與目標支付 AI 代理與承包商，並處理合規、稅務與全球撥款。"
+}
+},
+{
+"slug": "canary",
+"summary": {
+"en": "Canary is the first AI QA engineer that understands your codebase.",
+"zh": "Canary 是首個能理解你程式碼庫的 AI QA 工程師。"
+},
+"highlight": {
+"en": "Instead of flaky DOM scraping, Canary reads source code directly to catch broken user flows, taking teams from weeks of manual testing to 90%+ coverage in days.",
+"zh": "Canary 不靠不穩定的 DOM 擷取，而是直接閱讀原始碼以捕捉斷裂的使用者流程，讓團隊從數週人工測試縮短到數天達 90% 以上覆蓋率。"
+}
+},
+{
+"slug": "copperlane",
+"summary": {
+"en": "Copperlane uses AI agents to accelerate and de-risk mortgage origination.",
+"zh": "Copperlane 運用 AI 代理加速並降低房貸核貸的風險。"
+},
+"highlight": {
+"en": "Copperlane's AI agents understand an applicant's profile, verify documents, and complete initial underwriting tasks to speed the loan process and cut mistakes.",
+"zh": "Copperlane 的 AI 代理理解申請人狀況、核驗文件並完成初步承保作業，以加速貸款流程並減少錯誤。"
+}
+},
+{
+"slug": "talking-computers",
+"summary": {
+"en": "Talking Computers deploys AI engineers to optimize AI training and inference infrastructure.",
+"zh": "Talking Computers 部署 AI 工程師來優化 AI 訓練與推論基礎設施。"
+},
+"highlight": {
+"en": "Its fleets of AI infra engineers run hundreds of parallel experiments over week-long horizons, having sped GPU kernels to 6x SOTA and halved voice latency.",
+"zh": "其 AI 基礎設施工程師團隊在長達一週的時程內平行執行數百項實驗，已將 GPU 核心加速至業界最佳的 6 倍並將語音模型延遲減半。"
+}
+},
+{
+"slug": "supafax",
+"summary": {
+"en": "Supafax is an AI agent that proactively manages your email and calendar.",
+"zh": "Supafax 是一個 AI 代理，主動管理你的電子郵件與行事曆。"
+},
+"highlight": {
+"en": "Supafax lives in your inbox and proactively manages your email and calendar.",
+"zh": "Supafax 駐留於你的收件匣，主動管理你的電子郵件與行事曆。"
+}
+},
+{
+"slug": "vela",
+"summary": {
+"en": "Vela is an AI scheduling assistant for the most complex coordination interactions.",
+"zh": "Vela 是一個 AI 排程助理，專為最複雜的協調互動而打造。"
+},
+"highlight": {
+"en": "Vela treats scheduling as a human-nuance problem; teams connect their system of record and it handles outreach, scheduling, and confirmation automatically.",
+"zh": "Vela 將排程視為人際細節問題，團隊串接其紀錄系統後，它便自動處理聯繫、排程與確認。"
+}
+},
+{
+"slug": "mochacare",
+"summary": {
+"en": "MochaCare is an agentic management service for care organizations.",
+"zh": "MochaCare 是面向照護機構的代理式管理服務。"
+},
+"highlight": {
+"en": "MochaCare handles hiring, scheduling, and client intake end-to-end so its care-organization partners can focus on growth.",
+"zh": "MochaCare 端到端處理招募、排班與客戶受理，讓其照護機構夥伴能專注於成長。"
+}
+},
+{
+"slug": "spotpay",
+"summary": {
+"en": "SpotPay is a stablecoin-powered global borderless bank account.",
+"zh": "SpotPay 是以穩定幣驅動的全球無國界銀行帳戶。"
+},
+"highlight": {
+"en": "SpotPay gives users one account for receiving money from abroad, paying locally, spending anywhere with the SpotPay card, and saving and earning on a balance.",
+"zh": "SpotPay 為使用者提供單一帳戶，可接收海外匯款、在地付款、用 SpotPay 卡隨處消費，並在餘額上儲蓄與賺取收益。"
+}
+},
+{
+"slug": "pollinate",
+"summary": {
+"en": "Pollinate builds AI agents for the supply chain, starting with procurement.",
+"zh": "Pollinate 為供應鏈打造 AI 代理，首先切入採購。"
+},
+"highlight": {
+"en": "Pollinate builds an ontology where agents operate, starting with three-way match: extracting supplier invoices from email and matching them to PO and receipt.",
+"zh": "Pollinate 建立讓代理運作的本體論，先自動化三方比對：從郵件擷取供應商發票並比對至正確的採購單與收貨單。"
+}
+},
+{
+"slug": "carrot-labs",
+"summary": {
+"en": "Carrot Labs tracks and attributes AI spend across every provider.",
+"zh": "Carrot Labs 追蹤並歸因跨所有供應商的 AI 支出。"
+},
+"highlight": {
+"en": "Its product SuperPenguin tracks AI spend across 14 providers with zero-code setup, offering per-request attribution by customer or feature and Slack alerts.",
+"zh": "其產品 SuperPenguin 以零程式碼設定追蹤 14 家供應商的 AI 支出，提供依客戶或功能的逐請求歸因與 Slack 預算警示。"
+}
+},
+{
+"slug": "martini",
+"summary": {
+"en": "Martini is an AI-native platform for professional video production and filmmaking.",
+"zh": "Martini 是一個 AI 原生的專業影片製作與電影創作平台。"
+},
+"highlight": {
+"en": "Martini integrates the best generative models into professional filmmaking workflows so world-class creatives can use generative AI as a legitimate film medium.",
+"zh": "Martini 將頂尖生成式模型整合進專業電影製作流程，讓世界級創作者能將生成式 AI 作為正當的電影媒介使用。"
+}
+},
+{
+"slug": "wideframe",
+"summary": {
+"en": "Wideframe is an AI coworker that helps video editors prepare footage and ship faster.",
+"zh": "Wideframe 是一個 AI 協作夥伴，協助影片剪輯師整理素材並更快交付。"
+},
+"highlight": {
+"en": "Like an assistant editor, Wideframe automates searching, labeling, organizing, and sequencing footage across local and cloud storage, with Premiere roundtrip.",
+"zh": "Wideframe 如同助理剪輯師，自動化跨本地與雲端的素材搜尋、標記、整理與排序，並支援 Premiere Pro 往返。"
+}
+},
+{
+"slug": "overdrive-health",
+"summary": {
+"en": "Overdrive Health offers AI-native medical billing services for healthcare providers.",
+"zh": "Overdrive Health 為醫療提供者提供 AI 原生的醫療帳務服務。"
+},
+"highlight": {
+"en": "Overdrive's AI-powered billing helps providers get paid more money in less time, delivering insurance and patient billing services at a fraction of usual cost.",
+"zh": "Overdrive 以 AI 驅動的帳務協助醫療提供者更快收到更多款項，以遠低於一般成本提供保險與病患帳務服務。"
+}
+},
+{
+"slug": "button-computer",
+"summary": {
+"en": "Button Computer is a tiny clip-on hardware device built for voice AI.",
+"zh": "Button Computer 是一款為語音 AI 打造的微型夾式硬體裝置。"
+},
+"highlight": {
+"en": "Button Computer is a small button you clip to your shirt: press it to talk to AI and it responds instantly.",
+"zh": "Button Computer 是一個夾在衣服上的小按鈕，按下即可與 AI 對話並即時得到回應。"
+}
+},
+{
+"slug": "claimglide",
+"summary": {
+"en": "ClaimGlide automates prior authorizations for private medical practices.",
+"zh": "ClaimGlide 為私人醫療診所自動化事前授權。"
+},
+"highlight": {
+"en": "ClaimGlide automates the entire end-to-end prior-authorization process for private practices more cheaply and accurately than they manage today.",
+"zh": "ClaimGlide 為私人診所端到端自動化整個事前授權流程，比現行做法更便宜且更準確。"
+}
+},
+{
+"slug": "hlabs",
+"summary": {
+"en": "HLabs builds a US-based industrial supply chain of parts for robots.",
+"zh": "HLabs 在美國建立機器人零件的工業供應鏈。"
+},
+"highlight": {
+"en": "HLabs produces a plug-and-play set of US-made robotic primitives including electronics and actuators; customers span home robots, humanoids, arms, and defense.",
+"zh": "HLabs 生產美國製、即插即用的機器人基礎零件，含電子元件與致動器，早期客戶涵蓋家用機器人、人形機器人、機械臂與國防。"
+}
+}
+]

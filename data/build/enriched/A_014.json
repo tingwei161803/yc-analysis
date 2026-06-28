@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "armory",
+    "summary": {
+      "en": "Enterprise continuous deployment platform built on open-source Spinnaker for safe software delivery at scale.",
+      "zh": "建構於開源 Spinnaker 之上的企業級持續部署平台,讓軟體得以安全且大規模地交付。"
+    },
+    "highlight": {
+      "en": "A YC W17 DevOps startup that commercialized Netflix's Spinnaker project for large-scale continuous deployment. After raising over $82M, its assets were acquired by rival Harness for about $7M in cash in January 2024.",
+      "zh": "YC 2017 冬季梯次的 DevOps 新創,將 Netflix 的 Spinnaker 專案商業化以實現大規模持續部署。在募得逾 8,200 萬美元後,其資產於 2024 年 1 月被競爭對手 Harness 以約 700 萬美元現金收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$82M; assets acquired by Harness for ~$7M (2024)",
+      "zh": "募資逾 8,200 萬美元;資產於 2024 年被 Harness 以約 700 萬美元收購"
+    },
+    "founders": "Daniel R. Odio, Isaac Mosquera, Ben Mappen",
+    "sources": [
+      { "title": "Harness acquires Armory | TechCrunch", "url": "https://techcrunch.com/2024/01/11/harness-acquires-the-assets-of-continuous-deployment-service-armory/" },
+      { "title": "CI/CD startup Harness acquires venture-backed rival Armory | SiliconANGLE", "url": "https://siliconangle.com/2024/01/11/ci-cd-startup-harness-acquires-venture-backed-rival-armory/" }
+    ]
+  },
+  {
+    "slug": "volansi",
+    "summary": {
+      "en": "Builder and operator of long-range, high-payload autonomous VTOL drones for B2B point-to-point delivery.",
+      "zh": "打造並營運長航程、高酬載的自主垂直起降無人機,提供 B2B 點對點貨運配送解決方案。"
+    },
+    "highlight": {
+      "en": "A YC W17 cargo-drone startup whose VTOL aircraft could carry up to 200 lbs across 1,000 miles for defense and medical clients. After VC funding dried up, it entered foreclosure in 2022 and Sierra Nevada Corporation acquired its UAV assets and Oregon facility.",
+      "zh": "YC 2017 冬季梯次的貨運無人機新創,其垂直起降機可載運最高 200 磅貨物、航程達 1,000 英里,服務國防與醫療客戶。在創投資金枯竭後,公司於 2022 年進入法拍程序,Sierra Nevada Corporation 收購其無人機資產與奧勒岡州廠房。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$75M VC; assets acquired by Sierra Nevada Corp. (2022)",
+      "zh": "募得約 7,500 萬美元創投資金;資產於 2022 年被 Sierra Nevada Corp. 收購"
+    },
+    "founders": "Hannan Parvizian, Wesley Zheng",
+    "sources": [
+      { "title": "Sierra Nevada buys drone maker Volansi after VC funding dries up | Defense News", "url": "https://www.defensenews.com/air/2022/10/10/sierra-nevada-buys-drone-maker-volansi-after-vc-funding-dries-up/" },
+      { "title": "Sierra Nevada Corp. Acquires Assets, Intellectual Property of Volansi | Defense Daily", "url": "https://www.defensedaily.com/sierra-nevada-corp-acquires-assets-intellectual-property-of-volansi/unmanned-systems/" }
+    ]
+  },
+  {
+    "slug": "truepill",
+    "summary": {
+      "en": "API-connected healthcare infrastructure powering prescribing, lab testing, and pharmacy fulfillment for partners.",
+      "zh": "以 API 串接的醫療基礎設施,為合作夥伴提供處方開立、檢驗與藥局配藥履約服務。"
+    },
+    "highlight": {
+      "en": "A YC S17 digital-pharmacy infrastructure company that hit a $1.6B valuation in 2021 powering DTC health brands. After a downturn, it was acquired by Irish unicorn LetsGetChecked for $525M in 2024.",
+      "zh": "YC 2017 夏季梯次的數位藥局基礎設施公司,2021 年估值達 16 億美元,為眾多 DTC 健康品牌提供後端支援。在低潮後,於 2024 年被愛爾蘭獨角獸 LetsGetChecked 以 5.25 億美元收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Peaked at $1.6B (2021); raised >$370M; acquired for $525M (2024)",
+      "zh": "估值最高達 16 億美元(2021);募資逾 3.7 億美元;2024 年以 5.25 億美元被收購"
+    },
+    "founders": "Umar Afridi, Sid Viswanathan",
+    "sources": [
+      { "title": "Telehealth company Truepill gets swallowed for $525 million | Axios", "url": "https://www.axios.com/2024/08/21/truepill-swallowed-525-million-letsgetchecked" },
+      { "title": "LetsGetChecked Completes Acquisition of Truepill | Business Wire", "url": "https://www.businesswire.com/news/home/20241001340533/en/LetsGetChecked-Completes-Acquisition-of-Truepill" }
+    ]
+  },
+  {
+    "slug": "flock-safety",
+    "summary": {
+      "en": "Public-safety platform whose solar-powered license-plate cameras help communities and police deter and solve crime.",
+      "zh": "公共安全平台,以太陽能供電的車牌辨識攝影機協助社區與警方嚇阻並偵破犯罪。"
+    },
+    "highlight": {
+      "en": "One of YC S17's breakout companies, Flock has become a dominant force in US police surveillance tech despite civil-liberties controversy. It raised $275M at a $7.5B valuation in March 2025 and reportedly climbed to an $8.4B valuation in 2026.",
+      "zh": "YC 2017 夏季梯次最受矚目的公司之一,Flock 已成為美國警用監控科技的主導力量,儘管引發公民自由的爭議。公司於 2025 年 3 月以 75 億美元估值募得 2.75 億美元,2026 年估值據報攀升至 84 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$8.4B (2026); raised $275M Series F at $7.5B (2025)",
+      "zh": "最新估值約 84 億美元(2026);2025 年以 75 億美元估值募得 2.75 億美元 F 輪"
+    },
+    "founders": "Garrett Langley, Matt Feury",
+    "sources": [
+      { "title": "Flock Safety raises $275M at $7.5B valuation | TechCrunch", "url": "https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/" },
+      { "title": "Flock Safety hits $8.4B valuation | Tech Startups", "url": "https://techstartups.com/2026/04/17/flock-safety-hits-8-4b-valuation-as-ai-powered-police-tech-sparks-nationwide-protests/" }
+    ]
+  },
+  {
+    "slug": "fazz",
+    "summary": {
+      "en": "All-in-one B2B finance platform and neobank serving businesses across Indonesia and Singapore.",
+      "zh": "為印尼與新加坡企業提供一站式的 B2B 金融平台與數位銀行服務。"
+    },
+    "highlight": {
+      "en": "A YC S17 Southeast Asian fintech formed from the merger of PayFazz and Xfers, leading among underbanked segments like warungs. It raised a $100M Series C in 2022 led by Tiger Global and processes over $6B in annualized payment volume.",
+      "zh": "YC 2017 夏季梯次的東南亞金融科技公司,由 PayFazz 與 Xfers 合併而成,在小商店等銀行服務不足的客群中居領先地位。公司於 2022 年由 Tiger Global 領投募得 1 億美元 C 輪,年化支付交易量逾 60 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$179M total; $100M Series C led by Tiger Global (2022)",
+      "zh": "累計募資約 1.79 億美元;2022 年由 Tiger Global 領投募得 1 億美元 C 輪"
+    },
+    "founders": "Hendra Kwik, Tianwei Liu",
+    "sources": [
+      { "title": "Southeast Asian fintech Fazz raises $100M Series C | TechCrunch", "url": "https://techcrunch.com/2022/09/13/southeast-asian-fintech-fazz-raises-100m-series-c-to-serve-businesses-of-all-sizes/" },
+      { "title": "PAYFAZZ Invests US$30M in Xfers to Form Fazz Financial Group | Fintech Singapore", "url": "https://fintechnews.sg/49393/indonesia/payfazz-invests-us30-million-in-xfers-to-form-new-entity-fazz-financial-group/" }
+    ]
+  },
+  {
+    "slug": "billiontoone",
+    "summary": {
+      "en": "Genetic-testing company whose molecular-counting DNA tech powers prenatal screening and cancer liquid biopsies.",
+      "zh": "基因檢測公司,以分子計數 DNA 技術驅動產前篩檢與癌症液態切片檢測。"
+    },
+    "highlight": {
+      "en": "A YC S17 biotech that boosted cell-free DNA diagnostic resolution over 1,000-fold, with its UNITY prenatal screen becoming a fast-growing standard of care. It went public on Nasdaq (BLLN) in November 2025, raising $314M and soaring to a ~$4.6B valuation on day one.",
+      "zh": "YC 2017 夏季梯次的生技公司,將游離 DNA 診斷解析度提升逾 1,000 倍,其 UNITY 產前篩檢正快速成為標準照護方式。公司於 2025 年 11 月在那斯達克掛牌(代號 BLLN),募得 3.14 億美元,首日估值飆升至約 46 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd on Nasdaq Nov 2025 raising $314M; day-one value ~$4.6B",
+      "zh": "2025 年 11 月在那斯達克 IPO 募得 3.14 億美元;首日估值約 46 億美元"
+    },
+    "founders": "Oguzhan Atay, David Tsao, Sukrit Silas",
+    "sources": [
+      { "title": "BillionToOne raises $314M in IPO | Fierce Biotech", "url": "https://www.fiercebiotech.com/medtech/dna-testmaker-billiontoone-raises-314m-ipo-shares-take-quick-dip" },
+      { "title": "BillionToOne | Y Combinator", "url": "https://www.ycombinator.com/companies/billiontoone" }
+    ]
+  },
+  {
+    "slug": "feather",
+    "summary": {
+      "en": "Furniture rental service for city living, letting consumers and businesses rent, swap, or buy sustainable furniture.",
+      "zh": "為都會生活打造的家具租賃服務,讓消費者與企業可租用、更換或購買永續家具。"
+    },
+    "highlight": {
+      "en": "A YC S17 furniture-rental startup pitching a circular alternative to disposable furniture and landfill waste. It quietly paused operations in late 2022 and its brand was acquired by luxury design studio Vesta in November 2023.",
+      "zh": "YC 2017 夏季梯次的家具租賃新創,以循環模式替代一次性家具與垃圾掩埋的浪費。公司於 2022 年底悄然暫停營運,其品牌於 2023 年 11 月被高端設計工作室 Vesta 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Paused operations late 2022; brand acquired by Vesta (2023)",
+      "zh": "2022 年底暫停營運;品牌於 2023 年被 Vesta 收購"
+    },
+    "founders": "Jay Reno",
+    "sources": [
+      { "title": "Luxury furniture rental company Vesta acquires Fernish and Feather | Retail Dive", "url": "https://www.retaildive.com/news/uxury-furniture-rental-vesta-acquires-fernish-feather-dtc/699582/" },
+      { "title": "Staging company Vesta acquires Fernish and Feather | Business of Home", "url": "https://businessofhome.com/articles/vesta-fernish-feather-subscription-furniture" }
+    ]
+  },
+  {
+    "slug": "ribbon-health",
+    "summary": {
+      "en": "Healthcare data platform with an API for accurate provider directories, costs, quality, and care navigation.",
+      "zh": "醫療資料平台,提供 API 以建立精準的醫療提供者名錄、費用、品質與就醫導引資料。"
+    },
+    "highlight": {
+      "en": "A YC S17 health-data infrastructure company backed by a16z and General Catalyst, building the provider-directory layer for insurers and digital health. It was acquired by healthcare analytics platform H1 in a deal announced January 2025.",
+      "zh": "YC 2017 夏季梯次的醫療資料基礎設施公司,由 a16z 與 General Catalyst 支持,為保險業者與數位醫療打造醫療提供者名錄層。公司於 2025 年 1 月宣布被醫療分析平台 H1 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$55M from a16z, General Catalyst; acquired by H1 (2025)",
+      "zh": "從 a16z、General Catalyst 募得約 5,500 萬美元;2025 年被 H1 收購"
+    },
+    "founders": "Nate Maslak, Nate Fox",
+    "sources": [
+      { "title": "Healthcare analytics platform H1 has acquired Ribbon | TechCrunch", "url": "https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/" },
+      { "title": "H1 acquires provider data company Ribbon Health | Fierce Healthcare", "url": "https://www.fiercehealthcare.com/health-tech/h1-acquires-ribbon-health-expand-its-reach-health-plan-digital-health-markets" }
+    ]
+  },
+  {
+    "slug": "mystery-org",
+    "summary": {
+      "en": "Education company creating engaging video explanations and science lessons that keep curious kids learning.",
+      "zh": "教育公司,製作引人入勝的影片解說與科學課程,讓好奇的孩子持續學習。"
+    },
+    "highlight": {
+      "en": "A YC S17 edtech whose Mystery Science lessons were used by over 4 million students in half of all US elementary schools, sold without a single salesperson. It was acquired by Discovery Education in a $140 million deal.",
+      "zh": "YC 2017 夏季梯次的教育科技公司,其 Mystery Science 課程被全美半數小學、逾 400 萬名學生使用,且完全沒有任何業務人員。公司以 1.4 億美元被 Discovery Education 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Discovery Education for $140M",
+      "zh": "以 1.4 億美元被 Discovery Education 收購"
+    },
+    "founders": "Keith Schacht, Doug Peltz",
+    "sources": [
+      { "title": "Discovery Education Acquires Mystery Science in $140 Million Deal | EdSurge", "url": "https://www.edsurge.com/news/2020-11-03-discovery-education-acquires-mystery-science-in-140-million-deal" },
+      { "title": "Behind the Scenes of a $140 Million Sale: Keith Schacht's Journey | Small Business Trends", "url": "https://smallbiztrends.com/behind-the-scenes-of-a-140-million-sale-keith-schachts-journey-with-mystery-science/" }
+    ]
+  },
+  {
+    "slug": "modern-fertility",
+    "summary": {
+      "en": "Women's health company offering affordable at-home fertility hormone tests outside of clinical settings.",
+      "zh": "女性健康公司,提供平價的居家生育力荷爾蒙檢測,讓檢測不再侷限於診所。"
+    },
+    "highlight": {
+      "en": "A YC S17 women's-health startup that made clinic-grade fertility testing accessible at home and raised $22M from Forerunner, USV, and others. It was acquired by telehealth company Ro in a deal worth over $225 million in 2021.",
+      "zh": "YC 2017 夏季梯次的女性健康新創,將診所等級的生育力檢測帶進居家,並從 Forerunner、USV 等投資者募得 2,200 萬美元。公司於 2021 年以逾 2.25 億美元被遠距醫療公司 Ro 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $22M; acquired by Ro for >$225M (2021)",
+      "zh": "募得 2,200 萬美元;2021 年以逾 2.25 億美元被 Ro 收購"
+    },
+    "founders": "Afton Vechery, Carly Leahy",
+    "sources": [
+      { "title": "Ro acquires Modern Fertility in a deal north of $225 million | TechCrunch", "url": "https://techcrunch.com/2021/05/19/ro-acquires-modern-fertility-in-a-reportedly-225-million-deal/" },
+      { "title": "Ro acquires Modern Fertility in $225 million deal | Fortune", "url": "https://fortune.com/2021/05/20/ro-roman-modern-fertility-acquisition-womens-health/" }
+    ]
+  },
+  {
+    "slug": "groww",
+    "summary": {
+      "en": "India's largest retail stock broker and top mutual-fund SIP distributor, making investing simple and transparent.",
+      "zh": "印度最大的散戶證券券商,也是定期定額共同基金的最大經銷商,讓投資變得簡單透明。"
+    },
+    "highlight": {
+      "en": "A YC W18 fintech that rode India's retail-investing boom to become its largest stock broker by active NSE clients. It IPO'd in November 2025, raising nearly $750M and listing at roughly a $9 billion market cap, the first YC-backed Indian company to go public.",
+      "zh": "YC 2018 冬季梯次的金融科技公司,搭上印度散戶投資熱潮,成為印度國家證交所活躍客戶數最多的券商。公司於 2025 年 11 月 IPO,募得近 7.5 億美元,上市市值約 90 億美元,是首家上市的 YC 投資印度公司。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd Nov 2025 raising ~$750M; listed at ~$9B market cap",
+      "zh": "2025 年 11 月 IPO 募得約 7.5 億美元;上市市值約 90 億美元"
+    },
+    "founders": "Lalit Keshre, Harsh Jain, Neeraj Singh, Ishan Bansal",
+    "sources": [
+      { "title": "Groww raises nearly $750M in IPO | TechCrunch", "url": "https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/" },
+      { "title": "IPO Alert: Groww goes public | Ensemble VC", "url": "https://www.ensemble.vc/research/ipo-alert-groww-goes-public" }
+    ]
+  },
+  {
+    "slug": "super",
+    "summary": {
+      "en": "Indonesia's leading hyperlocal social-commerce platform letting community leaders resell daily goods via an app.",
+      "zh": "印尼領先的在地化社交電商平台,讓社區團長透過 App 轉售日常用品。"
+    },
+    "highlight": {
+      "en": "A YC startup building a 'Pinduoduo for Indonesia,' empowering community leaders to become retailers through group buying. It raised roughly $106M across rounds, including a $70M Series C led by NEA, backed by Y Combinator's Continuity Fund and SoftBank Ventures Asia.",
+      "zh": "一家打造「印尼版拼多多」的 YC 新創,透過團購讓社區團長成為零售商。公司累計募資約 1.06 億美元,包含由 NEA 領投的 7,000 萬美元 C 輪,並獲 YC Continuity Fund 與軟銀亞洲創投支持。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$106M total; $70M Series C led by NEA (2022)",
+      "zh": "累計募資約 1.06 億美元;2022 年由 NEA 領投募得 7,000 萬美元 C 輪"
+    },
+    "founders": "Steven Wongsoredjo, Michael Rendy",
+    "sources": [
+      { "title": "Indonesian hyperlocal social commerce app Super gets $70M | TechCrunch", "url": "https://techcrunch.com/2022/06/01/indonesian-hyperlocal-social-commerce-app-super-gets-70m-led-by-nea/" },
+      { "title": "Super raises $28M led by SoftBank Ventures Asia | TechCrunch", "url": "https://techcrunch.com/2021/04/28/super-an-indonesian-hyperlocal-social-commerce-startup-raises-28m-led-by-softbank-ventures-asia/" }
+    ]
+  }
+]

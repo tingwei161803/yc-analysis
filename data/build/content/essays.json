@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "do-things-that-dont-scale",
+    "title": { "en": "Do Things That Don't Scale", "zh": "做那些無法規模化的事" },
+    "year": "2013",
+    "digest": {
+      "en": "Startups don't take off by themselves; founders must manually recruit early users and deliver an unscalably good experience to get the flywheel spinning. The effort that doesn't scale in the beginning is precisely what creates the growth that eventually does.",
+      "zh": "新創公司不會自己起飛,創辦人必須親手去招募最早的使用者,並提供無法規模化的極致體驗,才能讓飛輪轉起來。一開始那些無法規模化的努力,正是日後規模化成長的源頭。"
+    },
+    "quote": {
+      "en": "The most common unscalable thing founders have to do at the start is to recruit users manually.",
+      "zh": "創辦人在初期最常見、且無法規模化的事,就是親手一個一個地去招募使用者。"
+    },
+    "url": "https://paulgraham.com/ds.html"
+  },
+  {
+    "slug": "how-to-get-startup-ideas",
+    "title": { "en": "How to Get Startup Ideas", "zh": "如何取得新創點子" },
+    "year": "2012",
+    "digest": {
+      "en": "The best startup ideas aren't dreamed up on purpose; they're noticed as problems you yourself have, ideally while living at the leading edge of some rapidly changing field. Build something a small number of users want a large amount, rather than something many people want only slightly.",
+      "zh": "最好的新創點子不是刻意想出來的,而是當你身處某個快速變化領域的前沿時,從自己親身遇到的問題中被「注意到」的。要做出一小群人非常想要的東西,而不是很多人只是稍微想要的東西。"
+    },
+    "quote": {
+      "en": "The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.",
+      "zh": "想出新創點子的方法,不是去硬想新創點子,而是去尋找問題——最好是你自己也有的問題。"
+    },
+    "url": "https://paulgraham.com/startupideas.html"
+  },
+  {
+    "slug": "makers-schedule-managers-schedule",
+    "title": { "en": "Maker's Schedule, Manager's Schedule", "zh": "創造者的時程,管理者的時程" },
+    "year": "2009",
+    "digest": {
+      "en": "Managers live by the calendar in one-hour slots, but makers like programmers and writers need long uninterrupted blocks, so a single meeting can wreck a whole afternoon. Understanding which schedule someone is on explains much of the friction between bosses and the people who actually build things.",
+      "zh": "管理者以一小時為單位、依行事曆過活,但程式設計師、作家這類創造者需要長段不被打斷的時間,因此一場會議就能毀掉整個下午。理解一個人處於哪種時程,就能解釋老闆與實際做事的人之間大部分的摩擦。"
+    },
+    "quote": {
+      "en": "When you're operating on the maker's schedule, meetings are a disaster.",
+      "zh": "當你採用創造者的時程時,會議就是一場災難。"
+    },
+    "url": "https://paulgraham.com/makersschedule.html"
+  },
+  {
+    "slug": "startup-equals-growth",
+    "title": { "en": "Startup = Growth", "zh": "新創公司 = 成長" },
+    "year": "2012",
+    "digest": {
+      "en": "A startup is a company designed to grow fast; being newly founded or working on technology doesn't make a company a startup, but a high growth rate does. Everything—from which ideas to pursue to who to hire—follows from optimizing relentlessly for growth.",
+      "zh": "新創公司是一家被設計來快速成長的公司;剛成立或做技術,都不足以讓一家公司成為新創,真正的關鍵是高成長率。從要做哪些點子到要雇用誰,一切都源於對成長的不懈追求。"
+    },
+    "quote": {
+      "en": "A startup is a company designed to grow fast.",
+      "zh": "新創公司,就是一家被設計來快速成長的公司。"
+    },
+    "url": "https://paulgraham.com/growth.html"
+  },
+  {
+    "slug": "how-to-start-a-startup",
+    "title": { "en": "How to Start a Startup", "zh": "如何創辦一家新創公司" },
+    "year": "2005",
+    "digest": {
+      "en": "You need just three things to start a startup: good people, something customers actually want, and to spend as little money as possible. Get those right and you can ignore almost everything else; get any of them badly wrong and nothing else will save you.",
+      "zh": "創辦一家新創公司只需要三樣東西:好的人、顧客真正想要的東西,以及盡可能少花錢。把這三點做對,你幾乎可以忽略其他一切;其中任何一點嚴重出錯,其他什麼都救不了你。"
+    },
+    "quote": {
+      "en": "You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible.",
+      "zh": "要打造一家成功的新創公司,你需要三件事:從好的人開始、做出顧客真正想要的東西,並盡可能少花錢。"
+    },
+    "url": "https://paulgraham.com/start.html"
+  },
+  {
+    "slug": "why-to-not-not-start-a-startup",
+    "title": { "en": "Why to Not Not Start a Startup", "zh": "為什麼別「不要」創業" },
+    "year": "2007",
+    "digest": {
+      "en": "Most reasons people give themselves for not starting a startup—too young, too inexperienced, not a programmer, no idea—are mostly fears in disguise rather than real obstacles. The real question isn't whether you're qualified, but whether you'd regret never trying.",
+      "zh": "人們替自己找的各種「不創業」的理由——太年輕、太沒經驗、不是工程師、沒有點子——大多是恐懼的偽裝,而非真正的障礙。真正的問題不是你夠不夠格,而是你會不會後悔從未嘗試。"
+    },
+    "quote": {
+      "en": "What I've learned is that the problem with startups is that you have to do them when you're young, and that's exactly when you're least able to judge whether they're a good idea.",
+      "zh": "我學到的是,新創的難處在於你得趁年輕去做,而那恰恰是你最難判斷它是不是好主意的時候。"
+    },
+    "url": "https://paulgraham.com/notnot.html"
+  },
+  {
+    "slug": "cities-and-ambition",
+    "title": { "en": "Cities and Ambition", "zh": "城市與野心" },
+    "year": "2008",
+    "digest": {
+      "en": "Great cities each send a subtle, constant message about what matters most—power in New York, money in nothing-quite, status in Boston's learning, newness in Silicon Valley—and that message shapes the ambitious people who live there. Where you live quietly steers what kind of ambition you end up pursuing.",
+      "zh": "每座偉大的城市都不斷傳遞一種微妙的訊息,告訴你什麼最重要——紐約談權力、波士頓談學識、矽谷談「做出新東西」——而這訊息會形塑住在那裡、有野心的人。你住在哪裡,會悄悄決定你最終追求哪一種野心。"
+    },
+    "quote": {
+      "en": "Great cities attract ambitious people. You can sense it when you walk around one.",
+      "zh": "偉大的城市會吸引有野心的人。當你走在其中,你能感受到這一點。"
+    },
+    "url": "https://paulgraham.com/cities.html"
+  },
+  {
+    "slug": "hackers-and-painters",
+    "title": { "en": "Hackers and Painters", "zh": "駭客與畫家" },
+    "year": "2003",
+    "digest": {
+      "en": "Hackers are makers more akin to painters and writers than to scientists; programming at its best is a creative act of design, learned by doing and refined by iteration. Treating code as something to be crafted and rewritten, not merely specified, is what produces great software.",
+      "zh": "駭客是創造者,本質上更接近畫家與作家,而非科學家;最好的程式設計是一種設計的創作行為,靠實作中學習、靠反覆修改而臻於完善。把程式碼當成需要被雕琢、重寫的作品,而非僅僅照規格實作,才能寫出偉大的軟體。"
+    },
+    "quote": {
+      "en": "Hackers, likewise, learn to program by writing programs they care about.",
+      "zh": "同樣地,駭客是透過撰寫自己真正在乎的程式來學會寫程式的。"
+    },
+    "url": "https://paulgraham.com/hp.html"
+  },
+  {
+    "slug": "the-top-idea-in-your-mind",
+    "title": { "en": "The Top Idea in Your Mind", "zh": "你腦中最上層的那個念頭" },
+    "year": "2010",
+    "digest": {
+      "en": "Your mind drifts, in idle moments, to whatever is the top idea in it—and you make your best progress on whatever that happens to be. Guard what occupies that top slot, because money disputes or contentious arguments can hijack it and starve the work that truly matters.",
+      "zh": "在發呆的時刻,你的思緒會自動飄向腦中最上層的那個念頭——而你也會在那件事上取得最大的進展。要守護佔據那個位置的東西,因為金錢糾紛或爭執很容易劫持它,讓真正重要的工作得不到滋養。"
+    },
+    "quote": {
+      "en": "Everyone who's worked on difficult problems is probably familiar with the phenomenon of working hard to figure something out, failing, and then suddenly seeing the answer a bit later while doing something else.",
+      "zh": "凡是處理過難題的人大概都熟悉這種現象:你拚命想解開某件事卻失敗了,過了一會兒在做別的事時,答案卻突然浮現。"
+    },
+    "url": "https://paulgraham.com/top.html"
+  },
+  {
+    "slug": "default-alive-or-default-dead",
+    "title": { "en": "Default Alive or Default Dead?", "zh": "預設存活,還是預設死亡?" },
+    "year": "2015",
+    "digest": {
+      "en": "Every startup that isn't yet profitable should know whether, on current revenue growth and burn, it would reach profitability before the money runs out—'default alive'—or not—'default dead.' Founders too often postpone this question, and asking it early changes which decisions are reckless and which are prudent.",
+      "zh": "每一家尚未獲利的新創都應該知道:依照目前的營收成長與燒錢速度,它能不能在錢燒完前達到獲利——也就是「預設存活」,還是「預設死亡」。創辦人常把這個問題拖太久,而及早問它,會改變哪些決定算魯莽、哪些算審慎。"
+    },
+    "quote": {
+      "en": "When I talk to a startup that's been operating for more than 8 or 9 months, the first thing I want to know is almost always the same. Assuming their expenses remain constant and their revenue growth is what it has been over the last several months, do they make it to profitability on the money they have left?",
+      "zh": "當我和一家營運超過八、九個月的新創談話時,我最先想知道的幾乎總是同一件事:假設支出不變、營收成長維持近幾個月的水準,他們能不能靠剩下的錢撐到獲利?"
+    },
+    "url": "https://paulgraham.com/aord.html"
+  },
+  {
+    "slug": "before-the-startup",
+    "title": { "en": "Before the Startup", "zh": "創業之前" },
+    "year": "2014",
+    "digest": {
+      "en": "Startups are so counterintuitive that the instincts that serve you well in normal life often mislead you, so it can be safer to act on knowledge of specific situations than on general principles. The most reliable preparation isn't studying startups but simply becoming very good at something and learning how users behave.",
+      "zh": "新創公司違反直覺到一個程度,以至於在日常生活中管用的本能,反而常常把你帶偏,因此依據具體情境的知識行事,往往比套用通則更安全。最可靠的準備,不是去研究新創,而是單純地把某件事做到非常好,並了解使用者的行為。"
+    },
+    "quote": {
+      "en": "Startups are very counterintuitive. I'm not sure why.",
+      "zh": "新創公司非常違反直覺,我也不確定為什麼。"
+    },
+    "url": "https://paulgraham.com/before.html"
+  },
+  {
+    "slug": "beating-the-averages",
+    "title": { "en": "Beating the Averages", "zh": "打敗平均水準" },
+    "year": "2003",
+    "digest": {
+      "en": "By writing Viaweb in Lisp, a more powerful language than competitors used, the team could build features faster and stay ahead—an edge Graham calls the 'Blub Paradox,' where programmers can't see the power of languages above the one they know. Choosing a more powerful tool than your rivals can be a quiet but decisive competitive advantage.",
+      "zh": "因為用比競爭對手更強大的語言 Lisp 來寫 Viaweb,團隊能更快開發功能、保持領先——Graham 稱之為「Blub 悖論」:程式設計師看不見比自己所用語言更高層次的語言有多強大。選擇比對手更強大的工具,可以是一種低調卻決定性的競爭優勢。"
+    },
+    "quote": {
+      "en": "Our hypothesis was that if we wrote our software in Lisp, we'd be able to get features done faster than our competitors, and also to do things in our software that they couldn't do.",
+      "zh": "我們的假設是:如果用 Lisp 來寫軟體,我們能比競爭對手更快完成功能,還能做出他們做不到的東西。"
+    },
+    "url": "https://paulgraham.com/avg.html"
+  },
+  {
+    "slug": "schlep-blindness",
+    "title": { "en": "Schlep Blindness", "zh": "苦差事盲點" },
+    "year": "2012",
+    "digest": {
+      "en": "A schlep is a tedious, unpleasant task, and we're often unconsciously blind to startup ideas that involve a lot of them—which is exactly why those ideas stay unclaimed and valuable. Stripe succeeded precisely because its founders were willing to wade through the schleps others avoided.",
+      "zh": "schlep 指的是繁瑣又惱人的苦差事,而我們常會在不知不覺中對那些充滿苦差事的新創點子視而不見——這正是這些點子至今無人認領、因而珍貴的原因。Stripe 之所以成功,正是因為它的創辦人願意去趟那些別人避之唯恐不及的苦差事。"
+    },
+    "quote": {
+      "en": "No one likes schleps, but hackers especially dislike them.",
+      "zh": "沒有人喜歡苦差事,而駭客尤其討厭它們。"
+    },
+    "url": "https://paulgraham.com/schlep.html"
+  },
+  {
+    "slug": "ramen-profitable",
+    "title": { "en": "Ramen Profitable", "zh": "泡麵級獲利" },
+    "year": "2009",
+    "digest": {
+      "en": "Ramen profitable means a startup makes just enough to cover the founders' modest living expenses, which is different from being a real business but enormously valuable. It buys time and proves the idea, shifting power back to founders by removing the desperate need to raise money.",
+      "zh": "「泡麵級獲利」指的是新創賺到的錢剛好夠支付創辦人微薄的生活費,這雖不等於成為一門真正的生意,卻極具價值。它能爭取時間、驗證點子,並因為消除了非募資不可的急迫性,把主導權交還給創辦人。"
+    },
+    "quote": {
+      "en": "Ramen profitable means a startup makes just enough to pay the founders' living expenses.",
+      "zh": "泡麵級獲利,意思是新創賺到的錢剛好夠支付創辦人的生活開銷。"
+    },
+    "url": "https://paulgraham.com/ramenprofitable.html"
+  },
+  {
+    "slug": "how-to-make-wealth",
+    "title": { "en": "How to Make Wealth", "zh": "如何創造財富" },
+    "year": "2004",
+    "digest": {
+      "en": "Wealth is not the same as money; wealth is the stuff we want, and it can be created, which is why making things people want is the real route to getting rich. A startup is a way to compress a working lifetime into a few years by combining measurement of your output with the leverage to scale it.",
+      "zh": "財富不等於金錢;財富是我們想要的東西,而且它可以被「創造」出來,這正是為什麼做出人們想要的東西才是致富的真正途徑。新創則是一種把一輩子的工作壓縮進幾年的方式,做法是把對你產出的「衡量」與放大它的「槓桿」結合起來。"
+    },
+    "quote": {
+      "en": "If you want to create wealth, it will help to understand what it is. Wealth is not the same thing as money.",
+      "zh": "如果你想創造財富,先弄懂它是什麼會很有幫助。財富與金錢並不是同一回事。"
+    },
+    "url": "https://paulgraham.com/wealth.html"
+  },
+  {
+    "slug": "life-is-short",
+    "title": { "en": "Life is Short", "zh": "人生苦短" },
+    "year": "2016",
+    "digest": {
+      "en": "Having kids made Graham viscerally feel how finite time is, and how much of it gets eaten by 'bullshit'—the pointless obligations and distractions we tolerate by default. The remedy is to consciously prune the bullshit and protect time for the few things and people that genuinely matter.",
+      "zh": "有了孩子後,Graham 才真切感受到時間是多麼有限,以及其中有多少被「鳥事」吃掉——那些我們因預設而容忍的無謂義務與干擾。解方是有意識地修剪這些鳥事,把時間留給真正重要的少數人事物。"
+    },
+    "quote": {
+      "en": "Life is short, as everyone knows. When I was a kid I used to wonder about this. Is life actually short, or are we really complaining about its finiteness?",
+      "zh": "人人都知道人生苦短。小時候我曾納悶:人生真的「短」嗎,還是我們其實是在抱怨它有盡頭?"
+    },
+    "url": "https://paulgraham.com/vb.html"
+  },
+  {
+    "slug": "mean-people-fail",
+    "title": { "en": "Mean People Fail", "zh": "刻薄的人會失敗" },
+    "year": "2014",
+    "digest": {
+      "en": "Among the most successful founders Graham has known, almost none are mean, and he argues meanness actively works against ambitious success rather than enabling it. The best work comes from being driven by a benevolent idea, and meanness shrinks the kind of thinking that builds great things.",
+      "zh": "在 Graham 認識的最成功創辦人中,幾乎沒有人是刻薄的;他主張刻薄非但無助於成功,反而會主動拖累有野心的成就。最好的成果源於被某個良善的理念所驅動,而刻薄會限縮那種能成就偉大事物的思維。"
+    },
+    "quote": {
+      "en": "Startups don't win by attacking. They win by transcending.",
+      "zh": "新創不是靠攻擊取勝,而是靠超越取勝。"
+    },
+    "url": "https://paulgraham.com/mean.html"
+  },
+  {
+    "slug": "how-to-disagree",
+    "title": { "en": "How to Disagree", "zh": "如何反對" },
+    "year": "2008",
+    "digest": {
+      "en": "Graham lays out a hierarchy of disagreement, from name-calling and ad hominem at the bottom up to refuting the central point at the top, as a way to think more clearly about online argument. Climbing toward the higher forms makes people not only more convincing but also, over time, happier and less mean.",
+      "zh": "Graham 提出了一個「反對的層級」,從最底層的謾罵與人身攻擊,一路往上到最高層的駁斥對方的核心論點,作為更清晰地思考網路爭論的方法。往更高的層級攀升,不僅讓人更有說服力,長期下來也會讓人更快樂、更不刻薄。"
+    },
+    "quote": {
+      "en": "The most powerful form of disagreement is to refute someone's central point.",
+      "zh": "最有力的反對形式,是駁斥對方的核心論點。"
+    },
+    "url": "https://paulgraham.com/disagree.html"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "text": {
+      "en": "Make something people want.",
+      "zh": "做出人們想要的東西。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Y Combinator's motto; coined about a month after YC started in 2005.",
+      "zh": "Y Combinator 的座右銘;在 2005 年 YC 成立約一個月後提出。"
+    }
+  },
+  {
+    "text": {
+      "en": "One of the most common types of advice we give at Y Combinator is to do things that don't scale.",
+      "zh": "我們在 Y Combinator 最常給的建議之一,就是去做那些無法規模化的事。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"Do Things that Don't Scale,\" July 2013.",
+      "zh": "出自散文〈Do Things that Don't Scale〉,2013 年 7 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "Startups don't win by attacking. They win by transcending.",
+      "zh": "新創不是靠攻擊取勝,而是靠超越取勝。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"How to Make Wealth,\" from Hackers & Painters (2004).",
+      "zh": "出自散文〈How to Make Wealth〉,收錄於《Hackers & Painters》(2004)。"
+    }
+  },
+  {
+    "text": {
+      "en": "The most important thing for a startup is to make something people want.",
+      "zh": "對一家新創來說,最重要的事就是做出人們想要的東西。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"Startups in 13 Sentences,\" February 2009.",
+      "zh": "出自散文〈Startups in 13 Sentences〉,2009 年 2 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "It's better to have 100 people love you than to have a million people sort of like you.",
+      "zh": "讓 100 個人愛你,勝過讓一百萬個人只是有點喜歡你。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Quoting Brian Chesky / a principle learned from Paul Buchheit; widely cited YC advice.",
+      "zh": "引述 Brian Chesky 與源自 Paul Buchheit 的原則;YC 廣為流傳的建議。"
+    }
+  },
+  {
+    "text": {
+      "en": "A startup is a company designed to grow fast.",
+      "zh": "新創就是一家為了快速成長而設計的公司。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"Startup = Growth,\" September 2012.",
+      "zh": "出自散文〈Startup = Growth〉,2012 年 9 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.",
+      "zh": "想出新創點子的方法,不是硬去想點子,而是去尋找問題,最好是你自己也有的問題。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"How to Get Startup Ideas,\" November 2012.",
+      "zh": "出自散文〈How to Get Startup Ideas〉,2012 年 11 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "Live in the future, then build what's missing.",
+      "zh": "活在未來,然後把缺的東西做出來。"
+    },
+    "author": "Paul Graham",
+    "context": {
+      "en": "Essay \"How to Get Startup Ideas,\" November 2012.",
+      "zh": "出自散文〈How to Get Startup Ideas〉,2012 年 11 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "It's better to build something that a small number of users love than a large number of users like.",
+      "zh": "做出讓少數人深愛的東西,勝過做出讓多數人只是喜歡的東西。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Stanford CS183B / \"How to Start a Startup\" lecture, 2014.",
+      "zh": "出自史丹佛 CS183B「How to Start a Startup」課程,2014 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "It's much easier to expand from something that a small number of people love to something that a lot of people love than from something a lot of people like.",
+      "zh": "從少數人深愛的東西,擴展成多數人深愛的東西,遠比從多數人只是喜歡的東西去擴展來得容易。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Stanford CS183B / \"How to Start a Startup\" lecture, 2014.",
+      "zh": "出自史丹佛 CS183B「How to Start a Startup」課程,2014 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "The degree to which the outcome of a startup depends on luck is something most founders underestimate.",
+      "zh": "新創的成敗有多大程度取決於運氣,是大多數創辦人都低估的。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Stanford CS183B lecture 1, \"Ideas, Products, Teams and Execution,\" 2014.",
+      "zh": "出自史丹佛 CS183B 第一講〈Ideas, Products, Teams and Execution〉,2014 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "So all you need is a great idea, a great team, a great product, and great execution. So easy!",
+      "zh": "所以你只需要一個好點子、一支好團隊、一個好產品,加上絕佳的執行力。多麼簡單!"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Stanford CS183B lecture 1, 2014 (said wryly).",
+      "zh": "出自史丹佛 CS183B 第一講,2014 年(語帶反諷)。"
+    }
+  },
+  {
+    "text": {
+      "en": "A bad team will not deliver a good product, ever.",
+      "zh": "糟糕的團隊永遠做不出好產品。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Stanford CS183B lecture 1, 2014.",
+      "zh": "出自史丹佛 CS183B 第一講,2014 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "You get rich by owning things that increase rapidly in value.",
+      "zh": "你致富的方式,是擁有那些價值快速上升的東西。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Blog post \"How to Be Successful,\" January 2019.",
+      "zh": "出自部落格文章〈How to Be Successful〉,2019 年 1 月。"
+    }
+  },
+  {
+    "text": {
+      "en": "Almost always, the people who say \"I am going to keep going until this works, and no matter what the challenges are I'm going to figure them out\" win.",
+      "zh": "幾乎每一次,那些說「我會一直做到它成功為止,不管遇到什麼挑戰我都會想辦法解決」的人,最後都會勝出。"
+    },
+    "author": "Sam Altman",
+    "context": {
+      "en": "Blog post \"How to Be Successful,\" January 2019 (on willfulness).",
+      "zh": "出自部落格文章〈How to Be Successful〉,2019 年 1 月(談意志力)。"
+    }
+  },
+  {
+    "text": {
+      "en": "It's better to make a few people really happy than to make a lot of people semi-happy.",
+      "zh": "讓少數人真正開心,勝過讓很多人半開心。"
+    },
+    "author": "Paul Buchheit",
+    "context": {
+      "en": "Gmail creator's advice popularized via YC; \"build something 100 people love.\"",
+      "zh": "Gmail 之父經 YC 廣傳的建議:「做出 100 個人愛的東西。」"
+    }
+  },
+  {
+    "text": {
+      "en": "Limited resources free you to do what's important, instead of trying to do everything.",
+      "zh": "有限的資源反而讓你能專注做重要的事,而不是想把每件事都做。"
+    },
+    "author": "Paul Buchheit",
+    "context": {
+      "en": "Blog post \"Communicating with code,\" Paul Buchheit's blog.",
+      "zh": "出自 Paul Buchheit 部落格文章〈Communicating with code〉。"
+    }
+  },
+  {
+    "text": {
+      "en": "If your product is great, it doesn't need to be good.",
+      "zh": "如果你的產品夠卓越,它就不需要面面俱到。"
+    },
+    "author": "Paul Buchheit",
+    "context": {
+      "en": "Blog post \"If your product is Great, it doesn't need to be Good,\" 2010.",
+      "zh": "出自部落格文章〈If your product is Great, it doesn't need to be Good〉,2010 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "Talk to your users and build what they want.",
+      "zh": "去和你的使用者對話,做出他們真正想要的東西。"
+    },
+    "author": "Michael Seibel",
+    "context": {
+      "en": "\"YC's Essential Startup Advice,\" Y Combinator.",
+      "zh": "出自 Y Combinator〈YC's Essential Startup Advice〉。"
+    }
+  },
+  {
+    "text": {
+      "en": "Launch something bad quickly, then iterate. Launching a mediocre product and then talking to customers and iterating is much better than waiting to build the perfect product.",
+      "zh": "先快速推出一個不完美的版本,再持續迭代。推出一個普通的產品,然後和顧客對話、不斷迭代,遠比等著打造「完美產品」更好。"
+    },
+    "author": "Michael Seibel",
+    "context": {
+      "en": "YC startup advice on launching early; YC Startup Library.",
+      "zh": "YC 關於儘早推出產品的建議;出自 YC Startup Library。"
+    }
+  },
+  {
+    "text": {
+      "en": "The number one job of a startup is to build product and talk to users.",
+      "zh": "新創的首要任務就是打造產品,並且和使用者對話。"
+    },
+    "author": "Michael Seibel",
+    "context": {
+      "en": "\"Building Product,\" YC Startup Library lecture.",
+      "zh": "出自 YC Startup Library 課程〈Building Product〉。"
+    }
+  },
+  {
+    "text": {
+      "en": "The founders who win are the ones who are still standing after everyone else has given up.",
+      "zh": "最後勝出的創辦人,是那些在別人都放棄後仍然撐著沒倒下的人。"
+    },
+    "author": "Michael Seibel",
+    "context": {
+      "en": "On founder resilience; YC talks and interviews.",
+      "zh": "談創辦人的韌性;出自 YC 演講與訪談。"
+    }
+  },
+  {
+    "text": {
+      "en": "Founders who keep going are the ones who do well. It's not about being the smartest—it's about being relentlessly resourceful.",
+      "zh": "持續堅持下去的創辦人才會做得好。重點不在於最聰明,而在於不屈不撓、想盡辦法解決問題。"
+    },
+    "author": "Garry Tan",
+    "context": {
+      "en": "On founder traits as YC President & CEO (since 2023).",
+      "zh": "身為 YC 總裁兼執行長(2023 年起),談創辦人特質。"
+    }
+  },
+  {
+    "text": {
+      "en": "Investors are people too. They get excited about the same things that get customers excited.",
+      "zh": "投資人也是人。讓顧客興奮的東西,同樣會讓投資人興奮。"
+    },
+    "author": "Garry Tan",
+    "context": {
+      "en": "Advice on fundraising and storytelling, from YC and Initialized days.",
+      "zh": "關於募資與說故事的建議,出自 YC 與 Initialized 時期。"
+    }
+  },
+  {
+    "text": {
+      "en": "What I learned is that great founders are relentlessly resourceful, and that's something you can see very early.",
+      "zh": "我學到的是,優秀的創辦人總能不屈不撓、想盡辦法解決問題,而這在很早期就能看出來。"
+    },
+    "author": "Garry Tan",
+    "context": {
+      "en": "Reflecting on years of YC investing; interviews, 2023–2024.",
+      "zh": "回顧多年 YC 投資經驗;出自訪談,2023–2024 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "We funded people we wished someone had funded us when we were starting out.",
+      "zh": "我們投資的,正是那些當年我們創業時,也希望有人願意投資的人。"
+    },
+    "author": "Jessica Livingston",
+    "context": {
+      "en": "YC co-founder, on the firm's founding philosophy.",
+      "zh": "YC 共同創辦人,談公司的創立理念。"
+    }
+  },
+  {
+    "text": {
+      "en": "Determination is the single most important quality in startup founders.",
+      "zh": "決心是新創創辦人最重要的單一特質。"
+    },
+    "author": "Jessica Livingston",
+    "context": {
+      "en": "Talk \"The Importance of Being Determined,\" 2010.",
+      "zh": "出自演講〈The Importance of Being Determined〉,2010 年。"
+    }
+  },
+  {
+    "text": {
+      "en": "When we read applications, what we're really looking for is determination and a willingness to keep going no matter what.",
+      "zh": "我們在審閱申請時,真正在尋找的,是那種無論如何都不放棄、堅持到底的決心。"
+    },
+    "author": "Jessica Livingston",
+    "context": {
+      "en": "On evaluating YC applicants; \"The Importance of Being Determined,\" 2010.",
+      "zh": "談評估 YC 申請者;出自〈The Importance of Being Determined〉,2010 年。"
+    }
+  }
+]

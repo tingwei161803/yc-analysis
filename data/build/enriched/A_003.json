@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "zeus",
+    "summary": {
+      "en": "Tech-enabled property manager offering furnished, flexible corporate and mid-term rentals across US cities.",
+      "zh": "科技賦能的物業管理公司，在美國各城市提供附傢俱、彈性的企業與中期租屋。"
+    },
+    "highlight": {
+      "en": "Backed by Airbnb and a wave of proptech optimism, Zeus Living scaled to roughly 5,000 homes across 96 cities. After raising about $150M total, it could not survive rising interest rates and shut down in late 2023, selling its assets to rival Blueground.",
+      "zh": "在 Airbnb 投資與 proptech 熱潮加持下，Zeus Living 一度擴張到 96 個城市約 5,000 間房源。累計募資約 1.5 億美元後仍不敵升息壓力，於 2023 年底結束營運，並將資產出售給競爭對手 Blueground。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$150M total; wound down in 2023 and sold assets to Blueground",
+      "zh": "累計募資約 1.5 億美元；2023 年結束營運並將資產售予 Blueground"
+    },
+    "founders": "Kulveer Taggar, Joe Wong, Srini Panguluri",
+    "sources": [
+      { "title": "Proptech startup Zeus Living, which was backed by Airbnb, reportedly shuts down", "url": "https://techcrunch.com/2023/11/08/proptech-startup-zeus-living-which-was-backed-by-airbnb-reportedly-shuts-down/" },
+      { "title": "Zeus Living, a real estate startup backed by Airbnb, is shutting down after raising $150M in total funding", "url": "https://techstartups.com/2023/11/08/real-estate-startup-zeus-living-a-real-estate-startup-backed-by-airbnb-is-shutting-down-after-raising-150m-in-total-funding/" }
+    ]
+  },
+  {
+    "slug": "genius",
+    "summary": {
+      "en": "Music knowledge platform that annotates lyrics and tells the story behind songs for over 100M monthly users.",
+      "zh": "音樂知識平台，為歌詞加上註解並講述歌曲背後的故事，每月觸及超過 1 億名使用者。"
+    },
+    "highlight": {
+      "en": "Born as Rap Genius, the community-powered lyrics encyclopedia drew artists like Frank Ocean and Lin-Manuel Miranda to explain their own work. After raising around $80M from investors including Andreessen Horowitz, Genius was acquired by MediaLab for $80M in 2021.",
+      "zh": "前身為 Rap Genius，這個由社群驅動的歌詞百科吸引了 Frank Ocean、Lin-Manuel Miranda 等藝人親自解析作品。在向 Andreessen Horowitz 等投資人募得約 8,000 萬美元後，Genius 於 2021 年被 MediaLab 以 8,000 萬美元收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by MediaLab for $80M in 2021",
+      "zh": "2021 年被 MediaLab 以 8,000 萬美元收購"
+    },
+    "founders": "Tom Lehman, Ilan Zechory, Mahbod Moghadam",
+    "sources": [
+      { "title": "Lyrics firm Genius acquired for $80m by MediaLab", "url": "https://www.musicbusinessworldwide.com/genius-acquired-for-80m-by-medialab/" },
+      { "title": "Genius (company) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Genius_(company)" }
+    ]
+  },
+  {
+    "slug": "realm",
+    "summary": {
+      "en": "Mobile database for iOS and Android that replaces SQLite and Core Data, downloaded over 2 billion times.",
+      "zh": "適用於 iOS 與 Android 的行動資料庫，取代 SQLite 與 Core Data，下載次數逾 20 億次。"
+    },
+    "highlight": {
+      "en": "Realm became a developer favorite as a fast, easy alternative to SQLite, used by over 100,000 active developers. After raising just over $40M, it was acquired by MongoDB for $39M in 2019 to power MongoDB's mobile and sync offerings.",
+      "zh": "Realm 以快速且易用的 SQLite 替代方案成為開發者最愛，擁有逾 10 萬名活躍開發者。在募得逾 4,000 萬美元後，於 2019 年被 MongoDB 以 3,900 萬美元收購，用以強化 MongoDB 的行動與同步產品。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$40M; acquired by MongoDB for $39M in 2019",
+      "zh": "募資逾 4,000 萬美元；2019 年被 MongoDB 以 3,900 萬美元收購"
+    },
+    "founders": "Alexander Stigsen, Bjarne Christiansen",
+    "sources": [
+      { "title": "MongoDB to acquire open-source mobile database Realm for $39 million", "url": "https://techcrunch.com/2019/04/24/mongodb-to-acquire-open-source-mobile-database-realm-startup-that-raised-40m/" },
+      { "title": "MongoDB Strengthens Mobile Offerings with Acquisition of Realm", "url": "https://investors.mongodb.com/news-releases/news-release-details/mongodb-strengthens-mobile-offerings-acquisition-realm" }
+    ]
+  },
+  {
+    "slug": "caviar",
+    "summary": {
+      "en": "Premium food-delivery service that partners directly with top restaurants for on-demand ordering.",
+      "zh": "高端餐飲外送服務，直接與頂級餐廳合作，提供隨需點餐。"
+    },
+    "highlight": {
+      "en": "Caviar carved out the upscale corner of food delivery, partnering with sought-after restaurants that rivals lacked. Square bought it for $44.3M in 2014, then sold it to DoorDash for $410M in 2019.",
+      "zh": "Caviar 在外送市場開拓出高端利基，與競爭對手難以拿下的熱門餐廳合作。Square 於 2014 年以 4,430 萬美元收購，並於 2019 年以 4.1 億美元轉售給 DoorDash。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Square for $44.3M (2014), sold to DoorDash for $410M (2019)",
+      "zh": "2014 年被 Square 以 4,430 萬美元收購，2019 年以 4.1 億美元售予 DoorDash"
+    },
+    "founders": "Jason Wang, Andy Zhang, Shawn Tsao, Richard Din",
+    "sources": [
+      { "title": "DoorDash is buying Caviar from Square in a deal worth $410 million", "url": "https://techcrunch.com/2019/08/01/doordash-is-buying-caviar-from-square/" },
+      { "title": "Square sells food-delivery service Caviar to DoorDash for $410 million", "url": "https://www.cnbc.com/2019/08/01/square-sells-food-delivery-service-caviar-to-doordash-for-410-million.html" }
+    ]
+  },
+  {
+    "slug": "compose",
+    "summary": {
+      "en": "Fully-managed database-as-a-service that lets developers deploy and scale PostgreSQL, Redis, MongoDB and more.",
+      "zh": "全託管的資料庫即服務，讓開發者部署並擴展 PostgreSQL、Redis、MongoDB 等多種資料庫。"
+    },
+    "highlight": {
+      "en": "Starting life as MongoHQ, Compose grew into a multi-database hosting platform covering MongoDB, Redis, Elasticsearch, PostgreSQL and more. After raising about $6.4M, it was acquired by IBM in 2015 to expand IBM's cloud data services.",
+      "zh": "前身為 MongoHQ，Compose 發展成支援 MongoDB、Redis、Elasticsearch、PostgreSQL 等多種資料庫的託管平台。在募得約 640 萬美元後，於 2015 年被 IBM 收購，用以擴展 IBM 的雲端資料服務。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$6.4M; acquired by IBM in 2015",
+      "zh": "募資約 640 萬美元；2015 年被 IBM 收購"
+    },
+    "founders": "Kurt Mackey, Jason McKay",
+    "sources": [
+      { "title": "IBM Acquires Database-As-A-Service Startup Compose", "url": "https://techcrunch.com/2015/07/23/ibm-acquires-database-as-a-service-startup-compose/" },
+      { "title": "Compose (YC S11) Acquired By IBM", "url": "https://www.ycombinator.com/blog/compose-yc-s11-acquired-by-ibm" }
+    ]
+  },
+  {
+    "slug": "automatic",
+    "summary": {
+      "en": "Connected-car adapter and app that plug into a vehicle to surface diagnostics, crash alerts and trip data.",
+      "zh": "連網車載轉接器與應用程式，插上車輛即可提供診斷、車禍警示與行程數據。"
+    },
+    "highlight": {
+      "en": "Automatic turned any car into a connected vehicle with a dongle that delivered diagnostics, crash assistance and trip tracking via your phone. SiriusXM acquired it for $115M in 2017, but the product was shut down in 2020 amid the COVID-19 downturn.",
+      "zh": "Automatic 透過一個轉接器，讓任何車輛變身連網車，並在手機上提供診斷、車禍協助與行程追蹤。SiriusXM 於 2017 年以 1.15 億美元收購，但該產品在 2020 年新冠疫情衝擊下停止營運。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by SiriusXM for $115M in 2017; shut down in 2020",
+      "zh": "2017 年被 SiriusXM 以 1.15 億美元收購；2020 年結束營運"
+    },
+    "founders": "Thejo Kote, Ljuba Miljkovic, Jerry Jariyasunant",
+    "sources": [
+      { "title": "SiriusXM Acquires Automatic Labs Inc.", "url": "https://www.prnewswire.com/news-releases/siriusxm-acquires-automatic-labs-inc-300447085.html" },
+      { "title": "Automatic Labs succumbs to COVID-19, will soon shut down connected car service", "url": "https://www.digitaltrends.com/cars/automatic-labs-shutdown-covid-19/" }
+    ]
+  },
+  {
+    "slug": "gusto",
+    "summary": {
+      "en": "All-in-one platform that automates payroll, benefits and HR for small and growing businesses.",
+      "zh": "一站式平台，為中小企業與成長型企業自動化薪資、福利與人資作業。"
+    },
+    "highlight": {
+      "en": "Launched as ZenPayroll, Gusto now serves more than 300,000 businesses and processes tens of billions of dollars in payroll yearly. It was valued at $9.5B in 2022 and surpassed $1B in annual revenue by 2026, putting it on a path toward a public listing.",
+      "zh": "前身為 ZenPayroll，Gusto 如今服務超過 30 萬家企業，每年處理數百億美元薪資。公司在 2022 年估值達 95 億美元，並於 2026 年突破 10 億美元年營收，正邁向公開上市之路。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$9.3-9.5B; raised ~$746M total",
+      "zh": "最近估值約 93-95 億美元；累計募資約 7.46 億美元"
+    },
+    "founders": "Joshua Reeves, Tomer London, Edward Kim",
+    "sources": [
+      { "title": "Gusto, Inc. - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gusto,_Inc." },
+      { "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets", "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/" }
+    ]
+  },
+  {
+    "slug": "wave",
+    "summary": {
+      "en": "Mobile money app building radically affordable financial infrastructure across Africa.",
+      "zh": "行動支付應用程式，在非洲打造極為平價的金融基礎設施。"
+    },
+    "highlight": {
+      "en": "Wave became Francophone Africa's first unicorn by undercutting incumbents with low-fee mobile money transfers. A $200M Series A led by Stripe and Sequoia Heritage in 2021 valued it at $1.7B, and it later raised a $137M debt round to expand pan-African.",
+      "zh": "Wave 以低手續費的行動支付轉帳擊敗既有業者，成為法語非洲第一隻獨角獸。2021 年由 Stripe 與 Sequoia Heritage 領投的 2 億美元 A 輪使其估值達 17 億美元，之後再募得 1.37 億美元債務融資以擴展泛非洲業務。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$1.7B (2021); raised $200M Series A plus $137M debt",
+      "zh": "估值約 17 億美元（2021）；募得 2 億美元 A 輪及 1.37 億美元債務融資"
+    },
+    "founders": "Drew Durbin, Lincoln Quirk",
+    "sources": [
+      { "title": "Sequoia Heritage, Stripe and others invest $200M in African fintech Wave at $1.7B valuation", "url": "https://techcrunch.com/2021/09/06/sequoia-heritage-stripe-and-others-invest-200m-in-african-fintech-wave-at-1-7b-valuation/" },
+      { "title": "How Wave became Francophone Africa's first unicorn startup", "url": "https://techcabal.com/2021/09/07/how-wave-became-francophone-africas-first-unicorn-startup/" }
+    ]
+  },
+  {
+    "slug": "amplitude",
+    "summary": {
+      "en": "Digital analytics platform that shows companies what users love, where they get stuck and what retains them.",
+      "zh": "數位分析平台，幫助企業了解使用者喜好、卡關處與留存關鍵。"
+    },
+    "highlight": {
+      "en": "Amplitude pioneered the product-analytics category, becoming the go-to tool for the likes of DoorDash, Coinbase and Atlassian. It went public via direct listing on Nasdaq (AMPL) in September 2021, debuting at a valuation around $7B.",
+      "zh": "Amplitude 開創了產品分析品類，成為 DoorDash、Coinbase、Atlassian 等公司的首選工具。它於 2021 年 9 月以直接上市方式登陸 Nasdaq（代碼 AMPL），掛牌估值約 70 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Public on Nasdaq (AMPL); market cap ~$1-2B",
+      "zh": "於 Nasdaq 上市（代碼 AMPL）；市值約 10-20 億美元"
+    },
+    "founders": "Spenser Skates, Curtis Liu, Jeffrey Wang",
+    "sources": [
+      { "title": "Amplitude, Inc. - Wikipedia", "url": "https://en.wikipedia.org/wiki/Amplitude,_Inc." },
+      { "title": "Amplitude's CEO is worth $450 million after a stellar opening day on the Nasdaq", "url": "https://www.businessofbusiness.com/articles/amplitude-ipo-direct-listing-nasdaq-stock-spenser-skates/" }
+    ]
+  },
+  {
+    "slug": "plangrid",
+    "summary": {
+      "en": "Mobile construction software for managing blueprints, RFIs, field reports and punch lists on site.",
+      "zh": "行動營建軟體，用於在工地管理藍圖、RFI、現場報告與缺失清單。"
+    },
+    "highlight": {
+      "en": "PlanGrid moved construction blueprints from paper to the iPad, hosting over 100 million digital plans across 1 million projects in 84 countries. After raising more than $69M, it was acquired by Autodesk for $875M in 2018.",
+      "zh": "PlanGrid 將營建藍圖從紙本搬上 iPad，在 84 個國家、100 萬個專案中託管逾 1 億份數位圖紙。在募得逾 6,900 萬美元後，於 2018 年被 Autodesk 以 8.75 億美元收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$69M; acquired by Autodesk for $875M in 2018",
+      "zh": "募資逾 6,900 萬美元；2018 年被 Autodesk 以 8.75 億美元收購"
+    },
+    "founders": "Tracy Young, Ralph Gootee, Kenny Stone, Antoine Hersen, Ryan Sutton-Gee",
+    "sources": [
+      { "title": "Autodesk agrees to buy PlanGrid for $875 million", "url": "https://techcrunch.com/2018/11/20/autodesk-agrees-to-buy-plangrid-for-875-million/" },
+      { "title": "Autodesk to acquire PlanGrid for $875M", "url": "https://www.constructiondive.com/news/autodesk-to-acquire-plangrid-for-875m-cash/542760/" }
+    ]
+  },
+  {
+    "slug": "sendwave",
+    "summary": {
+      "en": "App for instant, no-fee international remittances from North America and Europe to Africa and Asia.",
+      "zh": "提供即時、零手續費國際匯款的應用程式，從北美與歐洲匯往非洲與亞洲。"
+    },
+    "highlight": {
+      "en": "Sendwave set out to make sending money as easy and cheap as a text, building a fast-growing digital remittance service to East and West Africa. WorldRemit acquired it in 2020 in a deal valued at $500M.",
+      "zh": "Sendwave 立志讓匯款像傳簡訊一樣簡單便宜，打造出快速成長、匯往東非與西非的數位匯款服務。WorldRemit 於 2020 年以 5 億美元的交易將其收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by WorldRemit in a deal valued at $500M (2020)",
+      "zh": "2020 年被 WorldRemit 以 5 億美元的交易收購"
+    },
+    "founders": "Drew Durbin, Lincoln Quirk",
+    "sources": [
+      { "title": "WorldRemit to Acquire Sendwave", "url": "https://www.businesswire.com/news/home/20200825005820/en/WorldRemit-to-Acquire-Sendwave" },
+      { "title": "Sendwave: Instant, no fee international remittances. | Y Combinator", "url": "https://www.ycombinator.com/companies/sendwave" }
+    ]
+  },
+  {
+    "slug": "matterport",
+    "summary": {
+      "en": "Immersive 3D capture platform that turns real-world spaces into navigable digital twins on web and mobile.",
+      "zh": "沉浸式 3D 擷取平台，將真實空間轉換為可在網頁與行動裝置上瀏覽的數位孿生。"
+    },
+    "highlight": {
+      "en": "Matterport built the first end-to-end system for capturing, hosting and exploring 3D digital twins of real spaces, becoming the category leader. After going public via SPAC in 2021, it was acquired by CoStar Group in 2025 in a deal valuing it at roughly $1.6B enterprise value.",
+      "zh": "Matterport 打造了首套端到端系統，可擷取、託管並瀏覽真實空間的 3D 數位孿生，成為品類領導者。在 2021 年透過 SPAC 上市後，於 2025 年被 CoStar Group 收購，企業價值約 16 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Acquired by CoStar Group in 2025; ~$1.6B enterprise value",
+      "zh": "2025 年被 CoStar Group 收購；企業價值約 16 億美元"
+    },
+    "founders": "Matt Bell, David Gausebeck, Mike Beebe",
+    "sources": [
+      { "title": "CoStar Group Completes Acquisition of Matterport", "url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-completes-acquisition-matterport-ushering-new-era" },
+      { "title": "CoStar Completes Acquisition of Matterport, Which Delists From Nasdaq", "url": "https://www.rismedia.com/2025/03/03/costar-completes-acquisition-matterport-which-delists-from-nasdaq/" }
+    ]
+  }
+]

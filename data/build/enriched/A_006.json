@@ -1,0 +1,251 @@
+[
+{
+  "slug": "interana",
+  "summary": {
+    "en": "Scuba (formerly Interana) is a fast, self-serve event-based behavioral analytics platform for product and growth teams.",
+    "zh": "Scuba(前身為 Interana)是一個快速、可自助操作、以事件為基礎的行為分析平台,服務產品與成長團隊。"
+  },
+  "highlight": {
+    "en": "Founded by ex-Facebook engineers who built Facebook's internal Scuba analytics tool, the company brought sub-second interactive analytics to mainstream enterprises. It rebranded from Interana to Scuba and counts brands like Microsoft, McDonald's and Warner Bros among its users.",
+    "zh": "由打造 Facebook 內部 Scuba 分析工具的前 Facebook 工程師創立,將秒級互動式分析帶入主流企業。公司後來從 Interana 更名為 Scuba,客戶包括 Microsoft、McDonald's 與 Warner Bros 等品牌。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Raised ~$48M+ across early rounds incl. a $20M round (2015)",
+    "zh": "早期累計募資約 4,800 萬美元以上,含 2015 年的 2,000 萬美元一輪"
+  },
+  "founders": "Ann Johnson, Bobby Johnson, Lior Abraham",
+  "sources": [
+    { "title": "Backstory: Investing in Interana — Fuel Capital", "url": "https://www.fuelcapital.com/stories/2016/8/15/backstory-investing-in-interana" },
+    { "title": "Facebook, Intel alumni raise $20 million for business analytics startup — Fortune", "url": "https://fortune.com/2015/01/21/facebook-intel-analytics-startup/" }
+  ]
+},
+{
+  "slug": "north",
+  "summary": {
+    "en": "North (formerly Thalmic Labs) built wearable computing hardware, from the Myo gesture armband to Focals smart glasses.",
+    "zh": "North(前身為 Thalmic Labs)打造穿戴式運算硬體,從 Myo 手勢感測臂環到 Focals 智慧眼鏡。"
+  },
+  "highlight": {
+    "en": "A Canadian pioneer in human-computer interaction, North raised over $140M before pivoting from the Myo armband to consumer smart glasses. It was acquired by Google in 2020 for a reported ~$180M, with its Focals product shut down shortly after.",
+    "zh": "作為加拿大人機互動的先驅,North 在從 Myo 臂環轉向消費級智慧眼鏡前募資逾 1.4 億美元。2020 年被 Google 以傳聞約 1.8 億美元收購,Focals 產品隨後不久即停止支援。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Raised >$140M; acquired by Google in 2020 for a reported ~$180M",
+    "zh": "募資逾 1.4 億美元;2020 年被 Google 以傳聞約 1.8 億美元收購"
+  },
+  "founders": "Stephen Lake, Matthew Bailey, Aaron Grant",
+  "sources": [
+    { "title": "Google acquires smart glasses company North — TechCrunch", "url": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/" },
+    { "title": "A vision fades: Alphabet buying Canadian smart glasses pioneer North — The Globe and Mail", "url": "https://www.theglobeandmail.com/business/article-a-vision-fades-alphabet-buying-canadian-smart-glasses-pioneer-north/" }
+  ]
+},
+{
+  "slug": "grepdata",
+  "summary": {
+    "en": "GrepData evolved into 6sense, an AI account-based marketing and predictive sales-intelligence platform for B2B revenue teams.",
+    "zh": "GrepData 後來發展為 6sense,一個面向 B2B 營收團隊的 AI 帳戶式行銷與預測型銷售情報平台。"
+  },
+  "highlight": {
+    "en": "As 6sense, the company became a leader in predictive B2B revenue intelligence, giving sales and marketing teams visibility into who is in an active buying cycle. It reached a $5.2B valuation in its 2022 Series E, having raised over $400M.",
+    "zh": "以 6sense 之名,公司成為預測型 B2B 營收情報的領導者,讓銷售與行銷團隊掌握誰正處於活躍採購週期。其 2022 年 E 輪估值達 52 億美元,累計募資逾 4 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Last valued ~$5.2B (2022 Series E); raised >$400M",
+    "zh": "最新估值約 52 億美元(2022 年 E 輪);累計募資逾 4 億美元"
+  },
+  "founders": "Amanda Kahlow, Viral Bajaria, Premal Shah",
+  "sources": [
+    { "title": "6sense — Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/6sense" },
+    { "title": "6sense founder Amanda Kahlow raises $30 million for new startup — TechCrunch", "url": "https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/" }
+  ]
+},
+{
+  "slug": "kalibrr",
+  "summary": {
+    "en": "Kalibrr operates a two-sided recruiting marketplace connecting Southeast Asian white-collar talent with local and global employers.",
+    "zh": "Kalibrr 經營雙邊招募媒合平台,串連東南亞白領人才與在地及全球的雇主。"
+  },
+  "highlight": {
+    "en": "One of YC's notable Southeast Asia bets, Kalibrr built a talent marketplace with millions of skilled candidates concentrated in the Philippines and Indonesia. It positions itself as a fast way for companies to recruit remote sales, product, engineering and design teams in the region.",
+    "zh": "作為 YC 在東南亞的代表性投資之一,Kalibrr 打造了一個以菲律賓與印尼為核心、擁有數百萬高技能求職者的人才市場。它定位為企業在當地快速招募遠端銷售、產品、工程與設計團隊的途徑。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "",
+    "zh": ""
+  },
+  "founders": "Paul Rivera, Sean Si, Dexter Ligot-Gordon",
+  "sources": []
+},
+{
+  "slug": "doordash",
+  "summary": {
+    "en": "DoorDash is the largest U.S. restaurant and local-commerce delivery platform, connecting customers, merchants and Dashers.",
+    "zh": "DoorDash 是美國最大的餐廳與本地商務外送平台,串連消費者、商家與外送員(Dasher)。"
+  },
+  "highlight": {
+    "en": "One of YC's biggest consumer success stories, DoorDash IPO'd in December 2020, raising $3.37B and dominating U.S. restaurant delivery. As a public company it has carried a market cap roughly between $77B and over $100B in 2025-2026.",
+    "zh": "作為 YC 最成功的消費級案例之一,DoorDash 於 2020 年 12 月上市,募資 33.7 億美元,並主導美國餐廳外送市場。上市後,其市值在 2025 至 2026 年間約介於 770 億至逾 1,000 億美元。"
+  },
+  "valuation_tier": "decacorn",
+  "funding": {
+    "en": "Public (DASH); IPO raised $3.37B; market cap ~$77B-$100B+",
+    "zh": "已上市(DASH);IPO 募資 33.7 億美元;市值約 770 億至逾 1,000 億美元"
+  },
+  "founders": "Tony Xu, Andy Fang, Stanley Tang, Evan Moore",
+  "sources": [
+    { "title": "DoorDash — Wikipedia", "url": "https://en.wikipedia.org/wiki/DoorDash" },
+    { "title": "DoorDash is worth $100 billion — Fortune", "url": "https://fortune.com/2025/08/06/doordash-food-delivery-acquisitions-business-expansion-tony-xu-earnings/" }
+  ]
+},
+{
+  "slug": "webflow",
+  "summary": {
+    "en": "Webflow is a leading no-code visual web design and publishing platform that generates production-ready code for non-developers.",
+    "zh": "Webflow 是領先的無程式碼視覺化網站設計與發佈平台,能為非開發者生成可上線的程式碼。"
+  },
+  "highlight": {
+    "en": "A flagship of the no-code movement, Webflow powers sites for Discord, Dropbox, TED and Fortune 500 companies. It reached a $4B valuation in its 2022 Series C, having raised over $330M from Accel, CapitalG and others.",
+    "zh": "作為無程式碼運動的代表,Webflow 為 Discord、Dropbox、TED 與多家《財星》500 大企業提供網站支援。其 2022 年 C 輪估值達 40 億美元,並自 Accel、CapitalG 等募資逾 3.3 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Last valued ~$4B (2022 Series C); raised >$330M",
+    "zh": "最新估值約 40 億美元(2022 年 C 輪);累計募資逾 3.3 億美元"
+  },
+  "founders": "Vlad Magdalin, Sergie Magdalin, Bryant Chou",
+  "sources": [
+    { "title": "From Zero to $4 Billion: How Vlad Magdalin Built Webflow — We Are Founders", "url": "https://www.wearefounders.uk/from-zero-to-4-billion-how-vlad-magdalin-built-webflow-into-a-no-code-empire/" },
+    { "title": "Vlad Magdalin On Raising $335 Million — Alejandro Cremades", "url": "https://alejandrocremades.com/vlad-magdalin/" }
+  ]
+},
+{
+  "slug": "coreos",
+  "summary": {
+    "en": "CoreOS built open-source infrastructure for containers and Kubernetes, including Container Linux and the etcd data store.",
+    "zh": "CoreOS 打造容器與 Kubernetes 的開源基礎設施,包括 Container Linux 作業系統與 etcd 資料儲存。"
+  },
+  "highlight": {
+    "en": "A foundational player in the container era, CoreOS created etcd, the distributed key-value store at the heart of Kubernetes. Red Hat acquired the company for $250M in January 2018, folding its tech into the broader Kubernetes ecosystem.",
+    "zh": "作為容器時代的奠基者之一,CoreOS 開發了 etcd,即 Kubernetes 核心的分散式鍵值儲存。Red Hat 於 2018 年 1 月以 2.5 億美元收購該公司,將其技術整合進更廣的 Kubernetes 生態系。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by Red Hat for $250M (Jan 2018)",
+    "zh": "2018 年 1 月被 Red Hat 以 2.5 億美元收購"
+  },
+  "founders": "Alex Polvi, Brandon Philips, Michael Marineau",
+  "sources": [
+    { "title": "Red Hat acquires CoreOS for $250 million — TechCrunch", "url": "https://techcrunch.com/2018/01/30/red-hat-acquirescoreos-for-250-million-in-kubernetes-expansion/" },
+    { "title": "Red Hat to Acquire CoreOS — Red Hat Press Release", "url": "https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership" }
+  ]
+},
+{
+  "slug": "arcus",
+  "summary": {
+    "en": "Arcus was a payments-as-a-service platform enabling businesses across Latin America to launch and process payment solutions.",
+    "zh": "Arcus 是一個支付即服務(PaaS)平台,讓拉丁美洲各地的企業得以推出與處理支付解決方案。"
+  },
+  "highlight": {
+    "en": "Arcus built real-time payment and bill-pay rails used by clients like BBVA, Santander, Walmart and Rappi across the Americas. Mastercard acquired it in 2021 in one of its largest Latin America deals, expanding the network's real-time payments reach.",
+    "zh": "Arcus 打造即時支付與帳單繳費基礎設施,客戶涵蓋全美洲的 BBVA、Santander、Walmart 與 Rappi 等。Mastercard 於 2021 年收購該公司,為其在拉美最大型的交易之一,擴大其即時支付的觸及範圍。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Raised ~$20M; acquired by Mastercard (2021)",
+    "zh": "募資約 2,000 萬美元;2021 年被 Mastercard 收購"
+  },
+  "founders": "Iñigo Rumayor, Edrizio de la Cruz",
+  "sources": [
+    { "title": "Mastercard buys payments processor Arcus FI — Payments Dive", "url": "https://www.paymentsdive.com/news/mastercard-buys-payments-processor-arcus-fi-expanding-in-latin-america/610593/" },
+    { "title": "Mastercard Expands Support of Latin America Real-Time Payments with Acquisition of Arcus", "url": "https://investor.mastercard.com/investor-news/investor-news-details/2021/Mastercard-Expands-Support-of-Latin-America-Real-Time-Payments-with-Acquisition-of-Arcus/default.aspx" }
+  ]
+},
+{
+  "slug": "simplelegal",
+  "summary": {
+    "en": "SimpleLegal makes modern legal operations software for in-house counsel, covering spend, matter, accrual and IP management.",
+    "zh": "SimpleLegal 為企業內部法務團隊打造現代化法務營運軟體,涵蓋支出、案件、應計與智財管理。"
+  },
+  "highlight": {
+    "en": "SimpleLegal became a recognized disruptor in legal tech, combining e-billing, spend and matter management into one platform for corporate legal departments. It was acquired by Onit in May 2019, shortly after Onit secured a $200M investment.",
+    "zh": "SimpleLegal 成為法律科技領域公認的顛覆者,將電子帳單、支出與案件管理整合進單一平台,服務企業法務部門。公司於 2019 年 5 月被 Onit 收購,當時 Onit 剛獲得 2 億美元投資。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by Onit (May 2019, terms undisclosed)",
+    "zh": "2019 年 5 月被 Onit 收購(條款未揭露)"
+  },
+  "founders": "Nathan Wenzel, Patrik Outericky",
+  "sources": [
+    { "title": "Onit Acquires SimpleLegal to Modernize Global Legal Operations — Onit", "url": "https://www.onit.com/news/onit-acquires-simplelegal-to-modernize-global-legal-operations/" },
+    { "title": "On Heels of $200M Investment, Onit Acquires SimpleLegal — Law.com", "url": "https://www.law.com/legaltechnews/2019/05/15/on-heels-of-200m-investment-onit-acquires-legal-ops-platform-simplelegal/" }
+  ]
+},
+{
+  "slug": "spoonrocket",
+  "summary": {
+    "en": "SpoonRocket was an ultra-fast meal delivery service promising prepared meals to customers in roughly 10-15 minutes.",
+    "zh": "SpoonRocket 是一個超快速餐點外送服務,主打約 10 至 15 分鐘內將備好的餐點送達顧客。"
+  },
+  "highlight": {
+    "en": "An early entrant in the on-demand food race, SpoonRocket pioneered sub-15-minute meal delivery in the Bay Area before intense competition forced it to shut down. Brazilian delivery giant iFood acquired its logistics technology in March 2016.",
+    "zh": "作為隨選餐飲競賽的早期參與者,SpoonRocket 在灣區率先推出 15 分鐘內的餐點外送,後因激烈競爭而停止營運。巴西外送巨頭 iFood 於 2016 年 3 月收購其物流技術。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by iFood in 2016 (technology, terms undisclosed)",
+    "zh": "2016 年技術被 iFood 收購(條款未揭露)"
+  },
+  "founders": "Steven Hsiao, Anson Tsui",
+  "sources": [
+    { "title": "SpoonRocket finds a home with Brazil-based iFood — TechCrunch", "url": "https://techcrunch.com/2016/03/16/spoonrocket-finds-a-home-with-brazil-based-ifood/" },
+    { "title": "On-Demand Meal Service SpoonRocket Shuts Down — Digital Trends", "url": "https://www.digitaltrends.com/web/spoonrocket-shuts-down/" }
+  ]
+},
+{
+  "slug": "cruise",
+  "summary": {
+    "en": "Cruise developed all-electric self-driving car and robotaxi technology aimed at urban autonomous ride-hailing.",
+    "zh": "Cruise 開發全電動自駕車與機器人計程車(robotaxi)技術,目標是城市自駕叫車服務。"
+  },
+  "highlight": {
+    "en": "One of YC's most prominent hard-tech bets, Cruise was acquired by GM in 2016 in a deal valued at over $1B and once ran a commercial robotaxi service in San Francisco. After a 2023 pedestrian incident and ~$10B in cumulative losses, GM stopped funding the robotaxi business in December 2024.",
+    "zh": "作為 YC 最受矚目的硬科技投資之一,Cruise 於 2016 年被 GM 以逾 10 億美元收購,並曾在舊金山營運商業機器人計程車服務。在 2023 年發生行人事故及累計約 100 億美元虧損後,GM 於 2024 年 12 月停止資助其機器人計程車業務。"
+  },
+  "valuation_tier": "",
+  "funding": {
+    "en": "Acquired by GM (2016, >$1B); robotaxi unit wound down Dec 2024",
+    "zh": "2016 年被 GM 以逾 10 億美元收購;機器人計程車業務於 2024 年 12 月收掉"
+  },
+  "founders": "Kyle Vogt, Dan Kan",
+  "sources": [
+    { "title": "Cruise (autonomous vehicle) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)" },
+    { "title": "GM-owned robotaxi unit: Cruise CEO and founder Kyle Vogt resigns — CNBC", "url": "https://www.cnbc.com/2023/11/20/gm-owned-robotaxi-unit-cruise-ceo-and-founder-kyle-vogt-resigns.html" }
+  ]
+},
+{
+  "slug": "flexport",
+  "summary": {
+    "en": "Flexport is a technology platform for global logistics and freight forwarding, connecting buyers, sellers and logistics partners.",
+    "zh": "Flexport 是全球物流與貨運承攬的科技平台,串連買家、賣家與物流夥伴。"
+  },
+  "highlight": {
+    "en": "A leading YC enterprise success, Flexport digitized freight forwarding and supply-chain management for tens of thousands of customers. It hit an $8B valuation in its 2022 Series E and has raised about $2.7B from backers including Founders Fund, a16z and Shopify.",
+    "zh": "作為 YC 企業級的代表案例,Flexport 將貨運承攬與供應鏈管理數位化,服務數萬名客戶。其 2022 年 E 輪估值達 80 億美元,並自 Founders Fund、a16z 與 Shopify 等募資約 27 億美元。"
+  },
+  "valuation_tier": "unicorn",
+  "funding": {
+    "en": "Peaked at $8B (2022 Series E); raised ~$2.7B; recent secondaries lower",
+    "zh": "估值曾達 80 億美元(2022 年 E 輪);累計募資約 27 億美元;近期次級市場估值較低"
+  },
+  "founders": "Ryan Petersen",
+  "sources": [
+    { "title": "Ryan Petersen (businessman) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ryan_Petersen_(businessman)" },
+    { "title": "Flexport — 2026 Company Profile, Funding & Competitors — Tracxn", "url": "https://tracxn.com/d/companies/flexport/__MY-G7JqqdTHK8-1y1arkCLJEJeVwbwMgeQLTcMS4Izk" }
+  ]
+}
+]

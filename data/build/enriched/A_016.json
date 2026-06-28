@@ -1,0 +1,251 @@
+[
+  {
+    "slug": "grin",
+    "summary": {
+      "en": "Latin American micromobility and payments operator providing shared electric scooters across the region.",
+      "zh": "拉丁美洲的微移動與支付營運商，在區域內提供共享電動滑板車服務。"
+    },
+    "highlight": {
+      "en": "Grin was a YC pioneer of Latin American micromobility that merged with Brazil's Yellow in January 2019 to form Grow Mobility. The combined company ran a fleet of over 135,000 vehicles across six countries and raised about $150M.",
+      "zh": "Grin 是 YC 在拉丁美洲微移動領域的先行者，於 2019 年 1 月與巴西的 Yellow 合併成立 Grow Mobility。合併後的公司在六個國家營運超過 135,000 輛載具，並募資約 1.5 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Merged into Grow Mobility (Jan 2019); combined company raised ~$150M",
+      "zh": "於 2019 年 1 月併入 Grow Mobility，合併後公司募資約 1.5 億美元"
+    },
+    "founders": "Sergio Romo, Jonathan Lewy, Bryan Zambrano, Karime German",
+    "sources": [
+      { "title": "Electric scooter startup Grin merges with Brazil-based Yellow | TechCrunch", "url": "https://techcrunch.com/2019/01/30/electric-scooter-startup-grin-merges-with-brazil-based-yellow/" },
+      { "title": "Grin and Yellow merge, raise US$150M to expand across Latin America | LatamList", "url": "https://latamlist.com/grin-and-yellow-merge-raise-us150m-to-expand-across-latin-america/" }
+    ]
+  },
+  {
+    "slug": "momentus",
+    "summary": {
+      "en": "Space infrastructure company building in-space transport vehicles using water plasma propulsion.",
+      "zh": "太空基礎建設公司，利用水基電漿推進技術打造太空內運輸載具。"
+    },
+    "highlight": {
+      "en": "Momentus became one of YC's notable space plays, going public on NASDAQ in August 2021 via a SPAC merger with Stable Road Capital. The deal raised about $247M but was clouded when founder Mikhail Kokorich resigned over CFIUS national-security concerns and the company settled SEC charges for over $8M.",
+      "zh": "Momentus 是 YC 知名的太空項目之一，於 2021 年 8 月透過與 Stable Road Capital 的 SPAC 合併在 NASDAQ 上市，募資約 2.47 億美元。但創辦人 Mikhail Kokorich 因 CFIUS 國安疑慮辭職，公司並支付逾 800 萬美元與 SEC 和解。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Went public Aug 2021 via SPAC (Stable Road); raised ~$247M",
+      "zh": "2021 年 8 月透過 SPAC（Stable Road）上市，募資約 2.47 億美元"
+    },
+    "founders": "Mikhail Kokorich",
+    "sources": [
+      { "title": "Mikhail Kokorich - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mikhail_Kokorich" },
+      { "title": "How Momentus Became The Latest SPAC On The Rocks | Payload", "url": "https://payloadspace.com/how-momentus-became-the-latest-spac-on-the-rocks/" }
+    ]
+  },
+  {
+    "slug": "honeylove",
+    "summary": {
+      "en": "Direct-to-consumer brand making technical shapewear and functional undergarments for women.",
+      "zh": "直接面向消費者（DTC）的品牌，為女性製作技術性塑身衣與機能性內著。"
+    },
+    "highlight": {
+      "en": "Honeylove is a YC consumer brand founded by EDM artist Betsie Larkin that expanded from shapewear into bras, tops and leggings. Backed by Lightspeed and YC, it raised about $13M and reached roughly $20M in annual revenue.",
+      "zh": "Honeylove 是由 EDM 音樂人 Betsie Larkin 創辦的 YC 消費品牌，從塑身衣擴展到內衣、上衣與緊身褲。獲 Lightspeed 與 YC 投資，募資約 1,300 萬美元，年營收約達 2,000 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$13M (Lightspeed, YC); ~$20M annual revenue",
+      "zh": "募資約 1,300 萬美元（Lightspeed、YC），年營收約 2,000 萬美元"
+    },
+    "founders": "Betsie Larkin",
+    "sources": [
+      { "title": "Honeylove - Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/honeylove" },
+      { "title": "Honeylove Revenue 2024 | GetLatka", "url": "https://getlatka.com/companies/honeylove.com" }
+    ]
+  },
+  {
+    "slug": "regology",
+    "summary": {
+      "en": "AI-powered regulatory intelligence platform with agents that track compliance across global jurisdictions.",
+      "zh": "AI 驅動的法規情報平台，以 AI 代理人追蹤全球各司法管轄區的合規變動。"
+    },
+    "highlight": {
+      "en": "Regology built a Smart Law Library and specialized AI agents to help compliance teams navigate US federal, all 50 states and global regulations. In June 2026 it was acquired by Bloomberg Industry Group to power AI-driven regulatory change management.",
+      "zh": "Regology 打造了 Smart Law Library 與專門的 AI 代理人，協助合規團隊處理美國聯邦、全美 50 州及全球法規。2026 年 6 月被 Bloomberg Industry Group 收購，用於強化 AI 驅動的法規變更管理。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Bloomberg Industry Group (June 2026)",
+      "zh": "2026 年 6 月被 Bloomberg Industry Group 收購"
+    },
+    "founders": "Pavan Bayyapu, Mukund Goenka",
+    "sources": [
+      { "title": "Bloomberg Industry Group Acquires Regology | PR Newswire", "url": "https://www.prnewswire.com/news-releases/bloomberg-industry-group-acquires-regology-to-deliver-more-proactive-ai-driven-regulatory-change-management-for-compliance-teams-302790548.html" },
+      { "title": "Regology | Y Combinator", "url": "https://www.ycombinator.com/companies/regology" }
+    ]
+  },
+  {
+    "slug": "deel",
+    "summary": {
+      "en": "All-in-one global HR and payroll platform handling hiring, compliance and payments across 150+ countries.",
+      "zh": "一站式全球 HR 與薪資平台，在 150 多個國家處理招募、合規與薪資支付。"
+    },
+    "highlight": {
+      "en": "Deel is one of YC's biggest breakout successes, becoming the go-to platform for hiring and paying global teams. In October 2025 it raised a $300M Series E at a $17.3B valuation, surpassed $1B in ARR and now processes about $22B in payroll annually for 35,000+ customers.",
+      "zh": "Deel 是 YC 最成功的代表案例之一，成為全球團隊招募與發薪的首選平台。2025 年 10 月以 173 億美元估值募得 3 億美元 E 輪，年度經常性收入突破 10 億美元，目前每年為 35,000 多家客戶處理約 220 億美元薪資。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Last valued ~$17.3B (Series E, Oct 2025, $300M); >$1B ARR",
+      "zh": "最新估值約 173 億美元（2025 年 10 月 E 輪，3 億美元）；ARR 突破 10 億美元"
+    },
+    "founders": "Alex Bouaziz, Shuo Wang, Ofer Simon",
+    "sources": [
+      { "title": "Deel, Inc. - Wikipedia", "url": "https://en.wikipedia.org/wiki/Deel,_Inc." },
+      { "title": "Deel Lands $300M At $17.3B Valuation | Crunchbase News", "url": "https://news.crunchbase.com/venture/deel-ai-hr-payroll-unicorn-saas-ribbit-a16z/" }
+    ]
+  },
+  {
+    "slug": "skill-lync",
+    "summary": {
+      "en": "Online engineering education platform in India teaching job-ready technical skills.",
+      "zh": "印度的線上工程教育平台，教授可直接就業的技術技能。"
+    },
+    "highlight": {
+      "en": "Skill-Lync is a YC-backed Indian edtech delivering job-leading engineering courses across mechanical, electrical, electronics, civil and computer science. It became one of the highest-rated platforms for high-end technical upskilling in India.",
+      "zh": "Skill-Lync 是 YC 投資的印度教育科技公司，提供機械、電機、電子、土木與資訊工程等就業導向課程，成為印度高端技術進修評價最高的平台之一。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "",
+    "sources": []
+  },
+  {
+    "slug": "kovi",
+    "summary": {
+      "en": "Brazilian car subscription and rental startup making car ownership more flexible for gig drivers.",
+      "zh": "巴西的汽車訂閱與租賃新創，讓零工司機能更彈性地擁有用車。"
+    },
+    "highlight": {
+      "en": "Kovi grew into a leading Latin American car-subscription startup, raising about $145M including a $104M Series B with backers like Valor Capital and Prosus. In December 2024 it was acquired in an all-share deal by Uber-backed Nigerian mobility startup Moove.",
+      "zh": "Kovi 成長為拉丁美洲領先的汽車訂閱新創，募資約 1.45 億美元，包括由 Valor Capital 與 Prosus 等投資的 1.04 億美元 B 輪。2024 年 12 月被 Uber 投資的奈及利亞移動新創 Moove 以全股票交易收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$145M (incl. $104M Series B); acquired by Moove (Dec 2024)",
+      "zh": "募資約 1.45 億美元（含 1.04 億美元 B 輪）；2024 年 12 月被 Moove 收購"
+    },
+    "founders": "Joao Costa, Adhemar Milani Neto",
+    "sources": [
+      { "title": "Moove acquires Brazilian startup Kovi | Techpoint Africa", "url": "https://techpoint.africa/news/moove-acquires-brazilian-startup-kovi/" },
+      { "title": "Brazil's Kovi closes $104M Series B | TechCrunch", "url": "https://techcrunch.com/2021/08/18/brazils-kovi-closes-104m-series-b-to-make-car-ownership-more-inclusive-in-latam/" }
+    ]
+  },
+  {
+    "slug": "shipper",
+    "summary": {
+      "en": "Southeast Asian e-commerce logistics and fulfillment platform aggregating shipping providers in Indonesia.",
+      "zh": "東南亞的電商物流與履約平台，在印尼整合多家配送服務商。"
+    },
+    "highlight": {
+      "en": "Shipper became a notable YC logistics player in Indonesia, connecting SMEs with aggregated shipping and fulfillment. Backed by Lightspeed, Prosus/Naspers and YC, it raised about $132M to scale e-commerce logistics across the region.",
+      "zh": "Shipper 成為 YC 在印尼知名的物流公司，為中小企業整合配送與履約服務。獲 Lightspeed、Prosus/Naspers 與 YC 投資，募資約 1.32 億美元以擴展區域電商物流。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$132M (Lightspeed, Naspers/Prosus, YC)",
+      "zh": "募資約 1.32 億美元（Lightspeed、Naspers/Prosus、YC）"
+    },
+    "founders": "Phil Opamuratawongse, Budi Handoko",
+    "sources": [
+      { "title": "Shipper - Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/shipper-35b4" },
+      { "title": "Indonesian logistics startup Shipper Series A funding | KrASIA", "url": "https://kr-asia.com/indonesian-logistics-startup-shipper-reports-series-a-funding-from-prosus-ventures-y-combinator-others" }
+    ]
+  },
+  {
+    "slug": "nowports",
+    "summary": {
+      "en": "Latin America's first digital freight forwarder, shipping ocean containers with software-driven supply chain.",
+      "zh": "拉丁美洲首家數位貨運承攬商，以軟體驅動供應鏈運送海運貨櫃。"
+    },
+    "highlight": {
+      "en": "Nowports became Latin America's first logtech unicorn, hitting a $1.1B valuation in May 2022 on a $150M SoftBank-led Series C. Co-founder Alfonso de los Ríos became the region's youngest unicorn co-founder at age 23.",
+      "zh": "Nowports 成為拉丁美洲首家物流科技獨角獸，於 2022 年 5 月在 SoftBank 領投的 1.5 億美元 C 輪後達到 11 億美元估值。共同創辦人 Alfonso de los Ríos 以 23 歲成為該區最年輕的獨角獸共同創辦人。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$1.1B (Series C, May 2022, $150M led by SoftBank)",
+      "zh": "最新估值約 11 億美元（2022 年 5 月 C 輪，SoftBank 領投 1.5 億美元）"
+    },
+    "founders": "Alfonso de los Ríos, Maximiliano Casal",
+    "sources": [
+      { "title": "Nowports hits unicorn status at $1B valuation | FreightWaves", "url": "https://www.freightwaves.com/news/nowports-hits-unicorn-status-at-1b-valuation-with-new-funding" },
+      { "title": "Nowports lands $150M at a $1.1B valuation | TechCrunch", "url": "https://techcrunch.com/2022/05/24/nowports-lands-150m-at-a-1-1b-valuation-to-streamline-latams-shipping/" }
+    ]
+  },
+  {
+    "slug": "convex",
+    "summary": {
+      "en": "Sales and property intelligence software built for the commercial services industry.",
+      "zh": "專為商業服務產業打造的銷售與物業情報軟體。"
+    },
+    "highlight": {
+      "en": "Convex built sales intelligence, property intelligence and CRM tools for commercial service businesses, raising over $80M from Emergence, GGV and Dragoneer. In April 2024 it was acquired by ServiceTitan to expand its commercial capabilities.",
+      "zh": "Convex 為商業服務企業打造銷售情報、物業情報與 CRM 工具，獲 Emergence、GGV 與 Dragoneer 等投資逾 8,000 萬美元。2024 年 4 月被 ServiceTitan 收購以擴展其商業能力。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$80M; acquired by ServiceTitan (April 2024)",
+      "zh": "募資逾 8,000 萬美元；2024 年 4 月被 ServiceTitan 收購"
+    },
+    "founders": "Brandon Dement, Charlie Warren",
+    "sources": [
+      { "title": "ServiceTitan Acquires Convex to Supercharge Commercial Capabilities", "url": "https://www.servicetitan.com/blog/servicetitan-acquires-convex" },
+      { "title": "Convex | Y Combinator", "url": "https://www.ycombinator.com/companies/convex" }
+    ]
+  },
+  {
+    "slug": "coursedog",
+    "summary": {
+      "en": "Integrated academic operations software for higher education, covering scheduling, curriculum and events.",
+      "zh": "面向高等教育的整合式學務營運軟體，涵蓋排課、課程規劃與活動管理。"
+    },
+    "highlight": {
+      "en": "Coursedog became a leading higher-ed operations platform, used by 170+ institutions including Columbia and CUNY. It raised about $113M total, headlined by a $90M strategic growth investment from JMI Equity.",
+      "zh": "Coursedog 成為領先的高教學務營運平台，獲哥倫比亞大學與 CUNY 等 170 多所機構採用。累計募資約 1.13 億美元，其中包括 JMI Equity 的 9,000 萬美元策略性成長投資。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$113M total, incl. $90M from JMI Equity",
+      "zh": "累計募資約 1.13 億美元，含 JMI Equity 的 9,000 萬美元"
+    },
+    "founders": "Justin Wenig, Nicholas Diao",
+    "sources": [
+      { "title": "Academic software provider Coursedog picks up $90m from JMI | PE Hub", "url": "https://www.pehub.com/academic-software-provider-coursedog-picks-up-90m-from-jmi/" },
+      { "title": "Coursedog lands $4.2 million | TechCrunch", "url": "https://techcrunch.com/2020/03/09/coursedog-lands-4-2-million-to-make-class-scheduling-smarter/" }
+    ]
+  },
+  {
+    "slug": "pachama",
+    "summary": {
+      "en": "Climate-tech company using AI and satellites to monitor and finance reforestation and conservation projects.",
+      "zh": "氣候科技公司，運用 AI 與衛星監測並資助造林與自然保育專案。"
+    },
+    "highlight": {
+      "en": "Pachama built a tech-verified carbon marketplace serving customers like Amazon, Airbnb and Netflix, backed by Bill Gates' Breakthrough Energy Ventures and Lowercarbon. After raising about $88M, it was acquired by Carbon Direct in November 2025 amid carbon-market consolidation.",
+      "zh": "Pachama 打造了技術驗證的碳權市集，服務 Amazon、Airbnb 與 Netflix 等客戶，並獲比爾蓋茲的 Breakthrough Energy Ventures 與 Lowercarbon 投資。募資約 8,800 萬美元後，於 2025 年 11 月在碳市場整併潮中被 Carbon Direct 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$88M (BEV, Lowercarbon); acquired by Carbon Direct (Nov 2025)",
+      "zh": "募資約 8,800 萬美元（BEV、Lowercarbon）；2025 年 11 月被 Carbon Direct 收購"
+    },
+    "founders": "Diego Saez Gil, Tomas Aftalion",
+    "sources": [
+      { "title": "Carbon Direct acquires Pachama | Carbon Direct", "url": "https://www.carbon-direct.com/insights/carbon-direct-acquires-pachama" },
+      { "title": "Carbon Direct Acquires Pachama | BusinessWire", "url": "https://www.businesswire.com/news/home/20251110399124/en/Carbon-Direct-Acquires-Pachama-Marking-Major-Milestone-for-Science-Driven-Carbon-Management" }
+    ]
+  }
+]

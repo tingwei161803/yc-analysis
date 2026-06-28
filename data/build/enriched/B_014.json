@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "archform",
+    "summary": {
+      "en": "Software that lets orthodontists design and 3D-print clear aligners in their own offices.",
+      "zh": "讓齒顎矯正醫師在自家診所設計並 3D 列印透明牙套的軟體。"
+    },
+    "highlight": {
+      "en": "ArchForm gives orthodontists an in-house alternative to Invisalign, letting them design and 3D-print aligners to compete with direct-to-consumer brands.",
+      "zh": "ArchForm 為矯正醫師提供 Invisalign 之外的院內替代方案,讓他們自行建立、設計並 3D 列印牙套,藉以對抗直接面對消費者的品牌並降低成本。"
+    }
+  },
+  {
+    "slug": "zbiotics",
+    "summary": {
+      "en": "ZBiotics makes genetically engineered probiotics for consumer health.",
+      "zh": "ZBiotics 製造用於消費者健康的基因工程益生菌。"
+    },
+    "highlight": {
+      "en": "This synthetic-biology company launched what it calls the world's first genetically engineered probiotic in 2019, designed to break down a byproduct of alcohol.",
+      "zh": "這家合成生物學公司於 2019 年推出他們所稱全球首款基因工程益生菌,用以分解酒精產生的有毒副產物。"
+    }
+  },
+  {
+    "slug": "sketchbox",
+    "summary": {
+      "en": "WordPress-style platform for building and updating VR training simulations.",
+      "zh": "用於建立與更新 VR 訓練模擬的 WordPress 式平台。"
+    },
+    "highlight": {
+      "en": "Sketchbox builds infrastructure for fast VR training sims with no-code editors and student analytics, targeting Fortune 500 firms and $400 portable headsets.",
+      "zh": "Sketchbox 打造可快速建立 VR 訓練模擬的底層基礎設施,內建無程式碼情境編輯器與學員分析,鎖定財星 500 大企業與售價 400 美元的可攜式頭戴裝置。"
+    }
+  },
+  {
+    "slug": "ovipost",
+    "summary": {
+      "en": "Ovipost builds automated insect farms to produce protein at scale.",
+      "zh": "Ovipost 打造自動化昆蟲養殖場,以規模化生產蛋白質。"
+    },
+    "highlight": {
+      "en": "Ovipost automates insect farming to convert cheap byproducts into protein, aiming to replace fishmeal and other costly proteins in animal feed.",
+      "zh": "Ovipost 將昆蟲養殖自動化,把廉價副產物轉化為蛋白質,目標是以富含胺基酸的產出取代動物飼料中昂貴的魚粉等蛋白質。"
+    }
+  },
+  {
+    "slug": "lus-brands",
+    "summary": {
+      "en": "LUS Brands makes hair care products designed for curly and textured hair.",
+      "zh": "LUS Brands 製造專為捲髮與紋理髮設計的護髮產品。"
+    },
+    "highlight": {
+      "en": "The Toronto e-commerce brand's Love Ur Curls line is a simplified 3-step, water-activated styling system tailored for wavy, curly, and kinky-coily hair types.",
+      "zh": "這個多倫多電商品牌的 Love Ur Curls 系列是一套精簡的三步驟、遇水活化造型系統,專為波浪、捲曲與緊密捲曲等不同髮質量身打造。"
+    }
+  },
+  {
+    "slug": "tributi",
+    "summary": {
+      "en": "Tributi automates tax filing for individuals across Latin America.",
+      "zh": "Tributi 為拉丁美洲的個人自動化報稅流程。"
+    },
+    "highlight": {
+      "en": "Beyond automating individual tax returns in Latam, Tributi uses users' financial data to offer them curated, relevant financial services.",
+      "zh": "除了在拉美自動化個人報稅外,Tributi 還運用使用者的財務資料,為他們提供精選且相關的金融服務。"
+    }
+  },
+  {
+    "slug": "mojo",
+    "summary": {
+      "en": "Mojo is a mobile app for creating professional-quality social media videos.",
+      "zh": "Mojo 是一款用於製作專業品質社群媒體影片的行動應用程式。"
+    },
+    "highlight": {
+      "en": "Mojo lets creators produce polished, pro-quality videos for social media directly from their phones, without specialized editing skills.",
+      "zh": "Mojo 讓創作者直接用手機製作精緻、專業品質的社群媒體影片,無需專業剪輯技能。"
+    }
+  },
+  {
+    "slug": "correlia-biosystems",
+    "summary": {
+      "en": "Correlia Biosystems develops next-gen blood testing to give pharma far more data.",
+      "zh": "Correlia Biosystems 開發次世代血液檢測,為藥廠提供遠多於以往的數據。"
+    },
+    "highlight": {
+      "en": "This UC Berkeley spinoff's SimpleScan tech rapidly quantifies biomolecules from one microliter, enabling dynamic protein monitoring and point-of-care tests.",
+      "zh": "這家加州大學柏克萊分校衍生公司的 SimpleScan 技術可從一微升樣本快速定量生物分子,實現動態蛋白質表現監測與即時照護診斷。"
+    }
+  },
+  {
+    "slug": "beanstalk",
+    "summary": {
+      "en": "Beanstalk uses vertical farming technology to grow fresh local produce.",
+      "zh": "Beanstalk 運用垂直農法技術,在地栽種新鮮農產品。"
+    },
+    "highlight": {
+      "en": "Started by two brothers to supply a restaurant with salad, Beanstalk blends industrial robotics, plant science, and culinary craft to grow greens and herbs.",
+      "zh": "由兩兄弟為了供應餐廳穩定的沙拉而創立,Beanstalk 結合工業機器人、植物科學與烹飪工藝,自動化栽種萵苣、香草等多種作物。"
+    }
+  },
+  {
+    "slug": "blueberry-pediatrics",
+    "summary": {
+      "en": "Blueberry Pediatrics offers 24/7 concierge pediatric care from the home.",
+      "zh": "Blueberry Pediatrics 提供居家的全天候管家式兒科照護。"
+    },
+    "highlight": {
+      "en": "Blueberry pairs at-home diagnostics with always-available pediatricians, handling twice the illnesses of typical telemedicine and reportedly halving ER costs.",
+      "zh": "Blueberry 結合居家診斷與隨時待命的兒科醫師,處理的疾病種類是一般遠距醫療的兩倍,並據稱可將急診費用降低 50%。"
+    }
+  },
+  {
+    "slug": "sourcify",
+    "summary": {
+      "en": "Sourcify is a platform that helps brands manufacture products in Asia.",
+      "zh": "Sourcify 是協助品牌在亞洲製造產品的平台。"
+    },
+    "highlight": {
+      "en": "Sourcify is a profitable, high-growth sourcing platform that connects e-commerce brands and Fortune 500s with manufacturers across Asia.",
+      "zh": "Sourcify 是一個獲利且高速成長的採購平台,將電商品牌與財星 500 大企業連結到亞洲各地的製造商。"
+    }
+  },
+  {
+    "slug": "lawyaw",
+    "summary": {
+      "en": "Lawyaw automates document-based workflows for legal services.",
+      "zh": "Lawyaw 為法律服務自動化以文件為基礎的工作流程。"
+    },
+    "highlight": {
+      "en": "Lawyaw is a vertical SaaS platform that turns legal documents into programmable digital workflows, powering over 1,000 law firms to make legal services faster.",
+      "zh": "Lawyaw 是一個垂直 SaaS 平台,將法律文件轉化為可程式化的數位工作流程,服務超過 1,000 家律師事務所,讓法律服務更快速、更便宜。"
+    }
+  },
+  {
+    "slug": "macromoltek",
+    "summary": {
+      "en": "Macromoltek uses computation to design antibodies for drug development.",
+      "zh": "Macromoltek 運用運算技術為藥物開發設計抗體。"
+    },
+    "highlight": {
+      "en": "Macromoltek's de novo platform rapidly designs antibodies against difficult targets that traditional methods cannot reach, for biopharmas and biotechs.",
+      "zh": "Macromoltek 的專有從頭設計平台能快速產出針對傳統方法難以攻克標靶的抗體,服務大型生技製藥廠與較小型的生技公司。"
+    }
+  },
+  {
+    "slug": "openland",
+    "summary": {
+      "en": "Openland is a messaging app built for online communities.",
+      "zh": "Openland 是一款專為線上社群打造的通訊應用程式。"
+    },
+    "highlight": {
+      "en": "Openland focuses on needs like making friends and safe self-expression, letting anyone start a free chat community; it hosts some of the web's most active.",
+      "zh": "Openland 聚焦於交友與安全自我表達等人類基本需求,讓任何人免費建立並壯大聊天社群,並擁有網路上一些最活躍的群組。"
+    }
+  },
+  {
+    "slug": "edwin",
+    "summary": {
+      "en": "Edwin is an AI-powered virtual English tutor for personalized learning.",
+      "zh": "Edwin 是一款 AI 驅動的虛擬英語家教,提供個人化學習。"
+    },
+    "highlight": {
+      "en": "Edwin blends adaptive learning and NLU with on-demand human instructors; it later merged with MyBuddy.ai to form Buddy.ai, focused on English for children.",
+      "zh": "Edwin 結合自適應學習與自然語言理解,並搭配隨需的真人講師;後與 MyBuddy.ai 合併成立 Buddy.ai,專注於兒童英語學習。"
+    }
+  },
+  {
+    "slug": "fidocure",
+    "summary": {
+      "en": "FidoCure is a leader in precision medicine for canine cancer.",
+      "zh": "FidoCure 是犬類癌症精準醫療的領導者。"
+    },
+    "highlight": {
+      "en": "FidoCure brings precision medicine to vet oncology, empowering 143+ clinics and 180 oncologists to offer genetic sequencing and targeted therapies for dogs.",
+      "zh": "FidoCure 將人類等級的精準醫療帶入獸醫腫瘤學,賦能由超過 143 家診所與 180 位腫瘤科醫師組成的網絡,為犬隻提供基因定序與標靶治療。"
+    }
+  },
+  {
+    "slug": "players-lounge",
+    "summary": {
+      "en": "Players' Lounge lets gamers bet money on their own AAA video game matches.",
+      "zh": "Players' Lounge 讓玩家為自己的 3A 電玩對戰下注賺錢。"
+    },
+    "highlight": {
+      "en": "Players' Lounge lets gamers of any skill level earn money on their gaming time by betting on their own match outcomes; investors include Samsung and Drake.",
+      "zh": "Players' Lounge 讓各種程度的玩家透過為自己的對戰結果下注,將遊戲時間轉化為收入,投資者包括三星與 Drake。"
+    }
+  },
+  {
+    "slug": "biobot-analytics",
+    "summary": {
+      "en": "Biobot Analytics powers population health analytics by analyzing wastewater.",
+      "zh": "Biobot Analytics 透過分析廢水提供人口健康分析。"
+    },
+    "highlight": {
+      "en": "Using MIT-developed tech, Biobot measures sewage biomarkers to track community health; its opioid and Covid-19 products have covered over 13% of the U.S.",
+      "zh": "Biobot 運用 MIT 開發的技術測量污水中的生物標記以追蹤社群健康,推出鴉片類藥物與新冠肺炎產品,涵蓋超過 13% 的美國人口。"
+    }
+  },
+  {
+    "slug": "cognition-ip",
+    "summary": {
+      "en": "Cognition IP is a flat-fee patent and trademark law firm powered by technology.",
+      "zh": "Cognition IP 是一家以科技驅動、採固定收費的專利與商標律師事務所。"
+    },
+    "highlight": {
+      "en": "Cognition IP offers on-demand, flat-fee IP counsel with top-tier results, serving startups to Fortune 500s with partners who've represented Apple and others.",
+      "zh": "Cognition IP 提供隨需、固定收費的智慧財產法律顧問服務並具頂尖事務所水準,服務對象從早期新創到財星 500 大企業,合夥人曾代理 Apple、Salesforce 等公司。"
+    }
+  },
+  {
+    "slug": "medumo",
+    "summary": {
+      "en": "Medumo manages and automates patient instructions for hospitals.",
+      "zh": "Medumo 為醫院管理並自動化病患指引。"
+    },
+    "highlight": {
+      "en": "Medumo's CareTours deliver turn-by-turn patient guidance via precisely-timed automated text and email, improving procedure completion and reducing staff burden.",
+      "zh": "Medumo 的 CareTours 透過精準排程的自動化簡訊與電子郵件,為病患提供逐步引導,提升療程完成率並減輕醫護人員負擔。"
+    }
+  },
+  {
+    "slug": "bump-2",
+    "summary": {
+      "en": "Secured provides tools and community for sneaker, NFT, and web3 investors.",
+      "zh": "Secured 為球鞋、NFT 與 web3 投資者提供工具與社群。"
+    },
+    "highlight": {
+      "en": "Secured envisions a membership any collectibles enthusiast — sneakers, NFTs, sports cards, Pokemon cards — would need for market advice and community.",
+      "zh": "Secured 設想讓任何收藏愛好者(球鞋、NFT、運動卡、寶可夢卡)都需要的會員資格,以取得市場建議並連結社群。"
+    }
+  },
+  {
+    "slug": "pulse-2",
+    "summary": {
+      "en": "Pulse is a crowdsourced knowledge marketplace where IT executives learn from peers.",
+      "zh": "Pulse 是一個群眾外包的知識市集,讓 IT 高階主管向同儕學習。"
+    },
+    "highlight": {
+      "en": "Pulse connects nearly 15,000 C-Suite tech executives with vendors, with companies like Salesforce, Microsoft, and Okta relying on it to inform B2B decisions.",
+      "zh": "Pulse 連結近 15,000 位 C 級科技高階主管與供應商,Salesforce、Microsoft、Okta 等公司皆仰賴它輔助 B2B 決策。"
+    }
+  },
+  {
+    "slug": "glowing-io",
+    "summary": {
+      "en": "Glowing.io is a unified enterprise messaging platform for leading brands.",
+      "zh": "Glowing.io 是專為頂尖品牌打造的整合式企業通訊平台。"
+    },
+    "highlight": {
+      "en": "Glowing lets global brands text with customers through popular messaging apps, appealing to millennials and \"silent guests\" who prefer messaging over calls.",
+      "zh": "Glowing 讓全球品牌透過熱門行動通訊軟體與顧客傳訊,吸引千禧世代與偏好傳訊而非通話的「沉默賓客」。"
+    }
+  },
+  {
+    "slug": "mayhem",
+    "summary": {
+      "en": "Mayhem is an app that makes it easy to play with your gaming community.",
+      "zh": "Mayhem 是一款讓你輕鬆與遊戲社群一起玩的應用程式。"
+    },
+    "highlight": {
+      "en": "Mayhem builds automatic game tracking, real-time leaderboards, and global chat into every community event; it was acquired by Niantic in 2020.",
+      "zh": "Mayhem 為每場社群活動內建自動遊戲追蹤、即時排行榜與全球聊天功能;於 2020 年被 Niantic 收購。"
+    }
+  },
+  {
+    "slug": "clearbrain",
+    "summary": {
+      "en": "ClearBrain provides causal analytics for growth marketing teams.",
+      "zh": "ClearBrain 為成長行銷團隊提供因果分析。"
+    },
+    "highlight": {
+      "en": "ClearBrain is a self-serve AI platform that helps companies predict and retarget likely buyers, built by founding engineers of Google Ads and Optimizely.",
+      "zh": "ClearBrain 是一個自助式 AI 平台,協助企業預測並再行銷可能購買的使用者,由 Google Ads 與 Optimizely 資料團隊的創始工程師打造。"
+    }
+  },
+  {
+    "slug": "codestream",
+    "summary": {
+      "en": "CodeStream is a developer collaboration platform that streamlines code reviews.",
+      "zh": "CodeStream 是一個簡化程式碼審查的開發者協作平台。"
+    },
+    "highlight": {
+      "en": "CodeStream's IDE plugins let developers request feedback on a snapshot of their repo — including uncommitted and unpushed code — with a single command.",
+      "zh": "CodeStream 的 IDE 外掛讓開發者透過單一指令,就能針對程式庫快照(包含未提交與未推送的程式碼)請求回饋。"
+    }
+  },
+  {
+    "slug": "squad",
+    "summary": {
+      "en": "Squad is an app that adds screen sharing to video chats with friends.",
+      "zh": "Squad 是一款在與朋友視訊聊天時加入螢幕分享的應用程式。"
+    },
+    "highlight": {
+      "en": "Squad lets friends share screens during video calls so they can use any app together, creating shared live experiences within communities.",
+      "zh": "Squad 讓朋友在視訊通話時分享螢幕,以便一起使用任何應用程式,在社群中創造共享的即時體驗。"
+    }
+  },
+  {
+    "slug": "draftbit",
+    "summary": {
+      "en": "Draftbit lets you build mobile apps visually, with source code included.",
+      "zh": "Draftbit 讓你以視覺化方式建立行動應用程式,並附帶原始碼。"
+    },
+    "highlight": {
+      "en": "Draftbit aims to democratize software development by letting anyone build, launch, and iterate on quality mobile apps without code — unless they want to.",
+      "zh": "Draftbit 旨在普及軟體開發,讓人不必寫程式碼(除非你想)就能建立、上線並反覆優化高品質的行動應用程式。"
+    }
+  },
+  {
+    "slug": "meson",
+    "summary": {
+      "en": "Meson is a stablecoin swap protocol across blockchains and Layer 2s.",
+      "zh": "Meson 是一個跨區塊鏈與 Layer 2 的穩定幣兌換協議。"
+    },
+    "highlight": {
+      "en": "Meson offers low-cost, zero-slippage stablecoin cross-chain swaps across all leading blockchains and layer-2 rollups, positioning itself as faster and safer.",
+      "zh": "Meson 提供低成本、零滑點的穩定幣跨鏈兌換,涵蓋所有主要區塊鏈與 Layer 2 rollup,主打更快速且更安全。"
+    }
+  },
+  {
+    "slug": "dataform",
+    "summary": {
+      "en": "Dataform helps data teams manage SQL pipelines in their data warehouse.",
+      "zh": "Dataform 協助資料團隊在資料倉儲中管理 SQL 管線。"
+    },
+    "highlight": {
+      "en": "Dataform lets teams build, version-control, and deploy SQL pipelines in Snowflake, BigQuery, and Redshift; it was acquired by Google Cloud in December 2020.",
+      "zh": "Dataform 讓團隊在 Snowflake、BigQuery 與 Redshift 中建立、版本控管並部署 SQL 管線;於 2020 年 12 月被 Google Cloud 收購。"
+    }
+  },
+  {
+    "slug": "meitre",
+    "summary": {
+      "en": "Meitre is an OpenTable-style reservation platform for the world's top restaurants.",
+      "zh": "Meitre 是專為全球頂尖餐廳打造的 OpenTable 式訂位平台。"
+    },
+    "highlight": {
+      "en": "Meitre provides online reservations alongside guest and revenue management tools tailored to the world's top-tier restaurants.",
+      "zh": "Meitre 為全球頂級餐廳提供線上訂位,並搭配賓客與營收管理工具。"
+    }
+  },
+  {
+    "slug": "station",
+    "summary": {
+      "en": "Station is an automated knowledge base that serves as a central interface for teams.",
+      "zh": "Station 是一個自動化知識庫,作為團隊的中央介面。"
+    },
+    "highlight": {
+      "en": "Station's browser extension lets teams visualize and switch across all their apps, documents, and messages, auto-linking files and surfacing the info you need.",
+      "zh": "Station 的瀏覽器擴充功能讓團隊在所有應用程式、文件與訊息間視覺化切換,自動建立檔案間的連結並適時呈現你所需的資訊。"
+    }
+  },
+  {
+    "slug": "avro-life-science",
+    "summary": {
+      "en": "Avro Life Science develops skin patches for generic drug delivery.",
+      "zh": "Avro Life Science 開發用於學名藥輸送的皮膚貼片。"
+    },
+    "highlight": {
+      "en": "Avro Life Science is developing skin patches as a delivery method for generic drugs, offering an alternative route of administration.",
+      "zh": "Avro Life Science 正開發作為學名藥輸送方式的皮膚貼片,提供另一種給藥途徑。"
+    }
+  },
+  {
+    "slug": "shone",
+    "summary": {
+      "en": "Shone makes existing cargo ships autonomous through retrofitting.",
+      "zh": "Shone 透過改裝讓現有貨船自動化航行。"
+    },
+    "highlight": {
+      "en": "Rather than building new vessels, Shone retrofits existing cargo ships to add autonomous capabilities.",
+      "zh": "Shone 不打造新船,而是改裝現有的貨船以加入自動駕駛能力。"
+    }
+  },
+  {
+    "slug": "algosurg-inc",
+    "summary": {
+      "en": "AlgoSurg makes AI technology for robotic and augmented-reality surgeries.",
+      "zh": "AlgoSurg 為機器人與擴增實境手術製作 AI 技術。"
+    },
+    "highlight": {
+      "en": "AlgoSurg's AI software spans robotic surgery, AR navigation and training, cloud 3D surgery planning, and patient-specific instrument and implant design.",
+      "zh": "AlgoSurg 的 AI 軟體涵蓋機器人手術、AR 導航與訓練、雲端 3D 手術規劃,以及自動化的病患專屬器械與植入物設計。"
+    }
+  },
+  {
+    "slug": "lucy-goods-inc",
+    "summary": {
+      "en": "Lucy Goods makes better-designed nicotine products to reduce tobacco-related harm.",
+      "zh": "Lucy Goods 製造設計更佳的尼古丁產品,以減少菸草相關危害。"
+    },
+    "highlight": {
+      "en": "Lucy aims to reduce tobacco harm to zero by giving nicotine users a superior, better-designed experience and a way to transition out of feeling dependent.",
+      "zh": "Lucy 致力將菸草危害降至零,為尼古丁使用者提供更優質、設計更佳的體驗,並提供擺脫依賴感的途徑。"
+    }
+  },
+  {
+    "slug": "precious",
+    "summary": {
+      "en": "Precious is an iPhone app that uses AI to curate your baby photos.",
+      "zh": "Precious 是一款運用 AI 整理寶寶照片的 iPhone 應用程式。"
+    },
+    "highlight": {
+      "en": "Precious uses AI to find the best baby pictures on your phone and assemble them into cute photo stories, building a platform to preserve family memories.",
+      "zh": "Precious 運用 AI 自動找出手機裡最棒的寶寶照片,並組成可愛的相片故事,打造保存家庭回憶的平台。"
+    }
+  },
+  {
+    "slug": "vena-medical",
+    "summary": {
+      "en": "Vena Medical gives physicians one of the world's smallest cameras for inside blood vessels.",
+      "zh": "Vena Medical 為醫師提供全球最小型、可進入血管的攝影機之一。"
+    },
+    "highlight": {
+      "en": "Vena Medical's neurovascular imaging tech, published in a peer-reviewed surgery journal, was a top-3 Innovator of the Year finalist and raised a Series A.",
+      "zh": "Vena Medical 的神經血管影像技術曾發表於《神經介入手術期刊》,入圍年度創新者前三名,並募得 A 輪資金以推動商業化。"
+    }
+  },
+  {
+    "slug": "tingles",
+    "summary": {
+      "en": "Tingles is a video platform that helps you relax and fall asleep.",
+      "zh": "Tingles 是一個幫助你放鬆並入睡的影片平台。"
+    },
+    "highlight": {
+      "en": "Tingles centers on ASMR, the fast-growing relaxation video genre, positioning itself as the best place to find content that helps people unwind and sleep.",
+      "zh": "Tingles 以快速成長的放鬆影片類型 ASMR 為核心,定位為尋找助人放鬆與入睡內容的最佳去處。"
+    }
+  },
+  {
+    "slug": "persephone-biosciences",
+    "summary": {
+      "en": "Persephone Biosciences uses the gut microbiome to fight cancer.",
+      "zh": "Persephone Biosciences 運用腸道微生物群對抗癌症。"
+    },
+    "highlight": {
+      "en": "Persephone develops live biotherapeutics that modulate gut-microbe metabolism, using systems and synthetic biology to address disease prevention and treatment.",
+      "zh": "Persephone 開發可調節腸道微生物代謝的活體生物治療產品,運用系統與合成生物學,投入疾病預防與治療。"
+    }
+  },
+  {
+    "slug": "glimpse-k12",
+    "summary": {
+      "en": "Glimpse K12 helps schools eliminate ineffective spending.",
+      "zh": "Glimpse K12 協助學校消除無效的支出。"
+    },
+    "highlight": {
+      "en": "Glimpse maximizes a district's education return on investment by tracking activities meant to impact students and evaluating them against student achievement.",
+      "zh": "Glimpse 透過追蹤旨在影響學生的各項活動,並以實際學業成果加以評估,協助學區極大化教育投資報酬率。"
+    }
+  },
+  {
+    "slug": "aesculatech",
+    "summary": {
+      "en": "AesculaTech designs responsive smart materials for biomedical and industrial uses.",
+      "zh": "AesculaTech 為生醫與工業用途設計可反應的智慧材料。"
+    },
+    "highlight": {
+      "en": "AesculaTech's AesculaGel adapts to many stimuli; flagship Humidifeye is a form-fitting ophthalmic platform for dry eye disease, which affects 25M+ Americans.",
+      "zh": "AesculaTech 的 AesculaGel 能對多種刺激產生反應;旗艦產品 Humidifeye 是一款服貼的眼科平台,用於治療影響超過 2,500 萬美國人的乾眼症。"
+    }
+  },
+  {
+    "slug": "tequitable",
+    "summary": {
+      "en": "tEQuitable builds work cultures that work for everyone by addressing workplace bias.",
+      "zh": "tEQuitable 透過處理職場偏見,打造適合所有人的工作文化。"
+    },
+    "highlight": {
+      "en": "tEQuitable is an independent, confidential platform giving employees a safe sounding board on bias and harassment, and companies data to spot systemic issues.",
+      "zh": "tEQuitable 是一個獨立、保密的平台,為員工提供針對偏見與騷擾的安全傾訴管道,同時為公司提供找出系統性問題的數據。"
+    }
+  },
+  {
+    "slug": "vathys",
+    "summary": {
+      "en": "Vathys accelerates machine learning through software after pivoting from ML hardware.",
+      "zh": "Vathys 從機器學習硬體轉型後,改以軟體加速機器學習。"
+    },
+    "highlight": {
+      "en": "Vathys originally built ML hardware claimed to be 10x faster than ASICs, then pivoted to accelerating deep learning through software instead.",
+      "zh": "Vathys 最初打造號稱比 ASIC 快 10 倍的機器學習硬體,後來轉型改以軟體來加速深度學習。"
+    }
+  },
+  {
+    "slug": "jido-maps",
+    "summary": {
+      "en": "Jido Maps turns your data into a deployed computer vision model.",
+      "zh": "Jido Maps 將你的資料轉化為已部署的電腦視覺模型。"
+    },
+    "highlight": {
+      "en": "Jido Maps lets teams without ML expertise turn visual data into deployed models for security monitoring, AR, and more, with a proof of concept in a week.",
+      "zh": "Jido Maps 讓沒有機器學習專業的團隊,也能快速將視覺資料轉為可部署的模型,應用於安防監控、資料登錄與 AR 等,並可在一週內提供概念驗證。"
+    }
+  },
+  {
+    "slug": "observant-ai",
+    "summary": {
+      "en": "Observant AI offers iPhone-based driver monitoring for commercial fleets.",
+      "zh": "Observant AI 為商用車隊提供以 iPhone 為基礎的駕駛監控。"
+    },
+    "highlight": {
+      "en": "Observant AI combines machine learning with the iPhone's depth sensors to detect unsafe driver behavior, aiming to prevent accidents and save lives.",
+      "zh": "Observant AI 結合機器學習與 iPhone 的深度感測器來偵測不安全的駕駛行為,目標是預防事故並挽救生命。"
+    }
+  },
+  {
+    "slug": "tipe",
+    "summary": {
+      "en": "Tipe is an open-source, customizable, headless CMS.",
+      "zh": "Tipe 是一個開源、可客製化的無頭內容管理系統。"
+    },
+    "highlight": {
+      "en": "Tipe lets teams edit, preview, and publish app content, turning static content dynamic and letting non-technical members make edits, set up in under 3 minutes.",
+      "zh": "Tipe 讓團隊編輯、預覽並發布應用程式內容,將靜態內容轉為動態,並讓非技術成員也能編輯,三分鐘內即可設定完成。"
+    }
+  },
+  {
+    "slug": "sepsis-scout",
+    "summary": {
+      "en": "Sepsis Scout uses wearables and AI to predict and prevent sepsis outside the hospital.",
+      "zh": "Sepsis Scout 運用穿戴裝置與 AI 在院外預測並預防敗血症。"
+    },
+    "highlight": {
+      "en": "Formerly Patchd Medical and now acquired by Cytovale, Sepsis Scout uses wearable tech and AI to predict and prevent sepsis outside the hospital setting.",
+      "zh": "Sepsis Scout 前身為 Patchd Medical,現已被 Cytovale 收購,運用穿戴技術與 AI 在醫院外預測並預防敗血症。"
+    }
+  },
+  {
+    "slug": "nectome",
+    "summary": {
+      "en": "Nectome is building a way to preserve long-term memories by preserving the brain.",
+      "zh": "Nectome 正打造一種透過保存大腦來保留長期記憶的方法。"
+    },
+    "highlight": {
+      "en": "Nectome aims to preserve the connectome — all synaptic connections between neurons — while researching how to manipulate memories and build brain prosthetics.",
+      "zh": "Nectome 致力保存連接體(神經元之間所有突觸連結),同時研究如何操控個別記憶並打造腦部義體。"
+    }
+  },
+  {
+    "slug": "pagedraw",
+    "summary": {
+      "en": "Pagedraw turns UI designs into production-ready code.",
+      "zh": "Pagedraw 將 UI 設計轉換為可上線部署的程式碼。"
+    },
+    "highlight": {
+      "en": "Pagedraw converts UI drawings into deployable code to bring an app's look to life, with a mission to make programming more powerful.",
+      "zh": "Pagedraw 將 UI 繪圖轉換為可部署的程式碼,讓應用程式的外觀成真,使命是讓程式設計更強大。"
+    }
+  },
+  {
+    "slug": "swipehouse",
+    "summary": {
+      "en": "Swipehouse helps creators meet each other, get daily matches, and find brand deals.",
+      "zh": "Swipehouse 協助創作者彼此結識、每日配對並找到品牌合作。"
+    },
+    "highlight": {
+      "en": "Billed as the biggest social network for TikTok celebs, Swipehouse was among the first 5 U.S. firms with the TikTok API and launched 400+ brands; acquired 2021.",
+      "zh": "Swipehouse 被稱為全球最大的 TikTok 名人社群網絡,是美國最早 5 家取得 TikTok API 的公司之一,在一年內為 400 多個品牌進駐 TikTok,並於 2021 年被收購。"
+    }
+  },
+  {
+    "slug": "point-api",
+    "summary": {
+      "en": "Point stores text you send repeatedly and helps you instantly reuse it.",
+      "zh": "Point 儲存你反覆傳送的文字,並協助你即時重複使用。"
+    },
+    "highlight": {
+      "en": "Point stores anything from email templates to links, images, and emojis, with a Chrome extension to find and reuse them anywhere on the web without retyping.",
+      "zh": "Point 可儲存從電子郵件範本到連結、圖片與表情符號等各種內容,並提供 Chrome 擴充功能,讓你在網路任何地方都能找出並重複使用,無需重打。"
+    }
+  },
+  {
+    "slug": "veriff",
+    "summary": {
+      "en": "Veriff provides AI-powered identity verification for fraud prevention.",
+      "zh": "Veriff 提供 AI 驅動的身分驗證以防範詐欺。"
+    },
+    "highlight": {
+      "en": "Veriff's decision engine analyzes thousands of variables in seconds and matches people to 10,000+ government IDs from 190+ countries, for fintech and crypto.",
+      "zh": "Veriff 的決策引擎能在數秒內分析數千項變數,並將使用者比對至來自 190 多國、超過 10,000 種政府核發證件,服務金融科技、加密貨幣與運輸業者。"
+    }
+  },
+  {
+    "slug": "necto",
+    "summary": {
+      "en": "Necto is a starter kit for launching an internet service provider.",
+      "zh": "Necto 是一套用於建立網路服務供應商的入門工具包。"
+    },
+    "highlight": {
+      "en": "Necto provides everything one would need to start an ISP, packaged as a ready-to-use starter kit.",
+      "zh": "Necto 提供建立 ISP 所需的一切,打包成可立即使用的入門工具包。"
+    }
+  },
+  {
+    "slug": "sharpestminds",
+    "summary": {
+      "en": "SharpestMinds offers peer-to-peer data science mentorships funded by income-share agreements.",
+      "zh": "SharpestMinds 提供以收入分潤協議資助的點對點資料科學師徒制。"
+    },
+    "highlight": {
+      "en": "Engineers from Apple, Uber, Tesla, Facebook, and Amazon mentor aspiring data scientists, who repay a share of their first-year salary only after getting hired.",
+      "zh": "來自 Apple、Uber、Tesla、Facebook 與 Amazon 的資深工程師指導有志的資料科學家,學員僅在獲聘後才以第一年薪資的一定比例償還。"
+    }
+  },
+  {
+    "slug": "tarjimly",
+    "summary": {
+      "en": "Tarjimly is a nonprofit connecting volunteer translators with refugees in need.",
+      "zh": "Tarjimly 是一個非營利組織,將志工翻譯員與有需要的難民連結起來。"
+    },
+    "highlight": {
+      "en": "Tarjimly lets bilingual volunteers help refugees and immigrants talk to doctors, lawyers, and NGOs via chat, phone, and video, bridging gaps for 23M refugees.",
+      "zh": "Tarjimly 讓雙語志工透過聊天、電話與視訊,協助難民與移民與醫生、律師及非政府組織溝通,為 2,300 萬難民弭平語言隔閡。"
+    }
+  },
+  {
+    "slug": "ourmenu",
+    "summary": {
+      "en": "OurMenu lets restaurant diners order and pay by scanning a QR code instead of using a waiter.",
+      "zh": "OurMenu 讓餐廳顧客掃描 QR 碼點餐付款,取代透過服務生點餐。"
+    },
+    "highlight": {
+      "en": "Diners scan a table QR code to order and pay without an app; OurMenu charges restaurants $300/month and aggregates menu-choice data to sell back to them.",
+      "zh": "顧客掃描桌上的 QR 碼即可點餐付款而無需下載應用程式;OurMenu 向餐廳每月收取 300 美元,並彙整點餐選擇資料再回售給餐廳。"
+    }
+  },
+  {
+    "slug": "dear-brightly",
+    "summary": {
+      "en": "Dear Brightly sells personalized prescription skincare products online.",
+      "zh": "Dear Brightly 線上銷售個人化的處方護膚產品。"
+    },
+    "highlight": {
+      "en": "Dear Brightly uses technology to give people online access to effective, dermatologist-vetted prescription skincare for healthier skin.",
+      "zh": "Dear Brightly 運用科技,讓人們在線上取得有效且經皮膚科醫師審核的處方護膚產品,以擁有更健康的肌膚。"
+    }
+  },
+  {
+    "slug": "plexus",
+    "summary": {
+      "en": "Plexus makes high-performance gloves for VR and AR.",
+      "zh": "Plexus 製造用於 VR 與 AR 的高效能手套。"
+    },
+    "highlight": {
+      "en": "Plexus develops high-performance gloves designed to enhance interaction in virtual and augmented reality.",
+      "zh": "Plexus 開發高效能手套,旨在強化虛擬實境與擴增實境中的互動。"
+    }
+  },
+  {
+    "slug": "storyline",
+    "summary": {
+      "en": "Storyline lets you create Alexa Skills without writing code.",
+      "zh": "Storyline 讓你不用寫程式碼就能建立 Alexa 技能。"
+    },
+    "highlight": {
+      "en": "Storyline is a no-code builder that enables anyone to create Amazon Alexa Skills without coding.",
+      "zh": "Storyline 是一個無程式碼建構工具,讓任何人都能在不寫程式的情況下建立 Amazon Alexa 技能。"
+    }
+  },
+  {
+    "slug": "california-dreamin",
+    "summary": {
+      "en": "California Dreamin makes cannabis-infused beverages.",
+      "zh": "California Dreamin 製造大麻成分的飲品。"
+    },
+    "highlight": {
+      "en": "California Dreamin aims to disrupt the $210B alcoholic beverage industry with all-natural cannabis drinks.",
+      "zh": "California Dreamin 以全天然大麻飲品,瞄準顛覆規模達 2,100 億美元的酒精飲料產業。"
+    }
+  },
+  {
+    "slug": "rhythmm",
+    "summary": {
+      "en": "Rhythmm is a social app for reading and sharing interesting conversations.",
+      "zh": "Rhythmm 是一款用於閱讀並分享有趣對話的社群應用程式。"
+    },
+    "highlight": {
+      "en": "Rhythmm lets users follow channels of curated thoughts and conversations from experts, taking the insights from group chats on Telegram without the noise.",
+      "zh": "Rhythmm 讓使用者追蹤精選的想法與對話頻道,擷取 Telegram 等群組聊天中的洞見,並去除其中的雜訊。"
+    }
+  },
+  {
+    "slug": "closer-sports",
+    "summary": {
+      "en": "Closer Sports is a mobile streaming platform connecting professional athletes with their fans.",
+      "zh": "Closer Sports 是一個連結職業運動員與其粉絲的行動串流平台。"
+    },
+    "highlight": {
+      "en": "Closer Sports uses mobile streaming to bring professional athletes closer to their fans.",
+      "zh": "Closer Sports 運用行動串流,拉近職業運動員與粉絲之間的距離。"
+    }
+  },
+  {
+    "slug": "onederful",
+    "summary": {
+      "en": "Onederful is an API for dental insurance.",
+      "zh": "Onederful 是一個牙科保險 API。"
+    },
+    "highlight": {
+      "en": "Onederful's API automates insurance verifications and claim submissions across more than 200 dental insurance carriers.",
+      "zh": "Onederful 的 API 可在超過 200 家牙科保險公司之間自動化保險核驗與理賠申請。"
+    }
+  },
+  {
+    "slug": "skip",
+    "summary": {
+      "en": "Skip operates shared electric scooters for reliable last-mile transportation.",
+      "zh": "Skip 經營共享電動滑板車,提供可靠的最後一哩交通。"
+    },
+    "highlight": {
+      "en": "Originally codenamed Waybots, Skip works with cities to run scooter fleets with community support, providing vehicles, safety education, and rider training.",
+      "zh": "Skip(原代號 Waybots)與城市密切合作,在獲得社區支持下營運滑板車車隊,並提供車輛、安全教育與騎乘訓練。"
+    }
+  },
+  {
+    "slug": "tradewind-bioscience",
+    "summary": {
+      "en": "Tradewind BioScience translates scientific insight into new cancer therapies.",
+      "zh": "Tradewind BioScience 將科學洞見轉化為創新的癌症療法。"
+    },
+    "highlight": {
+      "en": "Tradewind's lead candidate is an attack antibody for ovarian cancer that targets cancer cells directly while enabling the immune system's anti-cancer response.",
+      "zh": "Tradewind 的主要候選藥物是一款用於卵巢癌的多重攻擊抗體,既直接針對原發癌細胞,又能啟動免疫系統天生的抗癌功能。"
+    }
+  },
+  {
+    "slug": "curious-fictions",
+    "summary": {
+      "en": "Curious Fictions is a Patreon-style platform for professional authors.",
+      "zh": "Curious Fictions 是一個 Patreon 式的專業作家平台。"
+    },
+    "highlight": {
+      "en": "Curious Fictions lets readers enjoy short stories on the go and tip the authors of the stories they love.",
+      "zh": "Curious Fictions 讓讀者隨時隨地閱讀短篇小說,並為自己喜愛作品的作者打賞。"
+    }
+  },
+  {
+    "slug": "newcraft",
+    "summary": {
+      "en": "NewCraft offers a universal API for HR and payroll systems.",
+      "zh": "NewCraft 提供一個整合 HR 與薪資系統的通用 API。"
+    },
+    "highlight": {
+      "en": "NewCraft lets developers connect to employee platforms like Workday, ADP, and Paylocity with a single API, sparing companies costly custom integrations.",
+      "zh": "NewCraft 讓開發者透過單一 API 連接 Workday、ADP 與 Paylocity 等員工平台,並提供測試環境與文件,讓企業免去昂貴的客製整合。"
+    }
+  },
+  {
+    "slug": "envkey",
+    "summary": {
+      "en": "EnvKey is end-to-end encrypted configuration and secrets management.",
+      "zh": "EnvKey 是端對端加密的設定與機密管理工具。"
+    },
+    "highlight": {
+      "en": "EnvKey stores API keys, database credentials, and app config with end-to-end encryption, so no third party — not even EnvKey — can access your secrets.",
+      "zh": "EnvKey 以端對端加密安全儲存 API 金鑰、資料庫憑證與應用程式設定,確保任何第三方(連 EnvKey 自身)都無法存取你的機密。"
+    }
+  },
+  {
+    "slug": "viaopt",
+    "summary": {
+      "en": "Viaopt is an Uber Pool-style ride-sharing service for corporate trucking fleets.",
+      "zh": "Viaopt 是為企業卡車車隊打造的 Uber Pool 式共乘服務。"
+    },
+    "highlight": {
+      "en": "Viaopt applies a pooling model to corporate trucking fleets, similar to how Uber Pool shares rides.",
+      "zh": "Viaopt 將共乘模式套用於企業卡車車隊,概念類似 Uber Pool 的共乘做法。"
+    }
+  },
+  {
+    "slug": "supermedium",
+    "summary": {
+      "en": "Supermedium is a VR space packed with immersive utilities.",
+      "zh": "Supermedium 是一個充滿沉浸式實用功能的 VR 空間。"
+    },
+    "highlight": {
+      "en": "Supermedium is building a \"post-screen world\" in VR to read books and comics, watch videos, browse the web, and message — even lying down — in a portable form.",
+      "zh": "Supermedium 正在 VR 中打造「後螢幕世界」,讓人能在可攜的形式下閱讀書籍漫畫、觀看影片、瀏覽網頁與傳訊,甚至躺著也能使用。"
+    }
+  },
+  {
+    "slug": "osimple",
+    "summary": {
+      "en": "OSIMple is software that automates inspectors' paper-based workflows.",
+      "zh": "OSIMple 是一套自動化檢查員紙本工作流程的軟體。"
+    },
+    "highlight": {
+      "en": "OSIMple replaces stacks of paper with tablets and auto-generates completed inspection forms, cutting inspection time nearly in half; used on over 400 bridges.",
+      "zh": "OSIMple 以平板取代成疊紙張並自動產生完成的檢查表單,將檢查時間縮減近一半,已應用於 400 多座橋樑。"
+    }
+  },
+  {
+    "slug": "voicery",
+    "summary": {
+      "en": "Voicery automates voice acting and emotive speech synthesis using deep neural networks.",
+      "zh": "Voicery 運用深度神經網路自動化配音與帶情感的語音合成。"
+    },
+    "highlight": {
+      "en": "Built by a founder who led Baidu Research's speech synthesis team, Voicery generates near-human voices for auto-made audiobooks, podcasts, and TV dubs.",
+      "zh": "Voicery 由曾領導百度研究院語音合成團隊的創辦人打造,能生成近乎真人的語音,用於自動產製的有聲書、播客、電視配音與旁白。"
+    }
+  },
+  {
+    "slug": "iambiq-technologies",
+    "summary": {
+      "en": "Iambiq Technologies helps organizations read and process large amounts of text data.",
+      "zh": "Iambiq Technologies 協助組織閱讀並處理大量文字資料。"
+    },
+    "highlight": {
+      "en": "Iambiq automates the reading and processing of large volumes of text-based data that organizations would otherwise handle manually.",
+      "zh": "Iambiq 將原本需要人工處理的大量文字資料的閱讀與處理工作加以自動化。"
+    }
+  },
+  {
+    "slug": "ben",
+    "summary": {
+      "en": "Ben is an app to learn about, buy, and store cryptocurrency.",
+      "zh": "Ben 是一款用於認識、購買並儲存加密貨幣的應用程式。"
+    },
+    "highlight": {
+      "en": "Ben sets itself apart from other crypto wallets by building education, news, and investing Q&As into its app to help novices navigate a crowded crypto space.",
+      "zh": "Ben 與其他加密錢包不同之處在於,將教育、新聞與投資問答整合進行動應用程式,協助新手在擁擠的區塊鏈環境中找到方向。"
+    }
+  },
+  {
+    "slug": "hexel",
+    "summary": {
+      "en": "Hexel lets you create a cryptocurrency for your community.",
+      "zh": "Hexel 讓你為自己的社群創建一種加密貨幣。"
+    },
+    "highlight": {
+      "en": "Hexel makes it possible for anyone to create their own community cryptocurrency.",
+      "zh": "Hexel 讓任何人都能為自己的社群創建專屬的加密貨幣。"
+    }
+  },
+  {
+    "slug": "look-after-my-bills",
+    "summary": {
+      "en": "Look After My Bills automatically optimizes your bills every year.",
+      "zh": "Look After My Bills 每年自動為你優化帳單。"
+    },
+    "highlight": {
+      "en": "Look After My Bills is an auto-switching service that ensures you're always on the best possible energy deal, switching you automatically each year.",
+      "zh": "Look After My Bills 是一項自動轉換服務,確保你始終享有最划算的能源方案,並每年自動為你切換。"
+    }
+  },
+  {
+    "slug": "lambda-tea",
+    "summary": {
+      "en": "Lambda Tea builds self-serve bubble tea dispensers.",
+      "zh": "Lambda Tea 打造自助式珍珠奶茶販賣機。"
+    },
+    "highlight": {
+      "en": "Lambda Tea develops self-serve dispensers that let customers make their own bubble tea.",
+      "zh": "Lambda Tea 開發自助販賣機,讓顧客自行調製珍珠奶茶。"
+    }
+  },
+  {
+    "slug": "key-values",
+    "summary": {
+      "en": "Key Values helps software developers find teams that share their values.",
+      "zh": "Key Values 協助軟體開發者找到與自己價值觀相符的團隊。"
+    },
+    "highlight": {
+      "en": "Key Values matches software developers with engineering teams based on shared values rather than just job requirements.",
+      "zh": "Key Values 以共同價值觀而非僅憑職務要求,為軟體開發者媒合工程團隊。"
+    }
+  },
+  {
+    "slug": "aalo",
+    "summary": {
+      "en": "Aalo makes Lego-like modular furniture for design enthusiasts.",
+      "zh": "Aalo 為設計愛好者製造樂高式的模組化家具。"
+    },
+    "highlight": {
+      "en": "Aalo creates Lego-like furniture aimed at design geeks, built from modular pieces.",
+      "zh": "Aalo 以模組化零件打造樂高式家具,主攻設計愛好者。"
+    }
+  },
+  {
+    "slug": "miru",
+    "summary": {
+      "en": "Miru is an AR app that shows how any piece of furniture looks in your home.",
+      "zh": "Miru 是一款 AR 應用程式,讓你看到任何家具擺在家中的樣子。"
+    },
+    "highlight": {
+      "en": "Miru uses a computer vision pipeline to turn furniture from any retailer's website into an AR experience, so you can preview it in your own home before buying.",
+      "zh": "Miru 運用電腦視覺流程,將任何零售商網站上的家具轉為擴增實境體驗,讓你在購買前先在自家預覽。"
+    }
+  },
+  {
+    "slug": "mind-emulation-foundation",
+    "summary": {
+      "en": "Mind Emulation Foundation is a healthcare venture focused on mind emulation.",
+      "zh": "Mind Emulation Foundation 是一個專注於心智模擬的醫療健康機構。"
+    },
+    "highlight": {
+      "en": "The Mind Emulation Foundation works in the healthcare space on the concept of emulating the human mind.",
+      "zh": "Mind Emulation Foundation 在醫療健康領域,投入模擬人類心智的概念。"
+    }
+  },
+  {
+    "slug": "worklytics",
+    "summary": {
+      "en": "Worklytics provides analytics to improve how teams work and collaborate.",
+      "zh": "Worklytics 提供分析,以改善團隊的工作與協作方式。"
+    },
+    "highlight": {
+      "en": "Worklytics passively analyzes anonymous collaboration data from Google Workspace and Slack to find drivers of employee engagement, without repetitive surveys.",
+      "zh": "Worklytics 被動分析來自 Google Workspace、Slack 等工具的匿名協作資料,找出員工敬業度的關鍵驅動因素,無需反覆進行問卷調查。"
+    }
+  },
+  {
+    "slug": "haiku",
+    "summary": {
+      "en": "Haiku builds collaboration tools for software companies.",
+      "zh": "Haiku 為軟體公司打造協作工具。"
+    },
+    "highlight": {
+      "en": "Haiku offers a suite spanning marketing and sales (Optimizer), branding (Diez), and design and code (Animator) for software teams.",
+      "zh": "Haiku 為軟體團隊提供一系列工具,涵蓋行銷與銷售(Optimizer)、品牌(Diez)以及設計與程式(Animator)。"
+    }
+  },
+  {
+    "slug": "flinto",
+    "summary": {
+      "en": "Flinto is Mexico's digital wallet for payments and bills.",
+      "zh": "Flinto 是墨西哥的數位錢包,可用於支付與繳費。"
+    },
+    "highlight": {
+      "en": "Flinto lets people send money to friends, pay merchants, and handle bills from their phone, even without a bank account.",
+      "zh": "Flinto 讓人們用手機向朋友轉帳、向商家付款並繳納帳單,即使沒有銀行帳戶也能使用。"
+    }
+  },
+  {
+    "slug": "nutrigene",
+    "summary": {
+      "en": "Nutrigene sends personalized liquid supplements based on your health data.",
+      "zh": "Nutrigene 根據你的健康數據寄送個人化液態保健品。"
+    },
+    "highlight": {
+      "en": "Nutrigene formulates pure, personalized liquid supplements from a metabolic assessment, claiming they're far more effective than off-the-shelf pills.",
+      "zh": "Nutrigene 依據代謝評估調配純淨的個人化液態保健品,聲稱其效果遠勝於易降解或藥效不足的市售通用藥丸。"
+    }
+  },
+  {
+    "slug": "hunter2",
+    "summary": {
+      "en": "Hunter2 trains engineering teams in application security through interactive labs.",
+      "zh": "Hunter2 透過互動式實驗,訓練工程團隊掌握應用程式安全。"
+    },
+    "highlight": {
+      "en": "Hunter2 teaches modern appsec through hands-on labs where developers exploit and patch real web apps written in their own tech stack.",
+      "zh": "Hunter2 透過動手實作的實驗教授現代應用程式安全,讓開發者以自身技術堆疊撰寫的真實網頁應用,進行漏洞利用與修補。"
+    }
+  },
+  {
+    "slug": "khatabook",
+    "summary": {
+      "en": "Khatabook lets businesses manage ledgers and access financial services like lending on their phone.",
+      "zh": "Khatabook 讓商家在手機上管理帳本並使用借貸等金融服務。"
+    },
+    "highlight": {
+      "en": "Khatabook replaces paper ledgers with a free digital app where business owners record credit and debit transactions for trusted customers and access lending.",
+      "zh": "Khatabook 以免費的數位應用程式取代傳統紙本帳本,讓店主為信任的顧客記錄賒帳與付款交易,並使用借貸服務。"
+    }
+  },
+  {
+    "slug": "skydropx",
+    "summary": {
+      "en": "SkydropX is a logistics management system for e-commerce and retail in Mexico.",
+      "zh": "SkydropX 是墨西哥電商與零售業的物流管理系統。"
+    },
+    "highlight": {
+      "en": "SkydropX's \"AI Dispatch\" automates shipping — printing labels, tracking, estimating drop-offs, and returns — so companies own the journey from cart to delivery.",
+      "zh": "SkydropX 的「AI Dispatch」自動化出貨流程,涵蓋選擇與列印標籤、追蹤、估算取件時間與處理退貨,讓企業掌握從購物車到送達的完整體驗。"
+    }
+  },
+  {
+    "slug": "ubits",
+    "summary": {
+      "en": "UBITS is a corporate learning hub for companies in Latin America.",
+      "zh": "UBITS 是專為拉丁美洲企業打造的學習中心。"
+    },
+    "highlight": {
+      "en": "UBITS helps Spanish-speaking companies build, run, and measure online learning, offering over 5,000 courses across soft skills, business, and tech.",
+      "zh": "UBITS 協助西語企業建立、執行並衡量線上學習,提供超過 5,000 門涵蓋軟實力、商業與技術的課程。"
+    }
+  }
+]

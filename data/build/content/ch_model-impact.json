@@ -1,0 +1,54 @@
+{
+  "id": "model-impact",
+  "icon": "school",
+  "title": { "en": "The Accelerator Model", "zh": "加速器模式的影響" },
+  "lede": {
+    "en": "Y Combinator did not just fund startups; it productised the very act of starting one, turning a Cambridge dinner-table experiment into a global template that hundreds of imitators now run on.",
+    "zh": "Y Combinator 不只是投資新創,更把「創業」這件事本身產品化,將一場劍橋餐桌上的實驗,變成如今數百家模仿者賴以運作的全球範本。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "Inventing the Batch", "zh": "發明「批次」模式" },
+      "paragraphs": {
+        "en": [
+          "When Paul Graham, Jessica Livingston, Robert Morris and Trevor Blackwell founded Y Combinator on 11 March 2005, the prevailing venture model favoured large cheques written slowly to a few well-connected teams. YC inverted it: that summer it funded eight startups at roughly $6,000 per founder, ran weekly dinners out of Graham and Livingston's house, and ended with a Demo Day pitch to investors. The radical move was the cohort itself, treating startups as a batch to be processed twice a year on a fixed three-month clock rather than as one-off deals.",
+          "The standardisation was the genius. By offering every company identical, founder-friendly terms, YC removed negotiation as a bottleneck and made early-stage funding programmable at scale. The deal has since grown to a $500,000 standard offer set in 2022, $125,000 for 7% on a post-money SAFE plus $375,000 on an uncapped Most Favored Nation SAFE, and the institution has now funded more than 5,000 companies including Airbnb, Stripe, Coinbase and Dropbox."
+        ],
+        "zh": [
+          "當 Paul Graham、Jessica Livingston、Robert Morris 與 Trevor Blackwell 於 2005 年 3 月 11 日創立 Y Combinator 時,主流創投模式偏好對少數人脈深厚的團隊緩慢開出大額支票。YC 將其翻轉:那年夏天,它資助了八家新創,每位創辦人約 6,000 美元,在 Graham 與 Livingston 家中舉辦每週晚餐,並以面向投資人的 Demo Day 作結。真正激進之處在於「梯次」本身——把新創當成一個每年處理兩次、以三個月為固定週期的批次來運作,而非一筆筆零散的交易。",
+          "標準化才是其精髓所在。透過向每家公司提供完全一致、對創辦人友善的條件,YC 消除了談判這個瓶頸,使早期投資得以規模化地「程式化」。如今這份協議已成長為 2022 年訂定的 50 萬美元標準方案:以投資後 SAFE 投入 12.5 萬美元換取 7% 股權,再加上一份無估值上限的最惠國(MFN)SAFE 投入 37.5 萬美元;這家機構至今已資助超過 5,000 家公司,包括 Airbnb、Stripe、Coinbase 與 Dropbox。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "A Template the World Copied", "zh": "全世界複製的範本" },
+      "paragraphs": {
+        "en": [
+          "Within a year the format had a rival and a name. Techstars, founded in 2006 in Boulder by David Cohen, Brad Feld, David Brown and Jared Polis, took YC's batch-plus-Demo-Day structure and grafted on a deep mentor network and a city-by-city franchise logic. 500 Startups, launched in 2010 by Dave McClure and Christine Tsai, pushed the model toward high-volume global cohorts; Antler, founded in 2017 in Singapore by Magnus Grimeland and Fridtjof Berge, stretched it earlier still, assembling founders before they even had teams or ideas.",
+          "Together these established the accelerator as a recognised asset class, spawning hundreds of regional and vertical imitators from Y Combinator's blueprint. The diffusion was uneven: many imitators replicated the three-month cadence and the Demo Day theatre without the dense alumni network and brand gravity that make YC's signal valuable, and academic studies of accelerator outcomes have been decidedly mixed. The format proved easy to copy; the network effects underneath it did not."
+        ],
+        "zh": [
+          "不到一年,這套形式便有了對手,也有了名字。2006 年由 David Cohen、Brad Feld、David Brown 與 Jared Polis 在波德創立的 Techstars,承襲了 YC 的「批次加 Demo Day」結構,再嫁接上綿密的導師網絡與逐城擴張的加盟邏輯。2010 年由 Dave McClure 與 Christine Tsai 創辦的 500 Startups,把模式推向高產量的全球梯次;2017 年由 Magnus Grimeland 與 Fridtjof Berge 在新加坡創立的 Antler,則把時點推得更前,在創辦人尚無團隊或點子時就先把他們聚在一起。",
+          "這些機構共同把加速器確立為一種公認的資產類別,並從 Y Combinator 的藍圖中衍生出數百家區域型與垂直型的模仿者。但這股擴散並不均勻:許多模仿者複製了三個月的節奏與 Demo Day 的舞台效果,卻缺少讓 YC 訊號具有價值的密集校友網絡與品牌引力,而學界對加速器成效的研究結論也相當分歧。這套形式易於複製,底下的網絡效應卻無法照搬。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Democratising the Curriculum", "zh": "讓創業知識普及化" },
+      "paragraphs": {
+        "en": [
+          "The model's second export was knowledge, not capital. In April 2017 YC launched Startup School as a free online course, its first cohort drawing roughly 3,000 companies from 141 countries; it built on the popularity of Sam Altman's earlier Stanford lectures and bundled essays, video sessions with founders like Dustin Moskovitz and Stewart Butterfield, and group accountability into an open programme. Alongside it, YC's library of essays, the Startup Library and tools like the standardised SAFE made the tacit playbook of Silicon Valley legible to anyone with an internet connection.",
+          "This was both generous and strategic. Free curricula widened the global funnel of founders who already think in YC's vocabulary, reinforcing the accelerator's gravity even for those it never funds. The deeper effect is cultural: by codifying startup wisdom into repeatable lessons, YC helped shift the act of company-building from an apprenticeship reserved for the well-connected toward something closer to a learnable discipline, for better and, when the advice ossifies into orthodoxy, sometimes for worse."
+        ],
+        "zh": [
+          "這套模式的第二項輸出是知識,而非資本。2017 年 4 月,YC 推出免費線上課程 Startup School,首屆梯次吸引了來自 141 個國家、約 3,000 家公司;它建立在 Sam Altman 早期史丹佛講座的人氣之上,將文章、與 Dustin Moskovitz、Stewart Butterfield 等創辦人的影片對談,以及小組互相督促,整合進一個開放的課程之中。此外,YC 的文章庫、Startup Library,以及標準化 SAFE 等工具,讓矽谷那套難以言傳的劇本,對任何能上網的人都變得清晰可讀。",
+          "這既是慷慨,也是策略。免費課程拓寬了全球創辦人的漏斗,讓他們早已習慣用 YC 的詞彙思考,從而強化了加速器的引力——即便對那些它從未資助的人也是如此。更深層的影響是文化性的:透過把創業智慧編纂成可重複的課程,YC 協助把「打造公司」這件事,從專屬人脈圈的學徒制,推向一門近乎可以學習的學科。這有其好處;但當建議僵化為教條時,也可能適得其反。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's most durable invention was not a portfolio but a process: by standardising terms, cadence and curriculum, it turned acceleration into something copyable, and copied it was, hundreds of times over. Yet the wave of imitators also exposed the model's limit, the format travels freely while the network effects that give it value do not, which is why a handful of brands command outsized signal and the long tail struggles to matter.",
+    "zh": "YC 最持久的發明不是一個投資組合,而是一套流程:藉由標準化條件、節奏與課程,它把「加速」變成可複製之物——而它確實被複製了數百次。然而這股模仿浪潮也暴露了模式的極限:形式可以自由流通,賦予其價值的網絡效應卻無法,這正是為何少數品牌握有過大的訊號優勢,而長尾上的多數則難以舉足輕重。"
+  }
+}

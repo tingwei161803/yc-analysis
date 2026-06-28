@@ -1,0 +1,992 @@
+[
+{
+"slug": "helion-energy",
+"summary": {
+"en": "Helion is building what it calls the world's first fusion power plant for zero-carbon electricity.",
+"zh": "Helion 正在打造其號稱全球首座核融合發電廠，以提供零碳電力。"
+},
+"highlight": {
+"en": "Helion aims to commercialize fusion as a source of unlimited zero-carbon electricity, tackling one of the hardest challenges in clean power.",
+"zh": "Helion 致力於將核融合商業化，作為無限量零碳電力的來源，挑戰潔淨能源領域最艱鉅的難題之一。"
+}
+},
+{
+"slug": "protocol-labs",
+"summary": {
+"en": "Protocol Labs is an open-source lab building internet protocols including IPFS and Filecoin.",
+"zh": "Protocol Labs 是一間開源實驗室，打造包括 IPFS 與 Filecoin 在內的網路協定。"
+},
+"highlight": {
+"en": "Its IPFS protocol uses content-addressing to make the web peer-to-peer, while Filecoin adds a crypto-incentivized decentralized storage market.",
+"zh": "其 IPFS 協定以內容定址讓網路點對點化，而 Filecoin 則加上由加密貨幣激勵的去中心化儲存市場。"
+}
+},
+{
+"slug": "picnicai",
+"summary": {
+"en": "PicnicAI applies AI to real-world care delivery and clinical research workflows.",
+"zh": "PicnicAI 將人工智慧應用於真實世界的醫療照護與臨床研究流程。"
+},
+"highlight": {
+"en": "PicnicHealth gives patients a unified, AI-built view of their records across doctors, while PicnicResearch uses AI agents to speed up drug development.",
+"zh": "PicnicHealth 為病患整合跨醫師、由 AI 彙整的病歷檢視，PicnicResearch 則運用 AI 代理加速藥物開發。"
+}
+},
+{
+"slug": "usergems",
+"summary": {
+"en": "UserGems is an AI command center for outbound sales and account-based marketing.",
+"zh": "UserGems 是一個用於外撥銷售與帳戶式行銷（ABM）的 AI 指揮中心。"
+},
+"highlight": {
+"en": "Its AI agents use contact data to surface and prioritize high-intent buyers, then deploy personalized outbound and ABM to build pipeline.",
+"zh": "其 AI 代理運用聯絡人資料找出並排序高意願買家，再部署個人化的外撥與 ABM 來建立銷售管道。"
+}
+},
+{
+"slug": "hive",
+"summary": {
+"en": "Hive is a marketing automation platform for event promoters spanning email, SMS, ads, and CRM.",
+"zh": "Hive 是一個為活動主辦方打造的行銷自動化平台，涵蓋電子郵件、簡訊、廣告與 CRM。"
+},
+"highlight": {
+"en": "Hive powers marketing for 1500+ events and venues in North America, integrating with partners like Ticketmaster and Shopify to segment audiences.",
+"zh": "Hive 為北美 1500 多個活動與場館提供行銷支援，並整合 Ticketmaster、Shopify 等夥伴來區隔受眾。"
+}
+},
+{
+"slug": "flaviar",
+"summary": {
+"en": "Flaviar is a spirits tasting club offering a try-at-home subscription for fine liquor.",
+"zh": "Flaviar 是一個烈酒品鑑俱樂部，提供讓會員在家試飲優質烈酒的訂閱服務。"
+},
+"highlight": {
+"en": "Each month subscribers receive a tasting kit with three globally sourced spirit samples, helping them discover new liquor before buying a full bottle.",
+"zh": "訂閱者每月收到一份品鑑組合，內含三款全球嚴選的烈酒樣品，讓會員在購買整瓶前先探索新酒款。"
+}
+},
+{
+"slug": "sfox",
+"summary": {
+"en": "SFOX is a cryptocurrency trading platform built for enterprises.",
+"zh": "SFOX 是一個為企業打造的加密貨幣交易平台。"
+},
+"highlight": {
+"en": "SFOX started with an algorithm-driven Bitcoin trading platform for enterprises and aims to broaden into trading any currency with real-time settlement.",
+"zh": "SFOX 從為企業打造的演算法驅動比特幣交易平台起步，並期望擴展為可即時結算、交易任何貨幣的服務。"
+}
+},
+{
+"slug": "zoomer",
+"summary": {
+"en": "Zoomer was an outsourced, high-volume food delivery and logistics service for restaurants.",
+"zh": "Zoomer 曾是一項為餐廳提供外包、高量能食物外送與物流的服務。"
+},
+"highlight": {
+"en": "Zoomer connected high-volume delivery restaurants with independent drivers via a platform built to handle extraordinarily high concurrent volume.",
+"zh": "Zoomer 透過一個專為處理極高並行量而打造的平台，將高量能外送餐廳與獨立外送司機串連起來。"
+}
+},
+{
+"slug": "impraise",
+"summary": {
+"en": "Impraise helps managers build effective work environments through feedback and performance tools.",
+"zh": "Impraise 透過回饋與績效工具，協助主管打造高效的工作環境。"
+},
+"highlight": {
+"en": "The platform bundles goal management, performance check-ins, 1:1s, 360 reviews, and real-time feedback to drive employee growth and team alignment.",
+"zh": "該平台整合目標管理、績效檢視、一對一會談、360 度評核與即時回饋，藉此推動員工成長與團隊一致性。"
+}
+},
+{
+"slug": "apto-payments",
+"summary": {
+"en": "Apto Payments is an API platform for partners to issue branded debit and credit cards.",
+"zh": "Apto Payments 是一個讓合作夥伴發行品牌簽帳金融卡與信用卡的 API 平台。"
+},
+"highlight": {
+"en": "Apto offers a white-label, turnkey solution to launch Visa and Mastercard programs, with a developer-first instant issuance platform and an enterprise option.",
+"zh": "Apto 提供白標、一站式方案以推出 Visa 與 Mastercard 卡計畫，兼具開發者導向的即時發卡平台與企業方案。"
+}
+},
+{
+"slug": "tenjin",
+"summary": {
+"en": "Tenjin provides mobile marketing attribution, analytics, and data infrastructure for app developers.",
+"zh": "Tenjin 為應用程式開發者提供行動行銷歸因、分析與資料基礎設施。"
+},
+"highlight": {
+"en": "Tenjin tracks metrics like ad spend, ad and in-app revenue, and retention, and offers a data warehouse so customers can query the collected data directly.",
+"zh": "Tenjin 追蹤廣告花費、廣告與應用內收入、留存率等指標，並提供資料倉儲讓客戶直接查詢所蒐集的資料。"
+}
+},
+{
+"slug": "aptible",
+"summary": {
+"en": "Aptible is a Platform as a Service that lets developers ship apps without managing infrastructure.",
+"zh": "Aptible 是一個平台即服務（PaaS），讓開發者無需管理基礎設施即可部署應用程式。"
+},
+"highlight": {
+"en": "Its secure, compliant PaaS has run on AWS, GCP, and Azure for thousands of developers since 2013, replacing DIY infrastructure work for major companies.",
+"zh": "其安全、合規的 PaaS 自 2013 年起便運行於 AWS、GCP 與 Azure，服務數千名開發者，省去大型公司自建基礎設施的工作。"
+}
+},
+{
+"slug": "alchemy",
+"summary": {
+"en": "Alchemy makes nanotechnology-enabled coatings for the automotive and defense sectors.",
+"zh": "Alchemy 為汽車與國防產業製造採用奈米技術的塗層產品。"
+},
+"highlight": {
+"en": "Its ExoShield windshield film is sold by 400+ installers in 56 countries, while it also develops infrared camouflage tech for the Canadian Armed Forces.",
+"zh": "其 ExoShield 擋風玻璃膜透過 56 國逾 400 家安裝商銷售，並為加拿大武裝部隊開發紅外線偽裝技術。"
+}
+},
+{
+"slug": "clara-labs",
+"summary": {
+"en": "Clara is a human-in-the-loop assistant that automates repetitive tasks like scheduling.",
+"zh": "Clara 是一款結合人工審核的助理，能自動化排程等重複性工作。"
+},
+"highlight": {
+"en": "Clara blends AI with human oversight so the assistant handles repetitive coordination tasks reliably rather than relying on automation alone.",
+"zh": "Clara 結合 AI 與人工監督，讓助理能可靠地處理重複性的協調工作，而非僅仰賴全自動化。"
+}
+},
+{
+"slug": "product-hunt",
+"summary": {
+"en": "Product Hunt surfaces and ranks the best new products in tech every day.",
+"zh": "Product Hunt 每天發掘並排序科技領域最棒的新產品。"
+},
+"highlight": {
+"en": "Members submit, vote on, and discuss new apps, sites, and hardware daily, and can interact directly with the creators, investors, and journalists behind them.",
+"zh": "成員每天提交、投票並討論新的應用、網站與硬體，還能直接與背後的創作者、投資人與記者互動。"
+}
+},
+{
+"slug": "ravti",
+"summary": {
+"en": "Ravti is software to track, manage, and procure HVAC for commercial real estate owners.",
+"zh": "Ravti 是一套協助商用不動產業主追蹤、管理與採購 HVAC 空調的軟體。"
+},
+"highlight": {
+"en": "Ravti handles maintenance, repairs, capital replacement, and bidding for large property owners, claiming savings of 18% to 30% on their HVAC projects.",
+"zh": "Ravti 為大型業主處理維護、維修、設備汰換與招標，並宣稱能為其 HVAC 專案節省 18% 至 30% 的成本。"
+}
+},
+{
+"slug": "one-codex",
+"summary": {
+"en": "One Codex is a data platform for applied microbial genomics and the microbiome.",
+"zh": "One Codex 是一個用於應用微生物基因組學與微生物群的資料平台。"
+},
+"highlight": {
+"en": "The platform enables genomics in clinical diagnostics, food safety, and biosecurity; acquired by Invitae in 2021 and spun back out as independent in 2022.",
+"zh": "該平台支援臨床診斷、食品安全與生物安全的基因組學應用；2021 年被 Invitae 收購，2022 年重新獨立分拆。"
+}
+},
+{
+"slug": "carlypso",
+"summary": {
+"en": "Carlypso was a used car marketplace that found, inspected, and delivered vehicles to buyers.",
+"zh": "Carlypso 曾是一個二手車市集，為買家尋找、檢驗並交付車輛。"
+},
+"highlight": {
+"en": "Buyers named the car they wanted, and Carlypso sourced the best-priced used vehicle, then inspected, detailed, and delivered it with a money-back guarantee.",
+"zh": "買家說出想要的車款，Carlypso 便尋找價格最優的二手車，再經檢驗、清潔後交付，並提供七天退款保證。"
+}
+},
+{
+"slug": "kash",
+"summary": {
+"en": "Kash was a mobile payment company that cleared transactions without interchange or card fees.",
+"zh": "Kash 曾是一家行動支付公司，其交易清算不收取交換費或刷卡手續費。"
+},
+"highlight": {
+"en": "Its SecureDebit tech pulled payments directly from bank accounts, bypassing the card network to save retailers 2% to 5% in fees and guard against chargebacks.",
+"zh": "其 SecureDebit 技術直接從銀行帳戶扣款，繞過刷卡網路，為零售商省下 2% 至 5% 手續費並防範退款爭議。"
+}
+},
+{
+"slug": "replenish",
+"summary": {
+"en": "Replenish made a self-cleaning blender that prepares smoothies and snacks in under a minute.",
+"zh": "Replenish 製造一款自清潔調理機，能在一分鐘內製作冰沙與點心。"
+},
+"highlight": {
+"en": "Pitched as a Keurig for smoothies, the Replenish Blender is a self-cleaning appliance that instantly prepares healthy drinks and snacks for home wellness.",
+"zh": "Replenish 調理機定位為冰沙界的 Keurig，是一款自清潔家電，能即時製作健康飲品與點心，方便居家養生。"
+}
+},
+{
+"slug": "mtailor",
+"summary": {
+"en": "MTailor measures your body with your phone in under 30 seconds for perfectly fitted clothing.",
+"zh": "MTailor 用手機在 30 秒內測量你的身材，以製作完美合身的服飾。"
+},
+"highlight": {
+"en": "Using an iPhone or iPad, MTailor captures a customer's shirt measurements to make and deliver custom-fitted shirts without a tape measure or tailor.",
+"zh": "MTailor 透過 iPhone 或 iPad 擷取顧客的襯衫尺寸，無需捲尺或裁縫即可製作並寄送量身訂製的襯衫。"
+}
+},
+{
+"slug": "neptune-io",
+"summary": {
+"en": "Neptune.io is a self-healing platform that enriches and automatically resolves server alerts.",
+"zh": "Neptune.io 是一個自我修復平台，能豐富化伺服器警示並自動修復。"
+},
+"highlight": {
+"en": "Neptune lets DevOps engineers automate incident response — troubleshooting, resolution, and documentation — to fix outages in minutes, not hours.",
+"zh": "Neptune 讓 DevOps 工程師自動化事故處理——排障、修復與記錄——以在數分鐘內解決停機，免去半夜被叫醒。"
+}
+},
+{
+"slug": "spotangels",
+"summary": {
+"en": "SpotAngels is a Waze-like app that helps drivers find parking and avoid tickets.",
+"zh": "SpotAngels 是一款類似 Waze 的應用程式，協助駕駛找停車位並避免罰單。"
+},
+"highlight": {
+"en": "SpotAngels helps drivers find free parking, avoid parking tickets, and discover garage deals, crowdsourcing parking info much like Waze does for traffic.",
+"zh": "SpotAngels 協助駕駛尋找免費停車位、避開罰單並找到停車場優惠，如同 Waze 處理路況般群眾外包停車資訊。"
+}
+},
+{
+"slug": "weave-2",
+"summary": {
+"en": "Weave was an AI-assisted networking app delivering a personalized introduction every week.",
+"zh": "Weave 曾是一款 AI 輔助的人脈應用程式，每週為使用者提供一則個人化的引薦。"
+},
+"highlight": {
+"en": "Weave focused on professional networking by delivering one personalized introduction each week, helping users grow their network without endless outreach.",
+"zh": "Weave 專注於職場人脈經營，每週提供一則個人化引薦，讓使用者無需無止盡地主動聯繫即可拓展人脈。"
+}
+},
+{
+"slug": "women-com",
+"summary": {
+"en": "Women.com is a destination for women featuring quizzes, trivia, and a Q&A community.",
+"zh": "Women.com 是一個為女性打造的網站，提供性格測驗、益智問答與問答社群。"
+},
+"highlight": {
+"en": "Pitched as a Quora-meets-Cosmo for women, the site offers personality and trivia quizzes plus a closed Q&A community to add a moment of delight to a busy day.",
+"zh": "Women.com 定位為女性版的 Quora 結合 Cosmo，提供性格與益智測驗及封閉式問答社群，為忙碌一天增添樂趣。"
+}
+},
+{
+"slug": "bayes-impact",
+"summary": {
+"en": "Bayes Impact is a tech nonprofit building data-driven solutions for public services.",
+"zh": "Bayes Impact 是一個科技非營利組織，為公共服務打造資料驅動的解決方案。"
+},
+"highlight": {
+"en": "Bayes Impact aims to change the world through algorithms, building data-driven technology to solve pressing public-interest problems at large scale.",
+"zh": "Bayes Impact 致力以演算法改變世界，打造資料驅動的技術來大規模解決迫切的公共利益問題。"
+}
+},
+{
+"slug": "sliced-investing",
+"summary": {
+"en": "Sliced Investing was an online platform giving advisors and accredited investors access to hedge funds.",
+"zh": "Sliced Investing 曾是一個線上平台，讓理財顧問與合格投資人能投資對沖基金。"
+},
+"highlight": {
+"en": "Sliced automated the once-manual steps of alternative investing — electronic subscription signing and streamlined reporting — with integrations to custodians.",
+"zh": "Sliced 將另類投資中原本需人工的步驟自動化——電子認購簽署與簡化報告——並與保管機構整合。"
+}
+},
+{
+"slug": "persistiq",
+"summary": {
+"en": "PersistIQ is a free email automation platform for sending small batches of personalized emails.",
+"zh": "PersistIQ 是一個免費的電子郵件自動化平台，可寄送小批量的個人化郵件。"
+},
+"highlight": {
+"en": "Aimed at small teams, PersistIQ offers custom sequences, A/B testing, and analytics, with integrations to Salesforce, Copper, and Zapier for outreach.",
+"zh": "PersistIQ 鎖定小型團隊，提供自訂序列、A/B 測試與分析，並整合 Salesforce、Copper 與 Zapier 以觸及客戶。"
+}
+},
+{
+"slug": "billforward",
+"summary": {
+"en": "Billforward offered flexible subscription billing, rate-plan management, and revenue analytics as a service.",
+"zh": "Billforward 以服務形式提供彈性的訂閱計費、費率方案管理與營收分析。"
+},
+"highlight": {
+"en": "Its platform let recurring-payment businesses charge for sophisticated products and change their offerings in hours rather than weeks, gaining traction in SaaS.",
+"zh": "其平台讓週期性付款的企業能對複雜產品計費，並可在數小時而非數週內調整方案，已在 SaaS 領域取得進展。"
+}
+},
+{
+"slug": "tule",
+"summary": {
+"en": "Tule helps farmers make irrigation decisions using sensors and computer vision.",
+"zh": "Tule 運用感測器與電腦視覺，協助農民做出灌溉決策。"
+},
+"highlight": {
+"en": "Built on UC Davis research, Tule's sensors measure field-scale crop water use and stress, while Tule Vision gauges plant water stress from a single phone photo.",
+"zh": "Tule 以加州大學戴維斯分校研究為基礎，其感測器測量田間作物耗水與水分壓力，Tule Vision 則以一張手機照片評估植物水分壓力。"
+}
+},
+{
+"slug": "greentoe",
+"summary": {
+"en": "Greentoe is a marketplace where shoppers name their price and retailers choose to accept.",
+"zh": "Greentoe 是一個由消費者自訂價格、再由零售商選擇接受的市集。"
+},
+"highlight": {
+"en": "Greentoe flips retail by letting consumers make an offer, then connecting them with retailers willing to accept it — buyers get low prices, sellers clear stock.",
+"zh": "Greentoe 翻轉零售模式，讓消費者出價，再媒合願意接受的零售商——買家取得低價，賣家去化庫存。"
+}
+},
+{
+"slug": "hyperpad",
+"summary": {
+"en": "Hyperpad lets non-technical people create and publish mobile games on the iPad without code.",
+"zh": "Hyperpad 讓非技術人員無需寫程式即可在 iPad 上建立並發布行動遊戲。"
+},
+"highlight": {
+"en": "Described as HyperCard for iPad, Hyperpad lets people build media-rich interactive apps and games and publish them to the App Store without writing any code.",
+"zh": "Hyperpad 被形容為 iPad 版 HyperCard，讓使用者無需寫任何程式碼即可打造富媒體互動應用與遊戲並發布至 App Store。"
+}
+},
+{
+"slug": "roomstorm",
+"summary": {
+"en": "Roomstorm is a real-time B2B hotel room marketplace, starting with airline passenger disruptions.",
+"zh": "Roomstorm 是一個即時的 B2B 旅館客房市集，從航空旅客行程中斷的情境切入。"
+},
+"highlight": {
+"en": "Roomstorm built the airline industry's first fully automated platform for housing stranded passengers, connecting airlines directly to global hotel inventory.",
+"zh": "Roomstorm 打造了航空業首個全自動化平台，為滯留旅客安排住宿，讓航空公司直接連接全球旅館庫存。"
+}
+},
+{
+"slug": "bannerman",
+"summary": {
+"en": "Bannerman was a marketplace to hire and manage security guard services.",
+"zh": "Bannerman 曾是一個用於雇用與管理保全服務的市集。"
+},
+"highlight": {
+"en": "Bannerman let businesses instantly book security guards in all 50 states and gave customers full transparency into guard schedules, attendance, and incidents.",
+"zh": "Bannerman 讓企業能在全美 50 州即時預約保全，並讓客戶對保全的排班、出勤與事件回報擁有完全透明的掌握。"
+}
+},
+{
+"slug": "flytenow",
+"summary": {
+"en": "Flytenow was a ride-sharing service connecting passengers with private pilots flying small planes.",
+"zh": "Flytenow 曾是一項共乘服務，將乘客與駕駛小型飛機的私人飛行員串連起來。"
+},
+"highlight": {
+"en": "Flytenow matched travelers with local pilots who had empty seats, letting them join same-day, round-trip flying adventures to destinations and airport diners.",
+"zh": "Flytenow 媒合旅客與機上有空位的當地飛行員，讓他們參與當日來回的飛行體驗，前往各地或機場餐廳。"
+}
+},
+{
+"slug": "blockspring",
+"summary": {
+"en": "Blockspring automates data collection for spreadsheets and productivity tools without code.",
+"zh": "Blockspring 無需寫程式即可為試算表與生產力工具自動化資料蒐集。"
+},
+"highlight": {
+"en": "Blockspring helps small businesses integrate APIs into productivity tools without code for report automation, lead generation, and dynamic landing pages.",
+"zh": "Blockspring 協助小型企業無需寫程式即可將 API 整合進生產力工具，用於報告自動化、潛客開發與動態到達頁。"
+}
+},
+{
+"slug": "metricwire",
+"summary": {
+"en": "MetricWire is a mobile platform for researchers to run surveys and collect real-time data.",
+"zh": "MetricWire 是一個供研究人員執行問卷並蒐集即時資料的行動平台。"
+},
+"highlight": {
+"en": "MetricWire gives researchers and decision makers analytical tools and real-time digital interventions to capture richer data for evidence-based decisions.",
+"zh": "MetricWire 為研究人員與決策者提供分析工具與即時數位介入，以蒐集更豐富資料並支援以證據為本的決策。"
+}
+},
+{
+"slug": "naytev",
+"summary": {
+"en": "Naytev automates paid and organic social media management in one place.",
+"zh": "Naytev 在單一平台上自動化付費與自然觸及的社群媒體管理。"
+},
+"highlight": {
+"en": "Naytev lets content teams A/B test videos, articles, and images on Facebook, then automatically publishes the best-performing version everywhere to reach more.",
+"zh": "Naytev 讓內容團隊在 Facebook 上對影片、文章與圖片做 A/B 測試，再自動將表現最佳的版本發布至各處以觸及更多人。"
+}
+},
+{
+"slug": "backpack",
+"summary": {
+"en": "Backpack is a peer-to-peer marketplace connecting travelers and shoppers to deliver overseas goods.",
+"zh": "Backpack 是一個點對點市集，串連旅客與購物者以遞送海外商品。"
+},
+"highlight": {
+"en": "Backpack lets travelers earn cash by carrying items requested by shoppers, who in turn access overseas products and save on high shipping costs.",
+"zh": "Backpack 讓旅客透過攜帶購物者所需的商品賺取現金，購物者則能取得海外產品並省下高昂運費。"
+}
+},
+{
+"slug": "parenthoods",
+"summary": {
+"en": "Parenthoods builds local communities for expecting and new parents.",
+"zh": "Parenthoods 為準父母與新手父母打造在地社群。"
+},
+"highlight": {
+"en": "Parenthoods is a community platform where local parents can meet up, share advice, and help one another navigate one of life's craziest rides — parenthood.",
+"zh": "Parenthoods 是一個社群平台，讓在地父母能相聚、分享建議並相互扶持，一同度過為人父母這段人生最瘋狂的旅程。"
+}
+},
+{
+"slug": "bikanta",
+"summary": {
+"en": "Bikanta developed nanodiamond-based imaging technology for earlier cancer detection.",
+"zh": "Bikanta 開發了以奈米鑽石為基礎的造影技術，用於更早期偵測癌症。"
+},
+"highlight": {
+"en": "Bikanta's nanodiamonds are fluorescent, stable, and non-toxic, enabling background-free optical imaging that early results show improves signal up to 100-fold.",
+"zh": "Bikanta 的奈米鑽石具螢光、穩定且無毒，可實現無背景雜訊的光學造影，早期結果顯示訊號提升達 100 倍。"
+}
+},
+{
+"slug": "doblet",
+"summary": {
+"en": "Doblet built an on-demand network of rentable batteries to charge phones anywhere.",
+"zh": "Doblet 打造了一個隨需的可租借電池網路，讓人們隨處為手機充電。"
+},
+"highlight": {
+"en": "Doblet's app notified users of the nearest place to grab a charge and let them pick up portable batteries at 1,000+ SF Bay Area cafes, bars, and restaurants.",
+"zh": "Doblet 的應用程式提示使用者最近的取電地點，並讓他們在舊金山灣區逾 1,000 家咖啡廳、酒吧與餐廳取得行動電池。"
+}
+},
+{
+"slug": "owners-circle",
+"summary": {
+"en": "Owners Circle gave small business owners online tools and information to navigate business financing.",
+"zh": "Owners Circle 為小型企業主提供線上工具與資訊，協助他們了解企業融資。"
+},
+"highlight": {
+"en": "Owners Circle helped time-strapped owners identify, compare, and apply for financial products, addressing the lack of an easy way to shop for business loans.",
+"zh": "Owners Circle 協助時間有限的業主辨識、比較並申請金融產品，解決小型企業難以便利選購貸款的問題。"
+}
+},
+{
+"slug": "fixed",
+"summary": {
+"en": "Fixed was an iPhone app that helped users contest their parking tickets.",
+"zh": "Fixed 曾是一款 iPhone 應用程式，協助使用者申訴停車罰單。"
+},
+"highlight": {
+"en": "Users uploaded a photo of their ticket and Fixed's experts handled the challenge, charging 25% of the fine only on a win — noting up to half get dismissed.",
+"zh": "使用者上傳罰單照片後，Fixed 的專家便代為申訴，僅在勝訴時收取罰金 25%——並指出半數申訴罰單會被撤銷。"
+}
+},
+{
+"slug": "taxa-biotechnologies",
+"summary": {
+"en": "TAXA Biotechnologies offered cheaper, faster genetic engineering of plants as a service.",
+"zh": "TAXA Biotechnologies 以服務形式提供更便宜、更快速的植物基因工程。"
+},
+"highlight": {
+"en": "TAXA's platform let anyone do plant metabolic engineering without a lab — protein engineering, DNA assembly, transformation — to avoid US regulatory approval.",
+"zh": "TAXA 的平台讓任何人無需實驗室即可進行植物代謝工程——蛋白質工程、DNA 組裝、穩定轉化——並設計可避免美國法規審批。"
+}
+},
+{
+"slug": "hublo",
+"summary": {
+"en": "Hublo makes data-driven marketing simpler with an easy analytics and remarketing tool.",
+"zh": "Hublo 以簡易的分析與再行銷工具，讓資料驅動的行銷更為簡單。"
+},
+"highlight": {
+"en": "Hublo lets marketers set up analytics, monitor website activity, and launch remarketing campaigns on their own, without relying on their IT teams.",
+"zh": "Hublo 讓行銷人員無需仰賴 IT 團隊，即可自行設定分析、監測網站活動並啟動再行銷活動。"
+}
+},
+{
+"slug": "vizeralabs",
+"summary": {
+"en": "VizeraLabs created augmented reality by projecting onto real-world objects instead of using screens.",
+"zh": "VizeraLabs 透過將影像投射到真實物體上來實現擴增實境，而非使用螢幕。"
+},
+"highlight": {
+"en": "Vizera used projectors with depth sensors to overlay an AR layer onto physical objects, first helping furniture retailers display fabrics in showrooms.",
+"zh": "Vizera 運用搭配深度感測器的投影機將 AR 圖層疊加到實體物件上，首先協助家具零售商在展示間呈現布料與花色。"
+}
+},
+{
+"slug": "listrunner",
+"summary": {
+"en": "ListRunner replaces paper patient lists with a secure way for clinical teams to share information.",
+"zh": "ListRunner 以安全的方式取代紙本病患清單，供臨床團隊分享資訊。"
+},
+"highlight": {
+"en": "ListRunner gives clinical teams a secure alternative to printed lists and unsafe SMS or camera-phone practices, helping clinicians protect patient data.",
+"zh": "ListRunner 為臨床團隊提供安全替代方案，取代紙本清單與不安全的簡訊或拍照做法，協助醫師與學生保護病患資料。"
+}
+},
+{
+"slug": "nightingale",
+"summary": {
+"en": "Nightingale was an app for managing the care of students with autism.",
+"zh": "Nightingale 曾是一款用於管理自閉症學生照護的應用程式。"
+},
+"highlight": {
+"en": "Nightingale gave autism service providers HIPAA-compliant tools for data collection, reporting, and analytics, customizable to any curriculum or setting.",
+"zh": "Nightingale 為自閉症服務提供者提供符合 HIPAA 的資料蒐集、報告與分析工具，可依任何課程或場域客製化。"
+}
+},
+{
+"slug": "in-your-corner",
+"summary": {
+"en": "In Your Corner was a marketplace for low-cost, confidential online counseling and coaching.",
+"zh": "In Your Corner 曾是一個提供低成本、保密的線上諮商與輔導的市集。"
+},
+"highlight": {
+"en": "Through a HIPAA-compliant platform, users connected with licensed professionals via video, journals, or texting on topics like work or relationship stress.",
+"zh": "透過符合 HIPAA 的平台，使用者可以視訊、文字日誌或簡訊與持證專業人員聯繫，討論感情與工作壓力等議題。"
+}
+},
+{
+"slug": "cheddar",
+"summary": {
+"en": "Cheddar offered a free, low-fee mobile checking account as an alternative to big banks.",
+"zh": "Cheddar 提供免費、低手續費的行動支票帳戶，作為大型銀行的替代選擇。"
+},
+"highlight": {
+"en": "Cheddar positioned itself as powerful, fee-free everyday banking for millennials who distrust big banks that profit from overdrafts, debt, and mistakes.",
+"zh": "Cheddar 將自身定位為功能強大、零手續費的日常銀行服務，鎖定不信任靠透支、負債與失誤獲利的大型銀行的千禧世代。"
+}
+},
+{
+"slug": "roost",
+"summary": {
+"en": "Roost provided web push notifications for websites to power engagement and audience growth.",
+"zh": "Roost 為網站提供網頁推播通知，以驅動互動與受眾成長。"
+},
+"highlight": {
+"en": "Roost was first to bring push notifications to websites, with geolocation, A/B testing, and personalization, supporting Chrome and Safari on Windows and Mac.",
+"zh": "Roost 率先將推播通知引入網站，具備地理定位、A/B 測試與個人化，並支援 Windows、Mac 與 Android 上的 Chrome 與 Safari。"
+}
+},
+{
+"slug": "shout",
+"summary": {
+"en": "Shout was a real-time classifieds platform for selling tickets and reservations.",
+"zh": "Shout 曾是一個即時分類廣告平台，用於販售票券與訂位。"
+},
+"highlight": {
+"en": "Shout's one-to-one exchange platform and iOS app let users post classifieds for tickets and reservations, then chat with sellers in real time and pay online.",
+"zh": "Shout 的一對一交換平台與 iOS 應用程式讓使用者張貼票券與訂位的分類廣告，並能即時與賣家交談並線上付款。"
+}
+},
+{
+"slug": "salessift",
+"summary": {
+"en": "SalesSift is an intelligent lead-sourcing platform that recommends new companies to target.",
+"zh": "SalesSift 是一個智慧潛客開發平台，能推薦值得鎖定的新公司。"
+},
+"highlight": {
+"en": "Formerly LeadFinch, SalesSift uses a machine learning algorithm to recommend the best new companies to target based on the profile of a customer's clients.",
+"zh": "SalesSift（前身為 LeadFinch）運用機器學習，依客戶現有客群輪廓推薦最值得鎖定的新公司。"
+}
+},
+{
+"slug": "hauteday",
+"summary": {
+"en": "HauteDay combined gaming with women's fashion shopping in a daily themed community.",
+"zh": "HauteDay 將遊戲化機制與女性時尚購物結合於每日主題社群中。"
+},
+"highlight": {
+"en": "Each day HauteDay's community turned a fashion theme into a shoppable collection, bringing attention to innovative, up-and-coming fashion brands worldwide.",
+"zh": "HauteDay 的社群每天將特定時尚主題整理成可購買的精選集，為全球創新且嶄露頭角的時尚品牌帶來關注。"
+}
+},
+{
+"slug": "paid",
+"summary": {
+"en": "Paid is an invoicing API that automates accounts receivable within any tech stack.",
+"zh": "Paid 是一個發票 API，可在任何技術堆疊中自動化應收帳款。"
+},
+"highlight": {
+"en": "With about 30 minutes of dev work, Paid lets companies create and issue invoices, accept payments, send overdue reminders, and reconcile accounts automatically.",
+"zh": "只需約 30 分鐘的開發，Paid 就能讓企業開立發票、收款、寄送逾期提醒並對帳——全部皆可客製化。"
+}
+},
+{
+"slug": "payable",
+"summary": {
+"en": "Payable handles payments and tax compliance for companies with contract workforces.",
+"zh": "Payable 為擁有約聘人力的企業處理付款與稅務合規。"
+},
+"highlight": {
+"en": "Payable simplifies and automates onboarding, payments, and 1099 compliance for external workforces, consolidating manual work and paying contractors faster.",
+"zh": "Payable 為外部約聘人力簡化並自動化入職、付款與 1099 稅務合規，整合人工流程並讓約聘人員更快收款。"
+}
+},
+{
+"slug": "whirl",
+"summary": {
+"en": "Whirl built a payment terminal that lets customers pay with a fingerprint in one second.",
+"zh": "Whirl 打造了一款付款終端機，讓顧客以指紋在一秒內完成付款。"
+},
+"highlight": {
+"en": "Whirl's proprietary terminal completes payment with a single fingerprint press in about one second, offering chip-card security with a near-invisible flow.",
+"zh": "Whirl 的專利終端機只需按壓一次指紋，約一秒即可完成付款，提供晶片卡等級安全性與幾乎無感的體驗。"
+}
+},
+{
+"slug": "beep",
+"summary": {
+"en": "Beep makes small, cloud-connected wireless IoT sensors that run on batteries for 10 years.",
+"zh": "Beep 製造小型、連雲的無線 IoT 感測器，可使用電池運作達 10 年。"
+},
+"highlight": {
+"en": "Beep's battery-powered sensors report location, temperature, moisture, pressure, altitude, and motion to the cloud, with ports for extra sensors like gas.",
+"zh": "Beep 的電池供電感測器將位置、溫度、濕度、壓力、海拔與動作回報至雲端，並有連接埠可外接氣體或相機等感測器。"
+}
+},
+{
+"slug": "zenamins",
+"summary": {
+"en": "Zenamins is a personalized online subscription service for custom daily vitamin packs.",
+"zh": "Zenamins 是一項個人化的線上訂閱服務，提供客製化的每日維他命包。"
+},
+"highlight": {
+"en": "Zenamins uses pharmacy-grade technology to custom-pack chosen vitamins into daily doses, favoring softgels for what it cites as four times the absorption.",
+"zh": "Zenamins 運用藥廠等級技術將所選維他命客製分裝成每日劑量，並偏好其稱吸收率達四倍的軟膠囊。"
+}
+},
+{
+"slug": "unwind-me",
+"summary": {
+"en": "Unwind Me made it easy to book affordable, high-quality massages on demand.",
+"zh": "Unwind Me 讓人能輕鬆隨需預約平價且高品質的按摩服務。"
+},
+"highlight": {
+"en": "Pitched as Homejoy for massage, Unwind Me let anyone book a high-quality massage when and where they wanted, with touches that made each visit unique.",
+"zh": "Unwind Me 定位為按摩界的 Homejoy，讓任何人在想要的時間地點預約高品質按摩，並以貼心巧思讓每次體驗都別具特色。"
+}
+},
+{
+"slug": "zip-phone",
+"summary": {
+"en": "Zip Phone was a voice-calling app pitched as WhatsApp for voice.",
+"zh": "Zip Phone 曾是一款語音通話應用程式，定位為語音版的 WhatsApp。"
+},
+"highlight": {
+"en": "Zip Phone aimed to bring WhatsApp's simple, internet-based model to voice calling, offering an app-based alternative to traditional phone calls.",
+"zh": "Zip Phone 旨在將 WhatsApp 那種簡單、以網路為基礎的模式帶入語音通話，提供取代傳統電話的應用程式方案。"
+}
+},
+{
+"slug": "think-gaming",
+"summary": {
+"en": "Think Gaming provides market data on the mobile games business to developers and investors.",
+"zh": "Think Gaming 為開發者與投資人提供行動遊戲產業的市場數據。"
+},
+"highlight": {
+"en": "Think Gaming analyzed 5000+ games with a proprietary data set, offering free scouting reports that compare games to top-grossing peers and gauge their odds.",
+"zh": "Think Gaming 以專有資料集分析逾 5000 款遊戲，提供免費觀察報告，將遊戲與最賣座同類比較並評估其成功機率。"
+}
+},
+{
+"slug": "springwit",
+"summary": {
+"en": "SpringWit was a company focused on brain health and awareness.",
+"zh": "SpringWit 曾是一家專注於腦部健康與意識的公司。"
+},
+"highlight": {
+"en": "SpringWit centered its work on improving brain health and raising awareness around cognitive wellbeing.",
+"zh": "SpringWit 的工作核心在於改善腦部健康，並提升人們對認知健康的意識。"
+}
+},
+{
+"slug": "craft-coffee",
+"summary": {
+"en": "Craft Coffee delivered better coffee for less money.",
+"zh": "Craft Coffee 提供更優質且更划算的咖啡配送。"
+},
+"highlight": {
+"en": "Craft Coffee focused on giving customers higher-quality coffee at a lower cost than they would otherwise pay.",
+"zh": "Craft Coffee 致力於以比其他管道更低的價格，為顧客提供更高品質的咖啡。"
+}
+},
+{
+"slug": "tinker",
+"summary": {
+"en": "Tinker was a cryptocurrency electronic trading and market-making firm.",
+"zh": "Tinker 曾是一家加密貨幣電子交易與造市公司。"
+},
+"highlight": {
+"en": "Founded in 2014, Tinker at its peak processed over $10m in daily volume and represented 10-20% of all BTC/USD trading on regulated exchanges.",
+"zh": "Tinker 成立於 2014 年，高峰時期每日處理逾 1,000 萬美元交易量，並占受監管交易所上所有 BTC/USD 交易的 10% 至 20%。"
+}
+},
+{
+"slug": "magic",
+"summary": {
+"en": "Magic provides talented virtual assistants for busy people and businesses.",
+"zh": "Magic 為忙碌的人與企業提供能幹的虛擬助理。"
+},
+"highlight": {
+"en": "Magic offers a convenient way to access quality virtual assistants on demand, helping busy people and businesses scale by delegating tasks.",
+"zh": "Magic 提供便利的方式隨需取得優質虛擬助理，協助忙碌的人與企業透過委派工作來擴展規模。"
+}
+},
+{
+"slug": "platzi",
+"summary": {
+"en": "Platzi is Latin America's online school of technology for design, marketing, and programming.",
+"zh": "Platzi 是拉丁美洲的線上科技學校，教授設計、行銷與程式設計。"
+},
+"highlight": {
+"en": "Platzi reaches over a million students worldwide with a notable 70% course completion rate, using real-time collaboration with industry teachers.",
+"zh": "Platzi 觸及全球逾百萬名學生，課程完成率達 70%，並透過學生與業界講師之間的即時協作授課。"
+}
+},
+{
+"slug": "qventus",
+"summary": {
+"en": "Qventus automates operations for hospitals and health systems with AI software.",
+"zh": "Qventus 以 AI 軟體為醫院與醫療體系自動化營運。"
+},
+"highlight": {
+"en": "Qventus's AI platform helps hospital teams make real-time operational decisions across emergency, perioperative, inpatient, outpatient, and pharmacy areas.",
+"zh": "Qventus 的 AI 平台協助醫院團隊在急診、圍手術期、住院、門診與藥局等領域做出即時的營運決策。"
+}
+},
+{
+"slug": "zeitview",
+"summary": {
+"en": "Zeitview offers inspection software for renewable energy and sustainable infrastructure assets.",
+"zh": "Zeitview 為再生能源與永續基礎設施資產提供檢測軟體。"
+},
+"highlight": {
+"en": "Zeitview pairs inspection software with visual data capture in 60+ countries, using AI to analyze imagery and deliver objective, actionable energy insights.",
+"zh": "Zeitview 結合檢測軟體與逾 60 國的視覺資料擷取，運用 AI 分析影像，為能源資產提供客觀且可行動的洞見。"
+}
+},
+{
+"slug": "mezmo",
+"summary": {
+"en": "Mezmo is an observability platform to control and act on all of your log data.",
+"zh": "Mezmo 是一個可觀測性平台，用於掌控所有日誌資料並據以行動。"
+},
+"highlight": {
+"en": "Formerly LogDNA, Mezmo ingests, processes, and routes log data for dev, security, and compliance, and in 2018 became the sole logging provider for IBM Cloud.",
+"zh": "Mezmo（前身為 LogDNA）能擷取、處理並路由日誌資料，服務開發、安全與合規，並於 2018 年成為 IBM Cloud 唯一日誌供應商。"
+}
+},
+{
+"slug": "tempo",
+"summary": {
+"en": "Tempo delivers live home fitness training powered by computer vision.",
+"zh": "Tempo 提供以電腦視覺驅動的居家即時健身訓練。"
+},
+"highlight": {
+"en": "Backed by Founders Fund and Khosla Ventures, Tempo's hardware uses computer vision so trainers can see participants in real time and give detailed advice.",
+"zh": "Tempo 由 Founders Fund 與 Khosla Ventures 支持，其硬體運用電腦視覺，讓教練能即時看見學員並遠端提供詳細指導。"
+}
+},
+{
+"slug": "mashgin",
+"summary": {
+"en": "Mashgin builds a self-checkout kiosk that uses computer vision to scan items without barcodes.",
+"zh": "Mashgin 打造運用電腦視覺、無需條碼即可掃描商品的自助結帳機台。"
+},
+"highlight": {
+"en": "Mashgin's computer-vision kiosk scans multiple items at once without barcodes, cutting checkout time by 10x and, the company says, lifting revenue up to 400%.",
+"zh": "Mashgin 的電腦視覺機台無需條碼即可一次掃描多項商品，將結帳時間縮短為十分之一，公司並表示可帶來高達 400% 的營收成長。"
+}
+},
+{
+"slug": "nimblerx",
+"summary": {
+"en": "NimbleRx provides on-demand prescription delivery.",
+"zh": "NimbleRx 提供隨需的處方藥配送服務。"
+},
+"highlight": {
+"en": "NimbleRx gets medications to people who need them while improving access to and management of their care, and helps pharmacies move online to reach more.",
+"zh": "NimbleRx 將藥品送達有需要的人手中，同時改善照護的取得與管理，並協助藥局轉至線上以觸及更多消費者。"
+}
+},
+{
+"slug": "bright",
+"summary": {
+"en": "Bright is Mexico's leading residential solar provider, akin to Sunrun for the developing world.",
+"zh": "Bright 是墨西哥領先的住宅太陽能供應商，類似為開發中世界打造的 Sunrun。"
+},
+"highlight": {
+"en": "Bright supplies financing and software so promoters can offer homes cheaper electricity at no upfront cost, then routes demand to local installers in Mexico.",
+"zh": "Bright 提供融資與軟體，讓業務能以零頭期款向家庭提供更便宜的電力，再將需求導向墨西哥的當地安裝商網路。"
+}
+},
+{
+"slug": "numerion-labs",
+"summary": {
+"en": "Numerion Labs applies AI and machine learning to accelerate drug discovery.",
+"zh": "Numerion Labs 運用 AI 與機器學習來加速藥物發現。"
+},
+"highlight": {
+"en": "As an AI-native company, Numerion Labs unites computational chemistry, structural biology, and medicinal chemistry to build next-gen AI discovery platforms.",
+"zh": "作為 AI 原生公司，Numerion Labs 結合計算化學、結構生物學與藥物化學，打造新一代 AI 藥物發現平台。"
+}
+},
+{
+"slug": "bankjoy",
+"summary": {
+"en": "Bankjoy is an end-to-end digital banking solution for banks and credit unions.",
+"zh": "Bankjoy 是一套為銀行與信用合作社打造的端到端數位銀行解決方案。"
+},
+"highlight": {
+"en": "Bankjoy provides a full suite of modern digital banking software — mobile and online banking, online account opening, loan applications, and conversational AI.",
+"zh": "Bankjoy 提供完整的現代數位銀行軟體——包括行動與網路銀行、線上開戶、貸款申請與對話式 AI。"
+}
+},
+{
+"slug": "readme",
+"summary": {
+"en": "ReadMe lets companies build beautiful, personalized, interactive developer hubs.",
+"zh": "ReadMe 讓公司能打造美觀、個人化且具互動性的開發者中心。"
+},
+"highlight": {
+"en": "ReadMe combines support, tutorials, guides, and API exploration into developer portals, making docs easy to keep current and driving adoption via community.",
+"zh": "ReadMe 將支援、教學、指南與 API 探索整合進開發者入口網站，讓文件易於維護，並透過社群功能推動採用。"
+}
+},
+{
+"slug": "booktrope",
+"summary": {
+"en": "Booktrope was a software platform reinventing book publishing through team-based collaboration.",
+"zh": "Booktrope 曾是一個軟體平台，以團隊協作的方式重新定義圖書出版。"
+},
+"highlight": {
+"en": "Booktrope pioneered Team Publishing — pairing an author, editor, designer, and marketer who self-select — to make books faster than traditional publishers.",
+"zh": "Booktrope 首創「團隊出版」——讓作者、編輯、設計師與行銷自選彼此合作——以比傳統出版社更快的速度製作書籍。"
+}
+},
+{
+"slug": "vetpronto",
+"summary": {
+"en": "VetPronto offered on-demand veterinary house calls for pets.",
+"zh": "VetPronto 曾為寵物提供隨需的到府獸醫服務。"
+},
+"highlight": {
+"en": "VetPronto treated pets at home or work to reduce stress, using technology for modern medical records, client communication, telemedicine, and pharmacy links.",
+"zh": "VetPronto 在家中或工作場所為寵物看診以減輕壓力，並運用技術處理現代化病歷、客戶溝通、遠距醫療與藥局整合。"
+}
+},
+{
+"slug": "paperspace",
+"summary": {
+"en": "Paperspace is a cloud platform for building and scaling AI and accelerated computing applications.",
+"zh": "Paperspace 是一個用於建構與擴展 AI 及加速運算應用的雲端平台。"
+},
+"highlight": {
+"en": "Paperspace aims to make accelerated cloud computing accessible through radical simplicity, community-driven resources, and straightforward pricing for teams.",
+"zh": "Paperspace 透過極致的簡潔、社群驅動的資源與透明的定價，致力讓團隊都能輕鬆使用加速雲端運算。"
+}
+},
+{
+"slug": "vest",
+"summary": {
+"en": "Vest brings wider access to financial derivatives and institutional investment strategies.",
+"zh": "Vest 讓更多人能接觸金融衍生品與機構級投資策略。"
+},
+"highlight": {
+"en": "Vest pioneered Target Outcome Investments in 2013 — defined returns at set risk — now offered as mutual funds, ETFs, and more, partnering with Cboe Global.",
+"zh": "Vest 於 2013 年首創「目標成果投資」——在設定風險下提供明確報酬——如今以共同基金、ETF 等形式提供，並與 Cboe 合作。"
+}
+},
+{
+"slug": "wayup",
+"summary": {
+"en": "WayUp is a marketplace for employers to recruit college students and recent graduates.",
+"zh": "WayUp 是一個讓雇主招募大學生與應屆畢業生的市集。"
+},
+"highlight": {
+"en": "WayUp is a leading digital solution for employers to reach, engage, and recruit students and recent grads for internships and jobs.",
+"zh": "WayUp 是雇主用以接觸、互動並招募學生與應屆畢業生實習與正職的領先數位解決方案。"
+}
+},
+{
+"slug": "open-listings",
+"summary": {
+"en": "Open Listings was an all-in-one app that made buying a home simpler and more affordable.",
+"zh": "Open Listings 曾是一款一站式應用程式，讓購屋變得更簡單且更實惠。"
+},
+"highlight": {
+"en": "Open Listings helped buyers purchase billions of dollars of homes and saved them over $25 million in commission fees before being acquired by Opendoor in 2018.",
+"zh": "Open Listings 在 2018 年被 Opendoor 收購前，曾協助買家購入數十億美元的房屋，並省下逾 2,500 萬美元的佣金。"
+}
+},
+{
+"slug": "higherme",
+"summary": {
+"en": "HigherMe is all-in-one hiring software helping restaurants and retailers hire faster.",
+"zh": "HigherMe 是一套一站式招聘軟體，協助餐廳與零售商更快完成雇用。"
+},
+"highlight": {
+"en": "Built by a former franchisee, HigherMe offers a mobile-first applicant tracking system with Text-To-Apply, one-click scheduling, and video cover letters.",
+"zh": "HigherMe 由前加盟業主打造，提供行動優先的求職者追蹤系統，具備簡訊應徵、一鍵排程與影片求職信。"
+}
+},
+{
+"slug": "cleanly",
+"summary": {
+"en": "Cleanly delivers on-demand laundry and dry cleaning at the tap of a button.",
+"zh": "Cleanly 提供隨需的洗衣與乾洗到府服務，一鍵即可完成。"
+},
+"highlight": {
+"en": "Cleanly offers an alternative to typical laundry and dry cleaning, with button-tap delivery that works around the customer's schedule and friendly garment care.",
+"zh": "Cleanly 提供有別於一般的洗衣與乾洗體驗，一鍵即可叫送，配合顧客的時間安排，並由親切的人員處理衣物。"
+}
+},
+{
+"slug": "pigeonly",
+"summary": {
+"en": "Pigeonly is a platform that helps people search, find, and communicate with incarcerated loved ones.",
+"zh": "Pigeonly 是一個平台，協助人們搜尋、找到並聯繫服刑中的親人。"
+},
+"highlight": {
+"en": "Pigeonly's inmate API, Haystac, searches millions of records to locate 2M+ inmates, and its products cut prison call costs by 80% and let users send photos.",
+"zh": "Pigeonly 的囚犯 API「Haystac」搜尋數百萬筆紀錄以定位逾 200 萬名囚犯，其產品將監獄通話費降 80%，並讓使用者寄送照片與卡片。"
+}
+},
+{
+"slug": "popular-pays",
+"summary": {
+"en": "Popular Pays is software for brands to collaborate with content creators and influencers.",
+"zh": "Popular Pays 是一套讓品牌與內容創作者及網紅協作的軟體。"
+},
+"highlight": {
+"en": "Popular Pays connects creators with brands via an in-house iOS and web app, providing direct communication and powerful stats to run multiplatform campaigns.",
+"zh": "Popular Pays 透過自家的 iOS 與網頁應用程式串連創作者與品牌，提供直接溝通與強大數據統計以執行跨平台行銷活動。"
+}
+},
+{
+"slug": "moltin",
+"summary": {
+"en": "Moltin offers eCommerce building blocks through simple APIs for websites and apps.",
+"zh": "Moltin 透過簡單的 API 為網站與應用程式提供電子商務的模組化元件。"
+},
+"highlight": {
+"en": "Moltin is an API-first commerce solution combining flexible APIs, developer toolkits, and pre-built apps so retailers can embed shopping into any touchpoint.",
+"zh": "Moltin 是一個 API 優先的電商解決方案，結合彈性 API、開發者工具包與預建應用，讓零售商將購物功能嵌入任何接觸點。"
+}
+},
+{
+"slug": "replika",
+"summary": {
+"en": "Replika is an AI friend you can talk to, designed to help people deal with loneliness.",
+"zh": "Replika 是一個可與你對話的 AI 朋友，旨在協助人們對抗孤獨。"
+},
+"highlight": {
+"en": "Built by Luka and powered by a proprietary deep learning architecture, Replika lets users create a personal AI friend to chat with and combat loneliness.",
+"zh": "Replika 由 Luka 打造，以專有的深度學習架構為動力，讓使用者建立可交談的個人 AI 朋友，藉以對抗孤獨。"
+}
+}
+]

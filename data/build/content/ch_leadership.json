@@ -1,0 +1,54 @@
+{
+  "id": "leadership",
+  "icon": "manage_accounts",
+  "title": { "en": "Three Eras of Leadership", "zh": "三個世代的領導" },
+  "lede": {
+    "en": "Across two decades, Y Combinator has been refounded three times — each transition swinging between intimate craft, industrial scale, and a deliberate retreat back to the early stage.",
+    "zh": "二十年來,Y Combinator 等於被重新創立了三次——每一次交棒,都在親密的手工坊、工業化的規模,以及刻意回歸早期投資之間擺盪。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "The PG / Jessica Era (2005–2013): A Workshop, Not a Firm", "zh": "PG / Jessica 世代(2005–2013):工作坊,而非投資機構" },
+      "paragraphs": {
+        "en": [
+          "Y Combinator was founded on 11 March 2005 by Paul Graham, Jessica Livingston, Robert Morris, and Trevor Blackwell, with roughly $200,000 of the partners' own money. The model itself was the innovation: instead of writing large cheques to a few companies, YC put small amounts into many, gathered them into batches, and ran a fixed three-month program ending in Demo Day. The first cohort, Summer 2005, took just 8 startups out of about 225 applications and included Reddit. Graham supplied the public voice through his essays and the technical credibility; Livingston, often underweighted in the telling, built the culture, ran operations, and authored the founder-empathy that became YC's signature.",
+          "This era's defining quality was intimacy and taste. Selection ran on the partners' personal judgment, batches were small enough to fit around a dinner table, and the program optimized for a single output — make something people want, then talk to users. It was a workshop that happened to deploy capital, not a fund that happened to mentor. That hand-built quality was also its ceiling: the format scaled with the partners' attention, which is exactly the constraint the next era was built to break."
+        ],
+        "zh": [
+          "Y Combinator 於 2005 年 3 月 11 日由 Paul Graham、Jessica Livingston、Robert Morris 與 Trevor Blackwell 共同創立,初始資金約為合夥人自掏腰包的 20 萬美元。模式本身就是創新:不對少數公司開出大額支票,而是對許多公司投入小額資金,把它們集結成一個梯次(batch),跑為期三個月、以 Demo Day 收尾的固定課程。第一梯次 2005 年夏季班,從約 225 件申請中只收 8 家新創,其中包括 Reddit。Graham 以他的散文與技術公信力擔任對外發聲者;而在敘事中常被低估的 Livingston,則建立了文化、掌管營運,並寫下了日後成為 YC 招牌的「創辦人同理心」。",
+          "這個世代的關鍵特質是親密與品味。篩選仰賴合夥人的個人判斷,梯次小到能圍著一張餐桌坐下,課程只為單一產出服務——做出人們真正想要的東西,然後去和使用者對話。它是一間剛好會配置資本的工作坊,而不是一檔剛好會做輔導的基金。這種手工打造的質感同時也是它的天花板:這套形式的規模受限於合夥人的注意力——而這恰恰是下一個世代被設計來打破的限制。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The Altman Scaling Era (2014–2019): From Batch to Platform", "zh": "Altman 規模化世代(2014–2019):從梯次到平台" },
+      "paragraphs": {
+        "en": [
+          "Sam Altman, who had joined as a part-time partner in 2011, became president in February 2014 when Graham stepped back. His ambition was explicitly industrial: he spoke of funding up to 1,000 companies a year and pushed YC toward 'hard tech' — biotech, hardware, energy — alongside software. Batch sizes climbed steadily into the hundreds, and the program grew an institutional scaffolding around the core: Startup School, the Series A program to help alumni raise their next round, the YC Growth program, Work at a Startup, and a short-lived YC China.",
+          "The keystone move was YC Continuity, a roughly $700 million growth-stage fund launched in October 2015 to make pro-rata follow-on investments in successful alumni. This converted YC from a pure entry-point accelerator into a multi-stage capital platform that could ride its winners up the curve. The trade-off was real: the personal, taste-driven workshop became a larger, more process-driven machine, and the gravitational pull of late-stage capital began to compete with the early-stage mission. Altman departed in March 2019 to focus on OpenAI, where he had become CEO — a foreshadowing of which technology would dominate YC's next chapter."
+        ],
+        "zh": [
+          "2011 年以兼職合夥人身分加入的 Sam Altman,在 2014 年 2 月 Graham 退居幕後時接任總裁。他的野心明確帶有工業色彩:他談到每年要資助多達 1,000 家公司,並把 YC 推向「硬科技」——生技、硬體、能源——而不只是軟體。梯次規模穩步攀升至數百家,核心課程外圍也長出制度化的支架:Startup School、協助校友募下一輪的 Series A 計畫、YC Growth、Work at a Startup,以及曇花一現的 YC China。",
+          "關鍵的一手是 YC Continuity——一檔約 7 億美元、於 2015 年 10 月成立的成長期基金,用以對成功校友做按比例的後續投資。這把 YC 從純粹的入門加速器,轉變為能陪同贏家一路向上的多階段資本平台。代價也很真實:那間講究個人品味的工作坊,變成更龐大、更流程導向的機器,而後期資本的引力也開始與早期使命相互拉扯。Altman 於 2019 年 3 月離開,專注於他已出任執行長的 OpenAI——這也預示了哪一項技術將主導 YC 的下一個篇章。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The Interim and the Tan Reset (2019–): Refocusing on Day One", "zh": "過渡期與 Tan 的重置(2019–):重新聚焦於第一天" },
+      "paragraphs": {
+        "en": [
+          "The handoff was a two-step. Geoff Ralston, a long-time partner, served as president from 2019 to 2022, steering YC through the pandemic — which forced batches fully online and, paradoxically, swelled them to record sizes above 400 companies. Michael Seibel ran the accelerator as its CEO until 2020 and then became managing director of early stage; the partnership flattened away from having multiple CEOs. It was a stewardship period more than a reinvention: the platform Altman built kept running, larger and more remote, but without a sharp new thesis.",
+          "Garry Tan — himself a YC alum (Posterous) and founding partner of Initialized — was announced in August 2022 and took over as president and CEO in January 2023 with an explicit mandate to refocus. Within months he wound down the Continuity Fund and cut roughly 17 late-stage roles, reversing the scaling era's signature expansion to put resources back into the core batch. The new thesis was the early stage sharpened by AI: batches shifted to smaller, in-person cohorts in San Francisco's Dogpatch, founders skewed younger, and by the Winter 2024 batch about half the companies were building with AI. YC, in effect, chose to be a workshop again — only this time at the center of the AI boom."
+        ],
+        "zh": [
+          "交棒分成兩步。資深合夥人 Geoff Ralston 於 2019 至 2022 年擔任總裁,帶領 YC 度過疫情——疫情迫使梯次全面線上化,弔詭的是還把規模推上逾 400 家公司的歷史新高。Michael Seibel 以執行長身分掌管加速器至 2020 年,之後轉任早期事業的董事總經理;合夥制也從多位執行長的結構扁平化下來。這更像是一段看守期而非再造:Altman 建立的平台持續運轉,更龐大、更遠距,卻沒有一個鋒利的新主張。",
+          "Garry Tan——他本身是 YC 校友(Posterous),也是 Initialized 的創始合夥人——於 2022 年 8 月獲宣布接任,並在 2023 年 1 月以總裁兼執行長身分上任,帶著明確的重新聚焦使命。上任數月內,他就結束了 Continuity Fund 並裁撤約 17 個後期團隊職位,逆轉規模化世代的招牌擴張,把資源放回核心梯次。新的主張是被 AI 磨利的早期投資:梯次轉為規模更小、於舊金山 Dogpatch 實體聚集的班級,創辦人年齡更年輕,到了 2024 年冬季班,約有一半的公司在用 AI 做產品。實質上,YC 選擇再次成為一間工作坊——只是這一次,它站在 AI 浪潮的正中心。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's three eras trace a pendulum, not a straight line: from Graham and Livingston's taste-driven workshop, to Altman's multi-stage capital platform, and back — under Tan — to a deliberately narrowed early-stage bet. The most telling decision was Tan's: unwinding Continuity is a rare admission that a successful institution can grow in the wrong direction, and that focus, not scale, may be the asset hardest to keep.",
+    "zh": "YC 的三個世代描繪的是一座鐘擺,而非一條直線:從 Graham 與 Livingston 講究品味的工作坊,到 Altman 的多階段資本平台,再到 Tan 手中刻意收窄的早期賭注。最具說服力的決定是 Tan 的:結束 Continuity 是一種罕見的承認——成功的機構也可能朝錯誤的方向成長,而真正最難守住的資產,或許是聚焦而非規模。"
+  }
+}

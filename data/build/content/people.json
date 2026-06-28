@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "paul-graham",
+    "name": "Paul Graham",
+    "role": {
+      "en": "Co-founder and public voice (2005–2014)",
+      "zh": "共同創辦人暨對外發聲者(2005–2014)"
+    },
+    "era": "2005–2014",
+    "bio": {
+      "en": "Paul Graham is a programmer, essayist, and Lisp expert who co-founded Y Combinator in 2005 after selling his startup Viaweb to Yahoo. He designed the batch-funding model and, through his widely read essays, supplied YC's intellectual framework and public credibility for its first decade.",
+      "zh": "Paul Graham 是程式設計師、散文作家與 Lisp 專家,在把自家新創 Viaweb 賣給 Yahoo 後,於 2005 年共同創立 Y Combinator。他設計了梯次投資模式,並透過廣為流傳的散文,為 YC 頭十年提供了思想架構與對外公信力。"
+    },
+    "note": {
+      "en": "His essays — and the mantra 'Make something people want' — became required reading across the startup world.",
+      "zh": "他的散文,以及那句口號「做出人們真正想要的東西」,成了整個新創圈的必讀經典。"
+    },
+    "sources": [
+      { "title": "Y Combinator — Wikipedia", "url": "https://en.wikipedia.org/wiki/Y_Combinator" },
+      { "title": "Paul Graham — Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Graham_(programmer)" }
+    ]
+  },
+  {
+    "slug": "jessica-livingston",
+    "name": "Jessica Livingston",
+    "role": {
+      "en": "Co-founder; head of culture and operations (2005–2015)",
+      "zh": "共同創辦人;文化與營運主導者(2005–2015)"
+    },
+    "era": "2005–2015",
+    "bio": {
+      "en": "Jessica Livingston is a writer and startup community organizer who co-founded Y Combinator in 2005 and ran much of its early operations and admissions. Often underweighted in the public telling, she built YC's culture and the founder-empathy that became its signature, and authored the interview book 'Founders at Work'.",
+      "zh": "Jessica Livingston 是作家與新創社群組織者,2005 年共同創立 Y Combinator,並掌管早期的大量營運與招募事務。她在公開敘事中常被低估,卻打造了 YC 的文化與招牌般的「創辦人同理心」,並著有訪談書《Founders at Work》。"
+    },
+    "note": {
+      "en": "She is credited with reading founders' character at YC and launched the annual Female Founders Conference.",
+      "zh": "她被公認擅長在 YC 看人識才,並發起了一年一度的 Female Founders Conference(女性創辦人大會)。"
+    },
+    "sources": [
+      { "title": "Jessica Livingston — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jessica_Livingston" },
+      { "title": "Y Combinator — Wikipedia", "url": "https://en.wikipedia.org/wiki/Y_Combinator" }
+    ]
+  },
+  {
+    "slug": "robert-tappan-morris",
+    "name": "Robert Tappan Morris",
+    "role": {
+      "en": "Co-founder; technical partner (2005–)",
+      "zh": "共同創辦人;技術合夥人(2005–)"
+    },
+    "era": "2005–",
+    "bio": {
+      "en": "Robert Tappan Morris is an MIT computer science professor and Paul Graham's former Viaweb co-founder, who helped found Y Combinator in 2005. He lent deep technical credibility to YC's early years while remaining a faculty member at MIT.",
+      "zh": "Robert Tappan Morris 是麻省理工學院(MIT)的電腦科學教授,也是 Paul Graham 在 Viaweb 的舊識共同創辦人,2005 年協助創立 Y Combinator。他在保有 MIT 教職的同時,為 YC 早期注入了深厚的技術公信力。"
+    },
+    "note": {
+      "en": "In 1988 he wrote the Morris Worm, one of the first internet worms, and was the first person convicted under the U.S. Computer Fraud and Abuse Act.",
+      "zh": "他在 1988 年寫出最早的網際網路蠕蟲之一「莫里斯蠕蟲」,並成為美國《電腦詐欺與濫用法》下第一位被定罪的人。"
+    },
+    "sources": [
+      { "title": "Robert Tappan Morris — Wikipedia", "url": "https://en.wikipedia.org/wiki/Robert_Tappan_Morris" },
+      { "title": "Y Combinator — Wikipedia", "url": "https://en.wikipedia.org/wiki/Y_Combinator" }
+    ]
+  },
+  {
+    "slug": "trevor-blackwell",
+    "name": "Trevor Blackwell",
+    "role": {
+      "en": "Co-founder; partner (2005–)",
+      "zh": "共同創辦人;合夥人(2005–)"
+    },
+    "era": "2005–",
+    "bio": {
+      "en": "Trevor Blackwell is a robotics entrepreneur and AI researcher who co-founded Y Combinator in 2005 after earlier working with Paul Graham at Viaweb. Alongside YC he founded the robotics company Anybots, bringing a hardware and engineering perspective to the partnership.",
+      "zh": "Trevor Blackwell 是機器人創業家與人工智慧研究者,曾與 Paul Graham 共事於 Viaweb,並於 2005 年共同創立 Y Combinator。在 YC 之外,他創辦了機器人公司 Anybots,為合夥團隊帶來硬體與工程的視角。"
+    },
+    "note": {
+      "en": "He is known for building a self-balancing robot and an early walking-robot project, blending robotics with early-stage investing.",
+      "zh": "他以打造自我平衡機器人與早期步行機器人專案聞名,把機器人研究與早期投資結合在一起。"
+    },
+    "sources": [
+      { "title": "Trevor Blackwell — Wikipedia", "url": "https://en.wikipedia.org/wiki/Trevor_Blackwell" },
+      { "title": "Y Combinator — Wikipedia", "url": "https://en.wikipedia.org/wiki/Y_Combinator" }
+    ]
+  },
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "role": {
+      "en": "President (2014–2019)",
+      "zh": "總裁(2014–2019)"
+    },
+    "era": "2011–2019",
+    "bio": {
+      "en": "Sam Altman went through YC's first batch as co-founder of Loopt, joined as a part-time partner in 2011, and became president in 2014 when Paul Graham stepped back. He scaled YC dramatically — larger batches, hard-tech bets, and the YC Continuity growth fund — turning the accelerator into a multi-stage capital platform.",
+      "zh": "Sam Altman 以 Loopt 共同創辦人身分參加了 YC 第一梯次,2011 年以兼職合夥人身分加入,並在 2014 年 Paul Graham 退居幕後時接任總裁。他大幅擴張了 YC——更大的梯次、硬科技押注,以及 YC Continuity 成長期基金——把這間加速器變成多階段資本平台。"
+    },
+    "note": {
+      "en": "He left YC in 2019 to focus on OpenAI, where he is CEO and led the launch of ChatGPT.",
+      "zh": "他於 2019 年離開 YC,專注於 OpenAI——他在那裡擔任執行長,並主導推出了 ChatGPT。"
+    },
+    "sources": [
+      { "title": "Sam Altman — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sam_Altman" },
+      { "title": "Y Combinator — Wikipedia", "url": "https://en.wikipedia.org/wiki/Y_Combinator" }
+    ]
+  },
+  {
+    "slug": "garry-tan",
+    "name": "Garry Tan",
+    "role": {
+      "en": "President and CEO (2023–)",
+      "zh": "總裁暨執行長(2023–)"
+    },
+    "era": "2023–",
+    "bio": {
+      "en": "Garry Tan is a designer-turned-investor who was an early YC partner and a co-founder of seed fund Initialized Capital before returning to lead Y Combinator as president and CEO in January 2023. He refocused YC on the early stage, wound down its Continuity growth fund, and grew the accelerator's emphasis on AI startups.",
+      "zh": "Garry Tan 是設計師出身的投資人,曾任 YC 早期合夥人,並共同創辦種子基金 Initialized Capital,於 2023 年 1 月回鍋出任 Y Combinator 總裁暨執行長。他讓 YC 重新聚焦早期投資,收掉了 Continuity 成長期基金,並強化加速器對 AI 新創的押注。"
+    },
+    "note": {
+      "en": "As an early investor through Initialized, he backed Coinbase, Instacart, and Flexport, and has appeared on the Forbes Midas List.",
+      "zh": "他透過 Initialized 早期投資了 Coinbase、Instacart 與 Flexport,並曾名列《Forbes》Midas List 創投榜。"
+    },
+    "sources": [
+      { "title": "Garry Tan — Wikipedia", "url": "https://en.wikipedia.org/wiki/Garry_Tan" },
+      { "title": "Garry Tan: YC Partner | Y Combinator", "url": "https://www.ycombinator.com/people/garry-tan" }
+    ]
+  },
+  {
+    "slug": "michael-seibel",
+    "name": "Michael Seibel",
+    "role": {
+      "en": "CEO of the accelerator (2016–2024); group partner",
+      "zh": "加速器執行長(2016–2024);團隊合夥人"
+    },
+    "era": "2014–",
+    "bio": {
+      "en": "Michael Seibel co-founded Justin.tv (which became Twitch) and Socialcam, then joined Y Combinator as a partner and ran the core accelerator as its CEO from 2016 to 2024. He shaped much of YC's modern founder education and later returned to a hands-on group-partner role mentoring early-stage startups.",
+      "zh": "Michael Seibel 共同創辦了 Justin.tv(後來成為 Twitch)與 Socialcam,之後以合夥人身分加入 Y Combinator,並於 2016 至 2024 年間擔任核心加速器的執行長。他形塑了 YC 現代創辦人教育的多數內容,後來回到第一線的團隊合夥人角色,輔導早期新創。"
+    },
+    "note": {
+      "en": "His startup talks and YC's 'How to Start a Startup' material made him one of YC's most-watched mentors; he has served on the boards of Reddit and Dropbox.",
+      "zh": "他的新創演講與 YC 的「How to Start a Startup」教材,讓他成為 YC 最常被觀看的導師之一;他也曾擔任 Reddit 與 Dropbox 的董事。"
+    },
+    "sources": [
+      { "title": "Michael Seibel — Wikipedia", "url": "https://en.wikipedia.org/wiki/Michael_Seibel" },
+      { "title": "Michael Seibel: YC Partner | Y Combinator", "url": "https://www.ycombinator.com/people/michael-seibel" }
+    ]
+  },
+  {
+    "slug": "paul-buchheit",
+    "name": "Paul Buchheit",
+    "role": {
+      "en": "Partner (2010–2025); Partner Emeritus",
+      "zh": "合夥人(2010–2025);榮譽合夥人"
+    },
+    "era": "2010–2025",
+    "bio": {
+      "en": "Paul Buchheit was Google's 23rd employee and the creator of Gmail before co-founding FriendFeed and joining Y Combinator as a partner in 2010. As one of YC's first partners beyond the founders, he advised startups for fifteen years before transitioning to Partner Emeritus in 2025.",
+      "zh": "Paul Buchheit 是 Google 第 23 號員工、Gmail 的創造者,之後共同創辦 FriendFeed,並於 2010 年以合夥人身分加入 Y Combinator。作為創辦人以外最早的 YC 合夥人之一,他輔導新創長達十五年,於 2025 年轉任榮譽合夥人。"
+    },
+    "note": {
+      "en": "He created Gmail, built the prototype of AdSense, and is credited with coining Google's motto 'Don't be evil'.",
+      "zh": "他創造了 Gmail、打造了 AdSense 的原型,並被認為是 Google 座右銘「不作惡(Don't be evil)」的提出者。"
+    },
+    "sources": [
+      { "title": "Paul Buchheit — Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Buchheit" },
+      { "title": "Y Combinator Names Paul Buchheit and Harj Taggar as Partners — TechCrunch", "url": "https://techcrunch.com/2010/11/12/y-combinator-names-first-new-partners-since-2005-paul-buchheit-and-harj-taggar/" }
+    ]
+  },
+  {
+    "slug": "jared-friedman",
+    "name": "Jared Friedman",
+    "role": {
+      "en": "Managing Director, Software; group partner",
+      "zh": "軟體事業群執行董事;團隊合夥人"
+    },
+    "era": "2016–",
+    "bio": {
+      "en": "Jared Friedman co-founded Scribd (YC 2006), which grew into one of the most-visited sites on the web, before joining Y Combinator as a partner. At YC he serves as Managing Director for software and is an active group partner and early-stage angel investor.",
+      "zh": "Jared Friedman 共同創辦了 Scribd(2006 年 YC 梯次),該站曾躋身全球造訪量最高的網站之一,之後以合夥人身分加入 Y Combinator。他在 YC 擔任軟體事業群執行董事,同時是活躍的團隊合夥人與早期天使投資人。"
+    },
+    "note": {
+      "en": "He helped popularize YC's 'Requests for Startups' and was an early angel investor in companies including Cruise.",
+      "zh": "他協助推廣了 YC 的「Requests for Startups(新創徵案)」,並是 Cruise 等公司的早期天使投資人。"
+    },
+    "sources": [
+      { "title": "Jared Friedman: YC Partner | Y Combinator", "url": "https://www.ycombinator.com/people/jared-friedman" },
+      { "title": "Jared Friedman — Crunchbase", "url": "https://www.crunchbase.com/person/jared-friedman" }
+    ]
+  },
+  {
+    "slug": "dalton-caldwell",
+    "name": "Dalton Caldwell",
+    "role": {
+      "en": "Managing Director and group partner",
+      "zh": "執行董事暨團隊合夥人"
+    },
+    "era": "2013–",
+    "bio": {
+      "en": "Dalton Caldwell is a music-tech entrepreneur who founded imeem (acquired by MySpace) and App.net before joining Y Combinator as a partner in 2013. As a managing director and group partner he has worked across more than twenty batches, advising over a thousand startups.",
+      "zh": "Dalton Caldwell 是音樂科技創業家,曾創辦 imeem(後被 MySpace 收購)與 App.net,並於 2013 年以合夥人身分加入 Y Combinator。身為執行董事兼團隊合夥人,他經手超過二十個梯次,輔導過上千家新創。"
+    },
+    "note": {
+      "en": "He is known inside YC for the concept of 'tarpit ideas' — appealing startup ideas that quietly trap founders.",
+      "zh": "他在 YC 內部以「焦油坑點子(tarpit ideas)」這個概念聞名——那些看似誘人、卻會悄悄困住創辦人的新創點子。"
+    },
+    "sources": [
+      { "title": "Dalton Caldwell — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dalton_Caldwell" },
+      { "title": "Lessons from 1,000+ YC startups — Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/p/lessons-from-1000-yc-startups" }
+    ]
+  },
+  {
+    "slug": "diana-hu",
+    "name": "Diana Hu",
+    "role": {
+      "en": "Group partner",
+      "zh": "團隊合夥人"
+    },
+    "era": "2020–",
+    "bio": {
+      "en": "Diana Hu was co-founder and CTO of Escher Reality (YC S17), an augmented-reality backend company acquired by Niantic, the maker of Pokémon Go. She later joined Y Combinator as a group partner, bringing deep machine-learning and infrastructure expertise to early-stage technical founders.",
+      "zh": "Diana Hu 曾是 Escher Reality(2017 夏季 YC 梯次)的共同創辦人暨技術長,該擴增實境後端公司被 Pokémon Go 開發商 Niantic 收購。她後來以團隊合夥人身分加入 Y Combinator,為早期技術型創辦人帶來深厚的機器學習與基礎架構專業。"
+    },
+    "note": {
+      "en": "After the Niantic acquisition she worked on AR at Niantic before returning to YC to mentor deep-tech founders.",
+      "zh": "在公司被收購後,她於 Niantic 從事擴增實境工作,之後回到 YC 輔導深科技創辦人。"
+    },
+    "sources": [
+      { "title": "Diana Hu — Signal by NFX", "url": "https://signal.nfx.com/investors/diana-hu_1" },
+      { "title": "Partners | Y Combinator", "url": "https://www.ycombinator.com/partners" }
+    ]
+  },
+  {
+    "slug": "harj-taggar",
+    "name": "Harj Taggar",
+    "role": {
+      "en": "Managing partner; YC's first non-founder partner",
+      "zh": "管理合夥人;YC 第一位非創辦人合夥人"
+    },
+    "era": "2010–2014, 2020–",
+    "bio": {
+      "en": "Harj Taggar went through YC as co-founder of Auctomatic (YC W07), then in 2010 became the first partner hired from outside the founding group. He left in 2014 to start Triplebyte (YC S15) and rejoined YC in 2020, where he is a managing partner.",
+      "zh": "Harj Taggar 以 Auctomatic(2007 冬季 YC 梯次)共同創辦人身分參加過 YC,並在 2010 年成為第一位從創辦團隊以外延攬的合夥人。他在 2014 年離開、創辦 Triplebyte(2015 夏季 YC 梯次),又於 2020 年回鍋 YC,現任管理合夥人。"
+    },
+    "note": {
+      "en": "He co-founded Triplebyte and was an early backer at Initialized Capital alongside Garry Tan and Alexis Ohanian.",
+      "zh": "他共同創辦了 Triplebyte,並與 Garry Tan、Alexis Ohanian 一同擔任 Initialized Capital 的早期推手。"
+    },
+    "sources": [
+      { "title": "Harj Taggar — Wikipedia", "url": "https://en.wikipedia.org/wiki/Harj_Taggar" },
+      { "title": "Harj Taggar: YC Partner | Y Combinator", "url": "https://www.ycombinator.com/people/harj-taggar" }
+    ]
+  },
+  {
+    "slug": "geoff-ralston",
+    "name": "Geoff Ralston",
+    "role": {
+      "en": "President (2019–2022); partner",
+      "zh": "總裁(2019–2022);合夥人"
+    },
+    "era": "2012–2022",
+    "bio": {
+      "en": "Geoff Ralston led the development of RocketMail (which became Yahoo Mail) and co-founded the edtech incubator Imagine K12 before joining Y Combinator as a partner in 2012. He served as YC's president from 2019 to 2022, steering the firm through the pandemic and fully online, record-sized batches.",
+      "zh": "Geoff Ralston 主導開發了 RocketMail(後來成為 Yahoo Mail),並共同創辦教育科技育成機構 Imagine K12,於 2012 年以合夥人身分加入 Y Combinator。他在 2019 至 2022 年間擔任 YC 總裁,帶領公司度過疫情,以及完全線上、規模創新高的梯次。"
+    },
+    "note": {
+      "en": "As outgoing president he publicly defended keeping YC's standard deal and terms steady even as the market shifted.",
+      "zh": "在卸任總裁時,他公開為「即使市場變動、YC 仍維持其標準投資條件不變」的立場辯護。"
+    },
+    "sources": [
+      { "title": "Geoff Ralston — Wikipedia", "url": "https://en.wikipedia.org/wiki/Geoff_Ralston" },
+      { "title": "Geoff Ralston for President | Y Combinator", "url": "https://www.ycombinator.com/blog/geoff-ralston-for-president/" }
+    ]
+  },
+  {
+    "slug": "aaron-harris",
+    "name": "Aaron Harris",
+    "role": {
+      "en": "Partner (2014–2021)",
+      "zh": "合夥人(2014–2021)"
+    },
+    "era": "2014–2021",
+    "bio": {
+      "en": "Aaron Harris co-founded Tutorspree (YC S11) and joined Y Combinator as a partner in 2014, where he spent roughly seven and a half years. He worked closely on YC's investment processes and founder support, including helping run the Series A program for alumni.",
+      "zh": "Aaron Harris 共同創辦了 Tutorspree(2011 夏季 YC 梯次),並於 2014 年以合夥人身分加入 Y Combinator,在那裡待了約七年半。他深度參與 YC 的投資流程與創辦人支持工作,包括協助營運面向校友的 Series A 計畫。"
+    },
+    "note": {
+      "en": "He co-hosted YC's content and writing on fundraising, and later co-founded the fintech startup Tango.",
+      "zh": "他協同主持了 YC 在募資題材上的內容與文章,後來共同創辦了金融科技新創 Tango。"
+    },
+    "sources": [
+      { "title": "Aaron Harris and Justin Kan Join YC as Partners — TechCrunch", "url": "https://techcrunch.com/2014/03/19/y-combinator-aaron-harris-justin-kan/" },
+      { "title": "Aaron Harris — personal site", "url": "https://aaronkharris.com/" }
+    ]
+  },
+  {
+    "slug": "kevin-hale",
+    "name": "Kevin Hale",
+    "role": {
+      "en": "Partner (2013–2020)",
+      "zh": "合夥人(2013–2020)"
+    },
+    "era": "2013–2020",
+    "bio": {
+      "en": "Kevin Hale co-founded the online form builder Wufoo, one of the earliest YC-funded startups (acquired by SurveyMonkey in 2011), then became a Y Combinator partner from 2013 to 2020. He focused on user experience, product design, and customer support, helping founders refine their products.",
+      "zh": "Kevin Hale 共同創辦了線上表單工具 Wufoo——最早受 YC 資助的新創之一(2011 年被 SurveyMonkey 收購),之後於 2013 至 2020 年間擔任 Y Combinator 合夥人。他專注於使用者體驗、產品設計與客戶支持,協助創辦人打磨產品。"
+    },
+    "note": {
+      "en": "His YC talks on how investors evaluate startup ideas and on conversion and pricing are among YC's most cited.",
+      "zh": "他在 YC 談「投資人如何評估新創點子」以及轉換率與定價的演講,是 YC 最常被引用的內容之一。"
+    },
+    "sources": [
+      { "title": "Kevin Hale | Golden", "url": "https://golden.com/wiki/Kevin_Hale-DRB9JA" },
+      { "title": "How Investors Think About Ideas — Wufoo Cofounder Kevin Hale", "url": "https://www.ycombinator.com/library/6h-how-to-evaluate-startup-ideas" }
+    ]
+  },
+  {
+    "slug": "tom-blomfield",
+    "name": "Tom Blomfield",
+    "role": {
+      "en": "Group partner (2023–)",
+      "zh": "團隊合夥人(2023–)"
+    },
+    "era": "2021–",
+    "bio": {
+      "en": "Tom Blomfield is a British entrepreneur who co-founded GoCardless (YC S11) and later the app-based challenger bank Monzo, building two billion-dollar companies. He returned to Y Combinator first as a visiting group partner and became a full group partner in 2023, advising founders on both B2B and consumer startups.",
+      "zh": "Tom Blomfield 是英國創業家,共同創辦了 GoCardless(2011 夏季 YC 梯次),後來又創立 App 型挑戰者銀行 Monzo,打造出兩家市值十億美元級的公司。他先以客座團隊合夥人身分回到 Y Combinator,並於 2023 年成為正式團隊合夥人,在 B2B 與消費端新創上輔導創辦人。"
+    },
+    "note": {
+      "en": "He is one of the rare founders to have scaled two unicorns, GoCardless and Monzo, both rooted in the YC ecosystem.",
+      "zh": "他是少數曾把兩家獨角獸(GoCardless 與 Monzo)都做大的創辦人,而兩者都源自 YC 生態系。"
+    },
+    "sources": [
+      { "title": "Tom Blomfield — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tom_Blomfield" },
+      { "title": "Tom Blomfield is Our Newest Group Partner | Y Combinator", "url": "https://www.ycombinator.com/blog/tom-blomfield-of-gocardless-and-monzo-is-our-newest-group-partner" }
+    ]
+  }
+]

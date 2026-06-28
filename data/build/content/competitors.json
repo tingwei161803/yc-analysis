@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "techstars",
+    "name": "Techstars",
+    "founded": "2006",
+    "hq": "Boulder, Colorado, USA",
+    "summary": {
+      "en": "A global, mentorship-driven pre-seed accelerator and venture firm that runs three-month programs across many cities and industry verticals worldwide.",
+      "zh": "一家全球性、以導師制為核心的種子前(pre-seed)加速器暨創投公司,在世界各地多個城市與產業垂直領域舉辦為期三個月的加速計畫。"
+    },
+    "model": {
+      "en": "As of 2025, Techstars invests $220,000 per company: $200,000 via an uncapped MFN SAFE plus $20,000 via a post-money convertible equity agreement, for a minimum 5% stake plus whatever the uncapped SAFE later converts into. Programs run roughly three months and are heavily mentor-driven, organized by city and vertical.",
+      "zh": "自 2025 年起,Techstars 每家公司投資 22 萬美元:其中 20 萬美元透過無上限 MFN SAFE、另外 2 萬美元透過 post-money 可轉換股權協議,換取至少 5% 股權,外加無上限 SAFE 日後轉換的部分。計畫約為期三個月,高度仰賴導師指導,並依城市與產業別分別舉辦。"
+    },
+    "vs_yc": {
+      "en": "Unlike YC's single large batch run mostly from one hub, Techstars is decentralized into many small, city- and theme-specific programs each led by local managing directors, and its model leans more on intensive 1:1 mentorship than on YC's peer-network and demo-day scale.",
+      "zh": "不同於 YC 主要集中在單一據點、規模龐大的單一梯隊,Techstars 將計畫拆分為許多小型、依城市與主題劃分的方案,各由當地的董事總經理(Managing Director)領軍;其模式更倚重密集的一對一導師輔導,而非 YC 那種同儕網絡與 Demo Day 的規模效應。"
+    },
+    "sources": [
+      { "title": "Techstars increases startup funding to $220,000, mirroring YC structure (TechCrunch)", "url": "https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/" },
+      { "title": "Techstars Investment Terms (official newsroom)", "url": "https://www.techstars.com/newsroom/investment-terms" }
+    ]
+  },
+  {
+    "slug": "500-global",
+    "name": "500 Global (formerly 500 Startups)",
+    "founded": "2010",
+    "hq": "San Francisco, California, USA",
+    "summary": {
+      "en": "An early-stage venture fund and seed accelerator known for its global reach, founded in 2010 by Dave McClure and Christine Tsai and rebranded from 500 Startups to 500 Global in 2021.",
+      "zh": "一家以全球觸角著稱的早期創投基金暨種子加速器,2010 年由 Dave McClure 與 Christine Tsai 創立,並於 2021 年從「500 Startups」更名為「500 Global」。"
+    },
+    "model": {
+      "en": "Its Flagship Accelerator offers $150,000 for a 6% stake, with a $37,500 program fee deducted so companies net about $112,500. The flagship program is an in-person batch run in Silicon Valley; the firm is one of the most active early-stage investors globally, having backed thousands of companies across 80+ countries.",
+      "zh": "其旗艦加速器(Flagship Accelerator)提供 15 萬美元換 6% 股權,並扣除 3.75 萬美元的計畫費用,公司實拿約 11.25 萬美元。旗艦計畫以實體梯隊形式在矽谷舉辦;該公司是全球最活躍的早期投資者之一,已投資橫跨 80 多國的數千家公司。"
+    },
+    "vs_yc": {
+      "en": "500 Global charges an explicit program fee and takes a different equity split, and it positions itself as a globally distributed VC plus accelerator with heavy emerging-markets exposure, rather than YC's US-centric, fee-free standard deal and dominant Silicon Valley brand.",
+      "zh": "500 Global 會明確收取計畫費用、採用不同的股權拆分方式,並把自己定位為一家全球佈局的創投加上加速器、對新興市場曝險甚高;相較之下,YC 採取以美國為核心、不收費的標準條件,並擁有主導性的矽谷品牌。"
+    },
+    "sources": [
+      { "title": "500 Global - Wikipedia", "url": "https://en.wikipedia.org/wiki/500_Global" },
+      { "title": "Flagship Accelerator (official 500 Global)", "url": "https://500.co/founders/flagship" }
+    ]
+  },
+  {
+    "slug": "antler",
+    "name": "Antler",
+    "founded": "2017",
+    "hq": "Singapore",
+    "summary": {
+      "en": "An early-stage 'day zero' venture firm founded in 2017 by Magnus Grimeland and Fridtjof Berge that helps individuals find co-founders and build companies from scratch, operating across more than 30 cities globally.",
+      "zh": "一家「第零天(day zero)」的早期創投公司,2017 年由 Magnus Grimeland 與 Fridtjof Berge 創立,協助個人媒合共同創辦人並從零打造公司,業務遍及全球 30 多個城市。"
+    },
+    "model": {
+      "en": "Antler runs a residency where individuals join without an idea or team, form co-founding partnerships, and then receive investment in the startups that emerge—typically an initial $150,000 (often structured as $100,000 for ~10% via SAFE plus $50,000 via an uncapped MFN SAFE), with substantial follow-on matching capital available.",
+      "zh": "Antler 舉辦一種「駐點(residency)」計畫,參與者可在尚無點子或團隊的情況下加入,於計畫中組成共同創辦團隊,再由 Antler 投資因此誕生的新創——通常是初始 15 萬美元(常拆分為 10 萬美元換約 10% 股權的 SAFE,加上 5 萬美元的無上限 MFN SAFE),並提供可觀的後續配比資金。"
+    },
+    "vs_yc": {
+      "en": "Antler enters earlier than YC: it backs people before they even have a co-founder or company, running a structured co-founder matching and company-formation residency, whereas YC funds already-formed teams with a product or idea.",
+      "zh": "Antler 切入的時點比 YC 更早:它在創辦人連共同創辦人或公司都還沒有時就投資「人」,並提供一套結構化的共同創辦人媒合與公司成形駐點;相較之下,YC 投資的是已經組好團隊、已有產品或點子的新創。"
+    },
+    "sources": [
+      { "title": "Antler (venture capital firm) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)" },
+      { "title": "Antler official site", "url": "https://www.antler.co/" }
+    ]
+  },
+  {
+    "slug": "angelpad",
+    "name": "AngelPad",
+    "founded": "2010",
+    "hq": "San Francisco, California, USA",
+    "summary": {
+      "en": "A small, highly selective seed accelerator launched in September 2010 by ex-Google product manager Thomas Korte and Carine Magescas, operating out of San Francisco and New York.",
+      "zh": "一家規模精小、極度挑剔的種子加速器,2010 年 9 月由前 Google 產品經理 Thomas Korte 與 Carine Magescas 創立,據點設於舊金山與紐約。"
+    },
+    "model": {
+      "en": "AngelPad runs two ten-week cohorts per year, picking only roughly 15–20 teams from about 4,000 applicants each cycle. It has invested on the order of $100,000–$120,000 per startup and is run hands-on by a tiny partner team rather than a large staff.",
+      "zh": "AngelPad 每年舉辦兩個為期十週的梯隊,每屆約從 4,000 件申請中只挑選大約 15 至 20 個團隊。它對每家新創投資約 10 萬至 12 萬美元,並由極小的合夥人團隊親力親為地經營,而非龐大的工作人員編制。"
+    },
+    "vs_yc": {
+      "en": "AngelPad is deliberately tiny and boutique—very small classes with intensive, partner-led attention—in direct contrast to YC's massive, scaled batches of hundreds of companies and large alumni network.",
+      "zh": "AngelPad 刻意保持精品化的小規模——班級極小、由合夥人親自高度投入——與 YC 動輒數百家公司的大規模梯隊及龐大校友網絡形成鮮明對比。"
+    },
+    "sources": [
+      { "title": "AngelPad - Wikipedia", "url": "https://en.wikipedia.org/wiki/AngelPad" },
+      { "title": "About AngelPad (official)", "url": "https://angelpad.com/about/" }
+    ]
+  },
+  {
+    "slug": "pioneer",
+    "name": "Pioneer",
+    "founded": "2018",
+    "hq": "San Francisco, California, USA (remote-first)",
+    "summary": {
+      "en": "A fully remote, globally accessible 'startup generator' founded in 2018 by Daniel Gross and Rishi Narang, designed to find and back ambitious 'outsiders' anywhere in the world.",
+      "zh": "一家完全遠端、面向全球的「新創孵化器(startup generator)」,2018 年由 Daniel Gross 與 Rishi Narang 創立,旨在發掘並支持世界各地有野心的「局外人(outsiders)」。"
+    },
+    "model": {
+      "en": "Pioneer ran a gamified monthly online 'tournament' in which applicants earned points by making weekly progress; winners became Pioneers and received a small initial investment (around $5,000) with the possibility of a $100,000 follow-on, mentorship, and access to a private community. It stopped making new investments in 2024.",
+      "zh": "Pioneer 經營一種遊戲化的每月線上「錦標賽(tournament)」,申請者透過每週推進進度來累積積分;勝出者成為「Pioneer」,可獲得一筆小額初始投資(約 5,000 美元),並有機會取得 10 萬美元後續投資、導師輔導與一個私密社群的存取權。該公司已於 2024 年停止進行新投資。"
+    },
+    "vs_yc": {
+      "en": "Pioneer was 100% remote and tournament-based, using a public leaderboard and gamified weekly progress to discover talent globally—an explicit contrast to YC's in-person batch, larger checks, and demo-day-centric model.",
+      "zh": "Pioneer 完全遠端、以錦標賽為機制,透過公開排行榜與遊戲化的每週進度在全球範圍發掘人才——與 YC 的實體梯隊、較大金額的投資以及以 Demo Day 為核心的模式形成明顯對照。"
+    },
+    "sources": [
+      { "title": "Pioneer founder Daniel Gross on bringing remote teams together (TechCrunch)", "url": "https://techcrunch.com/2020/02/28/pioneer-founder-daniel-gross-on-bringing-remote-teams-together/" },
+      { "title": "Pioneer official site", "url": "https://pioneer.app/" }
+    ]
+  },
+  {
+    "slug": "entrepreneur-first",
+    "name": "Entrepreneur First (EF)",
+    "founded": "2011",
+    "hq": "London, United Kingdom",
+    "summary": {
+      "en": "A 'talent investor' founded in 2011 in London by Matt Clifford and Alice Bentinck that backs exceptional individuals before they have a company or co-founder, helping them form teams and build startups.",
+      "zh": "一家「人才投資者(talent investor)」,2011 年由 Matt Clifford 與 Alice Bentinck 在倫敦創立,在創辦人尚無公司或共同創辦人之前就投資傑出的個人,協助他們組隊並打造新創。"
+    },
+    "model": {
+      "en": "Participants join an intensive ~12-week program (FORM) as individuals (Founders-in-Residence), get matched into co-founding pairs, and develop ideas. EF's pre-seed offer includes a roughly $125,000 post-money SAFE for about 8%, with an additional optional uncapped MFN SAFE, plus an upfront talent stipend during the program.",
+      "zh": "參與者以個人身分(駐點創辦人,Founders-in-Residence)加入一個密集約 12 週的計畫(FORM),媒合成共同創辦的搭檔,並發展點子。EF 的種子前投資條件包含約 12.5 萬美元、換約 8% 股權的 post-money SAFE,外加一筆可選的無上限 MFN SAFE,並在計畫期間提供一筆預付的人才津貼。"
+    },
+    "vs_yc": {
+      "en": "Like Antler, EF invests at the pre-team stage and specializes in co-founder matching and company formation, whereas YC requires an existing team and idea; EF is also rooted in Europe and Asia rather than Silicon Valley.",
+      "zh": "與 Antler 類似,EF 在團隊尚未成形的階段就投資,專精於共同創辦人媒合與公司成形;而 YC 要求已有團隊與點子。此外,EF 的根基在歐洲與亞洲,而非矽谷。"
+    },
+    "sources": [
+      { "title": "Entrepreneurs First - Wikipedia", "url": "https://en.wikipedia.org/wiki/Entrepreneurs_First" },
+      { "title": "Updating our global pre-seed investment offer (official EF)", "url": "https://www.joinef.com/posts/updating-our-global-pre-seed-investment-offer/" }
+    ]
+  },
+  {
+    "slug": "sosv-hax",
+    "name": "SOSV / HAX",
+    "founded": "2011",
+    "hq": "Newark, New Jersey, USA",
+    "summary": {
+      "en": "HAX is the hard-tech / deep-tech pre-seed program operated by the venture fund SOSV, founded in 2011 by Cyril Ebersweiler (with SOSV's Sean O'Sullivan), with its first program run in Shenzhen in 2012.",
+      "zh": "HAX 是由創投基金 SOSV 營運的硬科技(hard tech)/深科技(deep tech)種子前計畫,2011 年由 Cyril Ebersweiler(與 SOSV 的 Sean O'Sullivan)創立,首屆計畫於 2012 年在深圳舉辦。"
+    },
+    "model": {
+      "en": "HAX provides up to about $550,000 in pre-seed funding (an initial $250,000–$500,000 from SOSV) and requires founders to relocate for a roughly six-month, lab-based residency. Its Newark facility houses machine shops and mechanical, chemical, and electronics labs to support physical-product founders in climate, industrial automation, and health.",
+      "zh": "HAX 提供高達約 55 萬美元的種子前資金(來自 SOSV 的初始 25 萬至 50 萬美元),並要求創辦人搬遷到當地、進行約六個月、以實驗室為基地的駐點。其位於紐瓦克(Newark)的場地設有機械工坊以及機械、化學與電子實驗室,支援氣候、工業自動化與健康領域的實體產品創辦人。"
+    },
+    "vs_yc": {
+      "en": "HAX is a specialist deep-tech / hardware accelerator with hands-on lab infrastructure and larger checks tied to a multi-month in-residence build, versus YC's sector-agnostic, software-leaning model with a smaller standard check and no physical lab.",
+      "zh": "HAX 是專注於深科技/硬體的加速器,具備可動手操作的實驗室基礎設施,並提供與多月實體駐點開發綁定的較大金額投資;相較之下,YC 採取不限產業、偏向軟體的模式,標準投資金額較小且不提供實體實驗室。"
+    },
+    "sources": [
+      { "title": "HAX Accelerator - Wikipedia", "url": "https://en.wikipedia.org/wiki/HAX_Accelerator" },
+      { "title": "HAX official site", "url": "https://hax.co/" }
+    ]
+  },
+  {
+    "slug": "sequoia-arc",
+    "name": "Sequoia Arc",
+    "founded": "2022",
+    "hq": "Menlo Park, California, USA",
+    "summary": {
+      "en": "A company-building immersion program launched by top-tier VC Sequoia Capital in 2022, run twice a year for small cohorts of pre-seed and seed-stage founders in the Americas and Europe.",
+      "zh": "由頂級創投紅杉資本(Sequoia Capital)於 2022 年推出的「公司打造沉浸式計畫(company-building immersion)」,每年舉辦兩次,面向美洲與歐洲種子前及種子階段的小型創辦人梯隊。"
+    },
+    "model": {
+      "en": "Every company accepted into Arc receives a $1 million upfront investment from Sequoia, made immediately on acceptance and before the program begins. Terms are company-specific rather than standardized; Sequoia does not publish a fixed equity percentage. Cohorts are kept to roughly 10 companies, centered on a multi-day 'Arc Intensive' curriculum.",
+      "zh": "每家進入 Arc 的公司都會在獲選時、計畫開始前立即收到紅杉的 100 萬美元預付投資。其條件是依公司個別議定,而非標準化;紅杉並未公布固定的股權比例。梯隊規模維持在約 10 家公司,核心是一套為期數日的「Arc Intensive」課程。"
+    },
+    "vs_yc": {
+      "en": "Arc is a big-VC seed program with a much larger upfront check, bespoke (non-standardized) terms, and a tiny hand-picked cohort—the opposite of YC's standardized take-it-or-leave-it deal and large-scale batch.",
+      "zh": "Arc 是由大型創投主導的種子計畫,提供大得多的預付支票、量身議定(非標準化)的條件,以及精挑細選的極小梯隊——與 YC 那種標準化、要不要隨你的條件以及大規模梯隊正好相反。"
+    },
+    "sources": [
+      { "title": "Sequoia Arc: Company Building Immersion (official)", "url": "https://www.sequoiacap.com/arc/" },
+      { "title": "Accelerators see a spike in interest as VCs like Sequoia and Accel look to bulk up seed stage investing (Fortune via Yahoo)", "url": "https://finance.yahoo.com/news/accelerators-see-spike-interest-vcs-105730721.html" }
+    ]
+  },
+  {
+    "slug": "plug-and-play",
+    "name": "Plug and Play Tech Center",
+    "founded": "2006",
+    "hq": "Sunnyvale, California, USA",
+    "summary": {
+      "en": "A Silicon Valley innovation platform and venture firm founded in 2006 by Saeed Amidi that connects startups with Fortune 500 corporations and investors across many industry verticals.",
+      "zh": "一個由 Saeed Amidi 於 2006 年創立的矽谷創新平台暨創投公司,串連新創與《財星》500 大企業及投資者,橫跨眾多產業垂直領域。"
+    },
+    "model": {
+      "en": "Plug and Play runs many industry-specific accelerator programs (e.g., fintech, mobility, health, insurtech, sustainability), most of them non-equity, that pair startups with corporate partners for pilots, proofs-of-concept, and potential investment or acquisition; it has been among the most active startup investors in the world by deal count.",
+      "zh": "Plug and Play 經營許多依產業劃分的加速計畫(例如金融科技、移動出行、健康、保險科技、永續),其中多數不收取股權,讓新創與企業夥伴在試點(pilot)、概念驗證(PoC)、潛在投資或收購上對接;就交易筆數而言,它是全球最活躍的新創投資者之一。"
+    },
+    "vs_yc": {
+      "en": "Plug and Play is built around corporate innovation and matchmaking—mostly non-equity, vertically themed programs that broker startup-corporate pilots—rather than YC's equity-for-cash standard deal, peer batch, and demo-day-to-VC pipeline.",
+      "zh": "Plug and Play 圍繞企業創新與媒合而建——多為不收股權、依垂直主題設計的計畫,撮合新創與企業的試點合作——而非 YC 那種以股權換現金的標準條件、同儕梯隊,以及從 Demo Day 通往創投的管道。"
+    },
+    "sources": [
+      { "title": "Plug and Play Tech Center - Wikipedia", "url": "https://en.wikipedia.org/wiki/Plug_and_Play_Tech_Center" },
+      { "title": "Plug and Play Tech Center official site", "url": "https://www.plugandplaytechcenter.com/" }
+    ]
+  }
+]

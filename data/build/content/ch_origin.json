@@ -1,0 +1,54 @@
+{
+  "id": "origin",
+  "icon": "rocket_launch",
+  "title": { "en": "Origins & the Hacker Thesis", "zh": "起源與駭客論點" },
+  "lede": {
+    "en": "Y Combinator began in 2005 as an experiment in funding startups the way you compile code in a batch: many at once, fast, cheap, and run by hackers rather than financiers.",
+    "zh": "Y Combinator 於 2005 年問世,本質是一場實驗——把投資新創當成批次編譯一樣:一次投一群、速度快、金額小,而且由駭客而非金融家主導。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "A Walk Home in Cambridge", "zh": "劍橋的一段返家路" },
+      "paragraphs": {
+        "en": [
+          "On March 11, 2005, Paul Graham and Jessica Livingston were walking home from dinner in Harvard Square when they decided to start a new kind of seed firm. Graham had just sold his startup Viaweb to Yahoo in 1998, and he and Livingston wanted to learn how to be angel investors. They recruited Robert Morris and Trevor Blackwell, Graham's old collaborators from the Viaweb era and from MIT, and pooled $200,000 of their own money—$100,000 from Graham, $50,000 each from Morris and Blackwell. The firm was briefly called Cambridge Seed before being renamed Y Combinator to shed any regional connotation.",
+          "The four were an unusual investment committee. Morris was a computer scientist famous for writing the 1988 Morris worm and later a tenured MIT professor; Blackwell was a roboticist and engineer; Livingston had come out of investment banking and PR; Graham was a Lisp hacker turned essayist. None of them were career venture capitalists, and that was the point: they intended to fund companies the way they wished someone had funded them."
+        ],
+        "zh": [
+          "2005 年 3 月 11 日,Paul Graham 與 Jessica Livingston 從哈佛廣場的晚餐走路回家途中,決定創辦一家新型態的種子投資公司。Graham 在 1998 年才剛把他的新創 Viaweb 賣給 Yahoo,他和 Livingston 想學會如何當天使投資人。他們找來 Robert Morris 與 Trevor Blackwell——Graham 在 Viaweb 時期與 MIT 的老夥伴——共同湊出二十萬美元自有資金:Graham 出十萬,Morris 與 Blackwell 各出五萬。公司一度名為 Cambridge Seed,隨後改名 Y Combinator,以擺脫地域色彩。",
+          "這四個人是一支不尋常的投資團隊。Morris 是電腦科學家,以撰寫 1988 年的「Morris 蠕蟲」聞名,後來成為 MIT 終身教授;Blackwell 是機器人專家與工程師;Livingston 出身投資銀行與公關;Graham 則是從 Lisp 駭客轉型的散文作家。他們沒有一個是職業創投家,而這正是重點:他們想用「當年自己也希望被這樣投資」的方式去投人。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Funding Like a Batch Process", "zh": "把投資當成批次處理" },
+      "paragraphs": {
+        "en": [
+          "Instead of meeting founders one at a time, they ran the Summer Founders Program: a single open call, a cohort funded simultaneously, and a fixed three-month sprint in Cambridge. The first batch in the summer of 2005 had just eight startups, each given roughly $6,000 per founder—pocket money even then, enough only to cover ramen and rent while founders built. The amounts were deliberately tiny because the scarce resource was not capital but attention and conviction.",
+          "The batch structure was originally a shortcut—Graham later wrote that a summer program for undergraduates 'seemed the fastest way' to learn angel investing—but it turned out to be the product itself. Funding many startups at once spread risk across a portfolio, created a peer group of founders who pushed each other, and let the partners give intense, hands-on help in compressed bursts ending in a Demo Day. That first cohort included Reddit, Loopt (co-founded by a 20-year-old Sam Altman), Infogami, and Kiko, seeding outcomes that would later validate the whole approach."
+        ],
+        "zh": [
+          "他們不再一次只見一組創辦人,而是推出「Summer Founders Program」:一次公開招募、整批同時出資、在劍橋進行固定三個月的衝刺。2005 年夏天的第一批只有八家新創,每位創辦人約拿到六千美元——即使在當時也只是零用錢,僅夠付泡麵和房租,讓人專心開發產品。金額刻意壓得極小,因為稀缺的不是資本,而是注意力與信念。",
+          "批次制度起初只是一條捷徑——Graham 後來寫道,為大學生辦個暑期計畫「似乎是最快的方式」來學當天使投資人——但結果它本身就成了產品。一次投資一群新創,把風險分攤到一個投資組合上,讓創辦人彼此成為相互砥礪的同儕,也讓合夥人能在壓縮的時間內密集、親力親為地協助,最後以 Demo Day 收尾。第一批就包含 Reddit、Loopt(由 20 歲的 Sam Altman 共同創辦)、Infogami 與 Kiko,埋下日後足以驗證整套模式的成果。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Why Hackers, Not Suits", "zh": "為什麼是駭客,而非西裝" },
+      "paragraphs": {
+        "en": [
+          "The founding thesis was that the best judges of technical founders are technical founders. Graham argued that investors should make more, smaller bets, on younger people, and that the gatekeepers of finance systematically underrated programmers who could build but couldn't yet pitch. Because three of the four partners were hackers who had shipped real products, they could evaluate a team on whether it could actually build something people want—a phrase that became YC's motto—rather than on polish or pedigree.",
+          "This was less a financial innovation than a cultural one. By having founders run the fund, YC inverted the usual power relationship: the people writing the checks had themselves sat in the founder's chair, eaten the same ramen, and shipped the same buggy first versions. That credibility is what let YC ask for only a small slice of equity, demand intensity, and still attract the ambitious—an arrangement traditional VCs, optimized for capital deployment rather than empathy with builders, were poorly positioned to copy."
+        ],
+        "zh": [
+          "創辦時的核心論點是:評斷技術型創辦人的最佳人選,正是技術型創辦人本身。Graham 主張投資人應該做更多、更小的賭注,押注更年輕的人,並指出金融的守門人系統性地低估了那些能動手做、卻還不會做簡報的程式設計師。由於四位合夥人中有三位是真正出貨過產品的駭客,他們能以「這支團隊能否真的做出大家想要的東西」(此句後來成了 YC 的座右銘)來評估,而非看包裝或出身。",
+          "這與其說是金融創新,不如說是文化創新。讓創辦人來經營基金,YC 顛倒了慣常的權力關係:開支票的人自己也坐過創辦人的位子、吃過一樣的泡麵、出過一樣有 bug 的初版。正是這份可信度,讓 YC 得以只要求一小塊股權、要求高強度投入,卻仍能吸引到最有企圖心的人——這套安排,對於為「資本部署」而非「對創造者的同理」而最佳化的傳統創投來說,極難複製。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's real invention in 2005 was not a financial instrument but a reframing: treating startup investing as a repeatable batch process rather than a bespoke gatekeeping ritual. The choice to let hackers, not financiers, run it was the load-bearing decision—it is what made the tiny checks and brutal intensity feel like a gift rather than an insult, and it is the hardest part for imitators to copy.",
+    "zh": "YC 在 2005 年真正的發明,不是某種金融工具,而是一次重新框定:把投資新創視為可重複的批次流程,而非量身訂做的守門儀式。讓駭客而非金融家來經營,才是那塊承重的關鍵決定——正因如此,微薄的支票與殘酷的高強度才像是一份禮物而非侮辱;這也是模仿者最難複製的部分。"
+  }
+}

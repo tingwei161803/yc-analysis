@@ -1,0 +1,215 @@
+{
+  "INDUSTRIES": [
+    {
+      "key": "b2b",
+      "icon": "business_center",
+      "en": "B2B / Enterprise",
+      "zh": "B2B / 企業軟體"
+    },
+    {
+      "key": "fintech",
+      "icon": "account_balance",
+      "en": "Fintech",
+      "zh": "金融科技"
+    },
+    {
+      "key": "consumer",
+      "icon": "shopping_bag",
+      "en": "Consumer",
+      "zh": "消費 / 生活"
+    },
+    {
+      "key": "healthcare",
+      "icon": "medical_services",
+      "en": "Healthcare",
+      "zh": "醫療健康"
+    },
+    {
+      "key": "industrials",
+      "icon": "precision_manufacturing",
+      "en": "Industrials",
+      "zh": "工業 / 製造"
+    },
+    {
+      "key": "real-estate",
+      "icon": "apartment",
+      "en": "Real Estate & Construction",
+      "zh": "不動產 / 營造"
+    },
+    {
+      "key": "education",
+      "icon": "school",
+      "en": "Education",
+      "zh": "教育"
+    },
+    {
+      "key": "government",
+      "icon": "gavel",
+      "en": "Government",
+      "zh": "政府 / 公共"
+    },
+    {
+      "key": "other",
+      "icon": "category",
+      "en": "Other",
+      "zh": "其他"
+    }
+  ],
+  "STATUSES": [
+    {
+      "key": "active",
+      "en": "Active",
+      "zh": "營運中",
+      "color": "#1f8a4c"
+    },
+    {
+      "key": "ipo",
+      "en": "Public (IPO)",
+      "zh": "已上市",
+      "color": "#1a73e8"
+    },
+    {
+      "key": "acquired",
+      "en": "Acquired",
+      "zh": "已被併購",
+      "color": "#8430ce"
+    },
+    {
+      "key": "shutdown",
+      "en": "Inactive",
+      "zh": "已關閉",
+      "color": "#9aa0a6"
+    }
+  ],
+  "VAL_TIERS": [
+    {
+      "key": "hectocorn",
+      "en": "Hectocorn $100B+",
+      "zh": "Hectocorn $100B+",
+      "color": "#ff5722"
+    },
+    {
+      "key": "decacorn",
+      "en": "Decacorn $10B+",
+      "zh": "Decacorn $10B+",
+      "color": "#d93025"
+    },
+    {
+      "key": "unicorn",
+      "en": "Unicorn $1B+",
+      "zh": "Unicorn $1B+",
+      "color": "#e8a200"
+    }
+  ],
+  "REGIONS": [
+    {
+      "key": "us",
+      "en": "United States",
+      "zh": "美國"
+    },
+    {
+      "key": "canada",
+      "en": "Canada",
+      "zh": "加拿大"
+    },
+    {
+      "key": "latam",
+      "en": "Latin America",
+      "zh": "拉丁美洲"
+    },
+    {
+      "key": "uk",
+      "en": "United Kingdom",
+      "zh": "英國"
+    },
+    {
+      "key": "europe",
+      "en": "Europe",
+      "zh": "歐洲"
+    },
+    {
+      "key": "india",
+      "en": "India",
+      "zh": "印度"
+    },
+    {
+      "key": "south-asia",
+      "en": "South Asia",
+      "zh": "南亞"
+    },
+    {
+      "key": "sea",
+      "en": "Southeast Asia",
+      "zh": "東南亞"
+    },
+    {
+      "key": "east-asia",
+      "en": "East Asia",
+      "zh": "東亞"
+    },
+    {
+      "key": "mena",
+      "en": "MENA",
+      "zh": "中東 / 北非"
+    },
+    {
+      "key": "africa",
+      "en": "Africa",
+      "zh": "非洲"
+    },
+    {
+      "key": "oceania",
+      "en": "Oceania",
+      "zh": "大洋洲"
+    },
+    {
+      "key": "global",
+      "en": "Global / Remote",
+      "zh": "全球 / 遠端"
+    }
+  ],
+  "ERAS": [
+    {
+      "key": "founding",
+      "en": "Founding Era (’05–’08)",
+      "zh": "草創期(’05–’08)",
+      "lo": 2005,
+      "hi": 2008
+    },
+    {
+      "key": "mobile-cloud",
+      "en": "Mobile & Cloud (’09–’13)",
+      "zh": "行動與雲端(’09–’13)",
+      "lo": 2009,
+      "hi": 2013
+    },
+    {
+      "key": "global-scale",
+      "en": "Global Scale (’14–’18)",
+      "zh": "全球規模化(’14–’18)",
+      "lo": 2014,
+      "hi": 2018
+    },
+    {
+      "key": "pandemic",
+      "en": "Pandemic Boom (’19–’21)",
+      "zh": "疫情爆發(’19–’21)",
+      "lo": 2019,
+      "hi": 2021
+    },
+    {
+      "key": "ai-inflection",
+      "en": "AI Inflection (’22–’24)",
+      "zh": "AI 轉折(’22–’24)",
+      "lo": 2022,
+      "hi": 2024
+    },
+    {
+      "key": "ai-native",
+      "en": "AI Native (’25–)",
+      "zh": "AI 原生(’25–)",
+      "lo": 2025,
+      "hi": 2100
+    }
+  ]
+}

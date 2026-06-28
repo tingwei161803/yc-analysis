@@ -1,0 +1,98 @@
+[
+  {
+    "key": "founding",
+    "label": {
+      "en": "The Founding Experiment",
+      "zh": "草創實驗期"
+    },
+    "years": "2005–2008",
+    "body": {
+      "en": "Launched in March 2005 from Cambridge, Massachusetts, YC ran startups through a single batch with a fixed three-month sprint and a closing Demo Day, deliberately writing tiny checks to young, technical founders. The model was an unproven experiment in funding many companies at once rather than meeting them one by one, and the early cohorts were small, scrappy, and run by hackers rather than financiers.",
+      "zh": "YC 於 2005 年 3 月在麻州劍橋問世,以「整批」方式同時帶一群新創跑固定三個月的衝刺,並以 Demo Day 收尾,刻意把極小的支票開給年輕的技術型創辦人。這套模式當時還是個未經驗證的實驗——一次投一群、而非一組一組地談——早期的批次規模小、克難,而且由駭客而非金融家主導。"
+    },
+    "signature": {
+      "en": "First batch (Summer 2005) funded Reddit and Loopt; Dropbox (S07) and Airbnb (W09) emerged from these formative years.",
+      "zh": "第一批(2005 年夏)投出了 Reddit 與 Loopt;Dropbox(S07)與 Airbnb(W09)也在這段奠基期內誕生。"
+    }
+  },
+  {
+    "key": "mobile-cloud",
+    "label": {
+      "en": "The Mobile & Cloud Wave",
+      "zh": "行動與雲端浪潮"
+    },
+    "years": "2009–2013",
+    "body": {
+      "en": "YC consolidated in Silicon Valley and rode the smartphone and cloud boom, when AWS and the App Store made it cheap to build and distribute software to a suddenly global, always-connected audience. Batches grew steadily and the firm's portfolio shifted from web toys toward infrastructure, marketplaces, and developer tools aimed at the new mobile-first internet.",
+      "zh": "YC 將重心移到矽谷,搭上智慧型手機與雲端的爆發期——AWS 與 App Store 讓開發與發行軟體變得低廉,並能瞬間觸及一個全球、永遠在線的使用者群。批次規模穩定成長,投資組合也從網路小玩意轉向基礎設施、雙邊市場與開發者工具,瞄準這個「行動優先」的全新網路。"
+    },
+    "signature": {
+      "en": "Stripe (S09), Airbnb's breakout, and the rise of cloud and mobile-native marketplaces defined the period.",
+      "zh": "Stripe(S09)、Airbnb 的爆發,以及雲端與行動原生市場的崛起,定義了這個時期。"
+    }
+  },
+  {
+    "key": "global-scale",
+    "label": {
+      "en": "Scaling Up & Going Global",
+      "zh": "規模化與全球擴張"
+    },
+    "years": "2014–2018",
+    "body": {
+      "en": "Sam Altman took over as president in 2014 and pushed YC to get much bigger, expanding batch sizes into the hundreds, standardizing the deal, and broadening into hardware, biotech, and international founders. YC became the default first stop for ambitious startups worldwide, with several portfolio companies maturing into household-name unicorns.",
+      "zh": "Sam Altman 於 2014 年接任總裁,推動 YC 大幅擴張:批次規模成長到數百家、投資條款標準化,並拓展到硬體、生技與海外創辦人。YC 成為全球有企圖心的新創心目中的「第一站」預設選項,旗下多家公司也成長為家喻戶曉的獨角獸。"
+    },
+    "signature": {
+      "en": "Altman's presidency, the standardized YC deal, and breakouts like Coinbase, DoorDash, and Instacart marked the scale-up.",
+      "zh": "Altman 的總裁任期、標準化的 YC 投資條款,以及 Coinbase、DoorDash、Instacart 等爆發案例,標誌了這段規模化階段。"
+    }
+  },
+  {
+    "key": "pandemic",
+    "label": {
+      "en": "Remote & the Pandemic Pivot",
+      "zh": "遠端與疫情轉向"
+    },
+    "years": "2019–2021",
+    "body": {
+      "en": "Altman stepped down in 2019, and the COVID-19 pandemic forced YC to run its program and Demo Days fully remotely from 2020, accelerating a shift toward a more distributed, global founder base. Cheap money and a venture boom swelled batch sizes and valuations, even as the in-person community that had defined YC moved temporarily online.",
+      "zh": "Altman 於 2019 年卸任,而 COVID-19 疫情迫使 YC 自 2020 年起把整個計畫與 Demo Day 全面改為遠端,加速了創辦人群體走向更分散、更全球化的轉變。寬鬆的資金與創投熱潮推高了批次規模與估值,即使那個曾定義 YC 的實體社群,也暫時轉到了線上。"
+    },
+    "signature": {
+      "en": "Fully remote batches and virtual Demo Days from Summer 2020, amid a record venture-funding boom.",
+      "zh": "自 2020 年夏起的全遠端批次與線上 Demo Day,正值創投資金創紀錄的熱潮之中。"
+    }
+  },
+  {
+    "key": "ai-inflection",
+    "label": {
+      "en": "The AI Inflection",
+      "zh": "AI 拐點"
+    },
+    "years": "2022–2024",
+    "body": {
+      "en": "Garry Tan returned as CEO in January 2023, just as ChatGPT detonated a wave of AI startups, and YC retooled around the new generation of foundation-model applications. The firm tightened its batches and returned to its in-person, San Francisco roots, with roughly half of the Winter 2024 cohort building with AI.",
+      "zh": "Garry Tan 於 2023 年 1 月回任執行長,正逢 ChatGPT 引爆一波 AI 新創熱潮,YC 也隨之圍繞新一代基礎模型應用重新調整方向。公司收緊批次規模,回歸舊金山的實體根基;到了 2024 年冬季批次,約有一半的團隊都在用 AI 打造產品。"
+    },
+    "signature": {
+      "en": "Garry Tan's CEO return, the ChatGPT shockwave, and an AI-heavy Winter 2024 batch (~50% building with AI).",
+      "zh": "Garry Tan 回任執行長、ChatGPT 的衝擊波,以及 AI 比重極高的 2024 冬季批次(約半數團隊以 AI 為核心)。"
+    }
+  },
+  {
+    "key": "ai-native",
+    "label": {
+      "en": "The AI-Native Era",
+      "zh": "AI 原生時代"
+    },
+    "years": "2025–",
+    "body": {
+      "en": "By 2025 AI was the default substrate rather than a niche, with cohorts dominated by founders building agents, AI tooling, and applications on top of rapidly improving models. Tiny, AI-leveraged teams could reach revenue and scale faster than any prior generation, reshaping what an early-stage startup looks like and how few people it takes to build one.",
+      "zh": "進入 2025 年,AI 已從利基變成預設底層,批次中絕大多數創辦人都在打造代理(agent)、AI 工具,以及架在快速進化模型之上的應用。借助 AI 槓桿的小團隊,能比以往任何世代更快達到營收與規模,重新定義了「早期新創」的樣貌,以及打造一家公司究竟需要多少人。"
+    },
+    "signature": {
+      "en": "Agent-first and AI-tooling startups, and lean teams reaching scale with a fraction of the headcount.",
+      "zh": "以代理(agent)與 AI 工具為核心的新創,以及用極少人力就達到規模的精實團隊。"
+    }
+  }
+]

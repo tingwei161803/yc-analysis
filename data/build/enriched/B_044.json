@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "medisearch",
+    "summary": {
+      "en": "A search engine that answers medical questions from trustworthy sources.",
+      "zh": "一個從可信來源回答醫療問題的搜尋引擎。"
+    },
+    "highlight": {
+      "en": "MediSearch gives direct, sourced answers to medical questions rather than a list of links, aiming to be a trustworthy reference for health information.",
+      "zh": "MediSearch 直接給出有來源依據的醫療問題答案,而非一串連結,目標是成為可信賴的健康資訊參考。"
+    }
+  },
+  {
+    "slug": "aglide",
+    "summary": {
+      "en": "Connects every disconnected app to your existing SSO and identity provider.",
+      "zh": "將每個未串接的應用程式連上你現有的 SSO 與身分供應商。"
+    },
+    "highlight": {
+      "en": "Aglide's agentic identity tech connects legacy and non-standard apps to providers like Okta or Entra with no app-side integration, so MFA and RBAC just work.",
+      "zh": "Aglide 的代理式身分技術可將舊版與非標準應用程式連上 Okta、Entra 等供應商,無需應用端整合,讓 MFA 與 RBAC 直接生效。"
+    }
+  },
+  {
+    "slug": "converge",
+    "summary": {
+      "en": "All-in-one marketing measurement for B2C online stores.",
+      "zh": "為 B2C 線上商店打造的一站式行銷成效衡量平台。"
+    },
+    "highlight": {
+      "en": "Converge vertically integrates the marketing data stack—collection, consent, identity resolution, attribution—so marketers can cut unprofitable channels.",
+      "zh": "Converge 將行銷資料堆疊(收集、同意、身分解析、歸因)垂直整合,讓行銷人員砍掉不賺錢的通路。"
+    }
+  },
+  {
+    "slug": "cedalio",
+    "summary": {
+      "en": "AI agents that automate accounts payable, procurement, and finance workflows.",
+      "zh": "自動化應付帳款、採購與財務流程的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Cedalio automates the data flows from invoice intake to 3-way match to payment, letting finance teams shift from doing the work to governing it.",
+      "zh": "Cedalio 自動化從發票接收、三方比對到付款的資料流程,讓財務團隊從親自處理轉為監督管理。"
+    }
+  },
+  {
+    "slug": "cair-health",
+    "summary": {
+      "en": "AI agents for healthcare revenue cycle management.",
+      "zh": "為醫療收入循環管理打造的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Trusted by 100+ practices, Cair Health's AI agents serve billing companies, EHRs, and BPOs to streamline RCM while teams keep control of core workflows.",
+      "zh": "獲逾 100 家診所採用,Cair Health 的 AI 代理服務帳務公司、EHR 與 BPO,在團隊掌控核心流程下精簡收入循環作業。"
+    }
+  },
+  {
+    "slug": "cargo",
+    "summary": {
+      "en": "Build a leaner, automation-driven go-to-market workforce.",
+      "zh": "打造更精簡、由自動化驅動的市場進攻團隊。"
+    },
+    "highlight": {
+      "en": "Cargo replaces SDR-heavy sales models with a hybrid approach that blends manual effort and automation to empower full-cycle account executives.",
+      "zh": "Cargo 以結合人工與自動化的混合模式取代倚重 SDR 的銷售模型,賦能負責全流程的客戶經理。"
+    }
+  },
+  {
+    "slug": "twine",
+    "summary": {
+      "en": "An AI revenue engine that turns leads into booked jobs for service businesses.",
+      "zh": "為服務型企業將潛在客戶轉為已預約訂單的 AI 營收引擎。"
+    },
+    "highlight": {
+      "en": "Twine captures every call, text, form, and ad lead in one place, then uses AI to respond instantly, qualify, follow up, book jobs, and show which channels earn.",
+      "zh": "Twine 將每通電話、簡訊、表單與廣告的潛在客戶集中一處,並以 AI 即時回應、篩選、跟進、預約並顯示哪些通路在賺錢。"
+    }
+  },
+  {
+    "slug": "constructable",
+    "summary": {
+      "en": "Construction management software for mid-size commercial general contractors.",
+      "zh": "為中型商業總承包商打造的營建管理軟體。"
+    },
+    "highlight": {
+      "en": "A modern alternative to Procore, Constructable unifies RFIs, submittals, drawings, logs, and change orders with AI-powered search across the project lifecycle.",
+      "zh": "Constructable 定位為 Procore 的現代替代方案,以 AI 搜尋整合 RFI、送審、圖面、日誌與變更單,涵蓋專案全週期。"
+    }
+  },
+  {
+    "slug": "orbio-earth",
+    "summary": {
+      "en": "Tracks oil and gas methane emissions using satellite imagery.",
+      "zh": "運用衛星影像追蹤石油與天然氣產業的甲烷排放。"
+    },
+    "highlight": {
+      "en": "Orbio replaces excel-based emission factors—which underestimate methane by ~70%—with satellite imaging of every oil and gas facility, selling data to investors.",
+      "zh": "Orbio 以對每座油氣設施的衛星影像取代低估甲烷約七成的 Excel 排放因子,並將資料賣給投資方。"
+    }
+  },
+  {
+    "slug": "yn",
+    "summary": {
+      "en": "An interactive storytelling app where you play a character in your story.",
+      "zh": "一款互動敘事應用程式,你在故事中扮演角色。"
+    },
+    "highlight": {
+      "en": "On Y/n your texts change the plot and how characters feel about you, so no two playthroughs are alike, across 10M+ community-created stories in any genre.",
+      "zh": "在 Y/n 中,你的訊息會改變劇情與角色對你的好感,每次體驗都不同,社群更創作逾千萬則各種類型的故事。"
+    }
+  },
+  {
+    "slug": "stellar-sleep",
+    "summary": {
+      "en": "Helps people with chronic insomnia sleep better using psychology.",
+      "zh": "運用心理學幫助慢性失眠者改善睡眠。"
+    },
+    "highlight": {
+      "en": "Rather than surface advice like cutting coffee, Stellar Sleep targets the deeper psychological drivers, such as unresolved anxiety, behind chronic insomnia.",
+      "zh": "Stellar Sleep 不只給出戒咖啡之類的表面建議,而是處理慢性失眠背後的深層心理因素,例如未解決的焦慮。"
+    }
+  },
+  {
+    "slug": "pointhound",
+    "summary": {
+      "en": "Helps you earn and redeem credit card points for free flights.",
+      "zh": "幫你累積並兌換信用卡點數換取免費機票。"
+    },
+    "highlight": {
+      "en": "Pointhound simplifies the often-confusing process of turning credit card points into award flights, driven by a mission to make travel more accessible.",
+      "zh": "Pointhound 簡化將信用卡點數兌換成獎勵機票這個常令人困惑的流程,致力讓旅行更普及。"
+    }
+  },
+  {
+    "slug": "cedana",
+    "summary": {
+      "en": "Live migration for CPU and GPU AI workloads for faster, more reliable compute.",
+      "zh": "為 CPU 與 GPU 的 AI 工作負載提供即時遷移,讓運算更快、更可靠。"
+    },
+    "highlight": {
+      "en": "Cedana's live migration cuts costs up to 80%, speeds time-to-first-token 2-10x, and keeps training jobs stateful through catastrophic GPU failures.",
+      "zh": "Cedana 的即時遷移可省下高達八成成本、將首字元產生時間加速 2-10 倍,並在 GPU 災難性故障下維持訓練狀態。"
+    }
+  },
+  {
+    "slug": "bronco-ai",
+    "summary": {
+      "en": "AI for ASIC design verification that helps chipmakers find bugs and ship on time.",
+      "zh": "用於 ASIC 設計驗證的 AI,協助晶片商找出錯誤並準時出貨。"
+    },
+    "highlight": {
+      "en": "Bronco builds AI silicon verification engineers that find bugs and drive functional coverage, deployed alongside teams building next-generation 4nm hardware.",
+      "zh": "Bronco 打造能找出錯誤並推進功能覆蓋率的 AI 矽晶驗證工程師,已部署於開發次世代 4 奈米硬體的團隊中。"
+    }
+  },
+  {
+    "slug": "sola",
+    "summary": {
+      "en": "A copilot for building robotic process automation workflows.",
+      "zh": "用於建構機器人流程自動化工作流程的協作工具。"
+    },
+    "highlight": {
+      "en": "Sola uses LLMs and computer vision to turn a screen recording into a bot for any desktop or browser workflow, with logic that self-develops as new events arise.",
+      "zh": "Sola 運用大型語言模型與電腦視覺,將螢幕錄製轉為適用任何桌面或瀏覽器流程的機器人,並在遇到新事件時自動演進邏輯。"
+    }
+  },
+  {
+    "slug": "nanograb",
+    "summary": {
+      "en": "Uses AI to design targeted non-viral gene therapy delivery vectors.",
+      "zh": "運用 AI 設計具標靶性的非病毒基因治療遞送載體。"
+    },
+    "highlight": {
+      "en": "Nanograb designs combinations of small peptide binders on nanoparticles to deliver genetic medicines to specific cells and tissues at scale.",
+      "zh": "Nanograb 設計附著於奈米粒子的小型胜肽結合物組合,以規模化方式將基因藥物遞送至特定細胞與組織。"
+    }
+  },
+  {
+    "slug": "flowiseai",
+    "summary": {
+      "en": "An open-source, low-code platform for building generative AI applications.",
+      "zh": "用於建構生成式 AI 應用的開源低程式碼平台。"
+    },
+    "highlight": {
+      "en": "Flowise lets developers manage the whole lifecycle of building production LLM apps—from prototyping to evaluation to iteration—with a low-code approach.",
+      "zh": "Flowise 以低程式碼方式讓開發者管理 LLM 正式環境應用的完整生命週期,涵蓋原型製作、評估到迭代。"
+    }
+  },
+  {
+    "slug": "aisdr",
+    "summary": {
+      "en": "AI sales prospecting that automates outbound emails and books meetings.",
+      "zh": "自動化外發郵件並預約會議的 AI 銷售開發工具。"
+    },
+    "highlight": {
+      "en": "AiSDR writes and sends sales emails automatically, then corresponds and books meetings once prospects engage, reporting a 7.1% average response rate.",
+      "zh": "AiSDR 自動撰寫並寄送銷售郵件,在潛在客戶回覆後自動往來並預約會議,平均回覆率達 7.1%。"
+    }
+  },
+  {
+    "slug": "simbie-ai",
+    "summary": {
+      "en": "Helps healthcare practices get patients to their next appointment.",
+      "zh": "協助醫療院所讓病患順利前往下一次預約看診。"
+    },
+    "highlight": {
+      "en": "Simbie AI focuses on closing the gap between visits, helping practices ensure patients actually make it to their next appointment.",
+      "zh": "Simbie AI 聚焦於彌合看診之間的落差,協助院所確保病患確實前往下一次預約。"
+    }
+  },
+  {
+    "slug": "structured-labs",
+    "summary": {
+      "en": "A publishing platform for technical knowledge both humans and AIs can use.",
+      "zh": "為人類與 AI 皆能理解的技術知識打造的發布平台。"
+    },
+    "highlight": {
+      "en": "Waldium helps developers research, write, and publish technical guides as structured, durable knowledge that AIs can learn from, cite, and build upon.",
+      "zh": "Waldium 協助開發者研究、撰寫並發布技術指南,化為 AI 可學習、引用並延伸的結構化、可長存知識。"
+    }
+  },
+  {
+    "slug": "truemetrics",
+    "summary": {
+      "en": "Shows couriers where to park and how to find building entrances.",
+      "zh": "為快遞員指出停車地點與大樓入口位置。"
+    },
+    "highlight": {
+      "en": "By analyzing sensor data from drivers' smartphones to map precise parking and entrance locations, truemetrics helps GLS save 32.7 seconds on each delivery.",
+      "zh": "truemetrics 分析駕駛手機的感測器資料以精準標出停車與入口位置,協助 GLS 每次配送節省 32.7 秒。"
+    }
+  },
+  {
+    "slug": "olio-labs",
+    "summary": {
+      "en": "Develops AI-designed combination therapeutics for hard-to-treat diseases.",
+      "zh": "開發以 AI 設計的複方療法,對抗難治疾病。"
+    },
+    "highlight": {
+      "en": "Olio Labs uses ML to search trillions of combinations across thousands of proteins; its lead obesity combinations aim to beat Ozempic with fewer side effects.",
+      "zh": "Olio Labs 以機器學習在數千個蛋白質中搜尋數兆種組合,其主打的肥胖症複方目標是以更少副作用勝過 Ozempic。"
+    }
+  },
+  {
+    "slug": "catamaran",
+    "summary": {
+      "en": "An AI-powered platform for faster, clearer risk decisions.",
+      "zh": "以 AI 驅動、讓風險決策更快更清晰的平台。"
+    },
+    "highlight": {
+      "en": "Catamaran consolidates risk data into one workspace and automates scenario testing for insurers, brokers, and investors, plus a regulated coverage marketplace.",
+      "zh": "Catamaran 將風險資料整合至單一工作區,為保險公司、經紀商與投資人自動化情境測試,並提供受監管的保險交易市集。"
+    }
+  },
+  {
+    "slug": "feanix-biotechnologies",
+    "summary": {
+      "en": "Makes farm genetics easy with DNA testing and software.",
+      "zh": "以 DNA 檢測與軟體讓農場育種變得簡單。"
+    },
+    "highlight": {
+      "en": "Feanix uses proprietary genetic testing advancements to provide genetics and breeding as a service for the trillion-dollar animal breeding industry.",
+      "zh": "Feanix 運用自有的基因檢測技術突破,為兆元規模的動物育種產業提供基因與育種即服務。"
+    }
+  },
+  {
+    "slug": "kino-ai",
+    "summary": {
+      "en": "An AI media manager and web-native video editor for people and agents.",
+      "zh": "為人類與 AI 代理打造的 AI 媒體管理工具與網頁原生影片剪輯器。"
+    },
+    "highlight": {
+      "en": "Kino is a web-native editor where footage, teams, and AI agents work together, proven on Hollywood's biggest shows and aiming to give video its Figma moment.",
+      "zh": "Kino 是網頁原生剪輯器,讓影片素材、團隊與 AI 代理協作,已在好萊塢大型製作驗證,要為影片剪輯帶來 Figma 時刻。"
+    }
+  },
+  {
+    "slug": "dioxus-labs",
+    "summary": {
+      "en": "Build web, desktop, and mobile apps from one Rust codebase.",
+      "zh": "以單一 Rust 程式碼基底建構網頁、桌面與行動應用。"
+    },
+    "highlight": {
+      "en": "Dioxus lets developers build, test, deploy, and manage apps from a single codebase across web, desktop, mobile, AR/VR, and other exotic targets.",
+      "zh": "Dioxus 讓開發者以單一程式碼基底在網頁、桌面、行動、AR/VR 及其他特殊平台上建構、測試、部署與管理應用。"
+    }
+  },
+  {
+    "slug": "remy",
+    "summary": {
+      "en": "Makes it simpler for medical clinics to work with insurance.",
+      "zh": "讓醫療診所與保險公司的往來更簡單。"
+    },
+    "highlight": {
+      "en": "Remy automates insurance-related tasks for practices, starting with phone calls to verify patient benefits and check on claims.",
+      "zh": "Remy 為診所自動化與保險相關的工作,先從打電話核對病患保險福利與查詢理賠進度做起。"
+    }
+  },
+  {
+    "slug": "synch",
+    "summary": {
+      "en": "A unified platform for sales and sales operations teams.",
+      "zh": "為銷售與銷售營運團隊整合的單一平台。"
+    },
+    "highlight": {
+      "en": "Synch brings sales and sales ops together in one platform with no setup—just Salesforce SSO and go.",
+      "zh": "Synch 將銷售與銷售營運整合於單一平台,無需設定,只要 Salesforce SSO 即可開始使用。"
+    }
+  },
+  {
+    "slug": "sid",
+    "summary": {
+      "en": "A San Francisco AI research lab focused on retrieval.",
+      "zh": "一家位於舊金山、專注於檢索的 AI 研究實驗室。"
+    },
+    "highlight": {
+      "en": "SID trains models that can retrieve and reason over any data source.",
+      "zh": "SID 訓練能在任何資料來源上進行檢索與推理的模型。"
+    }
+  },
+  {
+    "slug": "docsum",
+    "summary": {
+      "en": "An AI contract repository for legal and finance teams.",
+      "zh": "為法務與財務團隊打造的 AI 合約資料庫。"
+    },
+    "highlight": {
+      "en": "Docsum extracts renewal dates, obligations, and other key data into a searchable database, with custom reporting, alerts, and playbook-powered redlining.",
+      "zh": "Docsum 將續約日期、義務等關鍵資料擷取至可搜尋資料庫,並提供自訂報表、提醒與劇本式紅線修訂。"
+    }
+  },
+  {
+    "slug": "health-harbor",
+    "summary": {
+      "en": "Uses generative AI to call insurance on behalf of healthcare clinics.",
+      "zh": "運用生成式 AI 代醫療診所致電保險公司。"
+    },
+    "highlight": {
+      "en": "Health Harbor saves clinics up to 40 hours of calls weekly, turning around benefits verification in 24 hours versus competitors' typical 3 days.",
+      "zh": "Health Harbor 每週為診所省下多達 40 小時通話,保險福利核對 24 小時內完成,而競品通常需 3 天。"
+    }
+  },
+  {
+    "slug": "candoriq",
+    "summary": {
+      "en": "Software to manage headcount and compensation planning.",
+      "zh": "用於管理人力編制與薪酬規劃的軟體。"
+    },
+    "highlight": {
+      "en": "Since employees are 70%+ of OPEX yet still run in spreadsheets, CandorIQ centralizes headcount, backfill, budget scenarios, and merit planning in one platform.",
+      "zh": "由於員工佔逾七成營運開支卻仍以試算表管理,CandorIQ 將人力編制、遞補、預算情境與調薪規劃集中於單一平台。"
+    }
+  },
+  {
+    "slug": "metalware",
+    "summary": {
+      "en": "Firmware cybersecurity for critical infrastructure industries.",
+      "zh": "為關鍵基礎設施產業打造的韌體網路安全。"
+    },
+    "highlight": {
+      "en": "Metalware's automated binary fuzzer helps aerospace, defense, automotive, and telecom discover and remediate firmware weaknesses before hardware ships.",
+      "zh": "Metalware 的自動化二進位模糊測試器協助航太、國防、汽車與電信在硬體出貨前發現並修補韌體弱點。"
+    }
+  },
+  {
+    "slug": "empirical-health",
+    "summary": {
+      "en": "An AI-native heart health program to prevent heart disease.",
+      "zh": "以 AI 為核心、預防心臟疾病的心臟健康計畫。"
+    },
+    "highlight": {
+      "en": "Empirical starts with a 100+ biomarker lab test, models lifetime heart-disease risk, and delivers care licensed across 30+ US states covering 200m+ people.",
+      "zh": "Empirical 從逾百項生物標記檢測開始,建立終生心臟疾病風險模型,並在涵蓋逾兩億人的 30 多州取得執照提供醫療服務。"
+    }
+  },
+  {
+    "slug": "pincites",
+    "summary": {
+      "en": "AI for contract negotiation that helps legal teams close deals faster.",
+      "zh": "用於合約談判、協助法務團隊更快成交的 AI。"
+    },
+    "highlight": {
+      "en": "Pincites uses LLMs to take a first pass at reviewing contracts, helping lawyers focus on the riskiest parts of their negotiations.",
+      "zh": "Pincites 運用大型語言模型對合約進行初步審閱,讓律師專注於談判中風險最高的部分。"
+    }
+  },
+  {
+    "slug": "studdy",
+    "summary": {
+      "en": "An AI math tutor for every student.",
+      "zh": "為每位學生打造的 AI 數學家教。"
+    },
+    "highlight": {
+      "en": "Studdy Buddy is a multilingual tutor using AI plus speech, text, and image recognition to help students learn new subjects regardless of their background.",
+      "zh": "Studdy Buddy 是一款多語家教,結合 AI 與語音、文字及影像辨識,協助不同背景的學生學習新科目。"
+    }
+  },
+  {
+    "slug": "gleam",
+    "summary": {
+      "en": "Automates data entry for clinical research sites.",
+      "zh": "為臨床研究機構自動化資料登錄。"
+    },
+    "highlight": {
+      "en": "Gleam targets the manual data-entry burden that slows clinical trials, automating the work for research sites.",
+      "zh": "Gleam 鎖定拖慢臨床試驗的人工資料登錄負擔,為研究機構自動化這項工作。"
+    }
+  },
+  {
+    "slug": "rankai",
+    "summary": {
+      "en": "An AI-native agency for organic growth via SEO and GEO.",
+      "zh": "透過 SEO 與 GEO 推動自然成長的 AI 原生代理機構。"
+    },
+    "highlight": {
+      "en": "RankAI finds the queries customers search, builds search-optimized pages to capture them, then tracks results and rewrites pages to keep driving traffic.",
+      "zh": "RankAI 找出客戶搜尋的查詢,建立搜尋優化頁面加以捕捉,再追蹤成效並重寫頁面以持續帶來流量。"
+    }
+  },
+  {
+    "slug": "roundtable",
+    "summary": {
+      "en": "An API that invisibly verifies humans and detects bots.",
+      "zh": "一個隱形驗證真人並偵測機器人的 API。"
+    },
+    "highlight": {
+      "en": "Founded by two Princeton cognitive scientists, Roundtable's Proof of Human API verifies human users friction-free with enterprise-grade accuracy and latency.",
+      "zh": "由兩位普林斯頓認知科學家創立,Roundtable 的 Proof of Human API 以企業級的準確度與延遲,無摩擦地驗證真人使用者。"
+    }
+  },
+  {
+    "slug": "sweep",
+    "summary": {
+      "en": "An AI coding assistant built for JetBrains IDEs.",
+      "zh": "專為 JetBrains IDE 打造的 AI 編碼助手。"
+    },
+    "highlight": {
+      "en": "Sweep brings autocomplete and an AI agent to JetBrains IDEs, letting developers use their favorite IDE without compromising on AI.",
+      "zh": "Sweep 為 JetBrains IDE 帶來自動完成與 AI 代理,讓開發者在不犧牲 AI 的情況下使用喜愛的 IDE。"
+    }
+  },
+  {
+    "slug": "smobi",
+    "summary": {
+      "en": "An AI platform for branded, interactive business messaging over RCS.",
+      "zh": "透過 RCS 進行品牌化互動式商業簡訊的 AI 平台。"
+    },
+    "highlight": {
+      "en": "Smobi helps businesses send rich, personalized RCS messages that drive engagement, build trust, and turn texts into real conversations customers actually want.",
+      "zh": "Smobi 協助企業發送豐富、個人化的 RCS 訊息,提升互動、建立信任,並將簡訊化為客戶真正想要的對話。"
+    }
+  },
+  {
+    "slug": "foundation-2",
+    "summary": {
+      "en": "A buyer experience platform for homebuilders—\"Shopify for Homebuilders.\"",
+      "zh": "為房屋建商打造的買家體驗平台,定位為「建商版 Shopify」。"
+    },
+    "highlight": {
+      "en": "Foundation brings the new-home shopping, purchase, and ownership experience online so homebuilders can sell more homes, more profitably, to happier customers.",
+      "zh": "Foundation 將新屋的選購、購買與持有體驗搬到線上,讓建商更有利潤地賣出更多房子,並讓客戶更滿意。"
+    }
+  },
+  {
+    "slug": "glide-2",
+    "summary": {
+      "en": "Crypto deposit, wallet funding, and pay-with-crypto infrastructure.",
+      "zh": "加密貨幣存入、錢包儲值與以加密貨幣付款的基礎設施。"
+    },
+    "highlight": {
+      "en": "Glide lets apps accept crypto deposits from any chain, wallet, or exchange via pre-built funding flows, so users fund wallets directly with no bridges or swaps.",
+      "zh": "Glide 讓應用程式透過預建儲值流程接受任何鏈、錢包或交易所的加密存入,使用者可直接儲值,無需跨鏈橋或兌換。"
+    }
+  },
+  {
+    "slug": "codestory",
+    "summary": {
+      "en": "Aide is an AI-native, privacy-first IDE built on top of VSCode.",
+      "zh": "Aide 是一款以 AI 為核心、注重隱私、建構於 VSCode 之上的 IDE。"
+    },
+    "highlight": {
+      "en": "Built by a London team with backgrounds at Meta and ACM ICPC, Aide is designed for engineers to enjoy problem-solving with AI agents by their side.",
+      "zh": "由具備 Meta 與 ACM ICPC 資歷的倫敦團隊打造,Aide 旨在讓工程師享受與 AI 代理並肩解決問題的過程。"
+    }
+  },
+  {
+    "slug": "branch-ai",
+    "summary": {
+      "en": "AI Overview search as a service to boost conversions and SEO.",
+      "zh": "AI 概覽搜尋即服務,用以提升轉換率與 SEO。"
+    },
+    "highlight": {
+      "en": "Branch AI adds AI to a site's search box for personalized answers and comparisons, and saves those answers as landing pages to boost organic SEO traffic.",
+      "zh": "Branch AI 為網站搜尋框加入 AI 以提供個人化答案與比較,並將這些答案存為到達頁面,提升自然 SEO 流量。"
+    }
+  },
+  {
+    "slug": "ora-ai",
+    "summary": {
+      "en": "An AI-native platform for medical education.",
+      "zh": "以 AI 為核心的醫學教育平台。"
+    },
+    "highlight": {
+      "en": "Ora starts with medical school—training students from matriculation to MD—and aims to expand across the $830B higher education market.",
+      "zh": "Ora 從醫學院起步,培訓學生從入學到取得醫學博士學位,並計畫擴展至 8,300 億美元的高等教育市場。"
+    }
+  },
+  {
+    "slug": "xeol",
+    "summary": {
+      "en": "Closes the security attack vector from end-of-life and outdated software.",
+      "zh": "封堵來自過期與停止支援軟體的安全攻擊面。"
+    },
+    "highlight": {
+      "en": "Xeol enables enterprises and Fortune 500s to run a proactive end-of-life management program that improves vulnerability management and lowers cyber insurance.",
+      "zh": "Xeol 讓企業與《財星》500 大公司推行主動式生命終止管理計畫,改善漏洞管理並降低網路保險成本。"
+    }
+  },
+  {
+    "slug": "clearest-health",
+    "summary": {
+      "en": "AI revenue recovery for underpaid healthcare claims.",
+      "zh": "為被低額給付的醫療理賠進行 AI 營收追回。"
+    },
+    "highlight": {
+      "en": "Clearest helps independent practices recover underpaid out-of-network claims using verified IDR benchmarks, claim analysis, and No Surprises Act appeal support.",
+      "zh": "Clearest 以經驗證的 IDR 基準、理賠分析與《無意外帳單法》申訴支援,協助獨立診所追回被低額給付的網外理賠。"
+    }
+  },
+  {
+    "slug": "watto-ai",
+    "summary": {
+      "en": "Uses LLMs to generate consultancy-quality reports in seconds.",
+      "zh": "運用大型語言模型在數秒內生成顧問級報告。"
+    },
+    "highlight": {
+      "en": "Watto AI generates McKinsey-quality reports in seconds, from marketing reports and custom white papers to product documents.",
+      "zh": "Watto AI 在數秒內生成麥肯錫等級的報告,從行銷報告、客製白皮書到產品文件皆可。"
+    }
+  },
+  {
+    "slug": "linc",
+    "summary": {
+      "en": "An AI copilot that automates workflows for shippers, carriers, and brokers.",
+      "zh": "為託運人、承運商與貨運經紀自動化作業的 AI 協作工具。"
+    },
+    "highlight": {
+      "en": "Linc's first product parses inbound emails, documents, and spreadsheets for logistics vendors and syncs that data with systems of record like ERPs.",
+      "zh": "Linc 的首款產品為物流業者解析來件郵件、文件與試算表,並將資料同步至 ERP 等記錄系統。"
+    }
+  },
+  {
+    "slug": "proprise",
+    "summary": {
+      "en": "An AI platform for institutional commercial real estate investment teams.",
+      "zh": "為機構型商業地產投資團隊打造的 AI 平台。"
+    },
+    "highlight": {
+      "en": "PropRise serves 50+ customers including Public Storage: Beacon automates site selection while Primer extracts deal-package financials into model-ready data.",
+      "zh": "PropRise 服務含 Public Storage 在內逾 50 家客戶:Beacon 自動化選址,Primer 則將交易資料中的財務擷取為可直接建模的資料。"
+    }
+  },
+  {
+    "slug": "zelos-cloud",
+    "summary": {
+      "en": "A data platform for observing, controlling, and testing mission-critical systems.",
+      "zh": "用於觀測、控制與測試關鍵任務系統的資料平台。"
+    },
+    "highlight": {
+      "en": "Zelos Cloud captures data across many protocols, enables remote command execution, and unifies collection, processing, and visualization in one pipeline.",
+      "zh": "Zelos Cloud 跨多種協定擷取資料、支援遠端命令執行,並將收集、處理與視覺化整合於單一管線。"
+    }
+  },
+  {
+    "slug": "opentools",
+    "summary": {
+      "en": "An API for LLM tool use.",
+      "zh": "供大型語言模型工具呼叫使用的 API。"
+    },
+    "highlight": {
+      "en": "OpenTools provides an API layer dedicated to enabling tool use for large language models.",
+      "zh": "OpenTools 提供專門用於讓大型語言模型進行工具呼叫的 API 層。"
+    }
+  },
+  {
+    "slug": "talc",
+    "summary": {
+      "en": "Event extraction from messy electronic health records for medical researchers.",
+      "zh": "為醫學研究者從雜亂的電子病歷中擷取事件。"
+    },
+    "highlight": {
+      "en": "Talc helps hospitals pull events and structured data out of messy EHRs for medical research.",
+      "zh": "Talc 協助醫院從雜亂的電子病歷中擷取事件與結構化資料,供醫學研究使用。"
+    }
+  },
+  {
+    "slug": "revamp",
+    "summary": {
+      "en": "AI-powered customer segmentation for eCommerce brands and agencies.",
+      "zh": "為電商品牌與代理商打造的 AI 客戶分群工具。"
+    },
+    "highlight": {
+      "en": "Revamp helps brands understand customer behavior by building smarter segments for targeted email and paid acquisition campaigns.",
+      "zh": "Revamp 透過建立更聰明的分群,協助品牌理解客戶行為,以進行精準的電子郵件與付費獲客行銷。"
+    }
+  },
+  {
+    "slug": "heysol",
+    "summary": {
+      "en": "CORE is an open-source AI personal assistant that learns who you are and acts proactively.",
+      "zh": "CORE 是一款開源 AI 個人助理,能了解你並主動行動。"
+    },
+    "highlight": {
+      "en": "CORE learns who you are, connects to your apps, and does the work before you ask—open source, self-hostable, and fully yours.",
+      "zh": "CORE 了解你是誰、串接你的應用程式,並在你開口前先把事情做好,且為開源、可自架、完全屬於你。"
+    }
+  },
+  {
+    "slug": "craftos",
+    "summary": {
+      "en": "Inventory management and point of sale for the wine industry.",
+      "zh": "為葡萄酒產業打造的庫存管理與銷售點系統。"
+    },
+    "highlight": {
+      "en": "CraftOS provides inventory tracking and POS tools for small-batch wineries, which account for 83% of US wine production.",
+      "zh": "CraftOS 為佔美國葡萄酒產量 83% 的小批量酒莊提供庫存追蹤與 POS 工具。"
+    }
+  },
+  {
+    "slug": "epsilla",
+    "summary": {
+      "en": "An all-in-one platform to build AI agents powered by your private knowledge.",
+      "zh": "以你的私有知識驅動、建構 AI 代理的一站式平台。"
+    },
+    "highlight": {
+      "en": "Epsilla is easy for domain professionals yet deeply customizable for AI experts, with enterprise security, scalability, and integration built in.",
+      "zh": "Epsilla 對領域專業人士易於上手,對 AI 專家又能深度客製,並內建企業級安全性、可擴展性與整合能力。"
+    }
+  },
+  {
+    "slug": "sidenote",
+    "summary": {
+      "en": "A Chrome extension that automates meeting follow-up.",
+      "zh": "一款自動化會議後續工作的 Chrome 擴充功能。"
+    },
+    "highlight": {
+      "en": "Sidenote turns meeting notes into drafted emails, calendar invites, tickets, and reminders automatically.",
+      "zh": "Sidenote 自動將會議筆記轉成草擬郵件、行事曆邀請、工單與提醒。"
+    }
+  },
+  {
+    "slug": "glade",
+    "summary": {
+      "en": "Helps everyone build games with AI.",
+      "zh": "協助每個人運用 AI 製作遊戲。"
+    },
+    "highlight": {
+      "en": "GladeCore powers hundreds of studios with local AI NPCs, while GladeKit is a Cursor-for-games agent that builds games inside your engine.",
+      "zh": "GladeCore 以本地 AI NPC 支援數百家工作室,GladeKit 則是直接在引擎內幫你做遊戲的「遊戲版 Cursor」代理。"
+    }
+  },
+  {
+    "slug": "sizeless",
+    "summary": {
+      "en": "Instant 3D digital twins for smarter real estate decisions.",
+      "zh": "即時 3D 數位分身,助力更聰明的房地產決策。"
+    },
+    "highlight": {
+      "en": "Sizeless gives property owners highly accurate digital-twin data to understand a property's details, plan inspections, and optimize management.",
+      "zh": "Sizeless 為業主提供高精度的數位分身資料,以掌握物業細節、規劃檢查並優化管理。"
+    }
+  },
+  {
+    "slug": "trainy",
+    "summary": {
+      "en": "Infrastructure for managing GPU clusters for AI training and serving.",
+      "zh": "用於管理 AI 訓練與服務之 GPU 叢集的基礎設施。"
+    },
+    "highlight": {
+      "en": "Trainy's Konduktor lets AI teams submit jobs to a healthy GPU pool, assign priority via a simple UI, and stop worrying about hardware faults.",
+      "zh": "Trainy 的 Konduktor 讓 AI 團隊把工作提交到健康的 GPU 資源池、透過簡易介面指派優先順序,不再為硬體故障煩惱。"
+    }
+  },
+  {
+    "slug": "cambioml",
+    "summary": {
+      "en": "An AI teammate that helps every knowledge worker become a top performer.",
+      "zh": "幫助每位知識工作者成為頂尖表現者的 AI 隊友。"
+    },
+    "highlight": {
+      "en": "Energent.ai pairs workers with an AI teammate that streamlines manual workflows without integrations, automates with zero code, and delivers visible output.",
+      "zh": "Energent.ai 為員工配上 AI 隊友,無需整合即可精簡人工流程、以零程式碼自動化,並產出可見成果。"
+    }
+  },
+  {
+    "slug": "read-bean",
+    "summary": {
+      "en": "Learn a language with real-world content tailored to your level.",
+      "zh": "用符合你程度的真實內容學習語言。"
+    },
+    "highlight": {
+      "en": "Read Bean measures a learner's reading level and turns real-world texts into bite-sized lessons that adapt as they progress and reinforce vocabulary.",
+      "zh": "Read Bean 評估學習者的閱讀程度,將真實文本轉為隨進度調整、並強化詞彙的小份量課程。"
+    }
+  },
+  {
+    "slug": "automorphic",
+    "summary": {
+      "en": "Infuses knowledge into language models with just 10 samples.",
+      "zh": "僅需 10 個樣本即可將知識注入語言模型。"
+    },
+    "highlight": {
+      "en": "Automorphic infuses knowledge into LLMs via fine-tuning that surpasses context-window limits, letting developers iterate on custom models cheaply.",
+      "zh": "Automorphic 透過突破上下文視窗限制的微調將知識注入 LLM,讓開發者以低成本迭代客製模型。"
+    }
+  },
+  {
+    "slug": "terracotta-ai",
+    "summary": {
+      "en": "AI-powered pull-request reviews for Infrastructure as Code.",
+      "zh": "為基礎架構即程式碼提供 AI 驅動的拉取請求審查。"
+    },
+    "highlight": {
+      "en": "Terracotta reviews Terraform, OpenTofu, and CDK-TF code with AI-driven contextual feedback in pull requests, keeping infrastructure changes safe.",
+      "zh": "Terracotta 以 AI 驅動的情境式回饋在拉取請求中審查 Terraform、OpenTofu 與 CDK-TF 程式碼,讓基礎架構變更更安全。"
+    }
+  },
+  {
+    "slug": "quill-bills",
+    "summary": {
+      "en": "AI-powered medical billing that lowers costs and recovers denied claims.",
+      "zh": "以 AI 驅動的醫療帳務,降低成本並追回遭拒理賠。"
+    },
+    "highlight": {
+      "en": "Quill Bills' platform performs much of a biller's job autonomously, sold to private-practice doctors and MSOs to cut billing costs and recover denied claims.",
+      "zh": "Quill Bills 的平台自主執行大部分帳務工作,銷售給私人診所醫師與 MSO,以降低帳務成本並追回遭拒理賠。"
+    }
+  },
+  {
+    "slug": "line-build",
+    "summary": {
+      "en": "Helps contractors find and apply for energy-efficiency incentives and financing.",
+      "zh": "協助承包商尋找並申請節能補助與融資。"
+    },
+    "highlight": {
+      "en": "Line consolidates over $80B of fragmented rebates, incentives, and green financing across utilities and federal funds for contractors to find and apply.",
+      "zh": "Line 整合分散於公用事業與聯邦資金、逾 800 億美元的回扣、補助與綠色融資,供承包商尋找與申請。"
+    }
+  },
+  {
+    "slug": "morph",
+    "summary": {
+      "en": "Fast inference models optimized for coding agents.",
+      "zh": "為編碼代理優化的快速推論模型。"
+    },
+    "highlight": {
+      "en": "Morph offers inference optimization for codegen, with fast open-source models at 200+ tokens/sec and dedicated models for applying edits and code search.",
+      "zh": "Morph 為程式碼生成提供推論優化,開源模型速度達每秒逾 200 個 token,並有專為套用編輯與程式碼搜尋打造的模型。"
+    }
+  },
+  {
+    "slug": "wattson-health",
+    "summary": {
+      "en": "AI voice and SMS agents for healthcare.",
+      "zh": "為醫療業打造的 AI 語音與簡訊代理。"
+    },
+    "highlight": {
+      "en": "Wattson Health's AI agents connect with customers over phone and SMS, trained to take a clinic's busiest tasks off its hands.",
+      "zh": "Wattson Health 的 AI 代理透過電話與簡訊與客戶聯繫,可受訓接手診所最繁忙的工作。"
+    }
+  },
+  {
+    "slug": "peerdb",
+    "summary": {
+      "en": "Fast, native ETL for streaming data out of Postgres.",
+      "zh": "用於從 Postgres 串流資料的快速原生 ETL。"
+    },
+    "highlight": {
+      "en": "PeerDB streams Postgres data to warehouses, queues, and storage 10x faster than existing tools, with CDC, cursor, and XMIN modes.",
+      "zh": "PeerDB 將 Postgres 資料串流至資料倉儲、佇列與儲存引擎,速度比現有工具快 10 倍,支援 CDC、游標與 XMIN 模式。"
+    }
+  },
+  {
+    "slug": "tremor",
+    "summary": {
+      "en": "A UI toolkit of React components for building dashboards.",
+      "zh": "用於建構儀表板的 React 元件 UI 工具包。"
+    },
+    "highlight": {
+      "en": "Tremor provides React components to build charts and dashboards quickly.",
+      "zh": "Tremor 提供 React 元件,讓你快速建構圖表與儀表板。"
+    }
+  },
+  {
+    "slug": "leafpress",
+    "summary": {
+      "en": "AI-native utility and energy management.",
+      "zh": "以 AI 為核心的公用事業與能源管理。"
+    },
+    "highlight": {
+      "en": "Leafpress applies an AI-native approach to managing utilities and energy.",
+      "zh": "Leafpress 以 AI 原生的方式管理公用事業與能源。"
+    }
+  },
+  {
+    "slug": "ohmic-biosciences",
+    "summary": {
+      "en": "Genetically engineers plants for disease resistance.",
+      "zh": "對植物進行基因工程以使其抗病。"
+    },
+    "highlight": {
+      "en": "As agrochemicals fail against costly pests and pathogens, Ohmic uses protein engineering to design crop resistance genes robust to pathogen evolution.",
+      "zh": "在農藥對高成本的病蟲害已難奏效之際,Ohmic 運用蛋白質工程設計能抵禦病原體演化的作物抗病基因。"
+    }
+  },
+  {
+    "slug": "magic-loops",
+    "summary": {
+      "en": "Program computers with natural language to automate almost anything.",
+      "zh": "用自然語言指揮電腦,幾乎能自動化任何事。"
+    },
+    "highlight": {
+      "en": "By combining generative AI with code, Magic Loops lets even non-programmers set up repeatable tasks and automated workflows in minutes.",
+      "zh": "Magic Loops 結合生成式 AI 與程式碼,連非程式設計師都能在數分鐘內建立可重複的任務與自動化工作流程。"
+    }
+  },
+  {
+    "slug": "lifelike",
+    "summary": {
+      "en": "Lifelike is a consumer app.",
+      "zh": "Lifelike 是一款消費者應用程式。"
+    },
+    "highlight": {
+      "en": "Lifelike is a consumer-focused product; further details are not provided in the source.",
+      "zh": "Lifelike 是一款面向消費者的產品,來源資料未提供更多細節。"
+    }
+  },
+  {
+    "slug": "contour",
+    "summary": {
+      "en": "AI voice agents for healthcare operational phone calls.",
+      "zh": "為醫療營運電話打造的 AI 語音代理。"
+    },
+    "highlight": {
+      "en": "Contour automates high-volume, repetitive phone workflows for provider networks and clinics, integrating with clinical systems and staying HIPAA-compliant.",
+      "zh": "Contour 為醫療網絡與診所自動化高量重複的電話流程,與臨床系統整合且符合 HIPAA。"
+    }
+  },
+  {
+    "slug": "mandel-ai",
+    "summary": {
+      "en": "An AI supply chain coordinator for manufacturing procurement teams.",
+      "zh": "為製造採購團隊打造的 AI 供應鏈協調員。"
+    },
+    "highlight": {
+      "en": "With procurement teams spending 70% of their day on supplier emails, Mandel reads every email to extract POs, quotes, and dates and catch disruptions early.",
+      "zh": "由於採購團隊七成的時間耗在供應商郵件上,Mandel 解讀每封郵件以擷取採購單、報價與日期,並及早察覺供應中斷。"
+    }
+  },
+  {
+    "slug": "greentally",
+    "summary": {
+      "en": "An affordable carbon accounting platform for all businesses.",
+      "zh": "為各類企業打造的平價碳盤查平台。"
+    },
+    "highlight": {
+      "en": "GreenTally uses LLMs to measure a company's carbon footprint in hours instead of months, automating emissions calculations and reporting without consultants.",
+      "zh": "GreenTally 運用大型語言模型在數小時(而非數月)內衡量企業碳足跡,自動化排放計算與報告,無需顧問。"
+    }
+  },
+  {
+    "slug": "parea",
+    "summary": {
+      "en": "Test, evaluate, and observe your LLM applications in one platform.",
+      "zh": "在單一平台測試、評估並觀測你的 LLM 應用。"
+    },
+    "highlight": {
+      "en": "Parea unifies testing, evaluation, and monitoring across LLM app development, giving developers visibility into responses and tools to optimize prompts.",
+      "zh": "Parea 將測試、評估與監控整合於 LLM 應用開發中,讓開發者掌握模型回應並優化提示詞。"
+    }
+  },
+  {
+    "slug": "kite",
+    "summary": {
+      "en": "A screen recorder that makes product demo videos look stunning.",
+      "zh": "讓產品示範影片變得驚豔的螢幕錄製工具。"
+    },
+    "highlight": {
+      "en": "Kite tracks cursor and keyboard inputs to auto-zoom with 3D animations, add device mockups and AI voiceovers, and make recordings look like Apple commercials.",
+      "zh": "Kite 追蹤游標與鍵盤輸入以 3D 動畫自動縮放,加入裝置模型與 AI 配音,讓錄製看起來像 Apple 廣告。"
+    }
+  },
+  {
+    "slug": "obento-health",
+    "summary": {
+      "en": "A CRM co-pilot for medical device field sales reps.",
+      "zh": "為醫療器材外勤業務打造的 CRM 協作工具。"
+    },
+    "highlight": {
+      "en": "Obento Health redesigns the CRM for healthcare field sales, saving reps documentation time and helping them create more personalized customer interactions.",
+      "zh": "Obento Health 為醫療外勤業務重新設計 CRM,替業務省下文件作業時間,並助其打造更個人化的客戶互動。"
+    }
+  },
+  {
+    "slug": "arcimus",
+    "summary": {
+      "en": "A steady stream of vetted engineering candidates who ship.",
+      "zh": "源源不絕、經實力篩選且能交付成果的工程師人選。"
+    },
+    "highlight": {
+      "en": "Arcimus sends founders and recruiting teams a steady flow of engineers filtered with real engineering judgment rather than keyword matching.",
+      "zh": "Arcimus 為創辦人與招募團隊提供以真正工程判斷(而非關鍵字比對)篩選的穩定工程師人選流。"
+    }
+  },
+  {
+    "slug": "micsi",
+    "summary": {
+      "en": "AI software for higher-resolution MRI with faster scan times.",
+      "zh": "提升 MRI 解析度並縮短掃描時間的 AI 軟體。"
+    },
+    "highlight": {
+      "en": "MICSI's AI doubles MRI resolution while halving scan time and boosting throughput, with a vision to make MRI a truly quantitative diagnostic instrument.",
+      "zh": "MICSI 的 AI 將 MRI 解析度提升一倍、掃描時間減半並提升吞吐量,願景是讓 MRI 成為真正可量化的診斷儀器。"
+    }
+  },
+  {
+    "slug": "hegel-ai",
+    "summary": {
+      "en": "Open-source tools for developing generative AI applications.",
+      "zh": "用於開發生成式 AI 應用的開源工具。"
+    },
+    "highlight": {
+      "en": "Hegel AI's PromptTools is an open-source SDK for experimenting with and evaluating prompts, models, and vector databases to find the right configuration.",
+      "zh": "Hegel AI 的 PromptTools 是用於實驗與評估提示詞、模型及向量資料庫、以找出合適配置的開源 SDK。"
+    }
+  },
+  {
+    "slug": "shasta-health",
+    "summary": {
+      "en": "AI calling and browser agents for healthcare clinics.",
+      "zh": "為醫療診所打造的 AI 致電與瀏覽器代理。"
+    },
+    "highlight": {
+      "en": "Shasta Health builds AI agents to handle patient calls, verify insurance, and automate administrative tasks for healthcare clinics.",
+      "zh": "Shasta Health 打造 AI 代理,為醫療診所處理病患來電、核對保險並自動化行政工作。"
+    }
+  },
+  {
+    "slug": "briefer",
+    "summary": {
+      "en": "A collaborative data platform with a Notion-like interface.",
+      "zh": "一個採用類 Notion 介面的協作式資料平台。"
+    },
+    "highlight": {
+      "en": "Briefer lets data scientists connect sources, write SQL or Python, and build interactive visualizations and data apps with comments and multiplayer editing.",
+      "zh": "Briefer 讓資料科學家串接資料來源、撰寫 SQL 或 Python,並以註解與多人協作建立互動視覺化與資料應用。"
+    }
+  },
+  {
+    "slug": "repaint",
+    "summary": {
+      "en": "Build a professional website by chatting with AI.",
+      "zh": "透過與 AI 對話打造專業網站。"
+    },
+    "highlight": {
+      "en": "Repaint interviews you, researches you online, and generates a custom website you can edit just by asking, merging website builders with AI coding tools.",
+      "zh": "Repaint 訪談你、在線上研究你的資訊並生成客製網站,你只要開口就能編輯,將網站建構工具與 AI 編碼工具融合。"
+    }
+  },
+  {
+    "slug": "dialtone",
+    "summary": {
+      "en": "AI agents for enterprises that connect to existing software and data.",
+      "zh": "為企業打造、串接既有軟體與資料的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Dialtone connects agentic workflows to existing tools via 100+ first-party connectors plus configurable custom ones, with enterprise-grade security.",
+      "zh": "Dialtone 透過逾百個第一方連接器及可配置的客製連接器,將代理式工作流程串接到既有工具,並提供企業級安全。"
+    }
+  },
+  {
+    "slug": "hiro",
+    "summary": {
+      "en": "Hiro acts as your company's first security hire.",
+      "zh": "Hiro 扮演公司的第一位資安人員。"
+    },
+    "highlight": {
+      "en": "Hiro positions itself as a company's first security hire, taking on the security function for teams that lack a dedicated person.",
+      "zh": "Hiro 定位為公司的第一位資安人員,為尚無專責人員的團隊承擔資安職能。"
+    }
+  }
+]

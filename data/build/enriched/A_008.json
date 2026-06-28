@@ -1,0 +1,251 @@
+[
+  {
+    "slug": "checkr",
+    "summary": {
+      "en": "AI-powered background-check platform that helps companies screen and hire workers faster and more fairly.",
+      "zh": "以 AI 驅動的背景調查平台，協助企業更快速、更公平地篩選與聘用員工。"
+    },
+    "highlight": {
+      "en": "A YC Summer 2014 standout, Checkr modernized the slow, manual background-check industry and became HR-tech infrastructure for the gig economy. It reached a $4.6B valuation in its 2022 Series E, raising $550M+ in total.",
+      "zh": "身為 YC 2014 夏季梯隊的代表，Checkr 革新了緩慢且仰賴人工的背景調查產業，成為零工經濟的 HR 科技基礎設施。公司在 2022 年 E 輪達到 46 億美元估值，累計募資超過 5.5 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$4.6B (2022 Series E); raised $550M+",
+      "zh": "估值約 46 億美元（2022 年 E 輪）；累計募資逾 5.5 億美元"
+    },
+    "founders": "Daniel Yanisse, Jonathan Perichon",
+    "sources": [
+      { "title": "Checkr Raises $250 Million at $4.6 Billion Valuation", "url": "https://checkr.com/blog/checkr-raises-250-million-at-4-6-billion-valuation" },
+      { "title": "Checkr Business Breakdown & Founding Story | Contrary Research", "url": "https://research.contrary.com/company/checkr" }
+    ]
+  },
+  {
+    "slug": "ginkgo-bioworks",
+    "summary": {
+      "en": "Synthetic-biology company that designs custom microbes and runs automated foundries to make biology easier to engineer.",
+      "zh": "合成生物學公司，設計客製化微生物並營運自動化代工廠，讓生物工程變得更容易。"
+    },
+    "highlight": {
+      "en": "Founded by five MIT scientists, Ginkgo became the flagship synthetic-biology bet of its YC class and went public via SPAC in 2021 at a ~$15B valuation. Shares have since slumped, leaving a market cap under $1B by 2026.",
+      "zh": "由五位 MIT 科學家創立，Ginkgo 成為 YC 同梯中合成生物學的旗艦押注，並於 2021 年透過 SPAC 上市，估值約 150 億美元。此後股價大幅下跌，到 2026 年市值已不足 10 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "IPO'd via SPAC in 2021 at ~$15B; market cap fell below $1B by 2026",
+      "zh": "2021 年透過 SPAC 上市，估值約 150 億美元；至 2026 年市值已跌破 10 億美元"
+    },
+    "founders": "Jason Kelly, Reshma Shetty, Barry Canton, Austin Che, Tom Knight",
+    "sources": [
+      { "title": "Is Ginkgo's synthetic biology story worth $15 billion? | MIT Technology Review", "url": "https://www.technologyreview.com/2021/08/24/1032308/is-ginkgos-synthetic-biology-story-worth-15-billion/" },
+      { "title": "Ginkgo Bioworks (DNA) Market Cap & Net Worth", "url": "https://stockanalysis.com/stocks/dna/market-cap/" }
+    ]
+  },
+  {
+    "slug": "lawn-love",
+    "summary": {
+      "en": "On-demand lawn-care marketplace that uses satellite imagery to quote and book yard services in minutes.",
+      "zh": "隨選草坪養護媒合平台，利用衛星影像在數分鐘內報價並預約庭院服務。"
+    },
+    "highlight": {
+      "en": "Lawn Love built a software layer over the fragmented, low-tech lawn-care market, generating instant quotes from satellite data instead of in-person estimates. It was acquired by rival LawnStarter in 2021.",
+      "zh": "Lawn Love 在零碎且低科技的草坪養護市場上打造了一層軟體，以衛星資料即時報價，取代到府估價。公司於 2021 年被競爭對手 LawnStarter 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by LawnStarter in 2021 (terms undisclosed)",
+      "zh": "2021 年被 LawnStarter 收購（金額未公開）"
+    },
+    "founders": "Jonas Weigert",
+    "sources": [
+      { "title": "LawnStarter - Wikipedia", "url": "https://en.wikipedia.org/wiki/Lawnstarter" }
+    ]
+  },
+  {
+    "slug": "govpredict",
+    "summary": {
+      "en": "Government-affairs software that tracks bills, meetings, reports and mentions as a system of record for lobbyists.",
+      "zh": "政府事務軟體，追蹤法案、會議、報告與輿情，作為遊說人員的紀錄系統。"
+    },
+    "highlight": {
+      "en": "GovPredict brought big-data tooling to the lobbying and public-affairs world, helping teams keep every bill and mention at their fingertips. It was acquired by Phone2Action in 2020.",
+      "zh": "GovPredict 將大數據工具引入遊說與公共事務領域，協助團隊隨手掌握每一項法案與輿情。公司於 2020 年被 Phone2Action 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Phone2Action in 2020 (terms undisclosed)",
+      "zh": "2020 年被 Phone2Action 收購（金額未公開）"
+    },
+    "founders": "Emil Pitkin, Edward Lando",
+    "sources": [
+      { "title": "Phone2Action Acquires GovPredict", "url": "https://www.businesswire.com/news/home/20201102005838/en/Phone2Action-Acquires-GovPredict-to-Provide-the-Most-Comprehensive-Solution-for-Government-Affairs-and-Grassroots-Advocacy-Teams" }
+    ]
+  },
+  {
+    "slug": "bitaccess",
+    "summary": {
+      "en": "Maker of Bitcoin ATM hardware and software that lets people convert cash into crypto.",
+      "zh": "比特幣 ATM 軟硬體製造商，讓人們將現金兌換成加密貨幣。"
+    },
+    "highlight": {
+      "en": "An early YC crypto bet, Bitaccess built one of the largest Bitcoin ATM networks, processing over $1B of cash-to-Bitcoin conversions. Bitcoin Depot acquired a majority interest in the company in 2022.",
+      "zh": "身為 YC 早期的加密押注，Bitaccess 打造了規模最大的比特幣 ATM 網路之一，處理超過 10 億美元的現金轉比特幣交易。Bitcoin Depot 於 2022 年收購了公司多數股權。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Bitcoin Depot acquired majority interest in 2022; network processed $1B+ in conversions",
+      "zh": "Bitcoin Depot 於 2022 年收購多數股權；網路累計處理逾 10 億美元兌換"
+    },
+    "founders": "Moe Adham, Haseeb Awan, Vignesh Sundaresan, Ryan Wallace",
+    "sources": [
+      { "title": "Bitcoin Depot Announces Acquisition of Majority Interest in Bitaccess", "url": "https://bitcoindepot.com/bitcoin-atm-info/bitcoin-depot-announces-acquisition-of-majority-interest-in-bitaccess-a-leading-bitcoin-atm-software-provider/" }
+    ]
+  },
+  {
+    "slug": "rigetti-computing",
+    "summary": {
+      "en": "Full-stack quantum computing company building superconducting QPUs available through its cloud platform.",
+      "zh": "全堆疊量子運算公司，打造超導量子處理器，並透過其雲端平台提供使用。"
+    },
+    "highlight": {
+      "en": "Founded by physicist Chad Rigetti, the company is one of YC's boldest deep-tech bets and went public via SPAC in 2022. After a 2025 quantum-stock rally, RGTI's market cap reached roughly $7B.",
+      "zh": "由物理學家 Chad Rigetti 創立，是 YC 最大膽的深科技押注之一，並於 2022 年透過 SPAC 上市。歷經 2025 年量子股大漲後，RGTI 市值來到約 70 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Public (Nasdaq: RGTI); market cap ~$7B in 2026",
+      "zh": "已上市（Nasdaq: RGTI）；2026 年市值約 70 億美元"
+    },
+    "founders": "Chad Rigetti",
+    "sources": [
+      { "title": "Rigetti Computing (RGTI) - Market capitalization", "url": "https://companiesmarketcap.com/rigetti-computing/marketcap/" },
+      { "title": "Rigetti Computing (RGTI) Stock Price & Overview", "url": "https://stockanalysis.com/stocks/rgti/" }
+    ]
+  },
+  {
+    "slug": "oklo",
+    "summary": {
+      "en": "Advanced-fission company developing small modular reactors for emission-free, always-on power.",
+      "zh": "先進核分裂公司，開發小型模組化反應爐，提供零排放、全天候的電力。"
+    },
+    "highlight": {
+      "en": "A standout YC deep-tech and clean-energy bet, Oklo went public in 2024 via Sam Altman's SPAC and is seen as a key AI-data-center power play. The pre-revenue developer carried a market cap around $10B in 2026.",
+      "zh": "身為 YC 深科技與潔淨能源的代表押注，Oklo 於 2024 年透過 Sam Altman 的 SPAC 上市，被視為 AI 資料中心供電的關鍵題材。這家尚未產生營收的開發商在 2026 年市值約 100 億美元。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Public (NYSE: OKLO); market cap ~$10B in 2026; pre-revenue",
+      "zh": "已上市（NYSE: OKLO）；2026 年市值約 100 億美元；尚未產生營收"
+    },
+    "founders": "Jacob DeWitte, Caroline Cochran",
+    "sources": [
+      { "title": "Oklo (NYSE:OKLO) - Stock Analysis - Simply Wall St", "url": "https://simplywall.st/stocks/us/utilities/nyse-oklo/oklo" },
+      { "title": "Oklo Stock Analysis: Sam Altman-backed SMR Bet", "url": "https://www.heygotrade.com/en/blog/oklo-oklo-stock-analysis-the-high-risk-high-reward-smr-bet-backed-by-sam-altman/" }
+    ]
+  },
+  {
+    "slug": "cognito",
+    "summary": {
+      "en": "Identity-verification service that confirms a user's identity starting from just their phone number.",
+      "zh": "身分驗證服務，僅需用戶的電話號碼即可確認其身分。"
+    },
+    "highlight": {
+      "en": "Cognito reduced onboarding friction by verifying name, address and SSN from a phone number, making it a high-converting KYC tool. Fintech leader Plaid acquired it for $250M in early 2022.",
+      "zh": "Cognito 僅憑電話號碼即可驗證姓名、地址與社會安全碼，降低開戶摩擦，成為高轉換率的 KYC 工具。金融科技龍頭 Plaid 於 2022 年初以 2.5 億美元收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Plaid for $250M in 2022",
+      "zh": "2022 年被 Plaid 以 2.5 億美元收購"
+    },
+    "founders": "Alain Meier, John Backus",
+    "sources": [
+      { "title": "Plaid acquires ID verification platform Cognito", "url": "https://www.openbankingexpo.com/news/plaid-acquires-id-verification-platform-cognito/" },
+      { "title": "Identity verification platform Cognito is joining Plaid | Plaid", "url": "https://plaid.com/blog/cognito-joins-plaid/" }
+    ]
+  },
+  {
+    "slug": "shipbob",
+    "summary": {
+      "en": "Global fulfillment and supply-chain platform giving ecommerce brands Amazon-level logistics and software.",
+      "zh": "全球履約與供應鏈平台，為電商品牌提供 Amazon 等級的物流與軟體。"
+    },
+    "highlight": {
+      "en": "ShipBob brought tech-driven fulfillment to SMB ecommerce through a network of 50+ fulfillment centers and its own warehouse software. A 2021 Series E led by Bain Capital Ventures pushed its valuation past $1B.",
+      "zh": "ShipBob 透過 50 多個履約中心與自有倉儲軟體，為中小型電商帶來科技驅動的履約服務。2021 年由 Bain Capital Ventures 領投的 E 輪將其估值推升至超過 10 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued >$1B (2021 Series E); raised ~$330M, $200M from Bain-led Series E",
+      "zh": "估值逾 10 億美元（2021 年 E 輪）；累計募資約 3.3 億美元，其中 E 輪 2 億美元由 Bain 領投"
+    },
+    "founders": "Dhruv Saxena, Divey Gulati",
+    "sources": [
+      { "title": "ShipBob Raises $200 Million, Valuing the Platform Well Over $1 Billion", "url": "https://www.prnewswire.com/news-releases/shipbob-raises-200-million-in-series-e-funding-led-by-bain-capital-ventures-valuing-the-ecommerce-logistics-platform-well-over-1-billion-301321574.html" },
+      { "title": "ShipBob reaches $1B valuation with new funding round - FreightWaves", "url": "https://www.freightwaves.com/news/shipbob-reaches-1b-valuation-with-new-funding-round" }
+    ]
+  },
+  {
+    "slug": "equipmentshare",
+    "summary": {
+      "en": "Cloud platform for construction offering equipment rental, fleet-tracking software and jobsite hardware.",
+      "zh": "建築業雲端平台，提供設備租賃、車隊追蹤軟體與工地硬體。"
+    },
+    "highlight": {
+      "en": "Founded by brothers Willy and Jabbok Schlacks, EquipmentShare grew from a peer-to-peer marketplace into a major construction-tech and rental player. It IPO'd on Nasdaq in January 2026, raising ~$747M at a first-day market value of about $8B.",
+      "zh": "由 Willy 與 Jabbok Schlacks 兄弟創立，EquipmentShare 從點對點媒合平台成長為建築科技與租賃領域的要角。公司於 2026 年 1 月在 Nasdaq 上市，募資約 7.47 億美元，上市首日市值約 80 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd on Nasdaq (EQPT) Jan 2026, raising ~$747M; first-day market value ~$8B",
+      "zh": "2026 年 1 月於 Nasdaq 上市（EQPT），募資約 7.47 億美元；首日市值約 80 億美元"
+    },
+    "founders": "Willy Schlacks, Jabbok Schlacks",
+    "sources": [
+      { "title": "EquipmentShare.com Plans $747 Million IPO, Valuation Exceeds $6.7 Billion", "url": "https://intellectia.ai/news/stock/equipmentsharecom-plans-747-million-ipo-valuation-exceeds-67-billion" },
+      { "title": "EquipmentShare revenue, valuation & funding | Sacra", "url": "https://sacra.com/c/equipmentshare/" }
+    ]
+  },
+  {
+    "slug": "grubmarket",
+    "summary": {
+      "en": "AI-powered ecommerce and software platform digitizing the American food supply chain.",
+      "zh": "以 AI 驅動的電商與軟體平台，數位化美國食品供應鏈。"
+    },
+    "highlight": {
+      "en": "GrubMarket transformed the offline, manual food-distribution industry into a software-driven business and became the largest private US food-tech company. A 2026 Series H valued it at $4.5B on revenue surpassing $2B.",
+      "zh": "GrubMarket 將離線、仰賴人工的食品配銷產業轉型為軟體驅動的事業，並成為美國規模最大的私營食品科技公司。2026 年 H 輪使其估值達 45 億美元，營收突破 20 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$4.5B (2026 Series H); revenue surpassed $2B in 2024",
+      "zh": "估值約 45 億美元（2026 年 H 輪）；2024 年營收突破 20 億美元"
+    },
+    "founders": "Mike Xu",
+    "sources": [
+      { "title": "GrubMarket raises $50M at a $3.5B valuation | TechCrunch", "url": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/" },
+      { "title": "GrubMarket Raises $50M Series H at $4.5B valuation - Tech Startups", "url": "https://techstartups.com/2026/02/02/grubmarket-raises-50m-series-h-at-4-5b-valuation-to-expand-ai-driven-food-supply-chain-platform/" }
+    ]
+  },
+  {
+    "slug": "razorpay",
+    "summary": {
+      "en": "India's full-stack fintech offering payments and banking solutions for businesses.",
+      "zh": "印度全堆疊金融科技公司，為企業提供支付與銀行解決方案。"
+    },
+    "highlight": {
+      "en": "Razorpay grew from a single payment gateway into India's leading full-stack financial platform and a barometer of the country's digital economy. Last valued at ~$9.2B, it processes over $180B in annualized transaction volume.",
+      "zh": "Razorpay 從單一支付閘道成長為印度領先的全堆疊金融平台，並成為該國數位經濟的風向球。最新估值約 92 億美元，年化交易量超過 1,800 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$9.2B; raised ~$742M; >$180B annualized transaction volume",
+      "zh": "最新估值約 92 億美元；累計募資約 7.42 億美元；年化交易量逾 1,800 億美元"
+    },
+    "founders": "Harshil Mathur, Shashank Kumar",
+    "sources": [
+      { "title": "Razorpay - 2026 Company Profile, Funding & Financials - Tracxn", "url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI" },
+      { "title": "Razorpay CEO Harshil Mathur on Building a Payments Platform | Y Combinator", "url": "https://www.linkedin.com/posts/y-combinator_razorpay-is-indias-largest-payments-platform-activity-7457790273310576640-RN2q" }
+    ]
+  }
+]

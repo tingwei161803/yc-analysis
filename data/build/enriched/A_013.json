@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "innov8",
+    "summary": {
+      "en": "Premium coworking and managed private office spaces for startups, freelancers, and SMEs across India.",
+      "zh": "為印度各地新創、自由工作者與中小企業提供高端共享辦公與託管私人辦公空間。"
+    },
+    "highlight": {
+      "en": "Innov8 became one of India's best-known YC-backed workspace brands before being acquired by hospitality giant OYO. OYO bought it in 2019 in an all-cash deal worth about INR 220 crore (~$32M).",
+      "zh": "Innov8 在被飯店巨頭 OYO 收購前,是印度最知名的 YC 系共享辦公品牌之一。OYO 於 2019 年以約 2.2 億盧比(約 3,200 萬美元)全現金收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by OYO in 2019 for ~INR 220 crore (~$32M) all-cash",
+      "zh": "2019 年被 OYO 以約 2.2 億盧比(約 3,200 萬美元)全現金收購"
+    },
+    "founders": "Ritesh Malik",
+    "sources": [
+      { "title": "OYO Acquires Innov8 For INR 220 Cr In An All Cash Deal", "url": "https://inc42.com/buzz/breaking-oyo-acquires-innov8-for-inr-220-cr-in-all-cash-deal/" },
+      { "title": "Here's why OYO is betting big on the $36B coworking space", "url": "https://yourstory.com/2019/07/oyo-betting-coworking-innov8-acquistion" }
+    ]
+  },
+  {
+    "slug": "burrow",
+    "summary": {
+      "en": "Direct-to-consumer furniture brand known for modular, easy-to-assemble sofas that ship within a week.",
+      "zh": "主打模組化、易組裝沙發的直接面向消費者(DTC)家具品牌,商品一週內即可出貨。"
+    },
+    "highlight": {
+      "en": "Burrow turned a dorm-room idea into one of Fast Company's most innovative retail brands, with its sofa named a TIME best invention of 2018. It was acquired by Havenly Brands in October 2024.",
+      "zh": "Burrow 將宿舍裡的點子做成《Fast Company》評選最具創新力的零售品牌之一,其沙發更獲《TIME》選為 2018 年最佳發明。2024 年 10 月被 Havenly Brands 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Havenly Brands in Oct 2024 (terms undisclosed)",
+      "zh": "2024 年 10 月被 Havenly Brands 收購(交易條件未公開)"
+    },
+    "founders": "Stephen Kuhl, Kabeer Chopra",
+    "sources": [
+      { "title": "Havenly Brands Acquires Burrow", "url": "https://www.prnewswire.com/news-releases/havenly-brands-acquires-burrow-paving-the-way-for-unmatched-growth-in-home-retail-302277371.html" },
+      { "title": "Havenly Brands acquires Burrow as it builds out its portfolio of home brands", "url": "https://www.retaildive.com/news/havenly-brands-acquires-dtc-furniture-brand-burrow/729948/" }
+    ]
+  },
+  {
+    "slug": "proxy",
+    "summary": {
+      "en": "Mobile and wearable digital-identity wallet for seamless payments, identity, and 'wave to pay' authentication.",
+      "zh": "結合行動與穿戴裝置的數位身分錢包,讓支付、身分驗證與「揮手付款」更順暢。"
+    },
+    "highlight": {
+      "en": "Proxy pioneered a smart-ring digital wallet replacing keys, badges, and passwords with a privacy-first identity signal. Smart-ring maker Oura acquired Proxy in 2023 in an all-equity deal valuing it at about $165M.",
+      "zh": "Proxy 開創智慧戒指數位錢包,以重視隱私的身分訊號取代鑰匙、識別證與密碼。智慧戒指業者 Oura 於 2023 年以全股票交易收購,估值約 1.65 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Oura in 2023, all-equity deal valuing Proxy ~$165M",
+      "zh": "2023 年被 Oura 以全股票交易收購,估值約 1.65 億美元"
+    },
+    "founders": "Denis Mars",
+    "sources": [
+      { "title": "OURA Acquires Proxy in All-Equity Deal", "url": "https://ouraring.com/blog/oura-acquires-proxy/" },
+      { "title": "Oura Acquires Proxy to Expand Into Payments and Authentication", "url": "https://www.pymnts.com/news/biometrics/2023/oura-acquires-proxy-to-expand-into-payments-and-authentication/" }
+    ]
+  },
+  {
+    "slug": "rippling",
+    "summary": {
+      "en": "Unified workforce platform to run HR, IT, and Finance, automating the entire global employee lifecycle.",
+      "zh": "一站式員工管理平台,統一執行 HR、IT 與財務,自動化全球員工的整個生命週期。"
+    },
+    "highlight": {
+      "en": "Founded by Parker Conrad, Rippling is one of YC's most valuable companies and a poster child for the 'compound startup' model. It raised a $450M Series G in May 2025 at a $16.8B valuation, reaching $1.85B raised total.",
+      "zh": "由 Parker Conrad 創辦,Rippling 是 YC 旗下最具價值的公司之一,也是「複合型新創」模式的代表。2025 年 5 月完成 4.5 億美元 G 輪募資,估值達 168 億美元,累計募資 18.5 億美元。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Last valued ~$16.8B (Series G, May 2025); raised >$1.85B",
+      "zh": "最新估值約 168 億美元(2025 年 5 月 G 輪);累計募資逾 18.5 億美元"
+    },
+    "founders": "Parker Conrad, Prasanna Sankar",
+    "sources": [
+      { "title": "Rippling raises $450M at a $16.8B valuation, reveals YC is a customer", "url": "https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/" },
+      { "title": "Rippling valued at $16.8 billion in $450 million funding round", "url": "https://www.cnbc.com/2025/05/09/rippling-valued-at-16point8-billion-in-450-million-funding-round.html" }
+    ]
+  },
+  {
+    "slug": "clipboard",
+    "summary": {
+      "en": "App-based marketplace where healthcare facilities post open shifts and workers claim them to fill staffing gaps.",
+      "zh": "以 App 為核心的媒合平台,醫療照護機構張貼空缺班次,工作者接班以填補人力缺口。"
+    },
+    "highlight": {
+      "en": "Clipboard Health became a leader in long-term-care staffing, filling millions of shifts a year across the U.S. It crossed a $1.3B valuation after raising $80M, reaching roughly $314M in 2024 revenue.",
+      "zh": "Clipboard Health 成為長照人力派遣的領導者,每年在全美填補數百萬個班次。完成 8,000 萬美元募資後估值突破 13 億美元,2024 年營收約 3.14 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$1.3B; raised ~$298M total",
+      "zh": "估值約 13 億美元;累計募資約 2.98 億美元"
+    },
+    "founders": "Wei Deng",
+    "sources": [
+      { "title": "Clipboard Health Notches $80M at $1.3B Valuation", "url": "https://www.pymnts.com/news/investment-tracker/2022/clipboard-health-notches-80m-at-1-3b-valuation/" },
+      { "title": "Clipboard Health Business Breakdown & Founding Story", "url": "https://research.contrary.com/company/clipboard-health" }
+    ]
+  },
+  {
+    "slug": "brex",
+    "summary": {
+      "en": "AI-powered spend platform combining corporate cards, expense management, business accounts, and bill pay.",
+      "zh": "結合企業卡、費用管理、商業帳戶與帳單支付的 AI 智慧支出平台。"
+    },
+    "highlight": {
+      "en": "Brex became a fintech unicorn within two years and peaked at a $12.3B valuation serving high-growth firms like DoorDash and Coinbase. Capital One agreed to acquire Brex in 2026 for $5.15B after it had raised over $2.3B.",
+      "zh": "Brex 在兩年內成為金融科技獨角獸,巔峰估值達 123 億美元,客戶包括 DoorDash、Coinbase 等高成長企業。在累計募資逾 23 億美元後,Capital One 於 2026 年同意以 51.5 億美元收購。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Peaked ~$12.3B valuation; raised >$2.3B; acquired by Capital One for $5.15B (2026)",
+      "zh": "巔峰估值約 123 億美元;累計募資逾 23 億美元;2026 年被 Capital One 以 51.5 億美元收購"
+    },
+    "founders": "Henrique Dubugras, Pedro Franceschi",
+    "sources": [
+      { "title": "Capital One To Buy Fintech Startup Brex At Less Than Half Its Peak Valuation In $5.15B Deal", "url": "https://news.crunchbase.com/ma/capital-one-acquisition-fintech-startup-brex/" },
+      { "title": "Brex - Wikipedia", "url": "https://en.wikipedia.org/wiki/Brex" }
+    ]
+  },
+  {
+    "slug": "faire",
+    "summary": {
+      "en": "Online wholesale marketplace using machine learning to connect independent retailers with brands worldwide.",
+      "zh": "運用機器學習,將獨立零售商與全球品牌媒合的線上批發市集。"
+    },
+    "highlight": {
+      "en": "Faire built a global wholesale marketplace empowering local retail, becoming one of YC's standout B2B unicorns. It raised about $1.7B and was valued at $12.6B in 2022, later marked at $5.2B in a 2025 tender offer.",
+      "zh": "Faire 打造賦能在地零售的全球批發市集,成為 YC 旗下亮眼的 B2B 獨角獸之一。累計募資約 17 億美元,2022 年估值達 126 億美元,2025 年股權收購中估值調整為 52 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Valued ~$5.2B (2025 tender), peaked $12.6B; raised ~$1.7B",
+      "zh": "估值約 52 億美元(2025 年股權收購),巔峰 126 億美元;累計募資約 17 億美元"
+    },
+    "founders": "Max Rhodes, Marcelo Cortes, Daniele Perito",
+    "sources": [
+      { "title": "B2B marketplace Faire reaches $5.2 billion valuation", "url": "https://www.digitalcommerce360.com/2025/12/05/b2b-marketplace-faire-reaches-5-2-billion-valuation/" },
+      { "title": "Faire Valuation Grows to $12.4 Billion With $400 Million Series G Funding Round", "url": "https://www.businesswire.com/news/home/20211116005386/en/Faire-Valuation-Grows-to-%2412.4-Billion-With-%24400-Million-Series-G-Funding-Round-Co-Led-by-Durable-Capital-Partners-LP" }
+    ]
+  },
+  {
+    "slug": "hogaru",
+    "summary": {
+      "en": "Tech-enabled home-services platform in Latin America that directly employs its professional cleaners.",
+      "zh": "拉丁美洲的科技化居家服務平台,直接聘僱專業清潔人員以提升留任率與品質。"
+    },
+    "highlight": {
+      "en": "Hogaru provides professional cleaning and maintenance to homes and micro-businesses across Latin America. Unlike pure marketplaces, it employs cleaners directly to drive retention and service quality.",
+      "zh": "Hogaru 為拉丁美洲的家庭與微型企業提供專業清潔與維護服務。有別於純媒合平台,它直接聘僱清潔人員,以提升留任率與服務品質。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "",
+    "sources": []
+  },
+  {
+    "slug": "aclu",
+    "summary": {
+      "en": "Nonprofit, nonpartisan organization defending the individual rights and liberties guaranteed by the U.S. Constitution.",
+      "zh": "捍衛美國憲法所保障的個人權利與自由的非營利、無黨派組織。"
+    },
+    "highlight": {
+      "en": "A rare nonprofit to go through Y Combinator, the ACLU has grown since 1920 into an organization of more than 500,000 members. It handles nearly 6,000 court cases a year defending civil liberties nationwide.",
+      "zh": "ACLU 是少數參與 Y Combinator 的非營利組織,自 1920 年成立以來已壯大至逾 50 萬名會員。每年處理近 6,000 件訴訟,在全美捍衛公民自由。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Nonprofit funded by member dues, donations, and private grants (no government funding)",
+      "zh": "由會員會費、捐款與私人補助資助的非營利組織(不接受政府資金)"
+    },
+    "founders": "",
+    "sources": [
+      { "title": "American Civil Liberties Union", "url": "https://www.aclu.org/" }
+    ]
+  },
+  {
+    "slug": "upkeep",
+    "summary": {
+      "en": "Mobile-first CMMS and enterprise asset-management software keeping maintenance technicians productive in the field.",
+      "zh": "以行動裝置為先的 CMMS 與企業資產管理軟體,讓維護技師在現場保持高效。"
+    },
+    "highlight": {
+      "en": "UpKeep brought a mobile-first approach to legacy desktop maintenance software, surpassing 2M registered users. It raised about $49M total, including a $36M Series B led by Insight Partners.",
+      "zh": "UpKeep 以行動優先思維革新傳統桌面維護軟體,註冊用戶突破 200 萬。累計募資約 4,900 萬美元,其中包含由 Insight Partners 領投的 3,600 萬美元 B 輪。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$49M total; $36M Series B led by Insight Partners (2020)",
+      "zh": "累計募資約 4,900 萬美元;2020 年由 Insight Partners 領投 3,600 萬美元 B 輪"
+    },
+    "founders": "Ryan Chan",
+    "sources": [
+      { "title": "UpKeep raises $36 million Series B to help facilities and maintenance teams go mobile", "url": "https://techcrunch.com/2020/05/12/upkeep-raises-36-million-series-b-to-help-facilities-and-maintenance-teams-go-mobile/" },
+      { "title": "UpKeep - Crunchbase Company Profile & Funding", "url": "https://www.crunchbase.com/organization/upkeep-maintenance-management" }
+    ]
+  },
+  {
+    "slug": "humi",
+    "summary": {
+      "en": "All-in-one payroll, HR, and health-benefits platform built specifically for Canadian small and mid-sized businesses.",
+      "zh": "專為加拿大中小企業打造的薪資、HR 與健康福利一站式平台。"
+    },
+    "highlight": {
+      "en": "Humi built core employment infrastructure for Canada's economy, serving thousands of companies including Ada and Hubdoc. It was acquired by Australia's Employment Hero in January 2025 in a deal reported north of CAD 100M.",
+      "zh": "Humi 為加拿大經濟打造核心的就業基礎設施,服務 Ada、Hubdoc 等數千家企業。2025 年 1 月被澳洲 Employment Hero 收購,交易金額據報逾 1 億加幣。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Employment Hero (Jan 2025), deal reported >CAD 100M",
+      "zh": "2025 年 1 月被 Employment Hero 收購,交易金額據報逾 1 億加幣"
+    },
+    "founders": "",
+    "sources": [
+      { "title": "Humi Acquired by Employment Hero to Provide a Localized Solution for Canadian Businesses", "url": "https://www.businesswire.com/news/home/20250108513763/en/Humi-Acquired-by-Employment-Hero-to-Provide-a-Comprehensive-and-Localized-Solution-for-Canadian-Businesses" },
+      { "title": "Humi acquired by Australian HR software company Employment Hero", "url": "https://betakit.com/humi-acquired-by-australian-hr-software-company-employment-hero/" }
+    ]
+  },
+  {
+    "slug": "soomgo",
+    "summary": {
+      "en": "Korean local-services marketplace connecting providers with customers across 1,000+ categories like moving and lessons.",
+      "zh": "韓國在地服務媒合平台,涵蓋搬家、課程教學等 1,000 多種類別,連結服務提供者與顧客。"
+    },
+    "highlight": {
+      "en": "Soomgo (Korean for 'hidden master') became a leading services marketplace in South Korea spanning over 1,000 service types. It raised roughly $57M total and was acquired by PE firm Ark & Partners in October 2024.",
+      "zh": "Soomgo(韓文意為「隱藏的高手」)成為韓國領先的服務媒合平台,涵蓋逾 1,000 種服務類型。累計募資約 5,700 萬美元,2024 年 10 月被私募股權公司 Ark & Partners 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised ~$57M total; acquired by Ark & Partners (Oct 2024)",
+      "zh": "累計募資約 5,700 萬美元;2024 年 10 月被 Ark & Partners 收購"
+    },
+    "founders": "",
+    "sources": [
+      { "title": "Service marketplace Soomgo raises nearly $30 mn in Series C round", "url": "https://www.kedglobal.com/newsView/ked202106140014" },
+      { "title": "Ark & Partners tender offer for Soomgo", "url": "https://www.davispolk.com/experience/ark-partners-tender-offer-soomgo" }
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "slug": "fullstack-academy",
+    "summary": {
+      "en": "Immersive coding bootcamp teaching JavaScript, Node.js, React and cybersecurity to aspiring software developers.",
+      "zh": "沉浸式程式設計訓練營，教授 JavaScript、Node.js、React 與資安，培養軟體開發人才。"
+    },
+    "highlight": {
+      "en": "A pioneer of the immersive code-education wave that YC helped seed in the early 2010s. Founders David Yang and Nimit Maru sold Fullstack Academy to NASDAQ-listed Zovio in 2019 in a deal worth about $33M.",
+      "zh": "是 YC 在 2010 年代初期催生的沉浸式程式教育浪潮的先驅之一。創辦人 David Yang 與 Nimit Maru 於 2019 年將公司以約 3,300 萬美元賣給那斯達克上市的 Zovio。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Zovio in 2019 for ~$33M ($17.5M cash plus stock)",
+      "zh": "2019 年被 Zovio 以約 3,300 萬美元收購（1,750 萬美元現金加股票）"
+    },
+    "founders": "David Yang, Nimit Maru",
+    "sources": [
+      { "title": "NYC coding bootcamp Fullstack Academy acquired by Zovio", "url": "https://theygotacquired.com/education/fullstack-academy-acquired-by-zovio/" },
+      { "title": "Fullstack Academy - Wikipedia", "url": "https://en.wikipedia.org/wiki/Fullstack_Academy" }
+    ]
+  },
+  {
+    "slug": "clever",
+    "summary": {
+      "en": "Single sign-on and data platform powering classroom technology for the majority of US K-12 schools.",
+      "zh": "為全美多數 K-12 學校提供課堂科技支援的單一登入與資料平台。"
+    },
+    "highlight": {
+      "en": "Clever became foundational US K-12 ed-tech infrastructure, used by roughly two-thirds of American schools. Norwegian learning giant Kahoot! acquired it in 2021 at an enterprise value of up to $500M.",
+      "zh": "Clever 成為美國 K-12 教育科技的基礎設施，約三分之二的美國學校使用。挪威學習巨頭 Kahoot! 於 2021 年以最高 5 億美元企業價值收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Kahoot! in 2021 at up to ~$500M enterprise value",
+      "zh": "2021 年被 Kahoot! 以最高約 5 億美元企業價值收購"
+    },
+    "founders": "Tyler Bosmeny, Dan Carroll, Rafael Garcia",
+    "sources": [
+      { "title": "Kahoot acquires Clever, the US-based edtech portal, for up to $500M", "url": "https://techcrunch.com/2021/05/06/kahoot-acquires-clever-the-us-based-edtech-portal-for-up-to-500m/" },
+      { "title": "Clever (company) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Clever_(company)" }
+    ]
+  },
+  {
+    "slug": "smartasset",
+    "summary": {
+      "en": "Consumer finance platform and marketplace matching investors with fiduciary financial advisors.",
+      "zh": "面向消費者的理財資訊平台與媒合市集，將投資人與受託理財顧問配對。"
+    },
+    "highlight": {
+      "en": "SmartAsset turned free financial calculators into a high-growth advisor lead-generation business reaching tens of millions monthly. It crossed unicorn status in 2021 with a $110M Series D valuing it over $1B.",
+      "zh": "SmartAsset 將免費理財計算工具發展成高速成長的顧問名單生成業務，每月觸及數千萬人。2021 年完成 1.1 億美元 D 輪融資，估值突破 10 億美元，躋身獨角獸。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued over $1B; $110M Series D (2021), ~$161M raised total",
+      "zh": "最新估值逾 10 億美元；2021 年 D 輪募得 1.1 億美元，累計募資約 1.61 億美元"
+    },
+    "founders": "Michael Carvin, Philip Camilleri",
+    "sources": [
+      { "title": "SmartAsset Raises $110 Million in Series D Funding, Bringing its Valuation to Over $1 Billion", "url": "https://www.businesswire.com/news/home/20210624005332/en/SmartAsset-Raises-%24110-Million-in-Series-D-Funding-Bringing-its-Valuation-to-Over-%241-Billion" },
+      { "title": "SmartAsset rethinks financial advisory, and becomes a unicorn in the process", "url": "https://techcrunch.com/2021/06/24/smartasset-rethinks-financial-advisory-and-becomes-a-unicorn-in-the-process/" }
+    ]
+  },
+  {
+    "slug": "boosted",
+    "summary": {
+      "en": "Maker of premium lightweight electric skateboards and last-mile personal electric vehicles.",
+      "zh": "高階輕量電動滑板與最後一哩路個人電動載具的製造商。"
+    },
+    "highlight": {
+      "en": "Boosted was the most recognizable premium brand of the electric-skateboard era. It laid off most of its ~130 staff in March 2020, blaming capital intensity and US-China tariffs, and wound down operations.",
+      "zh": "Boosted 是電動滑板時代最具辨識度的高階品牌。2020 年 3 月裁掉約 130 名員工中的大多數，歸咎於高資本投入與美中關稅，隨後結束營運。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Ceased operations in 2020 after layoffs; assets later sold",
+      "zh": "2020 年裁員後停止營運，資產隨後出售"
+    },
+    "founders": "Sanjay Dastoor, John Ulmen, Matthew Tran",
+    "sources": [
+      { "title": "Boosted lays off most of its staff, blames financial troubles on Trump tariffs", "url": "https://electrek.co/2020/03/04/boosted-lays-off-majority-of-staff-could-this-be-the-e-skateboard-kings-end/" }
+    ]
+  },
+  {
+    "slug": "soylent",
+    "summary": {
+      "en": "Maker of nutritionally complete meal-replacement drinks and powders pioneering food technology.",
+      "zh": "營養完整的代餐飲品與粉末製造商，食品科技領域的先行者。"
+    },
+    "highlight": {
+      "en": "Soylent became the emblematic Silicon Valley meal-replacement brand, backed by GV and Andreessen Horowitz with over $72M raised. Starco Brands (NASDAQ) acquired it in 2023 in an all-stock deal valued at about $65M.",
+      "zh": "Soylent 成為矽谷代餐的象徵性品牌，獲 GV 與 Andreessen Horowitz 投資，累計募資逾 7,200 萬美元。那斯達克上市的 Starco Brands 於 2023 年以約 6,500 萬美元全股票交易收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$72M (GV, a16z); acquired by Starco Brands in 2023 (~$65M all-stock)",
+      "zh": "募資逾 7,200 萬美元（GV、a16z）；2023 年被 Starco Brands 以約 6,500 萬美元全股票收購"
+    },
+    "founders": "Rob Rhinehart, John Coogan, David Renteln, Matt Cauble",
+    "sources": [
+      { "title": "Soylent acquired by Starco Brands as nutrition company shifts into its 'natural next stage'", "url": "https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/" },
+      { "title": "Soylent (meal replacement) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Soylent_(meal_replacement)" }
+    ]
+  },
+  {
+    "slug": "virool",
+    "summary": {
+      "en": "Native video advertising and distribution platform helping brand marketers reach audiences across screens.",
+      "zh": "原生影音廣告與內容散布平台，協助品牌行銷人員跨螢幕觸及受眾。"
+    },
+    "highlight": {
+      "en": "Virool built a programmatic video-distribution platform that served more than 75,000 global campaigns across 100,000+ sites. Founded in 2012, it raised $18.62M from top VCs and angels before being acquired.",
+      "zh": "Virool 打造程式化影音散布平台，服務逾 75,000 個全球廣告活動、橫跨 10 萬個以上網站。2012 年創立，被收購前自頂尖創投與天使投資人募得 1,862 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $18.62M before acquisition",
+      "zh": "被收購前募資 1,862 萬美元"
+    },
+    "founders": "Alex Debelov, Vladimir Bystrov",
+    "sources": []
+  },
+  {
+    "slug": "fivetran",
+    "summary": {
+      "en": "Automated data-movement platform replicating data into, out of and across cloud data warehouses (ELT).",
+      "zh": "自動化資料搬移平台，在雲端資料倉儲之間進行資料複製（ELT）。"
+    },
+    "highlight": {
+      "en": "Fivetran is one of the modern data stack's flagship companies, powering pipelines for brands like Morgan Stanley and JetBlue. It was last valued at $5.6B (2021) and pushed past $325M ARR in 2024 while acquiring Census and dbt Labs.",
+      "zh": "Fivetran 是現代資料堆疊的旗艦公司之一，為摩根士丹利、JetBlue 等品牌驅動資料管線。最新估值為 56 億美元（2021 年），2024 年年度經常性收入突破 3.25 億美元，並收購了 Census 與 dbt Labs。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$5.6B (2021); raised >$730M total; >$325M ARR (2024)",
+      "zh": "最新估值約 56 億美元（2021 年）；累計募資逾 7.3 億美元；年度經常性收入逾 3.25 億美元（2024 年）"
+    },
+    "founders": "George Fraser, Taylor Brown",
+    "sources": [
+      { "title": "Fivetran revenue, valuation & funding | Sacra", "url": "https://sacra.com/c/fivetran/" },
+      { "title": "Fivetran Aims to Close Data Movement Loop with Census Acquisition", "url": "https://www.bigdatawire.com/2025/05/02/fivetran-aims-to-close-data-movement-loop-with-census-acquisition/" }
+    ]
+  },
+  {
+    "slug": "zenefits",
+    "summary": {
+      "en": "All-in-one HR platform for small businesses covering benefits, payroll, onboarding and talent management.",
+      "zh": "為小型企業打造的一站式人資平台，涵蓋福利、薪資、到職與人才管理。"
+    },
+    "highlight": {
+      "en": "Zenefits was one of YC's fastest-rising stars, hitting a $4.5B valuation in 2015 before a compliance scandal forced CEO Parker Conrad out. It was acquired by TriNet in 2022 and rebranded TriNet Zenefits.",
+      "zh": "Zenefits 曾是 YC 竄升最快的明星之一，2015 年估值達 45 億美元，後因合規醜聞迫使執行長 Parker Conrad 下台。2022 年被 TriNet 收購並更名為 TriNet Zenefits。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Peaked at $4.5B valuation (2015); raised >$580M; acquired by TriNet in 2022",
+      "zh": "估值高峰達 45 億美元（2015 年）；累計募資逾 5.8 億美元；2022 年被 TriNet 收購"
+    },
+    "founders": "Parker Conrad, Laks Srini",
+    "sources": [
+      { "title": "TriNet Zenefits - Wikipedia", "url": "https://en.wikipedia.org/wiki/TriNet_Zenefits" },
+      { "title": "Zenefits acquired by TriNet - Crunchbase Acquisition Profile", "url": "https://www.crunchbase.com/acquisition/trinet-acquires-zenefits--da6d59d3" }
+    ]
+  },
+  {
+    "slug": "heap",
+    "summary": {
+      "en": "Digital analytics platform that auto-captures every user interaction with no manual event tracking.",
+      "zh": "數位分析平台，自動擷取所有使用者互動，無需手動埋點追蹤事件。"
+    },
+    "highlight": {
+      "en": "Heap pioneered autocapture analytics, removing the need for manual event instrumentation that defined earlier tools. French experience-analytics leader Contentsquare acquired it in 2023, its largest deal at the time.",
+      "zh": "Heap 開創了自動擷取分析，免除早期工具所需的手動事件埋點。法國體驗分析領導者 Contentsquare 於 2023 年收購，是其當時規模最大的交易。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Contentsquare in 2023",
+      "zh": "2023 年被 Contentsquare 收購"
+    },
+    "founders": "Matin Movassate, Ravi Parikh",
+    "sources": [
+      { "title": "Contentsquare Completes Acquisition of Heap", "url": "https://contentsquare.com/press/contentsquare-completes-acquisition-heap/" },
+      { "title": "Contentsquare enters definitive agreement to acquire US product analytics leader Heap", "url": "https://www.heap.io/press/contentsquare-enters-definitive-agreement-to-acquire-heap" }
+    ]
+  },
+  {
+    "slug": "teespring",
+    "summary": {
+      "en": "Print-on-demand platform letting creators design and sell custom made-to-order merchandise.",
+      "zh": "隨需印製平台，讓創作者設計並銷售客製化的接單生產商品。"
+    },
+    "highlight": {
+      "en": "Teespring popularized creator-driven print-on-demand merch, backed by Andreessen Horowitz and Khosla Ventures. It rebranded to Spring in 2021, struggled, and had its assets taken over by Amaze Software.",
+      "zh": "Teespring 推廣了創作者主導的隨需印製商品，獲 Andreessen Horowitz 與 Khosla Ventures 投資。2021 年更名為 Spring，後陷入困境，資產由 Amaze Software 接手。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "VC-backed (a16z, Khosla); rebranded Spring; assets taken over by Amaze",
+      "zh": "獲創投支持（a16z、Khosla）；更名為 Spring；資產由 Amaze 接手"
+    },
+    "founders": "Walker Williams, Evan Stites-Clayton",
+    "sources": [
+      { "title": "Teespring - Wikipedia", "url": "https://en.wikipedia.org/wiki/Teespring" },
+      { "title": "Spring acquired by Amaze Software - Crunchbase Acquisition Profile", "url": "https://www.crunchbase.com/acquisition/famo-us-acquires-teespring--1cb71399" }
+    ]
+  },
+  {
+    "slug": "bitnami",
+    "summary": {
+      "en": "Packaging platform offering ready-to-run server applications and dev stacks across any cloud or format.",
+      "zh": "應用程式打包平台，提供可在任何雲端或格式上即開即用的伺服器應用與開發堆疊。"
+    },
+    "highlight": {
+      "en": "Bitnami built an 'app store for server software' with 120+ click-to-deploy packages spanning every major cloud. VMware acquired it in 2019 to accelerate its multi-cloud strategy.",
+      "zh": "Bitnami 打造了「伺服器軟體的應用程式商店」，提供 120 多個橫跨各大雲端、一鍵部署的套件。VMware 於 2019 年收購以加速其多雲策略。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by VMware in 2019",
+      "zh": "2019 年被 VMware 收購"
+    },
+    "founders": "Daniel Lopez Ridruejo, Erica Brescia",
+    "sources": [
+      { "title": "VMware acquires Bitnami to accelerate its multicloud strategy", "url": "https://technologymagazine.com/cloud-and-cybersecurity/vmware-acquires-bitnami-accelerate-its-multicloud-strategy" },
+      { "title": "Bitnami - Wikipedia", "url": "https://en.wikipedia.org/wiki/Bitnami" }
+    ]
+  },
+  {
+    "slug": "vaycayhero",
+    "summary": {
+      "en": "Marketplace for professionally managed, verified vacation rentals with hassle-free online booking.",
+      "zh": "專業管理、經過驗證的度假租屋市集，提供無煩惱的線上訂房體驗。"
+    },
+    "highlight": {
+      "en": "VaycayHero (formerly Zaranga) aggregated verified vacation rentals across US and Mexico destinations and had served over 15,000 guests. After suspending service, it was acquired by RedAwning in 2017.",
+      "zh": "VaycayHero（前身 Zaranga）整合美國與墨西哥各度假地點經驗證的租屋，曾服務逾 15,000 名旅客。暫停服務後，於 2017 年被 RedAwning 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by RedAwning in 2017 (terms undisclosed)",
+      "zh": "2017 年被 RedAwning 收購（條件未公開）"
+    },
+    "founders": "Vinraj Jeyaraj, Vinodh Jeyaraj",
+    "sources": [
+      { "title": "VaycayHero sells to RedAwning after service suspension | PhocusWire", "url": "https://www.phocuswire.com/VaycayHero-sells-to-RedAwning-after-service-suspension" }
+    ]
+  }
+]

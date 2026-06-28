@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "reddit",
+    "summary": {
+      "en": "A vast network of community forums where users post, vote, and discuss content, the self-styled \"front page of the internet.\"",
+      "zh": "龐大的社群論壇網路，使用者在此發文、投票、討論內容，自稱「網際網路的首頁」。"
+    },
+    "highlight": {
+      "en": "One of YC's earliest and most iconic consumer successes, founded by Steve Huffman and Alexis Ohanian in the very first 2005 batch. After being sold to Condé Nast and later spun out, Reddit IPO'd on the NYSE in March 2024 and has traded at a market cap above $30 billion.",
+      "zh": "Reddit 是 YC 最早、最具代表性的消費級成功案例之一，由 Steve Huffman 與 Alexis Ohanian 在 2005 年首屆梯次創立。先被賣給 Condé Nast、後又分拆獨立，Reddit 於 2024 年 3 月在紐約證交所上市，市值一度突破 300 億美元。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Public on NYSE (RDDT) since 2024; market cap above $30B",
+      "zh": "2024 年於紐約證交所上市（代號 RDDT）；市值逾 300 億美元"
+    },
+    "founders": "Steve Huffman, Alexis Ohanian",
+    "sources": [
+      { "title": "Reddit (RDDT) Stock Price & Overview - StockAnalysis", "url": "https://stockanalysis.com/stocks/rddt/" }
+    ]
+  },
+  {
+    "slug": "clustrix",
+    "summary": {
+      "en": "A scale-out relational database engineered as a drop-in MySQL replacement for high-volume cloud and data-center workloads.",
+      "zh": "可橫向擴展的關聯式資料庫，作為 MySQL 的直接替代方案，鎖定雲端與資料中心的高流量工作負載。"
+    },
+    "highlight": {
+      "en": "Backed by Sequoia and Y Combinator, ClustrixDB powered massive transactional workloads for customers like AOL, Nielsen, and Rakuten. The distributed database technology was acquired by MariaDB Corporation in September 2018.",
+      "zh": "獲 Sequoia 與 Y Combinator 投資，ClustrixDB 為 AOL、Nielsen、Rakuten 等客戶支撐巨量交易工作負載。其分散式資料庫技術於 2018 年 9 月被 MariaDB Corporation 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by MariaDB in 2018; backed by Sequoia, USVP, ATA Ventures",
+      "zh": "2018 年被 MariaDB 收購；投資人含 Sequoia、USVP、ATA Ventures"
+    },
+    "founders": "Paul Mikesell, Sergei Tsarev",
+    "sources": [
+      { "title": "MariaDB Acquires Clustrix - TechCrunch", "url": "https://techcrunch.com/2018/09/20/mariadb-acquires-clusterix/" }
+    ]
+  },
+  {
+    "slug": "scribd",
+    "summary": {
+      "en": "A subscription digital library offering unlimited access to ebooks, audiobooks, magazines, and documents for one flat price.",
+      "zh": "訂閱制數位圖書館，以單一定價提供電子書、有聲書、雜誌與文件的無限存取。"
+    },
+    "highlight": {
+      "en": "A 2006 YC company that grew into one of the largest digital reading subscriptions, later splitting into Everand, Scribd, and SlideShare. It has raised over $100M and reported roughly $167M in annual revenue as of 2024.",
+      "zh": "Scribd 是 2006 年的 YC 公司，發展成最大的數位閱讀訂閱服務之一，後拆分為 Everand、Scribd 與 SlideShare。累計募資逾 1 億美元，截至 2024 年年營收約 1.67 億美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised over $100M; ~$167M annual revenue (2024 est.)",
+      "zh": "募資逾 1 億美元；年營收約 1.67 億美元（2024 年估計）"
+    },
+    "founders": "Trip Adler, Jared Friedman, Tikhon Bernstam",
+    "sources": [
+      { "title": "Scribd - Wikipedia", "url": "https://en.wikipedia.org/wiki/Scribd" }
+    ]
+  },
+  {
+    "slug": "omgpop",
+    "summary": {
+      "en": "A New York social game studio behind viral mobile and Facebook titles, most famously the drawing game Draw Something.",
+      "zh": "紐約的社群遊戲工作室，打造爆紅的行動與 Facebook 遊戲，最知名的是繪圖遊戲 Draw Something。"
+    },
+    "highlight": {
+      "en": "After Draw Something exploded to over 10 million daily active users, OMGPop was acquired by Zynga in March 2012 for $180 million (plus retention payments). The deal quickly soured, with Zynga taking a $95.5M impairment charge the same year.",
+      "zh": "在 Draw Something 爆紅、單日活躍用戶突破千萬後，OMGPop 於 2012 年 3 月被 Zynga 以 1.8 億美元（外加留任獎金）收購。這筆交易很快變調，Zynga 同年認列 9,550 萬美元的減損。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Zynga in 2012 for $180M (plus retention)",
+      "zh": "2012 年被 Zynga 以 1.8 億美元收購（外加留任獎金）"
+    },
+    "founders": "Charles Forman, Dan Porter",
+    "sources": [
+      { "title": "OMGPop - Wikipedia", "url": "https://en.wikipedia.org/wiki/OMGPop" }
+    ]
+  },
+  {
+    "slug": "twitch",
+    "summary": {
+      "en": "The world's leading live-streaming platform for gamers, where millions broadcast, watch, and chat about gameplay.",
+      "zh": "全球領先的遊戲直播平台，數百萬人在此直播、觀看並聊天討論遊戲內容。"
+    },
+    "highlight": {
+      "en": "Spun out of YC company Justin.tv, Twitch became the defining home of live game streaming. Amazon acquired it in August 2014 for $970 million in cash, the largest acquisition in Amazon's history at the time.",
+      "zh": "Twitch 由 YC 公司 Justin.tv 分拆而來，成為遊戲直播的代名詞與大本營。Amazon 於 2014 年 8 月以 9.7 億美元現金收購，是當時 Amazon 史上最大的併購案。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Amazon in 2014 for $970M cash",
+      "zh": "2014 年被 Amazon 以 9.7 億美元現金收購"
+    },
+    "founders": "Justin Kan, Emmett Shear, Kevin Lin, Michael Seibel",
+    "sources": [
+      { "title": "It's Official: Amazon Acquires Twitch for $970 Million - Variety", "url": "https://variety.com/2014/digital/news/amazon-joins-google-in-twitch-acquisition-rumblings-1201289844/" }
+    ]
+  },
+  {
+    "slug": "weebly",
+    "summary": {
+      "en": "An easy-to-use website builder and e-commerce platform letting people and small businesses create sites with no code.",
+      "zh": "簡單易用的網站建置與電商平台，讓個人和小型企業無需寫程式即可架站。"
+    },
+    "highlight": {
+      "en": "A 2007 YC company that grew to over 20 million sites and 625,000+ paid subscribers. Square (now Block) acquired Weebly in 2018 for roughly $365 million in cash and stock to extend its merchant ecosystem online.",
+      "zh": "Weebly 是 2007 年的 YC 公司，發展到逾 2,000 萬個網站與超過 62.5 萬名付費訂閱者。Square（現為 Block）於 2018 年以約 3.65 億美元現金加股票收購 Weebly，把商家生態系延伸到線上。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Square (Block) in 2018 for ~$365M; raised ~$36M",
+      "zh": "2018 年被 Square（Block）以約 3.65 億美元收購；累計募資約 3,600 萬美元"
+    },
+    "founders": "David Rusenko, Chris Fanini, Dan Veltri",
+    "sources": [
+      { "title": "Square is acquiring website builder Weebly for $365M - TechCrunch", "url": "https://techcrunch.com/2018/04/26/square-acquires-weebly/" }
+    ]
+  },
+  {
+    "slug": "dropbox",
+    "summary": {
+      "en": "A cloud storage and collaboration service that keeps files synced and shareable across devices and teams.",
+      "zh": "雲端儲存與協作服務，讓檔案在各裝置與團隊間保持同步並便於分享。"
+    },
+    "highlight": {
+      "en": "One of YC's landmark consumer-to-enterprise successes, founded by Drew Houston and Arash Ferdowsi in 2007. Dropbox IPO'd on Nasdaq in 2018 and remains a public company with a market cap of several billion dollars.",
+      "zh": "Dropbox 是 YC 從消費級走向企業級的標誌性成功案例，由 Drew Houston 與 Arash Ferdowsi 於 2007 年創立。公司於 2018 年在那斯達克上市，至今仍為市值數十億美元的上市公司。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Public on Nasdaq (DBX) since 2018; market cap ~$6B",
+      "zh": "2018 年於那斯達克上市（代號 DBX）；市值約 60 億美元"
+    },
+    "founders": "Drew Houston, Arash Ferdowsi",
+    "sources": [
+      { "title": "Dropbox (DBX) - Market capitalization - CompaniesMarketCap", "url": "https://companiesmarketcap.com/dropbox/marketcap/" }
+    ]
+  },
+  {
+    "slug": "machine-zone",
+    "summary": {
+      "en": "A mobile game studio behind blockbuster free-to-play strategy titles like Game of War: Fire Age and Mobile Strike.",
+      "zh": "行動遊戲工作室，打造《Game of War: Fire Age》與《Mobile Strike》等暢銷免費策略遊戲。"
+    },
+    "highlight": {
+      "en": "Famous for big-budget Super Bowl ads and top-grossing strategy games, Machine Zone (MZ) was once a poster child for mobile gaming revenue. AppLovin acquired the company in 2020 for a reported $500-600 million.",
+      "zh": "Machine Zone（MZ）以高預算超級盃廣告與高營收策略遊戲聞名，曾是手機遊戲營收的代表。AppLovin 於 2020 年以據報 5 至 6 億美元收購該公司。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by AppLovin in 2020 (reported ~$500-600M)",
+      "zh": "2020 年被 AppLovin 收購（據報約 5 至 6 億美元）"
+    },
+    "founders": "Gabriel Leydon, Michael Sherrill, Halbert Nakagawa",
+    "sources": [
+      { "title": "Machine Zone - Wikipedia", "url": "https://en.wikipedia.org/wiki/Machine_Zone" }
+    ]
+  },
+  {
+    "slug": "heroku",
+    "summary": {
+      "en": "A pioneering platform-as-a-service that lets developers build, deploy, and run apps in the cloud without managing servers.",
+      "zh": "開創性的平台即服務（PaaS），讓開發者無需管理伺服器即可在雲端建置、部署與運行應用程式。"
+    },
+    "highlight": {
+      "en": "A 2008 YC company that helped define modern PaaS and the developer-friendly cloud deployment workflow. Salesforce acquired Heroku in December 2010 for $212 million in cash, despite Heroku having raised only about $13M.",
+      "zh": "Heroku 是 2008 年的 YC 公司，協助定義了現代 PaaS 與對開發者友善的雲端部署流程。Salesforce 於 2010 年 12 月以 2.12 億美元現金收購 Heroku，而 Heroku 此前僅募資約 1,300 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Salesforce in 2010 for $212M cash; raised ~$13M",
+      "zh": "2010 年被 Salesforce 以 2.12 億美元現金收購；累計募資約 1,300 萬美元"
+    },
+    "founders": "James Lindenbaum, Adam Wiggins, Orion Henry",
+    "sources": [
+      { "title": "Salesforce.com Buys Heroku For $212 Million In Cash - TechCrunch", "url": "https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/" }
+    ]
+  },
+  {
+    "slug": "a-thinking-ape",
+    "summary": {
+      "en": "A Vancouver studio building mobile free-to-play games with massive online social communities at their core.",
+      "zh": "溫哥華的遊戲工作室，打造以龐大線上社群為核心的行動免費遊戲。"
+    },
+    "highlight": {
+      "en": "A 2008 YC company and one of Canada's top small/medium employers, known for socially driven mobile games. Embracer Group, via its DECA Games subsidiary, acquired A Thinking Ape in 2020-2021 for an initial ~$28 million plus earnouts.",
+      "zh": "A Thinking Ape 是 2008 年的 YC 公司，也是加拿大頂尖的中小型雇主之一，以社群驅動的行動遊戲聞名。Embracer Group 透過旗下 DECA Games 子公司，於 2020 至 2021 年以初始約 2,800 萬美元加業績獎金收購該公司。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Embracer Group (DECA Games) in 2020-21 (~$28M plus earnout)",
+      "zh": "2020 至 2021 年被 Embracer Group（DECA Games）收購（約 2,800 萬美元加業績獎金）"
+    },
+    "founders": "Kenshi Arasaki, Wilkins Chung",
+    "sources": [
+      { "title": "Embracer Group acquires A Thinking Ape Entertainment", "url": "https://www.embracer.com/releases/embracer-group-acquires-a-thinking-ape-entertainment/" }
+    ]
+  },
+  {
+    "slug": "cloudant",
+    "summary": {
+      "en": "A distributed NoSQL database-as-a-service that lets web and mobile developers scale data globally without managing servers.",
+      "zh": "分散式 NoSQL 資料庫即服務，讓網頁與行動開發者無需管理伺服器即可全球擴展資料。"
+    },
+    "highlight": {
+      "en": "Founded in 2008 by three MIT physicists who had wrangled petabyte data sets from the Large Hadron Collider, Cloudant built a globally distributed layer atop Apache CouchDB. IBM acquired the company in 2014, folding it into IBM Cloud.",
+      "zh": "Cloudant 由三位曾處理大型強子對撞機 PB 級資料集的 MIT 物理學家於 2008 年創立，在 Apache CouchDB 之上打造全球分散式資料層。IBM 於 2014 年收購該公司，並併入 IBM Cloud。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by IBM in 2014",
+      "zh": "2014 年被 IBM 收購"
+    },
+    "founders": "Alan Hoffman, Adam Kocoloski, Michael Miller",
+    "sources": [
+      { "title": "IBM Doubles Down On Cloud Services With Cloudant Acquisition - TechCrunch", "url": "https://techcrunch.com/2014/02/24/ibm-doubles-down-on-cloud-services-with-cloudant-acquisition/" }
+    ]
+  },
+  {
+    "slug": "airbnb",
+    "summary": {
+      "en": "A global marketplace where people list, discover, and book unique accommodations and experiences in homes worldwide.",
+      "zh": "全球市集平台，讓人們刊登、探索並預訂世界各地獨特的住宿與體驗。"
+    },
+    "highlight": {
+      "en": "Perhaps YC's most celebrated unicorn, founded by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk, Airbnb reshaped global travel. Its December 2020 IPO vaulted it past a $100 billion valuation, and it remains a public company with a market cap around $80 billion.",
+      "zh": "Airbnb 或許是 YC 最受推崇的獨角獸，由 Brian Chesky、Joe Gebbia 與 Nathan Blecharczyk 創立，重塑了全球旅遊。2020 年 12 月上市時市值一舉突破 1,000 億美元，至今仍為市值約 800 億美元的上市公司。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Public on Nasdaq (ABNB) since 2020; market cap ~$80B",
+      "zh": "2020 年於那斯達克上市（代號 ABNB）；市值約 800 億美元"
+    },
+    "founders": "Brian Chesky, Joe Gebbia, Nathan Blecharczyk",
+    "sources": [
+      { "title": "Airbnb IPO and valuation - Fortune", "url": "https://fortune.com/2025/11/10/brian-chesky-airbnb-ipo-saddest-period-of-life-barack-obama-advice/" }
+    ]
+  }
+]

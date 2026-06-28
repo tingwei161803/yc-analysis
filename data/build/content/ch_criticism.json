@@ -1,0 +1,54 @@
+{
+  "id": "criticism",
+  "icon": "balance",
+  "title": { "en": "Criticisms & Debates", "zh": "批評與爭論" },
+  "lede": {
+    "en": "The world's most famous accelerator is also its most argued-over: every strength critics attack — scale, standardization, brand — is exactly what made it work.",
+    "zh": "全球最知名的加速器,同時也是最受爭議的:批評者攻擊的每一項優勢——規模、標準化、品牌——恰恰正是它得以奏效的原因。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "Scale vs. Dilution: Has the Batch Gotten Too Big?", "zh": "規模與稀釋:梯次是否變得太大?" },
+      "paragraphs": {
+        "en": [
+          "The most persistent fair criticism is arithmetic. YC's batches grew from 46 startups in Winter 2013 to more than 400 in Winter 2022 — its largest cohort ever — before the firm cut Summer 2022 by roughly 40% (from 414 to about 250 companies), citing the funding downturn. In 2024 it restructured again, moving from two batches a year to four and halving each cohort to around 125. Critics, and even YC's own limited partners, ask the obvious question: at that volume, is the brand still a mark of selection, or just a mark of attendance? The complaint that bigness 'waters down' the signal — making it harder for any single founder to stand out at Demo Day in front of a fatigued investor audience — is a recurring, almost cliché, conversation in Silicon Valley.",
+          "The defense is that the funnel, not the batch, defines selectivity. YC still rejects the overwhelming majority of applicants (an acceptance rate often cited near 1%), and partners like Garry Tan argue the quality of selected companies has held or improved even as raw numbers rose — pointing to a unicorn rate (roughly 4.5–5.5% of funded companies) well above the industry norm. Both things can be true: YC can admit far more startups than any rival and still maintain a higher hit rate than the market, because it is filtering from a vastly larger and self-selected applicant pool. The honest tension is that scale optimizes for YC's portfolio returns — where a handful of outliers pay for everything — more cleanly than it optimizes for the median founder's experience inside an ever-larger room."
+        ],
+        "zh": [
+          "最持久的合理批評,是一道算術題。YC 的梯次規模從 2013 年冬季班的 46 家新創,成長到 2022 年冬季班的逾 400 家——史上最大一屆——隨後該機構以募資寒冬為由,將 2022 年夏季班削減約 40%(從 414 家降到約 250 家)。2024 年它再度重組,從一年兩梯改為四梯,並把每一梯減半至約 125 家。批評者、甚至 YC 自家的有限合夥人(LP)都會問出那個明顯的問題:在這樣的數量下,這個品牌究竟還是「篩選」的標記,還是只剩「出席」的標記?關於規模龐大「稀釋」了訊號——讓任何單一創辦人更難在 Demo Day 上、在疲乏的投資人聽眾面前脫穎而出——的抱怨,是矽谷反覆出現、近乎陳腔濫調的話題。",
+          "辯護的一方則認為:定義篩選嚴格度的是漏斗,而非梯次規模。YC 仍然拒絕了絕大多數申請者(常被引用的錄取率接近 1%),而像 Garry Tan 這樣的合夥人主張,即使原始數量上升,入選公司的品質仍維持甚至提升——並以遠高於業界常態的獨角獸比例(約占獲投公司的 4.5–5.5%)為證。這兩件事可以同時成立:YC 能比任何對手錄取多得多的新創,同時仍維持高於市場的命中率,因為它是從一個大得多、且經過自我篩選的申請池中過濾。誠實的張力在於:規模對 YC 投資組合報酬的最佳化——少數異常值便能支撐整體——比它對「身處愈來愈大房間裡的中位數創辦人體驗」的最佳化來得更乾淨俐落。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The Standard Deal and the Power Imbalance Debate", "zh": "標準條款與權力失衡之辯" },
+      "paragraphs": {
+        "en": [
+          "In January 2022 YC overhauled its 'standard deal': $125,000 for 7% on a post-money SAFE, plus an additional $375,000 on an uncapped SAFE carrying a Most Favored Nation (MFN) clause — meaning that second tranche automatically converts at the most favorable terms of any SAFE the company issues before its next priced round. Critics, especially angels and smaller seed funds, argued this was YC leveraging its dominance: the MFN provision lets YC capture the best terms anyone else negotiates without doing the negotiating, which some framed as effectively crowding value-added early investors out of the cap table. Founders, the argument goes, may also be disincentivized from accepting small but useful angel checks, and risk over-dilution when a priced lead's ownership target stacks on top of YC's position.",
+          "The counterargument is that a non-negotiable standard deal is a feature, not a bug — it spares first-time founders from negotiating against a far more sophisticated counterparty, and the extra $375,000 is real, founder-friendly runway that reduces the pressure to raise on bad terms right after Demo Day. The MFN, in YC's framing, simply declines to be a sucker: it ensures YC isn't paying a worse price than the angels who follow it in. Whether that is fair leverage or unfair leverage depends largely on where you sit. To a founder it can read as a clean, take-it-or-leave-it term sheet from a brand that adds genuine value; to a competing seed investor it can read as a gatekeeper using its position to write its own terms into rounds it didn't lead."
+        ],
+        "zh": [
+          "2022 年 1 月,YC 翻修了它的「標準條款」:以後估值 SAFE 投入 12.5 萬美元換取 7% 股權,另外再以一張帶有「最惠國」(MFN)條款的無上限 SAFE 投入 37.5 萬美元——意即這第二筆會自動以該公司在下一輪定價募資前所發行的任何 SAFE 中最優惠的條件轉換。批評者——尤其是天使投資人與較小型的種子基金——認為這是 YC 運用其主導地位:MFN 條款讓 YC 不必親自談判,就能取得他人談下的最優條件,有人形容這實質上把能帶來附加價值的早期投資人擠出了股權結構表。論者還說,創辦人也可能因此失去接受小額但有用的天使支票的誘因,並在定價領投者的持股目標疊加在 YC 部位之上時,面臨過度稀釋的風險。",
+          "反方論點則認為,一份不可議價的標準條款是優點而非缺陷——它讓首次創業者免於與遠為老練的對手談判,而多出的 37.5 萬美元是實打實、對創辦人友善的營運資金,降低了在 Demo Day 後立刻被迫以差條件募資的壓力。在 YC 的詮釋裡,MFN 只是拒絕當冤大頭:它確保 YC 不會付出比在它之後進場的天使更差的價格。這究竟是公平的籌碼還是不公平的籌碼,很大程度取決於你站在哪一邊。對創辦人而言,它可能讀來像是一份來自真正帶來價值之品牌的、乾淨俐落、要不要隨你的投資條件書;對競爭的種子投資人而言,它可能讀來像是一個守門人正利用自身地位,把自己的條件寫進它並未領投的輪次裡。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Hype, Herding, and the Series A 'Guarantee' That Never Was", "zh": "炒作、羊群效應,以及那從不存在的 A 輪「保證」" },
+      "paragraphs": {
+        "en": [
+          "Two related critiques target YC's culture rather than its cap table. The first is herding: when YC publishes 'Requests for Startups' and tilts hard toward a theme — AI now dominates, with the majority of recent cohorts being AI-focused — batches can fill with derivative bets chasing the same clogged markets, and outlets like Fast Company have framed this as an 'identity crisis' or 'spray and pray' at scale. Garry Tan has explicitly rejected the spray-and-pray label, but the structural reality is that funding a thousand companies a year and concentrating them on a hot theme will, by construction, produce visible clusters of near-identical startups and the occasional public copycat dispute between two companies in the same batch.",
+          "The second is the myth of the guaranteed Series A. YC's strongest signal — that its imprimatur makes the next round easier — is real but conditional: roughly 45% of YC companies reach a Series A versus a market baseline closer to a third, which is a meaningful edge and not a promise. In tougher markets the gap narrows in absolute terms; by early 2025 investors were noting a 'vibe shift,' with YC founders raising smaller rounds and the brand alone no longer clearing the bar. The accurate read is that YC compresses timelines, lifts valuations, and opens doors — but it cannot manufacture product-market fit, and a founder who treats the badge as the finish line rather than the starting gun typically leaves with little more than the check."
+        ],
+        "zh": [
+          "另有兩項相關批評,瞄準的是 YC 的文化而非其股權結構表。第一是羊群效應:當 YC 發布「Requests for Startups」並大幅倒向某一主題時——如今 AI 主導一切,近幾屆梯次多數以 AI 為核心——梯次可能塞滿追逐同一個已壅塞市場的衍生性賭注,《Fast Company》等媒體更將此形容為「身分危機」或大規模的「亂槍打鳥」。Garry Tan 已明確否認「亂槍打鳥」這個標籤,但結構性的現實是:一年投資上千家公司、並把它們集中在一個熱門主題上,從設計上就必然會產生一群群幾乎雷同的新創,以及偶爾發生在同一梯次兩家公司之間的公開抄襲爭議。",
+          "第二是「保證拿到 A 輪」的迷思。YC 最強的訊號——它的背書讓下一輪更容易——確實存在,但有條件:約 45% 的 YC 公司能走到 A 輪,而市場基準較接近三分之一,這是有意義的優勢,卻不是承諾。在較艱困的市場裡,這道差距在絕對值上會縮小;到 2025 年初,投資人已注意到一種「氛圍轉變」,YC 創辦人募的輪次變小,單憑品牌已不再足以跨過門檻。準確的解讀是:YC 能壓縮時間軸、抬高估值、為你打開門——但它無法製造產品市場契合度;把這枚徽章當成終點線而非起跑槍的創辦人,通常離開時手上不過多了那張支票而已。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "Most criticisms of YC are not refutations of its model but descriptions of its trade-offs: a portfolio engine tuned for outlier returns will rationally over-admit, standardize ruthlessly, and ride hype waves, because those behaviors are optimal for the fund even when they are merely tolerable for the median founder. The sharpest question is therefore not 'has YC gotten worse,' but 'whose interests is its scale optimizing for' — and the honest answer is the portfolio's, with the founder's experience as a usually-aligned but occasionally-sacrificed second priority.",
+    "zh": "對 YC 的多數批評,並非對其模式的駁斥,而是對其取捨的描述:一台為了異常值報酬而調校的投資組合引擎,理性上就會過度錄取、無情標準化、並乘著炒作浪潮前行,因為即使這些行為對中位數創辦人只是勉強可接受,對基金而言卻是最佳解。因此最尖銳的問題不是「YC 是否變差了」,而是「它的規模究竟在為誰的利益最佳化」——而誠實的答案是:為投資組合;創辦人的體驗則是一個通常一致、但偶爾會被犧牲的次要優先項。"
+  }
+}

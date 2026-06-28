@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "envariant",
+    "summary": {
+      "en": "Interpretability and reasoning infrastructure for foundation models.",
+      "zh": "為基礎模型打造的可解釋性與推理基礎設施。"
+    },
+    "highlight": {
+      "en": "Envariant offers an AI interpretability and reasoning SDK that lets foundation model builders analyze, steer, and control their models' behaviors.",
+      "zh": "Envariant 提供 AI 可解釋性與推理 SDK，讓基礎模型開發者能分析、引導並控制模型的行為。"
+    }
+  },
+  {
+    "slug": "sparkles",
+    "summary": {
+      "en": "Lets anyone on a team make code changes without knowing Git.",
+      "zh": "讓團隊中任何人都能在不懂 Git 的情況下修改程式碼。"
+    },
+    "highlight": {
+      "en": "Like Lovable for existing repos: a technical person connects GitHub once, then any teammate with a company email can create pull requests without touching Git.",
+      "zh": "如同針對既有專案的 Lovable：技術人員只需連結 GitHub 一次，之後任何擁有公司信箱的同事都能在不碰 Git 的情況下建立 pull request。"
+    }
+  },
+  {
+    "slug": "rhizome-ai",
+    "summary": {
+      "en": "Agent platform for life sciences, starting with FDA regulatory research.",
+      "zh": "為生命科學打造的代理平台，從 FDA 法規研究切入。"
+    },
+    "highlight": {
+      "en": "Its research agent answers regulatory questions with citations from up to 1,000 documents, powered by a retrieval engine tuned on life-science data.",
+      "zh": "其研究代理能以最多 1,000 份文件中擷取的引用來回答法規問題，背後是針對生命科學資料調校的檢索引擎。"
+    }
+  },
+  {
+    "slug": "traverse",
+    "summary": {
+      "en": "Research lab tackling non-verifiable work.",
+      "zh": "專注於解決「不可驗證工作」的研究實驗室。"
+    },
+    "highlight": {
+      "en": "Traverse is a research lab focused on the hard problem of non-verifiable work, where outputs cannot be checked against a clear ground truth.",
+      "zh": "Traverse 是一間研究實驗室，專注於「不可驗證工作」這個難題，這類工作的產出無法對照明確的正確答案加以驗證。"
+    }
+  },
+  {
+    "slug": "usereframe",
+    "summary": {
+      "en": "AI-native marketplace for procuring hardware components.",
+      "zh": "AI 原生的硬體零組件採購市集。"
+    },
+    "highlight": {
+      "en": "Reframe lets hardware teams procure both off-the-shelf and custom-made components from trusted suppliers, using agents to automate procurement end-to-end.",
+      "zh": "Reframe 讓硬體團隊能透過受信任的供應商採購現成與客製化製造的零組件，並以代理端到端自動化整個採購流程。"
+    }
+  },
+  {
+    "slug": "inventoryquant",
+    "summary": {
+      "en": "Automates inventory and contents processing for the insurance industry.",
+      "zh": "為保險產業自動化盤點與物品清單處理流程。"
+    },
+    "highlight": {
+      "en": "Targets the inventory and estimate workflows of insurers, public adjusters, and restoration contractors that today consume billions of dollars annually.",
+      "zh": "鎖定保險公司、公共理算師與災後復原承包商耗費龐大的盤點與估價流程，這些工作目前每年耗費數十億美元與數千人年工時。"
+    }
+  },
+  {
+    "slug": "rubric-ai",
+    "summary": {
+      "en": "Reasoning and verification infrastructure for AI systems.",
+      "zh": "為 AI 系統打造的推理與驗證基礎設施。"
+    },
+    "highlight": {
+      "en": "Rubric AI builds the human and computational layer that turns expert judgment into training signals for high-stakes AI systems.",
+      "zh": "Rubric AI 打造的人力與運算層，能將專家判斷轉化為高風險 AI 系統的訓練訊號。"
+    }
+  },
+  {
+    "slug": "daivin",
+    "summary": {
+      "en": "Tankless dive gear delivering breath autonomy in extreme environments.",
+      "zh": "無氣瓶潛水裝備，在極端環境中提供呼吸自主能力。"
+    },
+    "highlight": {
+      "en": "Starting underwater, DAIVIN! aims to replace heavy, bulky oxygen tanks across sea, air, and space with gear that draws breathable supply from water itself.",
+      "zh": "DAIVIN! 從水下環境出發，目標是在海、空、太空中以可從水本身取得呼吸來源的裝備，取代笨重龐大的氧氣瓶。"
+    }
+  },
+  {
+    "slug": "aurorin-cad",
+    "summary": {
+      "en": "AI-native CAD software built from the ground up for mechanical engineers.",
+      "zh": "為機械工程師從頭打造的 AI 原生 CAD 軟體。"
+    },
+    "highlight": {
+      "en": "Aurorin replaces the 1980s-era kernels behind tools like SolidWorks and Fusion 360 with a custom parametric, B-Rep kernel built for modern CPUs, GPUs, and AI.",
+      "zh": "Aurorin 以專為現代 CPU、GPU 與 AI 打造的客製化參數化 B-Rep 核心，取代 SolidWorks、Fusion 360 等工具背後 1980 年代的舊核心。"
+    }
+  },
+  {
+    "slug": "openspec",
+    "summary": {
+      "en": "Open-source, spec-driven framework for planning complex features with coding agents.",
+      "zh": "開源、以規格驅動的框架，協助以程式碼代理規劃複雜功能。"
+    },
+    "highlight": {
+      "en": "With 20k+ GitHub stars, OpenSpec creates lightweight spec documents that serve as durable context for any coding agent, keeping planning iterative.",
+      "zh": "OpenSpec 擁有超過 2 萬個 GitHub star，能建立輕量的規格文件作為任何程式碼代理的持久脈絡，讓規劃保持迭代而非官僚化。"
+    }
+  },
+  {
+    "slug": "eigenpal",
+    "summary": {
+      "en": "AI document workflow automation for enterprises.",
+      "zh": "為企業打造的 AI 文件工作流程自動化。"
+    },
+    "highlight": {
+      "en": "EigenPal automates processing of KYC docs, invoices, claims, contracts, and more, handling messy scans and handwritten forms, with on-prem or cloud deployment.",
+      "zh": "EigenPal 自動化處理 KYC 文件、發票、理賠、合約等，能處理雜亂的掃描檔與手寫表單，並支援地端或雲端部署。"
+    }
+  },
+  {
+    "slug": "voygr",
+    "summary": {
+      "en": "Real-world place intelligence API for AI apps and agents.",
+      "zh": "為 AI 應用與代理打造的真實世界地點情報 API。"
+    },
+    "highlight": {
+      "en": "VOYGR pairs accurate place data with fresh web context like news and events, expanding the usual 10-15 map attributes into queryable profiles agents reason on.",
+      "zh": "VOYGR 將精準的地點資料與新聞、活動等即時網路脈絡結合，把地圖常見的 10 到 15 個屬性擴展為可查詢的無限地點檔案，供代理進行推理。"
+    }
+  },
+  {
+    "slug": "remix-3",
+    "summary": {
+      "en": "Auto-generates social media content from your existing data.",
+      "zh": "從你既有的資料自動生成社群媒體內容。"
+    },
+    "highlight": {
+      "en": "Drop in photos, voice notes, or messages, and Remix uses hundreds of parallel AI agents to produce articles, tweets, and short-form video in your style.",
+      "zh": "連結帳號並丟入照片、語音筆記或訊息，Remix 便以數百個平行運作的 AI 代理，依你的風格產出文章、推文、輪播圖與短影音。"
+    }
+  },
+  {
+    "slug": "trycardinal-ai",
+    "summary": {
+      "en": "AI platform for precision outbound sales.",
+      "zh": "為精準外拓銷售打造的 AI 平台。"
+    },
+    "highlight": {
+      "en": "Cardinal's agents replace the 10+ tools and GTM-engineer work behind precise outbound, and already run outbound for 40+ YC companies like Mintlify.",
+      "zh": "Cardinal 的代理取代精準外拓背後超過 10 種工具與 GTM 工程師的工作，目前已為 Mintlify、Greptile 等 40 多家 YC 公司執行外拓。"
+    }
+  },
+  {
+    "slug": "9-mothers-corporation",
+    "summary": {
+      "en": "Builds low-cost, autonomous-capable counter-drone defense systems.",
+      "zh": "打造低成本、具自主能力的反無人機防禦系統。"
+    },
+    "highlight": {
+      "en": "Its first product, EDDA, is a small, low-power counter-drone system for vehicles or bases that stops group 1 suicide drones; it reports $1.6M in defense sales.",
+      "zh": "其首款產品 EDDA 是一套小巧、低功耗的反無人機系統，可用於車輛或基地以攔截 group 1 自殺式無人機；公司表示已對國防客戶售出 160 萬美元。"
+    }
+  },
+  {
+    "slug": "ploy",
+    "summary": {
+      "en": "Turns your website into your company's growth engine.",
+      "zh": "把你的網站變成公司的成長引擎。"
+    },
+    "highlight": {
+      "en": "Ploy focuses on converting a company's existing website into an active driver of growth rather than a static brochure.",
+      "zh": "Ploy 專注於把公司既有的網站從靜態型錄轉變為主動驅動成長的引擎。"
+    }
+  },
+  {
+    "slug": "complir",
+    "summary": {
+      "en": "AI-powered product compliance platform for retailers — a Vanta for physical products.",
+      "zh": "AI 驅動的產品合規平台，是實體產品版的 Vanta。"
+    },
+    "highlight": {
+      "en": "Complir's AI agents handle the regulations and documentation needed to launch physical products across borders, keeping an entire catalogue audit-ready.",
+      "zh": "Complir 的 AI 代理處理跨境推出與擴展實體產品所需的法規與文件，讓整個產品目錄隨時保持可稽核狀態。"
+    }
+  },
+  {
+    "slug": "tolmo",
+    "summary": {
+      "en": "AI security platform that secures code, CI, and cloud applications.",
+      "zh": "保護程式碼、CI 與雲端應用的 AI 安全平台。"
+    },
+    "highlight": {
+      "en": "Tolmo deploys fleets of AI security agents on a live production knowledge graph to triage, verify, and remediate issues autonomously, escalating only as needed.",
+      "zh": "Tolmo 在即時的正式環境知識圖譜上部署成群的 AI 安全代理，自主分流、驗證影響並修復問題，只在必要時才升級給人類處理。"
+    }
+  },
+  {
+    "slug": "sazabi",
+    "summary": {
+      "en": "AI-native observability platform for fast-moving engineering teams.",
+      "zh": "為快速迭代的工程團隊打造的 AI 原生可觀測性平台。"
+    },
+    "highlight": {
+      "en": "Sazabi is an AI-native observability platform backed by operators from top AI companies including Vercel, LangChain, and Replit.",
+      "zh": "Sazabi 是一套 AI 原生的可觀測性平台，獲得來自 Vercel、LangChain、Replit 等頂尖 AI 公司的營運者支持。"
+    }
+  },
+  {
+    "slug": "hub",
+    "summary": {
+      "en": "Distributed real-world training data infrastructure for AI labs and robotics.",
+      "zh": "為 AI 實驗室與機器人打造的分散式真實世界訓練資料基礎設施。"
+    },
+    "highlight": {
+      "en": "Through HubApp, a network across 150+ countries sources high-fidelity data that can't be found on the public web or synthesized, via a human-validated pipeline.",
+      "zh": "透過 HubApp，橫跨 150 多國的網路蒐集無法在公開網路取得或合成的高保真資料，並經由自動化、人工驗證的流程交付。"
+    }
+  },
+  {
+    "slug": "synphony",
+    "summary": {
+      "en": "Strawberry-picking robots and software services for farms.",
+      "zh": "為農場打造採草莓機器人與軟體服務。"
+    },
+    "highlight": {
+      "en": "Targeting California's $3B strawberry industry, where labor is 60% of cost, Synphony pairs picking robots with bed-level analytics and agentic solutions.",
+      "zh": "Synphony 鎖定加州價值 30 億美元、勞動成本占比達 60% 且仰賴 40 年老舊軟體的草莓產業，結合採摘機器人、畦面分析與代理式解決方案。"
+    }
+  },
+  {
+    "slug": "playablai",
+    "summary": {
+      "en": "A TikTok for user-generated games where anyone can play, create, and monetize.",
+      "zh": "使用者生成遊戲版的 TikTok，任何人都能遊玩、創作並變現。"
+    },
+    "highlight": {
+      "en": "Three weeks after going public, Playabl reported 4M unique plays across 15k user-built games, 40k DAU, and 300k WAU.",
+      "zh": "公開推出三週後，Playabl 表示在 1.5 萬款使用者打造的遊戲上累積了 400 萬次不重複遊玩、4 萬日活躍用戶與 30 萬週活躍用戶。"
+    }
+  },
+  {
+    "slug": "clara-2",
+    "summary": {
+      "en": "AI primary care and longevity practice that can read your medical data and act.",
+      "zh": "能讀取你的醫療資料並採取行動的 AI 基層醫療與長壽診療服務。"
+    },
+    "highlight": {
+      "en": "From the team that grew Circle Medical to $100M revenue, Clara reviews your medical data to refill meds, order labs, and flag trends, with providers approving.",
+      "zh": "由曾將 Circle Medical 營收做到 1 億美元的團隊打造，Clara 能審視你的醫療資料以開立補藥、安排與解讀檢驗並標示趨勢，且由人類醫師核准建議。"
+    }
+  },
+  {
+    "slug": "drafted",
+    "summary": {
+      "en": "AI tool to instantly design your home from sketches and spatial input.",
+      "zh": "從草圖與空間輸入即時設計住宅的 AI 工具。"
+    },
+    "highlight": {
+      "en": "Drafted builds multimodal generative models for residential design, turning sketches and constraints into coherent 2D/3D floor plans exportable to CAD and PDF.",
+      "zh": "Drafted 為住宅建築打造多模態生成模型，把草圖與限制條件轉為連貫的 2D／3D 平面圖與立面圖，並可匯出為 CAD 與 PDF。"
+    }
+  },
+  {
+    "slug": "instaagent",
+    "summary": {
+      "en": "Scales a single marketing campaign across hundreds of audience personas.",
+      "zh": "將單一行銷活動擴展到數百種受眾人物誌。"
+    },
+    "highlight": {
+      "en": "From one brief, InstaAgent makes personalized creatives for hundreds of audiences on Meta and TikTok, then uses performance data to scale the winners.",
+      "zh": "InstaAgent 從一份簡報為 Meta 與 TikTok 上的數百種受眾製作個人化素材，再用成效數據在付費與小眾社群通路上放大表現最好的內容。"
+    }
+  },
+  {
+    "slug": "tasklet-2",
+    "summary": {
+      "en": "AI agent that connects to your tools and actually does the work.",
+      "zh": "能連結你的工具並真正完成工作的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Tasklet takes real actions via thousands of integrations, any HTTP API, or MCP servers, generating UIs, running code in a sandbox, and driving browsers 24/7.",
+      "zh": "Tasklet 透過數千個整合、任何 HTTP API 或 MCP 伺服器採取實際行動，能生成介面、在雲端沙盒執行程式碼並操作真實瀏覽器，全天候在雲端運作。"
+    }
+  },
+  {
+    "slug": "qomplement",
+    "summary": {
+      "en": "Agentic ERP for retail and logistics supply chain operations.",
+      "zh": "為零售與物流供應鏈營運打造的代理式 ERP。"
+    },
+    "highlight": {
+      "en": "qomplement claims to cut 95% of manual work at the same headcount by automating PO intake, vendor onboarding, freight processing, and three-way matching.",
+      "zh": "qomplement 自動化採購單接收、供應商導入、貨運處理與三方比對，宣稱能在人力不變下削減 95% 的手動工作並處理 100 倍的交易量。"
+    }
+  },
+  {
+    "slug": "callab-ai",
+    "summary": {
+      "en": "AI voice agents that connect directly to on-prem telephony systems.",
+      "zh": "可直接連接地端電話系統的 AI 語音代理。"
+    },
+    "highlight": {
+      "en": "Callab connects to legacy PBX systems like Avaya, Cisco UCM, and Mitel to automate up to 70% of call volume with no migration, in the $400B call center market.",
+      "zh": "Callab 直接連接 Avaya、Cisco UCM、Mitel 等舊有 PBX 系統，無需遷移即可自動化高達 70% 的通話量，鎖定 4,000 億美元客服市場中以地端為主的多數客戶。"
+    }
+  },
+  {
+    "slug": "gojiberry-ai",
+    "summary": {
+      "en": "AI go-to-market agents for B2B teams, starting with outbound.",
+      "zh": "為 B2B 團隊打造的 AI 市場開拓代理，從外拓切入。"
+    },
+    "highlight": {
+      "en": "Gojiberry finds buyers showing intent, enriches and reaches out, handles replies, and books meetings, learning from every campaign what converts.",
+      "zh": "Gojiberry 找出展現購買意圖的買家，加以充實並主動接觸、處理回覆並預約合格會議，並從每次活動中學習哪些買家與訊息能成交。"
+    }
+  },
+  {
+    "slug": "minicor",
+    "summary": {
+      "en": "Scalable Windows desktop automation for legacy apps without APIs.",
+      "zh": "為沒有 API 的舊系統打造可擴展的 Windows 桌面自動化。"
+    },
+    "highlight": {
+      "en": "Describe a workflow and get an API endpoint; each call triggers a self-healing desktop automation on a Windows VM, with video replay, logging, and Slack alerts.",
+      "zh": "描述一段工作流程即可取得 API 端點；每次呼叫都會在 Windows 虛擬機上觸發具自我修復能力的桌面自動化，並附帶完整影片重播、細緻日誌與 Slack 警示。"
+    }
+  },
+  {
+    "slug": "projectx",
+    "summary": {
+      "en": "Agent-native cloud workspace for heavy parallel web workflows.",
+      "zh": "為高度平行的網路工作流程打造的代理原生雲端工作空間。"
+    },
+    "highlight": {
+      "en": "ProjectX built InfinityOS, a cloud OS running every app in its own computer with its own GPU and input, so Windows, Linux, humans, and agents run side by side.",
+      "zh": "ProjectX 打造的 InfinityOS 是一套雲端作業系統，讓每個應用在各自擁有 GPU 與輸入的獨立電腦上運行，使 Windows 與 Linux、人類與代理能並行而無並行上限。"
+    }
+  },
+  {
+    "slug": "insforge",
+    "summary": {
+      "en": "Agent-native cloud infrastructure that AI coding agents can operate.",
+      "zh": "AI 程式碼代理可操作的代理原生雲端基礎設施。"
+    },
+    "highlight": {
+      "en": "InsForge is positioned as the agent-native AWS: cloud infrastructure that AI coding agents can understand, operate, and recover from end to end.",
+      "zh": "InsForge 定位為代理原生版的 AWS：一套 AI 程式碼代理能端到端理解、操作並從中復原的雲端基礎設施。"
+    }
+  },
+  {
+    "slug": "finaldose",
+    "summary": {
+      "en": "Programmable DNA drug designed to find and destroy diseased cells.",
+      "zh": "可程式化的 DNA 藥物，設計用於找出並摧毀病變細胞。"
+    },
+    "highlight": {
+      "en": "FinalDose builds one programmable drug molecule that, given a diseased genetic code, searches and destroys cells on DNA recognition to unlock hard targets.",
+      "zh": "FinalDose 正打造一種可程式化的單一藥物分子，輸入任何病變的基因密碼後即可依 DNA 辨識搜尋並摧毀細胞，目標是解鎖今日 80% 無法成藥的標靶，並從各類癌症開始。"
+    }
+  },
+  {
+    "slug": "imperfect",
+    "summary": {
+      "en": "AI coach that personalizes training for athletes with busy lives.",
+      "zh": "為生活忙碌的運動員量身打造訓練的 AI 教練。"
+    },
+    "highlight": {
+      "en": "The Imperfect app pulls your data to build a personalized AI race coach that adapts training, recovery, and nutrition to how your body is actually responding.",
+      "zh": "Imperfect 應用擷取你的數據，打造個人化的 AI 賽事教練，依你身體實際的反應調整訓練、恢復與營養。"
+    }
+  },
+  {
+    "slug": "dayjob",
+    "summary": {
+      "en": "AI scheduling that continuously re-optimizes short-haul truck routes.",
+      "zh": "持續重新最佳化短程卡車路線的 AI 排程。"
+    },
+    "highlight": {
+      "en": "Dayjob's agent plugs into existing ERPs and re-optimizes routes in real time, handling new jobs, driver changes, and exceptions; waste customers see 8%+ gains.",
+      "zh": "Dayjob 的代理接入既有 ERP 並即時重新最佳化路線，處理新工單、駕駛異動與例外狀況；廢棄物管理客戶首日即見 8% 以上的效率提升。"
+    }
+  },
+  {
+    "slug": "trellistech",
+    "summary": {
+      "en": "Agents that run short-term rental operations end-to-end.",
+      "zh": "端到端運營短租物業的代理。"
+    },
+    "highlight": {
+      "en": "Trellis replaces property managers' fragmented stack of guest messages, cleaners, and vendors with agents, reaching $500k ARR across 35 customers, 3k listings.",
+      "zh": "Trellis 以代理取代物業管理者在房客訊息、清潔人員與供應商上的零散工具；兩個月內便在 35 名客戶與 3,000 個房源上達到 50 萬美元年經常性收入。"
+    }
+  },
+  {
+    "slug": "interfaze",
+    "summary": {
+      "en": "AI model built for high-accuracy, deterministic tasks.",
+      "zh": "為高準確度、確定性任務打造的 AI 模型。"
+    },
+    "highlight": {
+      "en": "Interfaze merges specialized DNN/CNN models with transformers for deterministic tasks like document intelligence and object detection, claiming to beat labs.",
+      "zh": "Interfaze 將特化的 DNN／CNN 模型與 transformer 結合，用於文件智能、物件偵測等需要確定性輸出的任務，並宣稱表現勝過 Gemini Flash 與 Claude Sonnet。"
+    }
+  },
+  {
+    "slug": "kimpton-ai",
+    "summary": {
+      "en": "AI-native research platform that turns analysis into structured trades for investors.",
+      "zh": "為投資人把分析轉化為結構化交易的 AI 原生研究平台。"
+    },
+    "highlight": {
+      "en": "Kimpton ingests a fund's mandate, strategy, and positions, then returns a structured trade proposal built to disagree, since consensus poisons investing.",
+      "zh": "Kimpton 吸收基金的授權範圍、策略與持倉，經其框架運算後回傳結構化的交易提案，並刻意設計成會提出異議，因為共識對投資決策有害。"
+    }
+  },
+  {
+    "slug": "bentolabs-ai",
+    "summary": {
+      "en": "Monitoring and learning layer for long-running AI agents.",
+      "zh": "為長時間運行的 AI 代理打造的監控與學習層。"
+    },
+    "highlight": {
+      "en": "BentoLabs detects when agents silently fail or drift from the user's goal, shows affected users and root cause, and suggests the prompt, skill, or harness fix.",
+      "zh": "BentoLabs 偵測代理悄然失敗或偏離使用者目標的情況，呈現受影響的使用者與根本原因，並建議提示、技能或框架的修正，以維持其在正式環境中的可靠度。"
+    }
+  },
+  {
+    "slug": "aseon-labs",
+    "summary": {
+      "en": "Robotic micro-depots that service self-driving car fleets.",
+      "zh": "為自駕車隊提供維護的機器人微型維修站。"
+    },
+    "highlight": {
+      "en": "Aseon Pods bring charging, cleaning, and servicing into operating zones, cutting depot trips and reset cost 50% — tackling the ops layer, 70% of robotaxi cost.",
+      "zh": "Aseon Pods 將充電、清潔與保養直接帶進營運區域，減少往返維修站並將重置成本降低 50%，解決占自駕計程車服務成本 70% 的營運層問題。"
+    }
+  },
+  {
+    "slug": "anoria",
+    "summary": {
+      "en": "A wearable that reads your emotions to help train your EQ.",
+      "zh": "讀取你情緒以協助訓練 EQ 的穿戴裝置。"
+    },
+    "highlight": {
+      "en": "ANORIA builds a device that understands how you feel, tells you why, and suggests what to do, closing the feedback loop on emotions to make EQ trainable.",
+      "zh": "ANORIA 打造的裝置能理解你的感受、告訴你原因並建議該怎麼做，為情緒建立回饋循環，讓情緒智能變得可訓練。"
+    }
+  },
+  {
+    "slug": "testerarmy",
+    "summary": {
+      "en": "AI agent that tests websites and mobile apps to catch bugs before users.",
+      "zh": "在使用者之前抓出 bug 的網站與行動應用測試 AI 代理。"
+    },
+    "highlight": {
+      "en": "Describe tests in plain English and TesterArmy handles login, OAuth, and OTP flows with no scripts, monitoring production on a schedule and running on every PR.",
+      "zh": "用白話描述測試，TesterArmy 便能在無腳本的情況下處理登入、OAuth 與 OTP 流程，依排程監控正式環境並在每次 GitHub PR 上執行，附帶截圖與錄影。"
+    }
+  },
+  {
+    "slug": "arzana",
+    "summary": {
+      "en": "Autonomous ERP that automates back-office work for manufacturers.",
+      "zh": "為製造商自動化後勤工作的自主 ERP。"
+    },
+    "highlight": {
+      "en": "Arzana trains custom models on a factory's history to deploy agents that automate quoting, order entry, and invoicing, saving customers over $1M in staff costs.",
+      "zh": "Arzana 以工廠的歷史資料訓練客製化模型，部署代理自動化報價、訂單建檔與開立發票，表示已為客戶節省超過 100 萬美元的人力成本。"
+    }
+  },
+  {
+    "slug": "manicule",
+    "summary": {
+      "en": "AgentRel agency that gets companies discovered and used by AI agents.",
+      "zh": "讓公司被 AI 代理發現並採用的 AgentRel 代理服務。"
+    },
+    "highlight": {
+      "en": "Manicule is DevRel rebuilt for a world where agents make the decisions, owning developer docs and technical content end-to-end; it reports $53K monthly revenue.",
+      "zh": "Manicule 是為代理做決策的世界重新打造的 DevRel，端到端掌管開發者文件與技術內容；公司表示月營收以每月 100% 成長至 5.3 萬美元，客戶包含 Greptile。"
+    }
+  },
+  {
+    "slug": "intelligence-factory",
+    "summary": {
+      "en": "Building human-like intelligence so robots can reason and act in our world.",
+      "zh": "打造類人智能，讓機器人能在我們的世界中推理與行動。"
+    },
+    "highlight": {
+      "en": "Intelligence Factory trains robots the way humans learn — seeing, doing, feeling — building general intelligence that works on any robot in a human-built world.",
+      "zh": "Intelligence Factory 以人類學習的方式——看、做、感受——訓練機器人，打造可在任何機器人上運作、並能無縫融入為人類打造之世界的通用智能。"
+    }
+  },
+  {
+    "slug": "maquoketa-research",
+    "summary": {
+      "en": "The intelligence layer for drones.",
+      "zh": "為無人機打造的智能層。"
+    },
+    "highlight": {
+      "en": "Maquoketa Research builds the intelligence layer that gives drones the autonomy and decision-making capability beyond their physical hardware.",
+      "zh": "Maquoketa Research 打造的智能層，讓無人機在實體硬體之外具備自主與決策能力。"
+    }
+  },
+  {
+    "slug": "akkari",
+    "summary": {
+      "en": "Autonomous customer operations from first sales call through expansion.",
+      "zh": "從首次銷售通話到擴展的自主客戶營運。"
+    },
+    "highlight": {
+      "en": "Akkari captures every commitment, issue, and request across Slack, calls, email, and Discord, then drives each to resolution; from ex-OrderAhead founders.",
+      "zh": "Akkari 跨 Slack、通話、電子郵件與 Discord 擷取每項承諾、問題與請求，並推動每個循環直至解決；由曾擴展 OrderAhead 與 BLADE 的兩度 YC 創辦人打造。"
+    }
+  },
+  {
+    "slug": "tryprism",
+    "summary": {
+      "en": "AI-native recruiting agency that finds better candidates faster.",
+      "zh": "更快找到更優人選的 AI 原生招募代理服務。"
+    },
+    "highlight": {
+      "en": "Prism uses software and agents to help companies find better people faster than traditional recruiting.",
+      "zh": "Prism 運用軟體與代理，協助企業比傳統招募更快找到更優秀的人才。"
+    }
+  },
+  {
+    "slug": "cignara",
+    "summary": {
+      "en": "AI customer support and sales for Fortune 500-scale enterprises.",
+      "zh": "為財星五百大規模企業打造的 AI 客服與銷售。"
+    },
+    "highlight": {
+      "en": "Cignara automates the full revenue cycle across voice and chat, taking agentic actions inside legacy IT systems to drive revenue, not just CSAT; LG is a client.",
+      "zh": "Cignara 跨語音與聊天自動化完整營收循環，在舊有 IT 系統內採取個人化的代理式行動以主動帶動營收，而不只是提升客戶滿意度；LG 為其客戶。"
+    }
+  },
+  {
+    "slug": "netter",
+    "summary": {
+      "en": "AI-native Palantir for the mid-market to unify and act on company data.",
+      "zh": "為中型市場打造、統整並運用公司資料的 AI 原生版 Palantir。"
+    },
+    "highlight": {
+      "en": "Netter brings data engineering to companies without big teams, connecting siloed tools — centralizing a nursing home's collections or reviving loyalty data.",
+      "zh": "Netter 為缺乏大型團隊的公司帶來資料工程能力，連結各自孤立的格式與工具，例如整合某安養機構的催收流程，或啟用某零售商閒置的會員資料。"
+    }
+  },
+  {
+    "slug": "klarify",
+    "summary": {
+      "en": "AI agent that handles every job a therapist does except the therapy.",
+      "zh": "處理治療師除治療本身外一切工作的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Its AI, Klara, handles clinical notes, treatment plans, letters, insurance claims, supervision prep, and finding clients; nearly 8,300 therapists use Klarify.",
+      "zh": "其 AI「Klara」處理臨床紀錄、治療計畫、信函、保險理賠、督導準備與開發新客戶；目前已有近 8,300 名治療師使用 Klarify。"
+    }
+  },
+  {
+    "slug": "primitive",
+    "summary": {
+      "en": "Communication infrastructure for fully autonomous agents.",
+      "zh": "為全自主代理打造的通訊基礎設施。"
+    },
+    "highlight": {
+      "en": "primitive is building the communication infrastructure that fully autonomous agents need to coordinate and operate.",
+      "zh": "primitive 正打造全自主代理在協調與運作時所需的通訊基礎設施。"
+    }
+  },
+  {
+    "slug": "inloop-robotics",
+    "summary": {
+      "en": "Robotic arms that pick and pack orders in warehouses.",
+      "zh": "在倉庫中揀貨與打包訂單的機械手臂。"
+    },
+    "highlight": {
+      "en": "InLoop ships imperfect policies into real warehouses, detects failures in real time, recovers itself or calls a remote operator, turning failures into training.",
+      "zh": "InLoop 將尚未完美的策略投入真實倉庫，即時偵測失敗，自動復原或調入遠端操作員，並把每次失敗轉化為訓練資料。"
+    }
+  },
+  {
+    "slug": "tenet-industries",
+    "summary": {
+      "en": "Low-cost, mass-producible defense systems, starting with attack drones.",
+      "zh": "低成本、可大量生產的國防系統，從攻擊型無人機切入。"
+    },
+    "highlight": {
+      "en": "Tenet starts from manufacturing to hyperscale production; its first product, a kamikaze quadcopter, assembles in two minutes with half the parts of rivals.",
+      "zh": "Tenet 以製造為先，運用面向製造的設計來大規模放大產能；其首款產品自殺式四旋翼無人機可在兩分鐘內組裝完成，零件數僅為同類系統的一半。"
+    }
+  },
+  {
+    "slug": "hevn-inc",
+    "summary": {
+      "en": "Agentic payroll platform for paying contractors and employees across borders.",
+      "zh": "用於跨境支付承包商與員工的代理式薪資平台。"
+    },
+    "highlight": {
+      "en": "Give HEVN a contractor's email and it handles onboarding, contracts, invoices, KYC/KYB, and payments, enabling custom payroll workflows rigid platforms can't.",
+      "zh": "只要把承包商的電子郵件交給 HEVN，它便處理導入、文件、合約、發票、KYC／KYB 與付款，實現 Deel 等僵化平台無法做到的完全客製化薪資流程。"
+    }
+  },
+  {
+    "slug": "deep-interactions",
+    "summary": {
+      "en": "Collaborative, humans-in-the-loop AI app builder for teams.",
+      "zh": "為團隊打造、人類參與其中的協作式 AI 應用建構工具。"
+    },
+    "highlight": {
+      "en": "Deep Interactions powers a context layer that lets a team build AI products in sync without a spaghetti codebase, shipping a working product in an afternoon.",
+      "zh": "Deep Interactions 提供脈絡層，讓團隊能同步打造 AI 產品而不留下雜亂的程式碼，並宣稱能在同一個下午交付可運作的 AI 產品。"
+    }
+  },
+  {
+    "slug": "shotwellai",
+    "summary": {
+      "en": "Observability layer for robotics that detects failures in video data.",
+      "zh": "從影像資料偵測失敗的機器人可觀測性層。"
+    },
+    "highlight": {
+      "en": "Robotics companies send Shotwell their training and deployment video, and its models automatically annotate and detect failures with near-instant turnaround.",
+      "zh": "機器人公司將訓練與部署影像傳給 Shotwell，其模型便以近乎即時的速度自動標註並偵測失敗。"
+    }
+  },
+  {
+    "slug": "userlens",
+    "summary": {
+      "en": "AI customer success agents that drive renewals and expansion of enterprise deals.",
+      "zh": "驅動企業合約續約與擴展的 AI 客戶成功代理。"
+    },
+    "highlight": {
+      "en": "Userlens' agents research accounts, catch churn early, and drive renewals and upsells like a top CSM; it reports $307K ARR growing 127% month over month.",
+      "zh": "Userlens 的代理研究客戶帳號、在流失前加以預防，並像頂尖客戶成功經理般推動續約與加購；公司表示年經常性收入達 30.7 萬美元、每月成長 127%，客戶包含 Smartly。"
+    }
+  },
+  {
+    "slug": "stablebrowse",
+    "summary": {
+      "en": "A browser layer that gives AI agents semantic understanding of the web.",
+      "zh": "讓 AI 代理對網路具備語意理解的瀏覽器層。"
+    },
+    "highlight": {
+      "en": "Instead of brittle visual interfaces, StableBrowse gives agents knowledge graphs that turn the web into a native protocol for LLMs to do research and scraping.",
+      "zh": "StableBrowse 以知識圖譜取代脆弱的視覺介面，把網路變成 LLM 的原生協定，支援深度研究、大規模爬取與複雜自動化。"
+    }
+  },
+  {
+    "slug": "adialante",
+    "summary": {
+      "en": "Mobile MRI clinic on wheels to make cancer screening accessible.",
+      "zh": "車載行動 MRI 診所，讓癌症篩檢更普及。"
+    },
+    "highlight": {
+      "en": "Adialante redesigned MRI with new physics and hardware into a mobile imaging clinic any site can offer for a flat per-scan fee, starting with prostate cancer.",
+      "zh": "Adialante 以全新的物理、演算法與硬體重新設計 MRI，打造任何醫療場所都能以單次掃描固定費用提供的行動影像診所，並從攝護腺癌篩檢開始。"
+    }
+  },
+  {
+    "slug": "lumius",
+    "summary": {
+      "en": "Fast, affordable 3D ultrasound that anyone can use.",
+      "zh": "人人都能操作的快速、平價 3D 超音波。"
+    },
+    "highlight": {
+      "en": "Lumius gives a real-time 3D view over a large volume to end 2D guesswork, starting with vascular access where ~50% of first tries fail; far cheaper than rivals.",
+      "zh": "Lumius 在大範圍體積上提供即時 3D 影像以消除 2D 的猜測，並從約有半數人首次嘗試失敗的血管穿刺切入；其成本遠低於現有的 3D 裝置。"
+    }
+  },
+  {
+    "slug": "archer",
+    "summary": {
+      "en": "AI-powered gifting platform for customer acquisition and retention.",
+      "zh": "用於獲客與留存的 AI 驅動送禮平台。"
+    },
+    "highlight": {
+      "en": "Companies give Archer's agents budgets and goals, and they select, buy, personalize, and deliver gifts when business events occur, like a prospect booking time.",
+      "zh": "企業給 Archer 的代理預算與目標，代理便在發生商業事件時——例如潛在客戶預約會議或客戶完成導入——自動挑選、購買、個人化並寄送禮物。"
+    }
+  },
+  {
+    "slug": "plan0-ai",
+    "summary": {
+      "en": "Construction cost intelligence platform for real estate developers.",
+      "zh": "為房地產開發商打造的營建成本情報平台。"
+    },
+    "highlight": {
+      "en": "PLAN0 analyzes architectural plans with vision models to generate detailed cost estimates in minutes; it says $20B of projects already run through the platform.",
+      "zh": "PLAN0 以視覺模型分析建築圖面，數分鐘內生成詳細成本估算，並跨地區彙整專案資料；公司表示已有 200 億美元的專案在平台上運行。"
+    }
+  },
+  {
+    "slug": "memory-store",
+    "summary": {
+      "en": "Shared memory layer that gives a team's agents one company brain.",
+      "zh": "為團隊代理提供統一「公司大腦」的共享記憶層。"
+    },
+    "highlight": {
+      "en": "Memory Store turns every meeting, Claude session, and Slack chat into shared context, giving a team's agents one common memory to draw on.",
+      "zh": "Memory Store 把每場會議、每次 Claude 工作階段與 Slack 對話轉化為共享脈絡，讓團隊的代理擁有一個共同的記憶可供取用。"
+    }
+  },
+  {
+    "slug": "ornadyne",
+    "summary": {
+      "en": "Flapping-wing surveillance drones that look, fly, and sound like birds.",
+      "zh": "外觀、飛行與聲音都像鳥的拍翼式偵察無人機。"
+    },
+    "highlight": {
+      "en": "As counter-UAS systems make quadcopters easier to detect, Ornadyne builds stealth flapping-wing drones with the endurance and control reconnaissance needs.",
+      "zh": "在反無人機系統讓四旋翼更易被偵測之際，Ornadyne 從基本原理打造針對匿蹤最佳化的拍翼式無人機，具備真實偵察所需的續航與操控能力。"
+    }
+  },
+  {
+    "slug": "eden-robotics",
+    "summary": {
+      "en": "Robots-for-hire delivering autonomous services at scale.",
+      "zh": "大規模提供自主服務的「機器人租用」模式。"
+    },
+    "highlight": {
+      "en": "Eden doesn't sell robots; it provides semi-humanoid physical agents for hire in manufacturing and logistics, charging by usage to lower the entry barrier.",
+      "zh": "Eden 不賣機器人，而是在製造與物流領域以租用方式提供半人形實體代理，按使用量計費以降低進入門檻並擴大機器人市場。"
+    }
+  },
+  {
+    "slug": "openwork",
+    "summary": {
+      "en": "Open-source desktop alternative to Claude Cowork.",
+      "zh": "Claude Cowork 的開源桌面替代方案。"
+    },
+    "highlight": {
+      "en": "OpenWork is a free desktop app that connects to your existing skills, MCPs, and agents, works with 50+ model providers, and lets you share your setup easily.",
+      "zh": "OpenWork 是一款免費的桌面應用，能連結你既有的技能、MCP 與代理，支援超過 50 家模型供應商，並讓你與團隊分享你的設定。"
+    }
+  },
+  {
+    "slug": "characterquilt",
+    "summary": {
+      "en": "Computer-use agents that deploy enterprise marketing campaigns.",
+      "zh": "部署企業行銷活動的電腦操作代理。"
+    },
+    "highlight": {
+      "en": "With 80%+ of campaign time spent on ops in tools like Marketo, CharacterQuilt's agents learn your brand and run your tools, turning weeks of work into an hour.",
+      "zh": "由於行銷活動逾八成時間花在 Marketo、Pardot 等工具的操作上，CharacterQuilt 的代理會學習你的品牌並操作你既有的工具，把數週的代理商工作縮短為一小時。"
+    }
+  },
+  {
+    "slug": "expanse",
+    "summary": {
+      "en": "Recovers wasted GPU capacity from idle and failing compute jobs.",
+      "zh": "從閒置與失敗的運算工作中回收浪費的 GPU 容量。"
+    },
+    "highlight": {
+      "en": "Expanse right-sizes job submissions, suggests code and config fixes, and predicts failures before they burn GPU hours; its founders ran HPC at top quant funds.",
+      "zh": "Expanse 為工作提交合理配置資源、建議程式碼與設定的修正，並在失敗前先行預測以避免浪費 GPU 工時；其創辦人曾在頂尖量化基金與國家級超級電腦中心執行 HPC 訓練。"
+    }
+  },
+  {
+    "slug": "gigacatalyst",
+    "summary": {
+      "en": "In-app AI agents that let software users build the features they need.",
+      "zh": "讓軟體使用者自行打造所需功能的應用內 AI 代理。"
+    },
+    "highlight": {
+      "en": "Gigacatalyst's customization layer learns your APIs so each customer can adapt your product to their workflow; it says it unblocked $1M in sales in 6 weeks.",
+      "zh": "Gigacatalyst 嵌入式的客製化層會學習你的 API，讓每位客戶能依自身工作流程調整你的產品，並透過內建應用商店分享；公司表示在六週內解鎖了 100 萬美元的銷售。"
+    }
+  },
+  {
+    "slug": "kugelaudio",
+    "summary": {
+      "en": "On-prem voice AI model supporting 25+ languages with low latency.",
+      "zh": "支援 25 種以上語言、低延遲的地端語音 AI 模型。"
+    },
+    "highlight": {
+      "en": "Kugel is an enterprise-ready text-to-speech model available on-prem, focused on 25+ languages and low latency.",
+      "zh": "Kugel 是一套企業就緒的文字轉語音模型，可於地端部署，專注於 25 種以上語言與低延遲。"
+    }
+  },
+  {
+    "slug": "arctic-health",
+    "summary": {
+      "en": "AI-native credentialing and contracting for healthcare organizations.",
+      "zh": "為醫療機構打造的 AI 原生資格認證與簽約服務。"
+    },
+    "highlight": {
+      "en": "Arctic Health automates credentialing end-to-end, validating data per state and payer rules and using browser automations across hundreds of payer portals.",
+      "zh": "Arctic Health 端到端自動化完整的資格認證流程，依各州與各支付方的要求驗證資料，並以瀏覽器自動化在數百個支付方入口網站提交與監控。"
+    }
+  },
+  {
+    "slug": "advanced-metal-research",
+    "summary": {
+      "en": "Machine intelligence and robotic welding cells for American manufacturing.",
+      "zh": "為美國製造打造的機器智能與機器人焊接單元。"
+    },
+    "highlight": {
+      "en": "AMR sees the welding shortage as a learning bottleneck, building robotic welding cells with computer vision for real-time seam tracking and weld inspection.",
+      "zh": "AMR 將焊接人力短缺視為學習瓶頸，打造結合電腦視覺的機器人焊接單元，可即時追蹤焊縫並檢驗，從每一道焊接中即時學習。"
+    }
+  },
+  {
+    "slug": "linzumi",
+    "summary": {
+      "en": "Team chat to command all your company's AI coding agents.",
+      "zh": "用團隊聊天指揮公司所有 AI 程式碼代理。"
+    },
+    "highlight": {
+      "en": "Linzumi lets engineering teams kick off, review, and ship work across dozens of coding agents from chat, with every decision compiling into a source of truth.",
+      "zh": "Linzumi 讓工程團隊能從聊天中啟動、審查並交付數十個程式碼代理的工作，每項團隊決策都會編入一份真實來源，用以生成並驗證新工作。"
+    }
+  },
+  {
+    "slug": "fuchsia",
+    "summary": {
+      "en": "AI-driven hardware certification and testing — a Vanta for hardware.",
+      "zh": "AI 驅動的硬體認證與測試，是硬體版的 Vanta。"
+    },
+    "highlight": {
+      "en": "Fuchsia handles hardware certification and testing so products reach market faster, using AI agents to keep the work accurate, timely, and fully traceable.",
+      "zh": "Fuchsia 處理硬體認證與測試，讓產品更快上市，並以 AI 代理確保工作對每位利害關係人都準確、及時且可完整追溯。"
+    }
+  },
+  {
+    "slug": "superset",
+    "summary": {
+      "en": "An IDE that lets engineers run hundreds of coding agents in parallel.",
+      "zh": "讓工程師平行運行數百個程式碼代理的 IDE。"
+    },
+    "highlight": {
+      "en": "Superset is an IDE for the agent era, helping engineers run hundreds of coding agents in parallel.",
+      "zh": "Superset 是專為代理時代打造的 IDE，協助工程師平行運行數百個程式碼代理。"
+    }
+  },
+  {
+    "slug": "inth",
+    "summary": {
+      "en": "AI-native, code-native compliance team for fast-shipping companies.",
+      "zh": "為快速出貨公司打造、深入程式碼的 AI 原生合規團隊。"
+    },
+    "highlight": {
+      "en": "Inth starts with c15t, an open-source consent SDK with 3M+ npm downloads used by Zed and Expo, then expands into code-native consent and data-request workflows.",
+      "zh": "Inth 從開源同意管理 SDK「c15t」起步，該套件 npm 下載量超過 300 萬、為 Zed 與 Expo 採用，再延伸至同意管理、資料請求、政策強制與稽核證據等深入程式碼的工作流程。"
+    }
+  },
+  {
+    "slug": "regbase",
+    "summary": {
+      "en": "Automating corporate compliance worldwide.",
+      "zh": "為全球企業自動化法規遵循。"
+    },
+    "highlight": {
+      "en": "Regbase focuses on automating the corporate compliance obligations companies face across jurisdictions worldwide.",
+      "zh": "Regbase 專注於自動化企業在全球各司法管轄區所面臨的合規義務。"
+    }
+  },
+  {
+    "slug": "trybloom",
+    "summary": {
+      "en": "A brand layer that turns brand into infrastructure any agent can call.",
+      "zh": "把品牌轉為任何代理皆可呼叫之基礎設施的品牌層。"
+    },
+    "highlight": {
+      "en": "Bloom ingests a brand from decks, websites, social, and Figma, then systematizes it so on-brand images, video, and copy can be made via web app, API, or MCP.",
+      "zh": "Bloom 從簡報、網站、社群與 Figma 吸收品牌資訊並加以系統化，使符合品牌調性的圖像、影片與文案能透過網頁應用、API 或 MCP 生成。"
+    }
+  },
+  {
+    "slug": "korso",
+    "summary": {
+      "en": "The intelligence layer for manufacturing.",
+      "zh": "為製造業打造的智能層。"
+    },
+    "highlight": {
+      "en": "Korso is building an intelligence layer for manufacturing.",
+      "zh": "Korso 正為製造業打造一層智能層。"
+    }
+  },
+  {
+    "slug": "withai",
+    "summary": {
+      "en": "Agent harnesses that help asset managers research stocks and run portfolios.",
+      "zh": "協助資產管理者研究股票與管理投組的代理框架。"
+    },
+    "highlight": {
+      "en": "WithAI's Multiplier platform unifies structured and unstructured data, AI and human work, and tacit firm knowledge in one governed app, live at 4 hedge funds.",
+      "zh": "WithAI 的 Multiplier 平台在一個受治理的應用中整合結構化資料、非結構化資料、AI 工作、人力工作與公司的隱性知識；目前已上線於四家避險基金，其使用者每天在平台上花費超過 4 小時。"
+    }
+  },
+  {
+    "slug": "hexa",
+    "summary": {
+      "en": "Autonomous sales and procurement operations for industrial distributors.",
+      "zh": "為工業經銷商打造的自主銷售與採購營運。"
+    },
+    "highlight": {
+      "en": "Hexa automates industrial distributors' sales and procurement workflows so they can quote faster and win more bids.",
+      "zh": "Hexa 自動化工業經銷商的銷售與採購工作流程，讓他們能更快報價並贏得更多標案。"
+    }
+  },
+  {
+    "slug": "lightsprint",
+    "summary": {
+      "en": "Collaborative product development platform powered by cloud agents.",
+      "zh": "由雲端代理驅動的協作式產品開發平台。"
+    },
+    "highlight": {
+      "en": "Lightsprint lets software teams, even non-engineers, plan visually, preview live, and ship reliably with cloud agents; founders came from Chainlink and Meta.",
+      "zh": "Lightsprint 讓包含非工程師在內的軟體團隊能以雲端代理大軍視覺化規劃、即時預覽並可靠交付；其創辦人曾在 Chainlink、BitGo 與 Facebook 擔任資深職務。"
+    }
+  },
+  {
+    "slug": "saffron",
+    "summary": {
+      "en": "Helps companies evaluate how well engineers use AI to code.",
+      "zh": "協助企業評估工程師運用 AI 寫程式的能力。"
+    },
+    "highlight": {
+      "en": "Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship features on a real codebase, updating how engineers are hired.",
+      "zh": "Saffron 讓團隊完整掌握求職者如何運用 AI 代理在真實程式庫上打造、除錯並交付實際功能，更新了評估方式以對應工程作業的轉變。"
+    }
+  },
+  {
+    "slug": "atrisa",
+    "summary": {
+      "en": "AI agents for analog circuit design.",
+      "zh": "用於類比電路設計的 AI 代理。"
+    },
+    "highlight": {
+      "en": "Atrisa builds AI agents to design, debug, and automate analog circuit design.",
+      "zh": "Atrisa 打造 AI 代理來進行類比電路的設計、除錯與自動化。"
+    }
+  },
+  {
+    "slug": "kinro",
+    "summary": {
+      "en": "The first autonomous insurance brokerage for small businesses.",
+      "zh": "首家為小型企業打造的自主保險經紀。"
+    },
+    "highlight": {
+      "en": "With 77% of US SMBs underinsured because small policies aren't profitable for brokers, Kinro's AI agents run the broker workflow 24/7, prospecting to binding.",
+      "zh": "由於低保費保單對經紀人無利可圖，美國有 77% 的中小企業投保不足；Kinro 的 AI 代理全天候處理完整的經紀流程，從尋找潛在客戶到承保保單。"
+    }
+  },
+  {
+    "slug": "zolvo",
+    "summary": {
+      "en": "AI back-office automation for commercial lenders.",
+      "zh": "為商業放款業者打造的 AI 後勤自動化。"
+    },
+    "highlight": {
+      "en": "Zolvo replaces a commercial lender's back office with AI for data ingestion, invoice reconciliation, collections, and funder monitoring, going live in weeks.",
+      "zh": "Zolvo 以 AI 取代商業放款業者整個後勤部門，處理資料匯入、發票對帳、催收聯繫與資金方監控，數週內即可上線，讓團隊只需處理例外狀況。"
+    }
+  },
+  {
+    "slug": "kelai",
+    "summary": {
+      "en": "Autonomous alpha engine for hedge funds, traders, and institutional investors.",
+      "zh": "為避險基金、交易員與機構投資人打造的自主 alpha 引擎。"
+    },
+    "highlight": {
+      "en": "Founded by a former WorldQuant portfolio manager, KelAI turns fragmented research into an AI-native engine that continuously finds, tests, and validates alpha.",
+      "zh": "KelAI 由前 WorldQuant 投資組合經理創立，把零散的研究轉化為可複利累積的 AI 原生引擎，持續尋找、測試並驗證交易訊號。"
+    }
+  },
+  {
+    "slug": "standout",
+    "summary": {
+      "en": "Agentic hiring marketplace where agents represent talent and companies.",
+      "zh": "由代理代表人才與公司的代理式招募市集。"
+    },
+    "highlight": {
+      "en": "Standout gives each talent and company an autonomous agent that assesses the other side and makes intros when it matters, keeping talent anonymous till intro.",
+      "zh": "Standout 為每位人才與每家公司配置自主代理，評估對方並在合適時機牽線，且讓人才在接受引薦前保持匿名；一個月內已有 1 萬名人才加入。"
+    }
+  },
+  {
+    "slug": "transload",
+    "summary": {
+      "en": "Measures freight shipment dimensions using existing security cameras.",
+      "zh": "用既有的監視攝影機量測貨運尺寸。"
+    },
+    "highlight": {
+      "en": "transload captures the true size of each shipment moving through a warehouse; with 15% larger than claimed, catching the gaps is worth ~$50k per site per month.",
+      "zh": "transload 在貨物通過倉庫時擷取其真實尺寸；由於有 15% 的貨件大於申報尺寸，找出差異每站每月約值 5 萬美元。"
+    }
+  }
+]

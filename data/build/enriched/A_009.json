@@ -1,0 +1,253 @@
+[
+  {
+    "slug": "gitlab",
+    "summary": {
+      "en": "A single-application DevOps platform spanning the entire software development lifecycle.",
+      "zh": "涵蓋整個軟體開發生命週期的單一應用程式 DevOps 平台。"
+    },
+    "highlight": {
+      "en": "One of YC's most prominent enterprise-software exits, GitLab went public on Nasdaq in October 2021 at a ~$11B IPO valuation. It remains a publicly traded company (NASDAQ: GTLB) with annual revenue surpassing $1B.",
+      "zh": "GitLab 是 YC 最知名的企業軟體上市案例之一,於 2021 年 10 月在納斯達克上市,IPO 估值約 110 億美元。它至今仍是上市公司(NASDAQ: GTLB),年營收已突破 10 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "IPO'd Oct 2021 at ~$11B; market cap a few billion as of 2026; annual revenue >$1B",
+      "zh": "2021 年 10 月以約 110 億美元估值上市;2026 年市值數十億美元;年營收逾 10 億美元"
+    },
+    "founders": "Sytse 'Sid' Sijbrandij, Dmitriy Zaporozhets",
+    "sources": [
+      { "title": "GitLab jumps 35% in its Nasdaq debut after pricing IPO above expected range", "url": "https://www.cnbc.com/2021/10/14/gitlab-jumps-in-nasdaq-debut-after-pricing-ipo-above-expected-range.html" },
+      { "title": "GitLab (GTLB) Statistics & Valuation", "url": "https://stockanalysis.com/stocks/gtlb/statistics/" }
+    ]
+  },
+  {
+    "slug": "akido-labs",
+    "summary": {
+      "en": "AI-first healthcare company using its ScopeAI platform to expand access to medical care.",
+      "zh": "以 AI 為核心的醫療公司,透過 ScopeAI 平台擴大醫療照護的可及性。"
+    },
+    "highlight": {
+      "en": "Akido rebuilds healthcare delivery for underserved communities, pairing a clinician network with its ScopeAI assistant trained on millions of patient cases. It raised a $60M Series B in May 2025 led by Oak HC/FT to scale ScopeAI against the physician shortage.",
+      "zh": "Akido 為弱勢社群重建醫療服務,結合臨床醫師網絡與其以數百萬病例訓練的 ScopeAI 助手。公司於 2025 年 5 月完成由 Oak HC/FT 領投的 6,000 萬美元 B 輪募資,以擴大 ScopeAI 應對醫師短缺問題。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised $60M Series B (May 2025) led by Oak HC/FT",
+      "zh": "完成 6,000 萬美元 B 輪募資(2025 年 5 月),由 Oak HC/FT 領投"
+    },
+    "founders": "Prashant Samant, Jared Goodner, Sanjit Mahanti, Hugh Gordon",
+    "sources": [
+      { "title": "Akido Raises $60 Million Series B to Expand Reach of ScopeAI", "url": "https://www.businesswire.com/news/home/20250515102298/en/Akido-Raises-$60-Million-Series-B-to-Expand-Reach-of-ScopeAI-its-Breakthrough-Health-Artificial-Intelligence" },
+      { "title": "Akido Labs Secures $60M to Expand AI-Powered ScopeAI", "url": "https://hitconsultant.net/2025/05/16/akido-labs-secures-60m-to-expand-ai-powered-scopeai/" }
+    ]
+  },
+  {
+    "slug": "chariot",
+    "summary": {
+      "en": "App-powered private mass-transit shuttle service for commuters in major US cities.",
+      "zh": "為主要美國城市通勤者提供以 App 驅動的私營大眾運輸接駁服務。"
+    },
+    "highlight": {
+      "en": "Chariot was an early YC mobility exit, acquired by Ford Smart Mobility in September 2016 for a reported $65M as its first acquisition. Ford ultimately wound the shuttle service down in early 2019 amid weak ridership.",
+      "zh": "Chariot 是 YC 早期的交通出行併購案例,2016 年 9 月被 Ford Smart Mobility 以據報約 6,500 萬美元收購,成為其首樁併購案。Ford 最終因搭乘量低迷於 2019 年初關閉了該接駁服務。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Ford for a reported $65M (Sept 2016); service shut down 2019",
+      "zh": "2016 年 9 月被 Ford 以據報約 6,500 萬美元收購;服務於 2019 年關閉"
+    },
+    "founders": "Ali Vahabzadeh",
+    "sources": [
+      { "title": "Ford is shutting down its Chariot shuttle service", "url": "https://techcrunch.com/2019/01/10/ford-is-shutting-down-chariot-shuttle-service/" },
+      { "title": "Chariot (company) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chariot_(company)" }
+    ]
+  },
+  {
+    "slug": "bonfire",
+    "summary": {
+      "en": "Cloud eSourcing and RFx platform that modernizes competitive bidding for government procurement teams.",
+      "zh": "雲端電子採購與 RFx 平台,為政府採購團隊現代化競標流程。"
+    },
+    "highlight": {
+      "en": "Bonfire became a public-market exit when GTY Technology Holdings acquired it for US$108M in 2019, merging it with five govtech SaaS firms into a publicly traded company. The platform handled over a billion dollars of supplier-selection decisions per month.",
+      "zh": "Bonfire 在 2019 年被 GTY Technology Holdings 以 1.08 億美元收購,與五家政府科技 SaaS 公司合併成一家上市公司,完成上市退出。其平台每月處理逾十億美元的供應商遴選決策。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by GTY Technology for US$108M (2019)",
+      "zh": "2019 年被 GTY Technology 以 1.08 億美元收購"
+    },
+    "founders": "Corry Flatt, Alexander Millar",
+    "sources": [
+      { "title": "An on-ramp, not an exit: CEO Corry Flatt on Bonfire's acquisition", "url": "https://news.communitech.ca/an-on-ramp-not-an-exit-ceo-corry-flatt-on-bonfires-acquisition/" },
+      { "title": "Canadian cloud businesses Bonfire and Questica acquired by U.S. firm", "url": "https://www.theglobeandmail.com/business/article-us-company-acquires-canadian-cloud-businesses-bonfire-and-questica/" }
+    ]
+  },
+  {
+    "slug": "tech-in-asia",
+    "summary": {
+      "en": "The largest English-language tech media company covering Asia's startups and innovation.",
+      "zh": "報導亞洲新創與創新的最大英文科技媒體公司。"
+    },
+    "highlight": {
+      "en": "Tech in Asia built the region's leading English-language startup news outlet and community after going through YC in W15. It was acquired by Singapore's SPH Media around 2024, in a deal reported at roughly $30M.",
+      "zh": "Tech in Asia 在 2015 年冬季營後打造出亞洲領先的英文新創新聞媒體與社群。它於 2024 年前後被新加坡的 SPH Media 收購,據報交易金額約 3,000 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by SPH Media (~2024), deal reported around $30M",
+      "zh": "被 SPH Media 收購(約 2024 年),據報交易金額約 3,000 萬美元"
+    },
+    "founders": "Willis Wee",
+    "sources": [
+      { "title": "SG's SPH Media said to acquire Tech in Asia for around $30m", "url": "https://www.dealstreetasia.com/stories/sph-media-tech-in-asia-369662" },
+      { "title": "Tech in Asia - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tech_in_Asia" }
+    ]
+  },
+  {
+    "slug": "lumi",
+    "summary": {
+      "en": "Packaging and shipping-supply platform for online brands, from small sellers to high-volume ecommerce.",
+      "zh": "為線上品牌提供包裝與寄送耗材的平台,客群涵蓋小型賣家到高出貨量電商。"
+    },
+    "highlight": {
+      "en": "Lumi gave ecommerce brands a software-driven way to source custom packaging at scale. Post-purchase experience company Narvar acquired it in December 2021.",
+      "zh": "Lumi 為電商品牌提供以軟體驅動、可規模化採購客製包裝的方式。售後體驗公司 Narvar 於 2021 年 12 月將其收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Narvar (Dec 2021); had raised ~$9M Series A (2018)",
+      "zh": "2021 年 12 月被 Narvar 收購;曾募得約 900 萬美元 A 輪(2018 年)"
+    },
+    "founders": "Jesse Genet, Stephan Ango",
+    "sources": [
+      { "title": "Narvar Acquires Lumi to Further Enrich the Post-purchase Experience", "url": "https://www.linkedin.com/posts/stephanango_narvar-acquires-lumi-to-further-enrich-the-activity-6876921767839977475-yrQK" },
+      { "title": "Lumi (company) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Lumi_(company)" }
+    ]
+  },
+  {
+    "slug": "remix",
+    "summary": {
+      "en": "Planning software that helps cities design transit, streets, and new mobility systems.",
+      "zh": "協助城市規劃大眾運輸、街道與新型出行系統的規劃軟體。"
+    },
+    "highlight": {
+      "en": "Remix grew out of a Code for America hackathon into a platform used by 350+ local governments across 22 countries. Transit startup Via acquired it for $100M in March 2021.",
+      "zh": "Remix 從 Code for America 的黑客松起步,成長為 22 個國家逾 350 個地方政府使用的平台。交通新創 Via 於 2021 年 3 月以 1 億美元將其收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Via for $100M (March 2021)",
+      "zh": "2021 年 3 月被 Via 以 1 億美元收購"
+    },
+    "founders": "Tiffany Chu, Sam Hashemi, Daniel Getelman, Danny Whalen",
+    "sources": [
+      { "title": "Via buys mapping startup Remix for $100 million", "url": "https://techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/" },
+      { "title": "Via acquires Remix to create the first end-to-end TransitTech solution", "url": "https://ridewithvia.com/news/via-acquires-remix-to-create-the-first-end-to-end-transittech-solution-for-cities-and-transit-agencies" }
+    ]
+  },
+  {
+    "slug": "pachyderm",
+    "summary": {
+      "en": "Tooling for reproducible data pipelines, data versioning, and data lineage in ML workflows.",
+      "zh": "為機器學習工作流提供可重現資料管線、資料版本控管與資料譜系的工具。"
+    },
+    "highlight": {
+      "en": "Pachyderm became a building block of the modern MLOps stack, bringing Git-like versioning to data pipelines. Hewlett Packard Enterprise acquired it in January 2023 to bolster its AI-at-scale offerings, after it had raised ~$28M.",
+      "zh": "Pachyderm 成為現代 MLOps 技術堆疊的基石,將類似 Git 的版本控管帶入資料管線。Hewlett Packard Enterprise 於 2023 年 1 月收購該公司以強化其大規模 AI 產品,收購前它已募得約 2,800 萬美元。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by HPE (Jan 2023, terms undisclosed); had raised ~$28M",
+      "zh": "2023 年 1 月被 HPE 收購(金額未公開);先前募得約 2,800 萬美元"
+    },
+    "founders": "Joe Doliner, Joey Zwicker",
+    "sources": [
+      { "title": "HPE acquires Pachyderm as it looks to bolster its AI dev offerings", "url": "https://techcrunch.com/2023/01/12/hpe-acquires-pachyderm-as-looks-to-bolster-its-ai-dev-offerings/" },
+      { "title": "Hewlett Packard Enterprise acquires Pachyderm", "url": "https://www.hpe.com/us/en/newsroom/press-release/2023/01/hewlett-packard-enterprise-acquires-pachyderm-to-expand-ai-at-scale-capabilities-with-reproducible-ai.html" }
+    ]
+  },
+  {
+    "slug": "spire-health",
+    "summary": {
+      "en": "B2B remote patient monitoring using continuous respiratory sensors for chronic lung-disease care.",
+      "zh": "以連續呼吸感測器為慢性肺病照護提供 B2B 遠端病患監測。"
+    },
+    "highlight": {
+      "en": "Spire Health pioneered clothing-adhered respiratory sensors that never need charging, used by pulmonologists across the US. Its 'Health Tag' sensors have been worn by more than 150,000 people.",
+      "zh": "Spire Health 開創了無需充電、可黏附於衣物的呼吸感測器,獲全美肺科醫師採用。其「Health Tag」感測器已有超過 15 萬人配戴使用。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "Jonathan Palley, Neema Moraveji",
+    "sources": [
+      { "title": "Interview with Jonathan Palley, Spire Health's Co-Founder and CEO", "url": "https://research2guidance.com/how-a-novel-patient-friendly-technology-is-set-to-transform-the-continuous-remote-monitoring-market-for-respiratory-patients-interview-with-jonathan-palley-spire-healths-co-founder-and-ceo/" }
+    ]
+  },
+  {
+    "slug": "bluesmart",
+    "summary": {
+      "en": "Travel company that built the world's first app-connected smart luggage.",
+      "zh": "打造全球首款 App 連網智慧行李箱的旅行用品公司。"
+    },
+    "highlight": {
+      "en": "Bluesmart launched the first smart connected carry-on, raising over $2M from 10,000+ Indiegogo backers in 120 countries. It shut down in May 2018 after US airlines banned luggage with non-removable batteries, selling its IP to Travelpro.",
+      "zh": "Bluesmart 推出首款智慧連網登機箱,在 Indiegogo 上獲得 120 個國家逾 1 萬名支持者、募得超過 200 萬美元。在美國各航空公司禁止內建不可拆卸電池的行李箱後,公司於 2018 年 5 月關閉,並將智慧財產權出售給 Travelpro。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised >$2M on Indiegogo; assets sold to Travelpro after 2018 shutdown",
+      "zh": "在 Indiegogo 募得逾 200 萬美元;2018 年關閉後資產出售給 Travelpro"
+    },
+    "founders": "Tomi Pierucci, Diego Saez-Gil, Alejo Verlini, Brian Chen",
+    "sources": [
+      { "title": "Bluesmart sells assets to Travelpro following smart luggage ban", "url": "https://techcrunch.com/2018/05/01/bluesmart-sells-assets-to-travelpro-following-smart-luggage-ban/" },
+      { "title": "Bluesmart - Wikipedia", "url": "https://en.wikipedia.org/wiki/Bluesmart" }
+    ]
+  },
+  {
+    "slug": "lucira-health",
+    "summary": {
+      "en": "Maker of next-generation single-use, at-home molecular test kits for infectious diseases.",
+      "zh": "下一代單次使用、居家分子檢測試劑套組的製造商,專注於傳染病檢測。"
+    },
+    "highlight": {
+      "en": "Lucira won the first FDA authorization for an at-home rapid COVID-19 self-test and IPO'd in early 2021 at a ~$628M valuation. After running out of cash, it filed for bankruptcy in February 2023 and was acquired by Pfizer for $36.4M through a bankruptcy auction.",
+      "zh": "Lucira 取得首個 FDA 核准的居家快速 COVID-19 自我檢測,並於 2021 年初以約 6.28 億美元估值上市。資金耗盡後,公司於 2023 年 2 月聲請破產,並透過破產拍賣以 3,640 萬美元被 Pfizer 收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "IPO'd early 2021 at ~$628M; bankrupt 2023; acquired by Pfizer for $36.4M",
+      "zh": "2021 年初以約 6.28 億美元上市;2023 年破產;被 Pfizer 以 3,640 萬美元收購"
+    },
+    "founders": "Erik Engelson, Debkishore Mitra, John Waldeisen",
+    "sources": [
+      { "title": "Pfizer Buys Lucira Health for $36.4M Through Bankruptcy Auction", "url": "https://www.genomeweb.com/business-news/pfizer-buys-lucira-health-364m-through-bankruptcy-auction" },
+      { "title": "Pfizer Acquires COVID-Flu Test Developer Lucira Health for USD 36.4 Million", "url": "https://www.labmedica.com/industry-news/articles/294797038/pfizer-acquires-covid-flu-test-developer-lucira-health-for-usd-364-million.html" }
+    ]
+  },
+  {
+    "slug": "notable-labs",
+    "summary": {
+      "en": "Clinical-stage company using a predictive precision-medicine platform to find blood-cancer therapies.",
+      "zh": "臨床階段公司,運用預測性精準醫療平台尋找血癌療法。"
+    },
+    "highlight": {
+      "en": "Notable tests a patient's actual cancer cells against drug combinations to predict effective treatments, starting with blood cancers. It became publicly traded (Nasdaq: NTBL) in October 2023 via a reverse merger with VBL Therapeutics.",
+      "zh": "Notable 以病患真實的癌細胞測試多種藥物組合,以預測有效療法,並從血癌切入。公司於 2023 年 10 月透過與 VBL Therapeutics 反向合併,成為上市公司(NASDAQ: NTBL)。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Went public via reverse merger with VBL Therapeutics (Nasdaq: NTBL, Oct 2023)",
+      "zh": "透過與 VBL Therapeutics 反向合併上市(NASDAQ: NTBL,2023 年 10 月)"
+    },
+    "founders": "Matthew De Silva, Thomas Bock",
+    "sources": [
+      { "title": "Notable Labs Closes Merger Transaction With VBL Therapeutics", "url": "https://www.biospace.com/notable-labs-closes-merger-transaction-with-vbl-therapeutics" },
+      { "title": "VBL Therapeutics closes merger with Notable Labs, to begin trading under 'NTBL'", "url": "https://www.tipranks.com/news/the-fly/vbl-therapeutics-closes-merger-with-notable-labs-to-begin-trading-under-ntbl" }
+    ]
+  }
+]

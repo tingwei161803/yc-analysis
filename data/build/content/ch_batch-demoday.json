@@ -1,0 +1,51 @@
+{
+  "id": "batch-demoday",
+  "icon": "groups",
+  "title": { "en": "The Batch & Demo Day Machine", "zh": "批次與 Demo Day 機器" },
+  "lede": { "en": "YC turned company-building into a three-month assembly line that ends with a room full of investors—and then quietly industrialized the line itself.", "zh": "YC 把創業這件事變成一條為期三個月的裝配線,終點是一整屋子的投資人——然後又悄悄地把這條產線本身工業化了。" },
+  "sections": [
+    {
+      "heading": { "en": "Three Months, One Rhythm", "zh": "三個月,一種節奏" },
+      "paragraphs": {
+        "en": [
+          "A YC batch runs roughly three months—an intensive cycle that culminates in Demo Day. The mechanics are deliberately simple and repeatable: each batch is split into small sections of about six to ten companies, each shepherded by YC partners through group office hours and one-on-one sessions, so founders get an intimate setting inside a much larger cohort. The connective tissue is the weekly dinner, where founders gather to hear talks from successful founders and investors. There is little classroom teaching; the program is built around fast iteration, talking to users, and the pressure of a fixed deadline.",
+          "Above the schedule sits the four-word doctrine 'make something people want.' Co-founder Paul Graham traces the phrase to a hard-earned lesson from his own pre-YC startup, Viaweb: he spent months building software—an early product to put art galleries online—that nobody actually wanted. The batch is engineered to surface that mistake early. Office hours relentlessly push founders toward users and growth, and the whole three months are arranged so that a team can fail, pivot, and re-aim before the deadline rather than after raising money."
+        ],
+        "zh": [
+          "一個 YC 批次大約進行三個月——是一段以 Demo Day 收尾的密集週期。它的運作刻意做得簡單而可複製:每個批次會被切成約六到十家公司的小組(section),由 YC 合夥人透過小組辦公室時間(group office hours)與一對一會談帶領,讓創辦人即使身處龐大的群體中,仍能享有親密的環境。把這一切串起來的是每週晚餐,創辦人在此聚首,聆聽成功創辦人與投資人的分享。這裡幾乎沒有課堂式教學;整個計畫是圍繞著快速迭代、與使用者對話,以及一個固定截止日的壓力所打造的。",
+          "凌駕於這份時程表之上的,是那句只有幾個字的信條:「做出人們想要的東西(make something people want)」。共同創辦人 Paul Graham 把這句話追溯到他在 YC 之前的創業 Viaweb 所學到的慘痛一課:他花了好幾個月打造一套軟體——一個把藝廊搬上網路的早期產品——卻沒有人真的想要。批次的設計,就是要讓這種錯誤盡早浮現。辦公室時間不斷把創辦人推向使用者與成長,而整整三個月的安排,都是為了讓團隊能在截止日之前失敗、轉向、重新瞄準,而不是在募完資之後才發現。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Demo Day as the Forcing Function", "zh": "作為逼迫機制的 Demo Day" },
+      "paragraphs": {
+        "en": [
+          "Everything converges on Demo Day, when founders pitch to a large audience of investors at the end of the program. The format dates to the very first batch in the summer of 2005—eight companies, including Reddit, the precursor to Twitch from Justin Kan and Emmett Shear, and Sam Altman's Loopt—who after three months presented to a room of investors. The deadline is the real product: a fixed, public date that compresses a year of normal startup procrastination into a quarter and turns a roomful of competing VCs into leverage for the founder.",
+          "Over time YC standardized the surrounding deal so the machine could run at scale. The terms became a published formula rather than a negotiation—today $500,000 in total, structured as $125,000 on a post-money SAFE for roughly 7% equity plus an additional $375,000 on an uncapped SAFE. Identical paperwork for every company means a partner can advise eighty teams without re-cutting eighty bespoke contracts, which is precisely what let the batch grow."
+        ],
+        "zh": [
+          "一切都匯聚到 Demo Day,創辦人在計畫尾聲向一大群投資人進行簡報。這個形式可以追溯到 2005 年夏天的第一個批次——八家公司,包括 Reddit、由 Justin Kan 與 Emmett Shear 打造、後來演變成 Twitch 的前身,以及 Sam Altman 的 Loopt——他們在三個月後,向滿屋子的投資人提案。真正的產品其實是那個截止日:一個固定、公開的日期,把通常會拖上一整年的新創惰性壓縮進一季,並把一屋子互相競爭的創投,轉化成創辦人手中的籌碼。",
+          "隨著時間推移,YC 把周邊的投資條件標準化,好讓這台機器能規模化運轉。條款變成一份公布出來的公式,而非逐案談判——如今總額為 50 萬美元,結構是 12.5 萬美元以投資後估值(post-money)SAFE 換取約 7% 股權,再加上 37.5 萬美元的無上限(uncapped)SAFE。每家公司都用一模一樣的文件,意味著一位合夥人可以同時輔導八十支團隊,而不必重新草擬八十份量身訂製的合約——而這正是讓批次得以長大的關鍵。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "From Eight to Hundreds—and the Costs of Scale", "zh": "從八家到數百家——以及規模化的代價" },
+      "paragraphs": {
+        "en": [
+          "The batch grew relentlessly. Eight companies in 2005 became dozens, then hundreds; the Summer 2021 cohort presented 377 companies on Demo Day, and batches hovered near 250 to 300 for years after. Scale brought obvious gains—more shots on goal, a denser alumni network, a self-reinforcing brand that pulls in the next round of applicants—but also strain. A 'class' that knew each other by name became a crowd; Demo Day stretched, then fragmented and partly moved online; and critics argued YC was spraying capital across too many similar companies, diluting the signal a YC stamp once carried.",
+          "The most telling move was the correction. In 2024, under president Garry Tan, YC shifted from two batches a year to four—adding spring and fall to the long-standing winter and summer cohorts. The yearly intake stayed around the same, roughly 500 companies, but each individual batch shrank back toward 100-some startups, near where it had been a decade earlier. In effect YC decided that the batch had an optimal size, and that the way to fund more founders was to run the machine more often rather than make each run bigger."
+        ],
+        "zh": [
+          "批次無情地擴張。2005 年的八家公司變成數十家,再變成數百家;2021 年夏季梯次有 377 家公司在 Demo Day 登場,此後好幾年批次規模都徘徊在 250 到 300 之間。規模帶來明顯的好處——更多進球機會、更密集的校友網絡、一個會自我強化、把下一輪申請者吸引進來的品牌——但也帶來壓力。一個彼此叫得出名字的「班級」變成了人群;Demo Day 拉長,接著被切割,並部分搬到線上;批評者則指出,YC 把資金噴灑在太多相似的公司上,稀釋了 YC 印章曾經承載的訊號。",
+          "最能說明問題的,是那次修正。2024 年,在總裁 Garry Tan 主導下,YC 從一年兩個批次改為四個——在長年既有的冬季與夏季梯次之外,加入春季與秋季。每年的收件總量維持大致不變,約 500 家公司,但單一批次的規模卻縮回到一百出頭家,接近十年前的水準。實際上,YC 等於認定批次存在一個最適規模;要資助更多創辦人,做法是讓這台機器跑得更頻繁,而不是讓每一次跑得更大。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's real invention was not the seed check but the deadline: a fixed, public Demo Day that forces a quarter's worth of decisions out of every team on the same day. The 2024 reversal—more batches, not bigger ones—is an admission that the product is the batch's intimacy, and that intimacy does not scale linearly. YC chose to clone the machine rather than enlarge it, betting that frequency, not size, is what compounds.",
+    "zh": "YC 真正的發明不是那張種子輪支票,而是截止日:一個固定、公開的 Demo Day,逼著每支團隊在同一天交出一整季份量的決定。2024 年的轉向——增加批次數量,而非把批次做大——等於承認真正的產品是批次的親密感,而這種親密感並不會線性地擴張。YC 選擇複製這台機器,而不是把它放大,押注的是頻率、而非規模,才是真正會複利累積的東西。"
+  }
+}

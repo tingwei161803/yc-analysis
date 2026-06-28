@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "paystack",
+    "summary": {
+      "en": "Modern payments infrastructure that lets African businesses accept card, transfer, and mobile-money payments via API.",
+      "zh": "現代化的支付基礎設施,讓非洲企業能透過 API 接受信用卡、轉帳與行動支付。"
+    },
+    "highlight": {
+      "en": "One of YC's biggest African success stories, Paystack processed over half of Nigeria's online transactions before Stripe acquired it. Stripe bought the company for over $200M in 2020, then the largest startup acquisition from Nigeria.",
+      "zh": "Paystack 是 YC 在非洲最成功的案例之一,在被 Stripe 收購前已處理奈及利亞逾半數的線上交易。Stripe 於 2020 年以逾 2 億美元收購,當時是奈及利亞最大規模的新創併購案。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Stripe in 2020 for over $200M",
+      "zh": "2020 年被 Stripe 以逾 2 億美元收購"
+    },
+    "founders": "Shola Akinlade, Ezra Olubi",
+    "sources": [
+      { "title": "Stripe acquires Nigeria's Paystack for $200M+ — TechCrunch", "url": "https://techcrunch.com/2020/10/15/stripe-acquires-nigerias-paystack-for-200m-to-expand-into-the-african-continent/" },
+      { "title": "Paystack - Wikipedia", "url": "https://en.wikipedia.org/wiki/Paystack" }
+    ]
+  },
+  {
+    "slug": "gitprime",
+    "summary": {
+      "en": "Analytics dashboard giving software engineering leaders visibility into developer productivity from Git data.",
+      "zh": "為軟體工程主管提供開發者生產力分析儀表板,從 Git 數據洞察團隊效率。"
+    },
+    "highlight": {
+      "en": "GitPrime pioneered the engineering-productivity analytics category later popularized across dev tooling. Pluralsight acquired it for $170M in cash in 2019, its first post-IPO acquisition.",
+      "zh": "GitPrime 開創了工程生產力分析這個品類,後來在開發工具領域廣為流行。Pluralsight 於 2019 年以 1.7 億美元現金收購,這是其上市後首樁併購案。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Pluralsight in 2019 for $170M cash",
+      "zh": "2019 年被 Pluralsight 以 1.7 億美元現金收購"
+    },
+    "founders": "Travis Kimmel, Ben Thompson",
+    "sources": [
+      { "title": "Pluralsight will acquire GitPrime for $170M — TechCrunch", "url": "https://techcrunch.com/2019/05/01/pluralsight-will-acquire-gitprime-for-170m/" }
+    ]
+  },
+  {
+    "slug": "caper",
+    "summary": {
+      "en": "Plug-and-play smart shopping carts using computer vision and AI for cashier-less checkout in grocery stores.",
+      "zh": "結合電腦視覺與 AI 的隨插即用智慧購物車,讓雜貨店實現免收銀員結帳。"
+    },
+    "highlight": {
+      "en": "Caper compacted Amazon Go-style autonomous checkout into a single smart cart that retailers could deploy without rebuilding stores. Instacart acquired it for $350M in 2021 to push into physical-retail technology.",
+      "zh": "Caper 將 Amazon Go 式的自動結帳技術濃縮進單一智慧購物車,零售商無需改造門市即可導入。Instacart 於 2021 年以 3.5 億美元收購,藉此切入實體零售科技。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by Instacart in 2021 for $350M",
+      "zh": "2021 年被 Instacart 以 3.5 億美元收購"
+    },
+    "founders": "Lindon Gao, Ahmed Beshry, Yougeng (Lucas) Zhang",
+    "sources": [
+      { "title": "Instacart acquires Caper AI for $350M — TechCrunch", "url": "https://techcrunch.com/2021/10/19/instacart-acquires-caper-ai-a-smart-cart-and-instant-checkout-startup-for-350m-as-it-moves-deeper-into-physical-retail-tech/" },
+      { "title": "Caper AI - Wikipedia", "url": "https://en.wikipedia.org/wiki/Caper_AI" }
+    ]
+  },
+  {
+    "slug": "meesho",
+    "summary": {
+      "en": "India's social-commerce marketplace letting small sellers and resellers reach the next billion online shoppers.",
+      "zh": "印度的社群電商平台,讓小型賣家與分銷商觸及下一個十億網購用戶。"
+    },
+    "highlight": {
+      "en": "Meesho democratized e-commerce for India's mass market through reseller and zero-commission models, scaling to over 190M annual users. It IPO'd on the NSE and BSE in December 2025 with a market cap of roughly ₹86,000 crore (~$10B).",
+      "zh": "Meesho 透過分銷與零佣金模式,為印度大眾市場普及電商,年活躍用戶突破 1.9 億。公司於 2025 年 12 月在 NSE 與 BSE 上市,市值約新台幣 8.6 兆盧比(約 100 億美元)。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "IPO'd Dec 2025; market cap ~₹86,000 crore (~$10B); raised ₹5,421 crore in offering",
+      "zh": "2025 年 12 月上市;市值約 8,600 億盧比(約 100 億美元);本次募資 542 億盧比"
+    },
+    "founders": "Vidit Aatrey, Sanjeev Barnwal",
+    "sources": [
+      { "title": "Meesho IPO — Chittorgarh", "url": "https://www.chittorgarh.com/ipo/meesho-ipo/2516/" },
+      { "title": "Meesho - Wikipedia", "url": "https://en.wikipedia.org/wiki/Meesho" }
+    ]
+  },
+  {
+    "slug": "athelas",
+    "summary": {
+      "en": "AI-driven healthcare platform spanning ambient clinical documentation, autonomous coding, and revenue cycle management.",
+      "zh": "AI 驅動的醫療平台,涵蓋環境臨床記錄、自主醫療編碼與營收週期管理。"
+    },
+    "highlight": {
+      "en": "Founded as an FDA-cleared at-home blood-testing device maker, Athelas grew into a broad healthcare-infrastructure platform powering over 500,000 clinicians. In October 2023 it merged with Commure in a deal valuing the combined company at $6B.",
+      "zh": "Athelas 最初是 FDA 核准的居家血液檢測裝置製造商,後成長為服務逾 50 萬名臨床醫師的醫療基礎設施平台。2023 年 10 月與 Commure 合併,合併後公司估值達 60 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Merged with Commure in 2023 at a combined $6B valuation",
+      "zh": "2023 年與 Commure 合併,合併後估值 60 億美元"
+    },
+    "founders": "Tanay Tandon, Deepika Bodapati",
+    "sources": [
+      { "title": "Athelas + Commure: Merging to Create a $6B Healthcare Infrastructure Company", "url": "https://www.athelas.com/tbh/athelas-commure-merging-to-create-a-6b-healthcare-infrastructure-company" },
+      { "title": "Commure, Athelas unveil merger plans — Fierce Healthcare", "url": "https://www.fiercehealthcare.com/health-tech/health-tech-companies-commure-athelas-unveil-merger-plans-drive-automation-llm-tech" }
+    ]
+  },
+  {
+    "slug": "the-athletic",
+    "summary": {
+      "en": "Subscription digital sports media covering 250+ pro and college teams with in-depth journalism and podcasts.",
+      "zh": "訂閱制數位體育媒體,以深度報導與 podcast 覆蓋超過 250 支職業與大學球隊。"
+    },
+    "highlight": {
+      "en": "The Athletic proved direct-to-consumer subscriptions could fund quality sports journalism, reaching 1.2M subscribers. The New York Times acquired it for $550M in cash in 2022.",
+      "zh": "The Athletic 證明直接面向消費者的訂閱模式能支撐高品質體育新聞,訂戶達 120 萬。《紐約時報》於 2022 年以 5.5 億美元現金收購。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Acquired by The New York Times in 2022 for $550M cash",
+      "zh": "2022 年被《紐約時報》以 5.5 億美元現金收購"
+    },
+    "founders": "Alex Mather, Adam Hansmann",
+    "sources": [
+      { "title": "New York Times to buy The Athletic for $550 million — CNBC", "url": "https://www.cnbc.com/2022/01/06/new-york-times-announces-plans-to-buy-the-athletic-for-550-million.html" }
+    ]
+  },
+  {
+    "slug": "flutterwave",
+    "summary": {
+      "en": "Payments infrastructure connecting African businesses to the global economy across cards, transfers, and mobile money.",
+      "zh": "連接非洲企業與全球經濟的支付基礎設施,涵蓋信用卡、轉帳與行動支付。"
+    },
+    "highlight": {
+      "en": "Flutterwave became Africa's most valuable startup, processing tens of billions of dollars across 30+ countries. Its 2022 Series D raised $250M and tripled its valuation to over $3B.",
+      "zh": "Flutterwave 成為非洲估值最高的新創,在 30 多個國家處理數百億美元交易。2022 年 D 輪募資 2.5 億美元,估值倍增至逾 30 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued over $3B; raised $250M Series D (2022)",
+      "zh": "最新估值逾 30 億美元;2022 年 D 輪募資 2.5 億美元"
+    },
+    "founders": "Olugbenga Agboola, Iyinoluwa Aboyeji",
+    "sources": [
+      { "title": "Flutterwave triples valuation to over $3B after $250M Series D — TechCrunch", "url": "https://techcrunch.com/2022/02/16/african-fintech-flutterwave-triples-valuation-to-over-3b-after-250m-series-d/" }
+    ]
+  },
+  {
+    "slug": "scale-ai",
+    "summary": {
+      "en": "Data-centric infrastructure platform providing data labeling and RLHF to accelerate AI model development.",
+      "zh": "以數據為核心的基礎設施平台,提供數據標註與 RLHF,加速 AI 模型開發。"
+    },
+    "highlight": {
+      "en": "Scale AI became the backbone of training data for top AI labs and the U.S. military, one of YC's most valuable companies. In June 2025 Meta invested ~$14.3B for a 49% stake, valuing Scale at over $29B as founder Alexandr Wang joined Meta.",
+      "zh": "Scale AI 成為頂尖 AI 實驗室與美軍的訓練數據支柱,是 YC 旗下最具價值的公司之一。2025 年 6 月 Meta 以約 143 億美元投資取得 49% 股份,Scale 估值達逾 290 億美元,創辦人 Alexandr Wang 同時加入 Meta。"
+    },
+    "valuation_tier": "decacorn",
+    "funding": {
+      "en": "Last valued over $29B; Meta invested ~$14.3B for 49% (2025)",
+      "zh": "最新估值逾 290 億美元;2025 年 Meta 以約 143 億美元投資取得 49%"
+    },
+    "founders": "Alexandr Wang, Lucy Guo",
+    "sources": [
+      { "title": "Scale AI confirms 'significant' investment from Meta — TechCrunch", "url": "https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/" },
+      { "title": "Scale AI - Wikipedia", "url": "https://en.wikipedia.org/wiki/Scale_AI" }
+    ]
+  },
+  {
+    "slug": "bird",
+    "summary": {
+      "en": "Omnichannel communications and CRM platform connecting businesses to customers via SMS, voice, WhatsApp, and email.",
+      "zh": "全通路通訊與 CRM 平台,透過簡訊、語音、WhatsApp 與電子郵件連接企業與客戶。"
+    },
+    "highlight": {
+      "en": "Founded as MessageBird, the Amsterdam-based Twilio rival serves nearly 20,000 customers and rebranded to Bird in 2024. A 2021 top-up to its Series C valued the company at $3.8B.",
+      "zh": "公司前身為 MessageBird,這家總部位於阿姆斯特丹的 Twilio 競爭對手服務近 2 萬家客戶,並於 2024 年更名為 Bird。2021 年 C 輪增資使公司估值達 38 億美元。"
+    },
+    "valuation_tier": "unicorn",
+    "funding": {
+      "en": "Last valued ~$3.8B (2021 Series C top-up)",
+      "zh": "最新估值約 38 億美元(2021 年 C 輪增資)"
+    },
+    "founders": "Robert Vis",
+    "sources": [
+      { "title": "A $3.8 billion rival to Twilio in Europe — CNBC", "url": "https://www.cnbc.com/2021/04/28/messagebird-acquires-us-email-startup-sparkpost-to-take-on-twilio.html" },
+      { "title": "About — Bird", "url": "https://bird.com/en-us/about" }
+    ]
+  },
+  {
+    "slug": "carerev",
+    "summary": {
+      "en": "On-demand staffing marketplace connecting hospitals directly with local clinical professionals for flexible shifts.",
+      "zh": "隨需人力媒合平台,讓醫院直接對接在地臨床專業人員,提供彈性排班。"
+    },
+    "highlight": {
+      "en": "CareRev built a direct-to-facility marketplace cutting out staffing agencies, with 35,000+ healthcare professionals picking up shifts on its app. IntelyCare acquired the company in late 2025 to build a unified workforce-staffing platform.",
+      "zh": "CareRev 打造了直接對接醫療機構的人力媒合平台,省去仲介,逾 3.5 萬名醫療專業人員透過其 App 接班。IntelyCare 於 2025 年底收購該公司,以打造整合式人力配置平台。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised over $70M in venture funding; acquired by IntelyCare in 2025",
+      "zh": "創投募資逾 7,000 萬美元;2025 年被 IntelyCare 收購"
+    },
+    "founders": "Will Patterson",
+    "sources": [
+      { "title": "IntelyCare acquires CareRev — Fierce Healthcare", "url": "https://www.fiercehealthcare.com/health-tech/intelycare-acquires-carerev-build-out-workforce-staffing-solution-health-systems" }
+    ]
+  },
+  {
+    "slug": "garten",
+    "summary": {
+      "en": "Workplace wellbeing company delivering nutrition and wellness services to offices via an AI- and IoT-enabled supply chain.",
+      "zh": "職場健康公司,透過 AI 與物聯網供應鏈為辦公室提供營養與健康服務。"
+    },
+    "highlight": {
+      "en": "A Y Combinator S16 (and YCG F19) company, garten built an asset-light, tech-enabled platform for workplace nutrition and wellbeing analytics. It serves top employers including Apple, Google, Amazon, Stripe, and Nike.",
+      "zh": "garten 是 YC S16(及 YCG F19)梯隊公司,打造輕資產、科技驅動的職場營養與健康分析平台。客戶涵蓋 Apple、Google、Amazon、Stripe 與 Nike 等頂尖企業。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "",
+      "zh": ""
+    },
+    "founders": "",
+    "sources": [
+      { "title": "garten: Creating workplace wellbeing — Y Combinator", "url": "https://www.ycombinator.com/companies/garten" }
+    ]
+  },
+  {
+    "slug": "workramp",
+    "summary": {
+      "en": "All-in-one corporate learning platform for training employees, customers, and partners as a growth engine.",
+      "zh": "一站式企業學習平台,將員工、客戶與夥伴的培訓轉化為成長引擎。"
+    },
+    "highlight": {
+      "en": "WorkRamp reimagined the LMS for modern teams, winning customers like Box, Outreach, and Reddit and raising over $67M across rounds. Marlin Equity Partners acquired it in 2025, folding it into Learning Pool.",
+      "zh": "WorkRamp 為現代團隊重新定義 LMS,贏得 Box、Outreach、Reddit 等客戶,累計募資逾 6,700 萬美元。Marlin Equity Partners 於 2025 年收購,並併入 Learning Pool。"
+    },
+    "valuation_tier": "",
+    "funding": {
+      "en": "Raised over $67M; acquired by Marlin Equity Partners in 2025",
+      "zh": "募資逾 6,700 萬美元;2025 年被 Marlin Equity Partners 收購"
+    },
+    "founders": "Ted Blosser, Arsh Mand",
+    "sources": [
+      { "title": "Marlin portfolio company Learning Pool acquires WorkRamp — Marlin Equity Partners", "url": "https://www.marlinequity.com/news/marlin-portfolio-company-learning-pool-acquires-workramp/" }
+    ]
+  }
+]

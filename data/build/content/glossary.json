@@ -1,0 +1,226 @@
+[
+  {
+    "term": { "en": "Demo Day", "zh": "Demo Day（路演日）" },
+    "def": {
+      "en": "The event at the end of each Y Combinator batch where founders pitch their startups to a curated audience of investors.",
+      "zh": "每一梯次 Y Combinator 結束時舉辦的活動，創辦人在此向精選的投資人群體展示並推介自己的新創公司。"
+    }
+  },
+  {
+    "term": { "en": "Standard Deal", "zh": "標準投資條件（Standard Deal）" },
+    "def": {
+      "en": "YC's uniform investment offered to every accepted company: $500,000 total, split into $125,000 for 7% equity plus $375,000 on an uncapped MFN SAFE.",
+      "zh": "YC 對每一家錄取公司提供的統一投資條件：總額 50 萬美元，其中 12.5 萬美元換取 7% 股權，另外 37.5 萬美元以無估值上限的 MFN SAFE 投入。"
+    }
+  },
+  {
+    "term": { "en": "SAFE", "zh": "SAFE（未來股權簡單協議）" },
+    "def": {
+      "en": "A Simple Agreement for Future Equity, an instrument created by YC that lets investors fund a startup now in exchange for equity that converts in a later priced round.",
+      "zh": "由 YC 設計的「未來股權簡單協議」，讓投資人現在出資、換取在日後定價募資輪中才轉換的股權。"
+    }
+  },
+  {
+    "term": { "en": "MFN (Most Favored Nation)", "zh": "MFN（最惠國條款）" },
+    "def": {
+      "en": "A SAFE clause guaranteeing that the investor automatically receives the most favorable terms granted to any later investor before the next priced round.",
+      "zh": "SAFE 中的條款，保證投資人在下一次定價募資前，自動取得後續任何投資人所獲得的最優惠條件。"
+    }
+  },
+  {
+    "term": { "en": "Post-money SAFE", "zh": "投後 SAFE（Post-money SAFE）" },
+    "def": {
+      "en": "A revised SAFE introduced by YC in 2018 whose ownership percentage is calculated on the company's post-money valuation, making dilution easier to predict.",
+      "zh": "YC 於 2018 年推出的改版 SAFE，其持股比例以公司投後估值計算，使股權稀釋更容易預測。"
+    }
+  },
+  {
+    "term": { "en": "Series A", "zh": "A 輪募資（Series A）" },
+    "def": {
+      "en": "A startup's first significant round of priced venture capital, typically raised after demonstrating early traction or product-market fit.",
+      "zh": "新創公司第一輪具規模的定價創投募資，通常在展現出早期成長動能或產品市場契合度後進行。"
+    }
+  },
+  {
+    "term": { "en": "Seed", "zh": "種子輪（Seed）" },
+    "def": {
+      "en": "An early funding round used to build a product and find initial traction, usually preceding a Series A.",
+      "zh": "用於打造產品並尋找初步成長動能的早期募資輪，通常在 A 輪之前進行。"
+    }
+  },
+  {
+    "term": { "en": "Batch", "zh": "梯次（Batch）" },
+    "def": {
+      "en": "A cohort of startups that go through the YC program together over the same three-month period.",
+      "zh": "在同一個三個月期間內一起完成 YC 育成計畫的一群新創公司。"
+    }
+  },
+  {
+    "term": { "en": "Group Partner", "zh": "小組合夥人（Group Partner）" },
+    "def": {
+      "en": "A YC partner who mentors a small group of founders throughout the batch, giving feedback and guidance.",
+      "zh": "在整個梯次中帶領一小群創辦人的 YC 合夥人，負責提供回饋與指導。"
+    }
+  },
+  {
+    "term": { "en": "Office Hours", "zh": "Office Hours（諮詢時段）" },
+    "def": {
+      "en": "Scheduled one-on-one or small-group advice sessions where founders get tailored guidance from YC partners.",
+      "zh": "預先安排的一對一或小組諮詢時段，創辦人在此向 YC 合夥人取得量身建議。"
+    }
+  },
+  {
+    "term": { "en": "Request for Startups (RFS)", "zh": "新創徵集（RFS）" },
+    "def": {
+      "en": "A periodically published list of problem areas and ideas YC would especially like to see founders work on.",
+      "zh": "YC 定期發布的清單，列出其特別希望創辦人投入的問題領域與創業點子。"
+    }
+  },
+  {
+    "term": { "en": "Bookface", "zh": "Bookface（內部社群平台）" },
+    "def": {
+      "en": "YC's private internal network where founders connect, ask questions, and access the alumni community.",
+      "zh": "YC 的內部私有社群平台，創辦人在此互相連結、提問並接觸校友社群。"
+    }
+  },
+  {
+    "term": { "en": "Hacker News", "zh": "Hacker News（駭客新聞）" },
+    "def": {
+      "en": "A social news site run by YC focused on technology and startups, popular among engineers and founders.",
+      "zh": "由 YC 經營、聚焦科技與新創的社群新聞網站，在工程師與創辦人之間相當受歡迎。"
+    }
+  },
+  {
+    "term": { "en": "Startup School", "zh": "Startup School（創業學校）" },
+    "def": {
+      "en": "A free online program and set of resources from YC that teaches the fundamentals of starting a company.",
+      "zh": "YC 提供的免費線上課程與資源，教授創業的基本知識與方法。"
+    }
+  },
+  {
+    "term": { "en": "Work at a Startup", "zh": "Work at a Startup（新創徵才平台）" },
+    "def": {
+      "en": "YC's recruiting platform that connects engineers and other talent with jobs at YC-backed companies.",
+      "zh": "YC 的徵才平台，協助工程師及其他人才與 YC 投資的公司職缺媒合。"
+    }
+  },
+  {
+    "term": { "en": "Make Something People Want", "zh": "打造人們真正想要的東西" },
+    "def": {
+      "en": "YC's foundational motto urging founders to prioritize building a product that customers genuinely need.",
+      "zh": "YC 的核心格言，敦促創辦人優先打造顧客真正需要的產品。"
+    }
+  },
+  {
+    "term": { "en": "Default Alive / Default Dead", "zh": "預設存活 / 預設死亡" },
+    "def": {
+      "en": "A framing from Paul Graham asking whether a startup will reach profitability on current growth and spending before its money runs out.",
+      "zh": "Paul Graham 提出的思考框架，問的是新創公司能否在資金耗盡前、以目前的成長與支出走向獲利。"
+    }
+  },
+  {
+    "term": { "en": "Ramen Profitable", "zh": "泡麵獲利（Ramen Profitable）" },
+    "def": {
+      "en": "When a startup earns just enough to cover the founders' basic living expenses, buying time without needing more funding.",
+      "zh": "新創公司賺到的錢恰好足以支應創辦人基本生活開銷，讓團隊毋須募資即可爭取到更多時間。"
+    }
+  },
+  {
+    "term": { "en": "Ramen Profitability", "zh": "泡麵獲利能力（Ramen Profitability）" },
+    "def": {
+      "en": "The state of generating enough revenue to cover the founders' minimal personal costs, signalling early viability.",
+      "zh": "公司產生的營收足以支應創辦人最低限度個人開銷的狀態，代表事業已具備初步可行性。"
+    }
+  },
+  {
+    "term": { "en": "Product-Market Fit", "zh": "產品市場契合度（Product-Market Fit）" },
+    "def": {
+      "en": "The point at which a product satisfies strong market demand, shown by users adopting and retaining it eagerly.",
+      "zh": "產品滿足強烈市場需求的階段，表現為使用者熱切採用並持續留存。"
+    }
+  },
+  {
+    "term": { "en": "Pivot", "zh": "轉向（Pivot）" },
+    "def": {
+      "en": "A significant change in a startup's product, market, or business model in response to what the team has learned.",
+      "zh": "新創公司根據所學，對產品、市場或商業模式所做的重大轉變。"
+    }
+  },
+  {
+    "term": { "en": "MVP", "zh": "最小可行產品（MVP）" },
+    "def": {
+      "en": "A Minimum Viable Product, the simplest version of a product that can be released to test core assumptions with real users.",
+      "zh": "「最小可行產品」，能向真實使用者發布、用以驗證核心假設的最簡版本產品。"
+    }
+  },
+  {
+    "term": { "en": "Burn Rate", "zh": "燒錢速率（Burn Rate）" },
+    "def": {
+      "en": "The rate, usually monthly, at which a startup spends its cash reserves in excess of revenue.",
+      "zh": "新創公司支出超過營收、消耗現金存量的速率，通常以每月計算。"
+    }
+  },
+  {
+    "term": { "en": "Runway", "zh": "資金跑道（Runway）" },
+    "def": {
+      "en": "The length of time a startup can keep operating at its current burn rate before running out of money.",
+      "zh": "在目前燒錢速率下，新創公司資金耗盡前還能持續營運的時間長度。"
+    }
+  },
+  {
+    "term": { "en": "Cap Table", "zh": "股權結構表（Cap Table）" },
+    "def": {
+      "en": "A capitalization table listing who owns what equity, options, and convertible instruments in a company.",
+      "zh": "「資本結構表」，列出公司各方持有的股權、選擇權及可轉換工具及其比例。"
+    }
+  },
+  {
+    "term": { "en": "Dilution", "zh": "股權稀釋（Dilution）" },
+    "def": {
+      "en": "The reduction in existing shareholders' ownership percentage that occurs when a company issues new shares.",
+      "zh": "公司發行新股時，既有股東持股比例下降的現象。"
+    }
+  },
+  {
+    "term": { "en": "Pro Rata", "zh": "按比例跟投權（Pro Rata）" },
+    "def": {
+      "en": "An investor's right to invest in future rounds to maintain their existing ownership percentage.",
+      "zh": "投資人在未來募資輪中追加投資、以維持其原有持股比例的權利。"
+    }
+  },
+  {
+    "term": { "en": "YC Continuity", "zh": "YC Continuity（成長期基金，已結束）" },
+    "def": {
+      "en": "YC's former growth-stage fund that made later-stage and pro-rata investments in alumni companies before being wound down in 2023.",
+      "zh": "YC 過去的成長期基金，曾對校友公司進行後期與按比例跟投，並於 2023 年結束營運。"
+    }
+  },
+  {
+    "term": { "en": "Top Company", "zh": "頂尖公司（Top Company）" },
+    "def": {
+      "en": "A designation YC uses for its most valuable alumni companies, ranked largely by valuation on its public Top Companies list.",
+      "zh": "YC 用來指稱其最具價值校友公司的稱號，主要依估值在其公開的頂尖公司榜上排名。"
+    }
+  },
+  {
+    "term": { "en": "Unicorn", "zh": "獨角獸（Unicorn）" },
+    "def": {
+      "en": "A privately held startup valued at one billion US dollars or more.",
+      "zh": "估值達到或超過十億美元的未上市新創公司。"
+    }
+  },
+  {
+    "term": { "en": "Decacorn", "zh": "十角獸（Decacorn）" },
+    "def": {
+      "en": "A privately held startup valued at ten billion US dollars or more.",
+      "zh": "估值達到或超過一百億美元的未上市新創公司。"
+    }
+  },
+  {
+    "term": { "en": "Founder Mode", "zh": "創辦人模式（Founder Mode）" },
+    "def": {
+      "en": "A term popularized by Paul Graham in 2024 for a hands-on style in which founders stay deeply involved across the company rather than purely delegating like professional managers.",
+      "zh": "由 Paul Graham 於 2024 年推廣的詞彙，指創辦人親力親為、深入參與公司各層面，而非像職業經理人那樣純粹授權的經營風格。"
+    }
+  }
+]

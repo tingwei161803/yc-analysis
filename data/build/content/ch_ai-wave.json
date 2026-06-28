@@ -1,0 +1,54 @@
+{
+  "id": "ai-wave",
+  "icon": "smart_toy",
+  "title": { "en": "The AI Wave", "zh": "AI 浪潮" },
+  "lede": {
+    "en": "In barely four years, Y Combinator went from a software accelerator that occasionally funded AI to one where three out of four founders pitch an AI company.",
+    "zh": "短短四年間,Y Combinator 從一個偶爾投資 AI 的軟體加速器,變成每四組創辦人就有三組在做 AI 公司的地方。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "From a trickle to a flood", "zh": "從涓流到洪水" },
+      "paragraphs": {
+        "en": [
+          "AI was always present at YC, but for most of the 2010s it was a minority sport. The inflection came with the W21 batch onward. Winter 2021 was YC's first fully remote, supersized cohort, with roughly 350 companies, and only a modest slice of them were genuinely AI-first. Two years later the picture had transformed. In June 2023 Bloomberg reported that 35% of YC's latest batch was made up of AI startups, framing it as a record. By Winter 2024, Crunchbase noted that about half the batch was built with AI, and by Summer 2024 multiple outlets put the AI share near three-quarters of all funded companies.",
+          "The trigger was external as much as internal. OpenAI's release of ChatGPT in November 2022, on the heels of GPT-3 and a wave of open foundation models, collapsed the cost and skill required to build a useful AI product. Suddenly two-person teams could wrap a frontier model in a vertical workflow and show real usage within weeks. That maps cleanly onto the batches: the AI share climbs steeply across S22, W23 and S23, exactly the cohorts applying after the generative-AI moment became unavoidable."
+        ],
+        "zh": [
+          "AI 在 YC 一直存在,但在 2010 年代多數時間裡只是少數派。轉折點從 W21 那一屆開始出現。2021 年冬季是 YC 第一個全遠端、規模大幅擴張的梯隊,約有 350 家公司,其中真正以 AI 為核心的仍只佔一小部分。兩年後,情況完全改觀。2023 年 6 月,彭博社報導 YC 最新一屆有 35% 是 AI 新創,並稱這是當時的紀錄。到了 2024 年冬季,Crunchbase 指出該屆約有一半的公司是以 AI 打造;而到 2024 年夏季,多家媒體估計 AI 公司的比例已逼近所有獲投公司的四分之三。",
+          "引爆點來自外部,也來自內部。OpenAI 在 2022 年 11 月推出 ChatGPT,加上先前的 GPT-3 與一波開源基礎模型,讓打造一個實用 AI 產品所需的成本與門檻大幅崩跌。突然之間,兩人團隊就能把前沿模型包進一個垂直工作流,並在數週內展現真實的使用量。這與各梯隊的曲線高度吻合:AI 比例在 S22、W23、S23 急遽攀升,正好是在生成式 AI 時刻變得無可迴避之後才申請的那幾屆。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Who got funded", "zh": "誰拿到了投資" },
+      "paragraphs": {
+        "en": [
+          "The AI batches are not monolithic. The early surge was dominated by copilots and assistants layered onto existing jobs. Vapi (W21) built voice AI for developers; Julius (S22) marketed itself as an AI data scientist; Juicebox (S22) used AI for talent sourcing. By W24, voice and contact-center plays like Retell AI showed how quickly a single capability, in this case natural-sounding phone agents, could anchor a company. The common thread is narrowness: pick one painful task in one industry, and let the model do the heavy lifting.",
+          "What is notable is how little these companies resemble the deep-tech AI labs of the prior decade. Almost none train their own frontier models. They are application-layer businesses betting that distribution, workflow integration and proprietary data, not model weights, are where durable value sits. That is a deliberate bet, and a fragile one: it leaves many of them exposed to the same foundation-model providers they depend on, a tension YC partners openly acknowledge."
+        ],
+        "zh": [
+          "這些 AI 梯隊並非鐵板一塊。早期的爆發以「副駕(copilot)」與套在既有職務上的助理為主。Vapi(W21)為開發者打造語音 AI;Julius(S22)把自己定位成 AI 資料科學家;Juicebox(S22)用 AI 做人才搜尋。到了 W24,像 Retell AI 這類語音與客服中心應用,顯示出單一能力,也就是自然擬真的電話語音代理,能多快地撐起一家公司。共通點在於「窄」:挑一個產業裡一項痛苦的任務,讓模型扛起重活。",
+          "值得注意的是,這些公司與前一個十年的深度科技 AI 實驗室幾乎不像。它們幾乎都不自己訓練前沿模型,而是應用層的生意,賭的是通路、工作流整合與專有資料,而非模型權重,才是長期價值所在。這是一個刻意的選擇,卻也是脆弱的:它讓許多公司暴露在它們所依賴的同一批基礎模型供應商之下,這份張力連 YC 合夥人也公開承認。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "How RFS steered the fleet", "zh": "RFS 如何為船隊掌舵" },
+      "paragraphs": {
+        "en": [
+          "YC did not merely ride the wave; it shaped it through its Requests for Startups (RFS), a long-running tradition of publishing the ideas partners most want to see built. After Garry Tan became president in January 2023, the RFS leaned hard into AI. Successive lists asked for AI copilots, then AI agents, and eventually full AI-native companies, with Tan publicly urging founders to treat AI agents 'not as features but as the core operating system of brand-new companies and industries.' Specific verticals were named repeatedly: insurance brokerage, accounting, tax, compliance and healthcare administration.",
+          "RFS is non-binding, framed as extra validation rather than a requirement, but its gravitational pull on a self-selecting applicant pool is real. When the institution that funds you publishes a list dominated by AI, and revenue at AI startups in the batch reportedly grows 10-20% weekly versus the historical 2-4%, the incentive is unambiguous. The recent batches read less like an open call and more like a curated thesis on where software is heading."
+        ],
+        "zh": [
+          "YC 不只是搭上浪潮,更透過「Requests for Startups」(RFS,徵求新創)在塑造它,這是一項由來已久的傳統:合夥人會公布他們最想看到被做出來的點子。在 Garry Tan 於 2023 年 1 月接任總裁後,RFS 大力倒向 AI。歷次清單先是徵求 AI 副駕,接著是 AI 代理,最終是完整的 AI 原生公司;Tan 更公開呼籲創辦人把 AI 代理「視為全新公司與產業的核心作業系統,而非附加功能」。多項垂直領域被反覆點名:保險經紀、會計、稅務、合規與醫療行政。",
+          "RFS 並無約束力,被定位為額外的肯定而非門檻,但它對一個自我篩選的申請者群體所產生的引力是真實的。當投資你的機構公布一份由 AI 主導的清單,而梯隊中 AI 新創的營收據稱每週成長 10–20%(相較於歷史上的 2–4%),誘因便毫不含糊。近幾屆與其說是一場開放招募,更像是一份關於軟體走向、經過精心策劃的論點。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "The AI wave reveals YC less as a passive index of startup trends than as an active force that helps set them. By concentrating its RFS, its capital and its narrative on AI, YC manufactured part of the very surge its batch statistics now measure, a useful reminder that a 75% AI batch reflects YC's preferences as much as the market's. The open question is whether an application layer built almost entirely on someone else's models is a durable industry or a leveraged bet on the next price cut.",
+    "zh": "AI 浪潮顯示出,YC 與其說是被動反映新創趨勢的指標,不如說是主動參與設定趨勢的力量。透過把 RFS、資本與敘事都集中在 AI 上,YC 親手製造了一部分如今被其梯隊統計所量測的爆發,這提醒我們:一屆 75% 是 AI 的數字,反映的是 YC 的偏好,不下於市場的偏好。真正懸而未決的問題是:一個幾乎完全建立在別人模型之上的應用層,究竟是一個能長久存在的產業,還是一場押注於下一次降價的槓桿賭注。"
+  }
+}

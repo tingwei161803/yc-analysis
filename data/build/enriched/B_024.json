@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "hotplate",
+    "summary": {
+      "en": "Online ordering platform for independent chefs and bakers to sell food.",
+      "zh": "供獨立廚師與烘焙師販售食物的線上點餐平台。"
+    },
+    "highlight": {
+      "en": "Lets any cook set up a storefront, announce a sale, and coordinate local pickups with thousands of customers in about a 10-minute setup.",
+      "zh": "讓任何廚師約十分鐘內就能建立店面、發布開賣訊息,並與數千名顧客協調在地取貨。"
+    }
+  },
+  {
+    "slug": "farel",
+    "summary": {
+      "en": "A next-generation operating system for airlines.",
+      "zh": "為航空公司打造的次世代作業系統。"
+    },
+    "highlight": {
+      "en": "Replaces outdated, fragmented airline systems with one integrated platform spanning availability, pricing, reservations, revenue management, apps, and departure control.",
+      "zh": "以單一整合平台取代過時且零散的航空系統,涵蓋艙位、定價、訂位、營收管理、消費端應用程式與離站控制。"
+    }
+  },
+  {
+    "slug": "letter",
+    "summary": {
+      "en": "Beautifully designed banking built for high-net-worth individuals.",
+      "zh": "專為高淨值人士打造、設計精美的銀行服務。"
+    },
+    "highlight": {
+      "en": "Lets customers issue custom debit cards to family and staff, automate charitable giving, and access exclusive investment and lending deals via its marketplace.",
+      "zh": "讓客戶為家人與員工發行客製化簽帳卡、自動進行慈善捐款,並透過其市集取得專屬投資與借貸機會。"
+    }
+  },
+  {
+    "slug": "dumps",
+    "summary": {
+      "en": "An app where friends connect through photos and chaotic messaging.",
+      "zh": "讓朋友透過照片與隨興訊息保持連結的社交應用程式。"
+    },
+    "highlight": {
+      "en": "Aimed at users who want an expressive, low-stakes space to share their lives and interact, rather than a polished, performative social feed.",
+      "zh": "鎖定想要一個自在、無壓力空間來分享生活與互動的使用者,而非精緻、表演式的社群動態。"
+    }
+  },
+  {
+    "slug": "vena-vitals",
+    "summary": {
+      "en": "A small wearable sticker that continuously monitors blood pressure.",
+      "zh": "可持續監測血壓的小型貼片穿戴裝置。"
+    },
+    "highlight": {
+      "en": "Built by serial health-tech scientists, the sticker has been shown in the operating room to match the best clinical tools at a fraction of the cost.",
+      "zh": "由連續創業的健康科技科學家打造,該貼片已在手術室證實精準度媲美最佳臨床工具,成本卻只是其零頭。"
+    }
+  },
+  {
+    "slug": "capway",
+    "summary": {
+      "en": "An inclusive financial technology provider for the cashless economy.",
+      "zh": "為無現金經濟打造的普惠金融科技服務商。"
+    },
+    "highlight": {
+      "en": "Combines digital banking, savings tools, and financial content to serve people moving away from traditional finance, using a B2C and B2B2C acquisition strategy.",
+      "zh": "結合數位銀行、儲蓄工具與金融內容,服務脫離傳統金融體系的族群,並採用 B2C 與 B2B2C 的獲客策略。"
+    }
+  },
+  {
+    "slug": "response",
+    "summary": {
+      "en": "Turns unstructured customer emails into ERP-ready draft orders.",
+      "zh": "將零散的客戶電子郵件轉成可直接匯入 ERP 的訂單草稿。"
+    },
+    "highlight": {
+      "en": "Builds an action layer for the 70%+ of B2B trade done by email, PDF, and phone, letting teams scale order volume without retraining customers or adding staff.",
+      "zh": "為超過七成仍透過郵件、PDF 與電話進行的 B2B 交易打造行動層,讓團隊無需重新訓練客戶或增聘人力即可擴大訂單量。"
+    }
+  },
+  {
+    "slug": "dialect",
+    "summary": {
+      "en": "Makes internet experiences distributable and actionable everywhere.",
+      "zh": "讓網路體驗可在任何地方傳遞與直接操作。"
+    },
+    "highlight": {
+      "en": "Uses blockchain links (\"blinks\") to unbundle product experiences from apps and sites, letting users take instant, no-redirect actions wherever they are.",
+      "zh": "運用區塊鏈連結(blinks)將產品體驗從應用程式與網站中解綁,讓使用者在任何位置都能即時、免跳轉地完成操作。"
+    }
+  },
+  {
+    "slug": "speedscale",
+    "summary": {
+      "en": "Validates code by simulating production conditions with real traffic.",
+      "zh": "以真實流量模擬生產環境條件來驗證程式碼。"
+    },
+    "highlight": {
+      "en": "Replays real, sanitized traffic in Kubernetes to catch performance defects before release, cutting weeks-long test cycles down to a few days.",
+      "zh": "在 Kubernetes 中重播經去敏的真實流量,於上線前抓出效能缺陷,將長達數週的測試週期縮短至數天。"
+    }
+  },
+  {
+    "slug": "yotta",
+    "summary": {
+      "en": "A savings app that pays interest plus weekly prize draws up to $10M.",
+      "zh": "提供利息並附帶每週最高千萬美元抽獎的儲蓄應用程式。"
+    },
+    "highlight": {
+      "en": "Users earn over twice the national average interest rate and get weekly chances to win prizes up to $10 million through random number drawings.",
+      "zh": "使用者可獲得超過全國平均兩倍的利率,並透過每週隨機號碼抽獎,有機會贏得最高一千萬美元的獎金。"
+    }
+  },
+  {
+    "slug": "nabla-bio",
+    "summary": {
+      "en": "Uses AI to design antibodies for hard-to-treat diseases.",
+      "zh": "運用 AI 為難治疾病設計抗體。"
+    },
+    "highlight": {
+      "en": "Pairs AI with massively parallel experimentation to design antibodies that bind targets precisely while minimizing manufacturability and toxicity risks.",
+      "zh": "結合 AI 與大規模平行實驗,設計能精準結合標靶並降低製造難度與毒性風險的抗體。"
+    }
+  },
+  {
+    "slug": "memberstack",
+    "summary": {
+      "en": "Build a custom SaaS or membership site with Webflow or WordPress.",
+      "zh": "用 Webflow 或 WordPress 打造客製化 SaaS 或會員網站。"
+    },
+    "highlight": {
+      "en": "Powers authentication and recurring payments for membership sites, offering no-code setup, APIs, and full design control over any frontend.",
+      "zh": "為會員網站提供身分驗證與訂閱付款功能,支援無程式碼設定、API,並可完全掌控任何前端設計。"
+    }
+  },
+  {
+    "slug": "brevy",
+    "summary": {
+      "en": "AI and automation to empower customer service teams.",
+      "zh": "以 AI 與自動化賦能客服團隊。"
+    },
+    "highlight": {
+      "en": "An AI chatbot that uses large language models to resolve e-commerce support tickets with human-level accuracy at a fraction of the cost.",
+      "zh": "一款運用大型語言模型的 AI 聊天機器人,以媲美真人的準確度解決電商客服工單,成本卻大幅降低。"
+    }
+  },
+  {
+    "slug": "unfaze-ai",
+    "summary": {
+      "en": "Create stunning product images and short-form promo videos 10x faster.",
+      "zh": "以十倍速製作精美產品圖片與短影音宣傳片。"
+    },
+    "highlight": {
+      "en": "Targets marketers and online sellers who need professional product visuals and promotional videos generated far faster than traditional production.",
+      "zh": "鎖定需要遠比傳統製作更快產出專業產品視覺與宣傳影片的行銷人員與線上賣家。"
+    }
+  },
+  {
+    "slug": "racer",
+    "summary": {
+      "en": "A 15-minute food delivery service.",
+      "zh": "提供十五分鐘到貨的外送服務。"
+    },
+    "highlight": {
+      "en": "Competes on speed, promising food delivery within roughly 15 minutes of ordering.",
+      "zh": "以速度為競爭核心,主打從下單到送達約十五分鐘內完成的外送。"
+    }
+  },
+  {
+    "slug": "adyn",
+    "summary": {
+      "en": "The first test designed to prevent birth control side effects.",
+      "zh": "首款專為預防避孕藥副作用而設計的檢測。"
+    },
+    "highlight": {
+      "en": "Helps people choose contraception that fits their biology, aiming to head off side effects before they happen rather than treating them afterward.",
+      "zh": "協助使用者選擇符合自身生理狀況的避孕方式,目標是在副作用發生前先行預防,而非事後處理。"
+    }
+  },
+  {
+    "slug": "ukama",
+    "summary": {
+      "en": "Empowers anyone to build their own cellular network.",
+      "zh": "讓任何人都能自建行動通訊網路。"
+    },
+    "highlight": {
+      "en": "Provides the tools to let individuals and organizations deploy their own cellular networks rather than depending solely on large carriers.",
+      "zh": "提供讓個人與組織自行部署行動網路的工具,不必完全依賴大型電信業者。"
+    }
+  },
+  {
+    "slug": "clearmix",
+    "summary": {
+      "en": "An on-demand, fully remote marketing and sales video production platform.",
+      "zh": "隨需的全遠端行銷與業務影片製作平台。"
+    },
+    "highlight": {
+      "en": "Connects expert producers with guests to record marketing videos remotely from anywhere, producing them 4x faster and at 10x lower cost.",
+      "zh": "媒合專業製片與來賓在任何地點遠端錄製行銷影片,製作速度快四倍、成本低十倍。"
+    }
+  },
+  {
+    "slug": "vectrix",
+    "summary": {
+      "en": "Scan your SaaS apps and instantly surface security issues.",
+      "zh": "掃描你的 SaaS 應用程式並即時找出安全問題。"
+    },
+    "highlight": {
+      "en": "Scans tools like Google Workspace, Microsoft 365, Slack, Zoom, and GitHub to flag risks such as public file sharing or missing two-factor auth in real time.",
+      "zh": "掃描 Google Workspace、Microsoft 365、Slack、Zoom 與 GitHub 等工具,即時標示公開檔案分享或未啟用雙重驗證等風險。"
+    }
+  },
+  {
+    "slug": "stacker",
+    "summary": {
+      "en": "Turns spreadsheets into internal apps and customer portals.",
+      "zh": "將試算表轉成內部應用程式與客戶入口網站。"
+    },
+    "highlight": {
+      "en": "Connects to spreadsheets, Airtable, or a database and automatically builds an app for teams, partners, or customers from data they already use.",
+      "zh": "連接試算表、Airtable 或資料庫,並依既有資料自動為團隊、合作夥伴或客戶建立應用程式。"
+    }
+  },
+  {
+    "slug": "hyper-online",
+    "summary": {
+      "en": "A social avatar platform for VTubers.",
+      "zh": "為 VTuber 打造的社交虛擬替身平台。"
+    },
+    "highlight": {
+      "en": "Uses computer vision and motion capture so creators can pilot 3D avatars, and became the #1 US VTubing app on iOS, backed by investors including Amazon.",
+      "zh": "運用電腦視覺與動作捕捉讓創作者操控 3D 虛擬替身,並成為美國 iOS 上排名第一的 VTubing 應用程式,投資人包含 Amazon。"
+    }
+  },
+  {
+    "slug": "drapr",
+    "summary": {
+      "en": "Lets shoppers try on clothing online.",
+      "zh": "讓消費者在線上試穿服飾。"
+    },
+    "highlight": {
+      "en": "Provides virtual try-on technology that apparel brands embed to help shoppers visualize fit and boost online sales.",
+      "zh": "提供服飾品牌嵌入的虛擬試穿技術,協助消費者預覽合身度並提升線上銷售。"
+    }
+  },
+  {
+    "slug": "cohere",
+    "summary": {
+      "en": "Genuinely intelligent customer support automation.",
+      "zh": "真正智慧的客服自動化。"
+    },
+    "highlight": {
+      "en": "Uses AI to resolve 40-70% of customer support requests across all channels within just a few days of deployment.",
+      "zh": "運用 AI 在部署後短短幾天內,即可跨所有管道解決四到七成的客服請求。"
+    }
+  },
+  {
+    "slug": "payflow-2",
+    "summary": {
+      "en": "An AI FP&A agent for insights, reporting, planning, and forecasting.",
+      "zh": "用於分析洞察、報表、規劃與預測的 AI 財務規劃分析代理。"
+    },
+    "highlight": {
+      "en": "Builds Luca, a Level-3 autonomous AI FP&A analyst that the company says saves firms tens of thousands of dollars and 400+ hours per year from week one.",
+      "zh": "打造 Luca,一個第三級自主的 AI 財務規劃分析師,公司表示可從第一週起為企業每年省下數萬美元與四百多個工時。"
+    }
+  },
+  {
+    "slug": "matter",
+    "summary": {
+      "en": "A modern reading app building the future of reading.",
+      "zh": "打造閱讀未來的現代化閱讀應用程式。"
+    },
+    "highlight": {
+      "en": "Saves media from anywhere, pulls in your newsletters, and can read articles aloud in a natural voice, bringing scattered reading into one place.",
+      "zh": "可從任何來源儲存內容、匯入電子報,並以自然語音朗讀文章,將分散的閱讀整合於一處。"
+    }
+  },
+  {
+    "slug": "basedash",
+    "summary": {
+      "en": "An AI-native business intelligence platform.",
+      "zh": "以 AI 為核心的商業智慧平台。"
+    },
+    "highlight": {
+      "en": "Connects 500+ data sources and lets users build dashboards and answer questions about their customers in natural language, with Basedash visualizing the result.",
+      "zh": "連接超過 500 個資料來源,讓使用者以自然語言建立儀表板並了解客戶,並由 Basedash 將答案視覺化。"
+    }
+  },
+  {
+    "slug": "salesform",
+    "summary": {
+      "en": "Qualify, route, and convert more inbound leads.",
+      "zh": "對更多入站名單進行分級、分派並提升轉換。"
+    },
+    "highlight": {
+      "en": "Two-way syncs with your sales stack and adds native enrichment to power routing rules and auto-replies for demo requests, helping teams reach target customers faster.",
+      "zh": "與你的銷售工具雙向同步,並加上原生資料補強,驅動分派規則與試用申請的自動回覆,讓團隊更快接觸目標客戶。"
+    }
+  },
+  {
+    "slug": "gather",
+    "summary": {
+      "en": "Project management software for People Operations teams.",
+      "zh": "為人力營運團隊打造的專案管理軟體。"
+    },
+    "highlight": {
+      "en": "Helps high-growth teams run onboarding, offboarding, and other People Ops programs, replacing manual coordination with automation via a deep Slack integration.",
+      "zh": "協助高速成長團隊執行員工入職、離職等人力營運流程,透過深度整合 Slack 以自動化取代人工協調。"
+    }
+  },
+  {
+    "slug": "biocogniv",
+    "summary": {
+      "en": "Biocogniv builds AI software for healthcare.",
+      "zh": "Biocogniv 為醫療領域打造 AI 軟體。"
+    },
+    "highlight": {
+      "en": "A healthcare AI company applying machine learning to clinical use cases.",
+      "zh": "一家將機器學習應用於臨床場景的醫療 AI 公司。"
+    }
+  },
+  {
+    "slug": "mozper",
+    "summary": {
+      "en": "A debit card and app designed for kids and parents in Latin America.",
+      "zh": "為拉丁美洲的孩童與家長設計的簽帳卡與應用程式。"
+    },
+    "highlight": {
+      "en": "Digitizes the weekly allowance: parents give kids an allowance, set spending rules, assign chores, and track savings goals; currently available in Mexico.",
+      "zh": "將每週零用錢數位化:家長可發給孩子零用錢、設定消費規則、指派家務並追蹤儲蓄目標,目前在墨西哥提供服務。"
+    }
+  },
+  {
+    "slug": "tella",
+    "summary": {
+      "en": "An all-in-one screen recorder.",
+      "zh": "一站式螢幕錄影工具。"
+    },
+    "highlight": {
+      "en": "Lets users record quick team video messages, polished product demos for social, and long-form YouTube content, all in one app with one subscription.",
+      "zh": "讓使用者在單一應用程式與單一訂閱中,錄製快速的團隊影片訊息、適合社群的精緻產品演示,以及長篇 YouTube 內容。"
+    }
+  },
+  {
+    "slug": "scrimba",
+    "summary": {
+      "en": "Trains people into hireable developers for 1% of a coding bootcamp's price.",
+      "zh": "以程式訓練營百分之一的價格,把人培養成可受雇的開發者。"
+    },
+    "highlight": {
+      "en": "A coding course platform with 120K+ monthly active students, built on an interactive screencast format that students can edit directly and teachers create easily.",
+      "zh": "一個每月超過 12 萬活躍學生的程式課程平台,採用可讓學生直接編輯、教師易於製作的互動式螢幕錄影格式。"
+    }
+  },
+  {
+    "slug": "mobius-materials",
+    "summary": {
+      "en": "The spot market for semiconductors.",
+      "zh": "半導體的現貨交易市場。"
+    },
+    "highlight": {
+      "en": "A safe spot market for electronic components like microcontrollers and capacitors, helping electronics manufacturers buy and sell chips quickly at market prices.",
+      "zh": "為微控制器、電容器等電子元件打造的安全現貨市場,協助電子製造商以市場價格快速買賣晶片。"
+    }
+  },
+  {
+    "slug": "nextstore",
+    "summary": {
+      "en": "Mobile-optimized storefronts for Shopify merchants.",
+      "zh": "為 Shopify 商家打造的行動裝置優化店面。"
+    },
+    "highlight": {
+      "en": "An opinionated, low-code, mobile-native website builder focused on performance, fitting analytics, and sleek UX for e-merchants.",
+      "zh": "一款主打效能、合適分析與俐落使用體驗的有主見、低程式碼、行動原生網站建構工具,專為電商賣家設計。"
+    }
+  },
+  {
+    "slug": "reflect",
+    "summary": {
+      "en": "No-code test automation for web apps.",
+      "zh": "為網頁應用程式打造的無程式碼測試自動化。"
+    },
+    "highlight": {
+      "en": "Lets companies run automated end-to-end website tests without writing code, replacing the work of building and maintaining complex Selenium tests.",
+      "zh": "讓企業無需寫程式即可執行自動化的端對端網站測試,取代建置與維護繁複 Selenium 測試的工作。"
+    }
+  },
+  {
+    "slug": "fig",
+    "summary": {
+      "en": "Adds visual apps, shortcuts, and autocomplete to your terminal.",
+      "zh": "為你的終端機加上視覺化應用、快捷鍵與自動完成。"
+    },
+    "highlight": {
+      "en": "Re-imagines the terminal to be more approachable for beginners and more productive for advanced engineers, starting with autocomplete and an App Store ecosystem.",
+      "zh": "重新構想終端機,讓新手更易上手、讓資深工程師更有生產力,從自動完成與終端機 App Store 生態系起步。"
+    }
+  },
+  {
+    "slug": "queue",
+    "summary": {
+      "en": "An all-in-one platform for agencies to launch and grow.",
+      "zh": "讓代理商上線並成長的一站式平台。"
+    },
+    "highlight": {
+      "en": "Integrates with an agency's website so clients can buy services, access a portal, submit tasks, and review work, covering everything for productized services.",
+      "zh": "與代理商網站整合,讓客戶可購買服務、進入專屬入口、提交任務並審核成果,完整支援產品化服務的各環節。"
+    }
+  },
+  {
+    "slug": "strive-school",
+    "summary": {
+      "en": "Trains the next generation of software engineers in Europe.",
+      "zh": "培育歐洲新一代軟體工程師。"
+    },
+    "highlight": {
+      "en": "Runs a six-month online program funded by an income share of students' future salaries, turning STEM learners into job-ready software engineers.",
+      "zh": "透過以學生未來薪資分成支應的六個月線上課程,將理工科學習者培養成可立即就業的軟體工程師。"
+    }
+  },
+  {
+    "slug": "gitduck",
+    "summary": {
+      "en": "Video chat with real-time collaboration for teams.",
+      "zh": "為團隊提供即時協作的視訊通話。"
+    },
+    "highlight": {
+      "en": "Lets teammates join via a simple URL and click, type, browse, share code from their IDE, or share a terminal session together, all with high-quality audio and video.",
+      "zh": "讓隊友透過簡單網址加入,共同點擊、輸入、瀏覽,從 IDE 分享程式碼或共享終端機工作階段,並搭配高品質音訊與視訊。"
+    }
+  },
+  {
+    "slug": "omni",
+    "summary": {
+      "en": "Fast, up-to-date answers for sales and support teams.",
+      "zh": "為業務與客服團隊提供快速且即時更新的解答。"
+    },
+    "highlight": {
+      "en": "A Chrome extension that helps teams manage internal knowledge and keep it current, surfacing bite-sized answers within their natural workflow.",
+      "zh": "一款 Chrome 擴充功能,協助團隊管理內部知識並維持最新,在自然工作流程中提供簡短易讀的解答。"
+    }
+  },
+  {
+    "slug": "buildspace",
+    "summary": {
+      "en": "A place where people build cool projects from zero.",
+      "zh": "讓人們從零打造有趣作品的地方。"
+    },
+    "highlight": {
+      "en": "Runs Nights & Weekends, a six-week program to start any idea on the side; in 2023 over 30,000 people joined and 1,000 flew in for a three-day event.",
+      "zh": "舉辦為期六週的 Nights & Weekends 計畫,讓人利用業餘時間從零實現任何點子;2023 年逾三萬人參與,一千人飛來參加三天活動。"
+    }
+  },
+  {
+    "slug": "nephrogen",
+    "summary": {
+      "en": "Curative genetic medicines for kidney diseases.",
+      "zh": "針對腎臟疾病的根治性基因藥物。"
+    },
+    "highlight": {
+      "en": "A Stanford spin-out combining AI and high-throughput screening to engineer gene-delivery vehicles for the kidney and pancreas, neither of which has approved gene therapies.",
+      "zh": "一家史丹佛衍生公司,結合 AI 與高通量篩選,為腎臟與胰臟設計基因遞送載體,而這兩種疾病目前皆無核准的基因療法。"
+    }
+  },
+  {
+    "slug": "virtually",
+    "summary": {
+      "en": "The \"Shopify\" for online schools.",
+      "zh": "線上學校版的「Shopify」。"
+    },
+    "highlight": {
+      "en": "A \"Student Relationship Manager\" for online schools that tracks Zoom attendance, sends reminders, and bridges the gap between educators and students.",
+      "zh": "為線上學校打造的「學生關係管理系統」,可追蹤 Zoom 出席、發送提醒,並拉近教育者與學生間的距離。"
+    }
+  },
+  {
+    "slug": "parade",
+    "summary": {
+      "en": "Launch your company without hiring a designer.",
+      "zh": "不必聘請設計師即可讓公司上線。"
+    },
+    "highlight": {
+      "en": "Uses machine learning and simple questions to translate a founder's vision into a design aesthetic, then launches a website, emails, and social posts in under 10 minutes.",
+      "zh": "透過機器學習與簡單提問,將創辦人的願景轉化為設計風格,並在十分鐘內推出網站、行銷郵件與社群貼文。"
+    }
+  },
+  {
+    "slug": "rarebird",
+    "summary": {
+      "en": "Elevating mental health into your daily coffee ritual.",
+      "zh": "將心理健康融入你的每日咖啡儀式。"
+    },
+    "highlight": {
+      "en": "Makes coffee for caffeine-sensitive people using paraxanthine, a caffeine replacement it says wakes you up better with fewer side effects like anxiety and jitters.",
+      "zh": "為對咖啡因敏感的人製作咖啡,採用咖啡因替代物副黃嘌呤,公司宣稱提神效果更好且較少焦慮與手抖等副作用。"
+    }
+  },
+  {
+    "slug": "overfit",
+    "summary": {
+      "en": "Pairs a human accountability coach with AI for personalized workouts.",
+      "zh": "結合真人督促教練與 AI,提供個人化健身課表。"
+    },
+    "highlight": {
+      "en": "Blends a human coach for accountability with AI that tailors workouts to each user, aiming to keep people consistent with their fitness goals.",
+      "zh": "結合負責督促的真人教練與為每位使用者量身打造課表的 AI,目標是幫助人們持之以恆達成健身目標。"
+    }
+  },
+  {
+    "slug": "reploy",
+    "summary": {
+      "en": "Instant, shareable staging environments for web apps.",
+      "zh": "為網頁應用程式提供即時、可分享的測試環境。"
+    },
+    "highlight": {
+      "en": "Generates full-stack staging environments or \"previews\" on every pull request, so teams can share changes instantly with everyone and move faster.",
+      "zh": "為每個 pull request 自動產生全端測試環境或「預覽」,讓團隊能即時與所有人分享變更並加快開發速度。"
+    }
+  },
+  {
+    "slug": "jitsu",
+    "summary": {
+      "en": "An open-source customer data platform (acquired by Helium Ventures).",
+      "zh": "一個開源客戶資料平台(已被 Helium Ventures 收購)。"
+    },
+    "highlight": {
+      "en": "A 100% open-source, fast, durable way to collect event data from web, app, email, chatbot, and CRM into a data warehouse, ready in minutes.",
+      "zh": "一個百分之百開源、快速且穩定的方案,可將網頁、應用程式、電子郵件、聊天機器人與 CRM 的事件資料匯入資料倉儲,數分鐘內即可就緒。"
+    }
+  },
+  {
+    "slug": "bandit-ml",
+    "summary": {
+      "en": "Builds machine learning tools for e-commerce companies.",
+      "zh": "為電商公司打造機器學習工具。"
+    },
+    "highlight": {
+      "en": "Provides machine learning tooling tailored to the needs of e-commerce businesses.",
+      "zh": "提供專為電商業者需求量身打造的機器學習工具。"
+    }
+  },
+  {
+    "slug": "safepay",
+    "summary": {
+      "en": "Digital payments for businesses in Pakistan.",
+      "zh": "為巴基斯坦企業提供數位支付。"
+    },
+    "highlight": {
+      "en": "Offers a single integrated payments solution interoperating with local and international payment options, focused on Pakistan and neighboring economies.",
+      "zh": "提供與本地及國際支付方式互通的單一整合支付方案,聚焦巴基斯坦及鄰近經濟體。"
+    }
+  },
+  {
+    "slug": "webapp-io",
+    "summary": {
+      "en": "Build web apps faster with 10x better CI/CD and preview environments.",
+      "zh": "以十倍更佳的 CI/CD 與預覽環境加速網頁應用程式開發。"
+    },
+    "highlight": {
+      "en": "A custom hypervisor makes web-app CI/CD, end-to-end testing, and preview environments as simple as writing a Dockerfile for teams on GitHub, GitLab, or Bitbucket.",
+      "zh": "客製化的虛擬機監督器讓網頁應用程式的 CI/CD、端對端測試與預覽環境就像撰寫 Dockerfile 一樣簡單,適用 GitHub、GitLab 或 Bitbucket 團隊。"
+    }
+  },
+  {
+    "slug": "tappity",
+    "summary": {
+      "en": "The world's largest library of interactive lessons for kids.",
+      "zh": "全球最大的兒童互動課程資料庫。"
+    },
+    "highlight": {
+      "en": "Starts with science, gathering every topic kids love in one place taught by entertaining instructors through interactive lessons.",
+      "zh": "從科學起步,將孩子喜愛的各種主題集於一處,由生動有趣的講師透過互動課程教授。"
+    }
+  },
+  {
+    "slug": "intelligent",
+    "summary": {
+      "en": "Demand forecasting delivered as a service.",
+      "zh": "以服務形式提供的需求預測。"
+    },
+    "highlight": {
+      "en": "Uses granular, high-accuracy demand forecasting to help businesses align staffing to demand, avoiding the cost of being over- or under-staffed.",
+      "zh": "運用細緻、高準確度的需求預測,協助企業讓人力配置貼合需求,避免人力過剩或不足的成本。"
+    }
+  },
+  {
+    "slug": "panadata",
+    "summary": {
+      "en": "Runs background checks on businesses using Panama's public records.",
+      "zh": "運用巴拿馬公開紀錄對企業進行背景查核。"
+    },
+    "highlight": {
+      "en": "Trusted by Panama's largest banks, law firms, banking regulators, ports, and embassies for due diligence, commercial intelligence, and compliance.",
+      "zh": "受巴拿馬最大型銀行、律師事務所、銀行監管機構、港口與大使館信賴,用於盡職調查、商業情報與法遵。"
+    }
+  },
+  {
+    "slug": "dataland",
+    "summary": {
+      "en": "AI agents for customer support.",
+      "zh": "用於客戶支援的 AI 代理。"
+    },
+    "highlight": {
+      "en": "An applied AI lab for complex operations and support that, as just two founders, reached multi-million-dollar ARR and profitability within eight months.",
+      "zh": "一個專注於複雜營運與客服的應用 AI 實驗室,僅由兩位創辦人經營,八個月內即達到數百萬美元年經常性收入並轉為獲利。"
+    }
+  },
+  {
+    "slug": "insoma-bio",
+    "summary": {
+      "en": "Helping plastic surgeons rebuild fat tissue.",
+      "zh": "協助整形外科醫師重建脂肪組織。"
+    },
+    "highlight": {
+      "en": "Develops technology that helps plastic surgeons rebuild fat tissue in reconstructive procedures.",
+      "zh": "開發協助整形外科醫師在重建手術中重建脂肪組織的技術。"
+    }
+  },
+  {
+    "slug": "sonar",
+    "summary": {
+      "en": "Minecraft meets Discord.",
+      "zh": "結合 Minecraft 與 Discord 的社群體驗。"
+    },
+    "highlight": {
+      "en": "Blends the social communication of Discord with the shared, game-like world of Minecraft into one experience.",
+      "zh": "將 Discord 的社群溝通與 Minecraft 共享的遊戲世界融合成單一體驗。"
+    }
+  },
+  {
+    "slug": "jemi",
+    "summary": {
+      "en": "Helps people build beautiful websites and online stores.",
+      "zh": "協助人們打造精美的網站與線上商店。"
+    },
+    "highlight": {
+      "en": "Lets creators and entrepreneurs build a beautiful website and online store to grow their business online, with no coding or design background required.",
+      "zh": "讓創作者與創業者無需程式或設計背景,即可打造精美網站與線上商店,在網路上成長事業。"
+    }
+  },
+  {
+    "slug": "rume",
+    "summary": {
+      "en": "Video chat that doesn't feel like work.",
+      "zh": "不像在開會的視訊聊天。"
+    },
+    "highlight": {
+      "en": "Re-creates the social dynamics of an in-person event, letting people have smaller conversations and fluidly move between groups instead of sitting around one table.",
+      "zh": "重現實體聚會的社交氛圍,讓人們可進行小型對話,並在群組間自由移動,而非圍坐一桌。"
+    }
+  },
+  {
+    "slug": "nototo",
+    "summary": {
+      "en": "A workspace with a spatial interface.",
+      "zh": "採用空間式介面的工作空間。"
+    },
+    "highlight": {
+      "en": "Lets you organize all of your information on a single map, using a spatial layout instead of traditional lists or folders.",
+      "zh": "讓你將所有資訊整理在同一張地圖上,以空間配置取代傳統的清單或資料夾。"
+    }
+  },
+  {
+    "slug": "atomized",
+    "summary": {
+      "en": "Enables teams to deploy without needing a cloud expert.",
+      "zh": "讓團隊不需雲端專家也能部署。"
+    },
+    "highlight": {
+      "en": "Connect a GitHub repo and AWS account and Atomized deploys and manages the infrastructure for you, while it all runs in your own account with full visibility.",
+      "zh": "連接 GitHub 儲存庫與 AWS 帳號,Atomized 便為你部署並管理基礎架構,且一切都在你自有帳號中執行,完全可見可控。"
+    }
+  },
+  {
+    "slug": "sameplan",
+    "summary": {
+      "en": "Customer-facing plans for sales teams and their prospects.",
+      "zh": "供業務團隊與潛在客戶共用的對外協作計畫。"
+    },
+    "highlight": {
+      "en": "A customer-facing collaboration tool that acts as the central hub for complex enterprise deals, replacing scattered email threads with shared alignment.",
+      "zh": "一款對外協作工具,作為複雜企業交易的中央樞紐,以共同對齊取代分散的電子郵件往來。"
+    }
+  },
+  {
+    "slug": "onekey",
+    "summary": {
+      "en": "Find the most profitable sites to build EV charging stations.",
+      "zh": "找出最具獲利潛力的電動車充電站建置地點。"
+    },
+    "highlight": {
+      "en": "Helps operators identify the most profitable locations to build electric vehicle charging stations.",
+      "zh": "協助營運商找出建置電動車充電站最具獲利潛力的地點。"
+    }
+  },
+  {
+    "slug": "mito",
+    "summary": {
+      "en": "Cursor for data analysis.",
+      "zh": "資料分析界的 Cursor。"
+    },
+    "highlight": {
+      "en": "An open-source, Jupyter-based AI IDE where analysts automate reports without engineering help; installable via pip and used at major banks and PE and consulting firms.",
+      "zh": "一款基於 Jupyter 的開源 AI 整合開發環境,讓分析師無需工程支援即可自動化報表;可用 pip 安裝,並被大型銀行、私募基金與顧問公司採用。"
+    }
+  },
+  {
+    "slug": "rally",
+    "summary": {
+      "en": "Rally is Zoom for social events.",
+      "zh": "Rally 是專為社交活動打造的 Zoom。"
+    },
+    "highlight": {
+      "en": "Lets users hop between groups while still seeing and hearing those around them, as if in a shared space; used by institutions like Amazon and Harvard.",
+      "zh": "讓使用者在群組間自由穿梭,同時仍能看到並聽見周遭的人,宛如身處共享空間;Amazon 與哈佛等機構皆有使用。"
+    }
+  },
+  {
+    "slug": "lsk-technologies",
+    "summary": {
+      "en": "A diagnostic lab in a box.",
+      "zh": "盒裝式的診斷實驗室。"
+    },
+    "highlight": {
+      "en": "Packages diagnostic lab capabilities into a portable, self-contained box for testing outside traditional lab settings.",
+      "zh": "將診斷實驗室的能力封裝進可攜、獨立的盒子中,讓檢測得以在傳統實驗室之外進行。"
+    }
+  },
+  {
+    "slug": "monosi",
+    "summary": {
+      "en": "Open-source data observability.",
+      "zh": "開源資料可觀測性平台。"
+    },
+    "highlight": {
+      "en": "An extensible data observability platform that helps teams ensure their data stays reliable.",
+      "zh": "一個可擴充的資料可觀測性平台,協助團隊確保資料維持可靠。"
+    }
+  },
+  {
+    "slug": "foreword",
+    "summary": {
+      "en": "A marketplace for live, online workshops for professionals.",
+      "zh": "面向專業人士的線上即時工作坊市集。"
+    },
+    "highlight": {
+      "en": "Connects professionals with live, online workshops, providing a marketplace for instructor-led learning sessions.",
+      "zh": "將專業人士與線上即時工作坊串接起來,提供由講師帶領的學習課程市集。"
+    }
+  },
+  {
+    "slug": "cradle",
+    "summary": {
+      "en": "A B2B payments network in India.",
+      "zh": "印度的 B2B 支付網路。"
+    },
+    "highlight": {
+      "en": "Lets small businesses in India collect online payments from other businesses for free.",
+      "zh": "讓印度的小型企業免費向其他企業收取線上款項。"
+    }
+  },
+  {
+    "slug": "keydb",
+    "summary": {
+      "en": "A fast key-value database combining caching and persistence.",
+      "zh": "結合快取與持久化的高速鍵值資料庫。"
+    },
+    "highlight": {
+      "en": "Combines in-memory caching and FLASH persistence in a single fast key-value database package.",
+      "zh": "在單一高速鍵值資料庫套件中,結合記憶體內快取與 FLASH 持久化儲存。"
+    }
+  },
+  {
+    "slug": "hellometer",
+    "summary": {
+      "en": "Making fast food faster.",
+      "zh": "讓速食服務更快速。"
+    },
+    "highlight": {
+      "en": "Uses security cameras to measure where and when service slows down; the company says every 7-second improvement in service time lifts revenue by 1%.",
+      "zh": "運用監視攝影機找出服務在何時何處變慢;公司表示服務時間每縮短 7 秒,營收便提升 1%。"
+    }
+  },
+  {
+    "slug": "clew",
+    "summary": {
+      "en": "A unified file system for the cloud.",
+      "zh": "為雲端打造的統一檔案系統。"
+    },
+    "highlight": {
+      "en": "Lets employees see and organize files across all of their work apps from one place.",
+      "zh": "讓員工在同一處檢視並整理散落於各個工作應用程式中的檔案。"
+    }
+  },
+  {
+    "slug": "in-stock",
+    "summary": {
+      "en": "Find any product, in stock nearby.",
+      "zh": "找到附近有現貨的任何商品。"
+    },
+    "highlight": {
+      "en": "Makes it easy to shop from local stores for products in stock nearby and get them delivered the same day.",
+      "zh": "讓人輕鬆向附近有現貨的在地商店購物,並當天送達。"
+    }
+  },
+  {
+    "slug": "memo",
+    "summary": {
+      "en": "Modern communication that helps you get your focus back.",
+      "zh": "幫你找回專注力的現代化溝通工具。"
+    },
+    "highlight": {
+      "en": "Positioned as a feel-good alternative to email and Slack, with features that make every message high value so people can communicate more effectively.",
+      "zh": "定位為電子郵件與 Slack 的舒心替代品,以讓每則訊息都更有價值的設計,幫助人們更有效溝通。"
+    }
+  },
+  {
+    "slug": "liyfe",
+    "summary": {
+      "en": "A digital nurse that automates symptom assessment and risk detection.",
+      "zh": "可自動進行症狀評估與風險偵測的數位護理師。"
+    },
+    "highlight": {
+      "en": "Uses AI to automate oncology nurse triage pathways and detect high-risk patients, aiming to standardize protocols and reduce ER visits and hospitalizations.",
+      "zh": "運用 AI 自動化腫瘤科護理師的分流流程並偵測高風險病患,目標是標準化作業並減少急診就診與住院。"
+    }
+  },
+  {
+    "slug": "nestybox",
+    "summary": {
+      "en": "Lets Linux containers act as fast, efficient virtual machines.",
+      "zh": "讓 Linux 容器表現得像快速、高效的虛擬機。"
+    },
+    "highlight": {
+      "en": "Its Sysbox container runtime integrates with Docker and Kubernetes so containers behave like VMs, offering a cheaper, more flexible, cloud-portable alternative.",
+      "zh": "其 Sysbox 容器執行環境與 Docker 及 Kubernetes 整合,讓容器表現得像虛擬機,提供更便宜、更彈性且跨雲可遷移的替代方案。"
+    }
+  },
+  {
+    "slug": "clover",
+    "summary": {
+      "en": "An all-in-one notebook for creatives to brainstorm, write, and plan.",
+      "zh": "供創作者發想、寫作與規劃的一站式筆記本。"
+    },
+    "highlight": {
+      "en": "A new text editor that explodes linear documents into an infinite \"surface\" for a more visual way to take notes, brainstorm, mind-map, and manage tasks.",
+      "zh": "一款全新的文字編輯器,將線性文件展開成無限的「畫布」,以更視覺化的方式做筆記、發想、繪製心智圖與管理任務。"
+    }
+  },
+  {
+    "slug": "ladder",
+    "summary": {
+      "en": "A labor marketplace for the construction trades.",
+      "zh": "營建技術工種的人力媒合市集。"
+    },
+    "highlight": {
+      "en": "A recruiting platform that connects employers with workers across the construction trades.",
+      "zh": "一個招募平台,媒合雇主與各類營建技術工種的工人。"
+    }
+  },
+  {
+    "slug": "trident-bioscience",
+    "summary": {
+      "en": "Accelerating protein engineering.",
+      "zh": "加速蛋白質工程。"
+    },
+    "highlight": {
+      "en": "Combines predictive models of protein structure with a sequence-optimization algorithm to close the design-build-test loop and bring synthetic proteins to market faster.",
+      "zh": "結合蛋白質結構的預測模型與序列最佳化演算法,閉合設計-建構-測試循環,加快合成蛋白質上市的速度。"
+    }
+  },
+  {
+    "slug": "metamanagement",
+    "summary": {
+      "en": "Helps SaaS companies deploy into their customers' environments.",
+      "zh": "協助 SaaS 公司部署到客戶自有環境。"
+    },
+    "highlight": {
+      "en": "Provides infrastructure that lets SaaS companies run their software inside each customer's own environment.",
+      "zh": "提供基礎架構,讓 SaaS 公司能在每個客戶自有的環境中執行其軟體。"
+    }
+  },
+  {
+    "slug": "together-video-chat",
+    "summary": {
+      "en": "Interactive video chat made for kids and families.",
+      "zh": "專為孩童與家庭打造的互動視訊通話。"
+    },
+    "highlight": {
+      "en": "Transforms video calls for kids and grown-ups by adding educational activities, books, and interactive games that can be played while chatting.",
+      "zh": "為孩童與大人改造視訊通話,加入可在聊天時進行的教育活動、書籍與互動遊戲。"
+    }
+  },
+  {
+    "slug": "openbase",
+    "summary": {
+      "en": "Open-source library discovery (discontinued in 2023).",
+      "zh": "開源套件探索平台(已於 2023 年停止營運)。"
+    },
+    "highlight": {
+      "en": "Was the leading platform for developers to discover and choose open-source libraries, offering reviews, metrics, and insights used by millions of developers.",
+      "zh": "曾是開發者探索與挑選開源套件的領先平台,提供數百萬開發者使用的評論、指標與洞察。"
+    }
+  },
+  {
+    "slug": "jeeves",
+    "summary": {
+      "en": "International banking infrastructure for global startups.",
+      "zh": "為全球新創打造的國際銀行基礎建設。"
+    },
+    "highlight": {
+      "en": "An all-in-one corporate spend platform running cash, cards, and cross-border payments on proprietary infrastructure; over 3,000 companies use it and it has raised $380M.",
+      "zh": "一個一站式企業支出平台,於自有基礎架構上運行現金、企業卡與跨境付款;超過三千家公司使用,並已募得 3.8 億美元。"
+    }
+  },
+  {
+    "slug": "bento",
+    "summary": {
+      "en": "In-product customer activation and onboarding for B2B SaaS.",
+      "zh": "為 B2B SaaS 提供產品內的客戶啟用與導引。"
+    },
+    "highlight": {
+      "en": "Lets B2B SaaS companies build great in-product onboarding 10x faster than in-house, giving users a home base to track progress and revisit completed steps.",
+      "zh": "讓 B2B SaaS 公司以比自建快十倍的速度打造優質產品內導引,讓使用者有個基地可追蹤進度並回看已完成的步驟。"
+    }
+  },
+  {
+    "slug": "rtcanary",
+    "summary": {
+      "en": "A monitoring and analytics plugin for video chat platforms.",
+      "zh": "適用於各視訊通話平台的監控與分析外掛。"
+    },
+    "highlight": {
+      "en": "Helps WebRTC-based video developers understand why calls drop or audio cuts out, so newer video platforms can keep customers despite call-quality issues.",
+      "zh": "協助以 WebRTC 為基礎的視訊開發者了解通話中斷或音訊斷線的原因,讓較新的視訊平台不致因通話品質問題而流失客戶。"
+    }
+  },
+  {
+    "slug": "workbase",
+    "summary": {
+      "en": "A data and workflow platform for B2B account teams.",
+      "zh": "為 B2B 客戶經理團隊打造的資料與工作流程平台。"
+    },
+    "highlight": {
+      "en": "One-click integrates scattered data so account managers get dashboards and priority checklists to proactively save customers and upsell, lifting net retained revenue.",
+      "zh": "一鍵整合分散的資料,讓客戶經理取得儀表板與優先順序清單,主動留住客戶並進行加購,提升淨留存營收。"
+    }
+  },
+  {
+    "slug": "jam-gg",
+    "summary": {
+      "en": "Play couch games online with friends in the browser.",
+      "zh": "在瀏覽器中與朋友線上同樂客廳遊戲。"
+    },
+    "highlight": {
+      "en": "A web platform at the crossroads of online gaming and video chat, with patented technology that cuts the internet bandwidth requirement by 15x on average.",
+      "zh": "一個結合線上遊戲與視訊聊天的網頁平台,其專利技術可將網路頻寬需求平均降低 15 倍。"
+    }
+  },
+  {
+    "slug": "minimum",
+    "summary": {
+      "en": "Helps corporates reach Net Zero through technology.",
+      "zh": "透過科技協助企業邁向淨零。"
+    },
+    "highlight": {
+      "en": "Lets businesses, whether a corporate or an investment fund, calculate, report on, and reduce their carbon emissions.",
+      "zh": "讓企業,無論是公司或投資基金,皆可計算、申報並減少自身的碳排放。"
+    }
+  },
+  {
+    "slug": "lume",
+    "summary": {
+      "en": "A banking app for nurses (acquired by Vivian Health in 2022).",
+      "zh": "為護理師打造的銀行應用程式(2022 年被 Vivian Health 收購)。"
+    },
+    "highlight": {
+      "en": "Offered nurses earned wage access, student loan refinancing, and travel nurse jobs before its 2022 acquisition by Vivian Health, an NYSE: IAC company.",
+      "zh": "在 2022 年被紐約證交所上市公司 IAC 旗下的 Vivian Health 收購前,為護理師提供薪資預支、學貸再融資與旅護工作。"
+    }
+  },
+  {
+    "slug": "riogrande",
+    "summary": {
+      "en": "Buys and grows D2C brands in Latin America.",
+      "zh": "在拉丁美洲收購並壯大 D2C 品牌。"
+    },
+    "highlight": {
+      "en": "Acquires direct-to-consumer brands across Latin America and works to grow them.",
+      "zh": "在拉丁美洲各地收購直接面向消費者(D2C)的品牌,並致力於使其成長。"
+    }
+  }
+]

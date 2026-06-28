@@ -1,0 +1,54 @@
+{
+  "id": "global-remote",
+  "icon": "travel_explore",
+  "title": { "en": "Going Global & Remote", "zh": "走向全球與遠端" },
+  "lede": {
+    "en": "A pandemic briefly turned Silicon Valley's most location-bound accelerator into a borderless one, then San Francisco pulled it back home.",
+    "zh": "一場疫情曾短暫地把矽谷最依賴地理位置的加速器變成無國界組織,而舊金山又把它拉回了原點。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "Knocking on the world's door", "zh": "敲響世界的大門" },
+      "paragraphs": {
+        "en": [
+          "Y Combinator began as a deeply local institution, centred on Mountain View dinners and a network that assumed founders would simply move to the Bay Area. That assumption started loosening in 2016, when partners toured roughly eleven countries — including India, Nigeria, Argentina, Chile, Mexico, Germany and Russia — to court founders abroad. The outreach intensified region by region: more active European support arrived around 2018, a sharper push into Latin America and South Asia followed from 2019. By 2019 international companies made up close to 40% of a typical batch, a figure unthinkable a decade earlier.",
+          "The bet was partly philosophical and partly empirical. YC's own data on the 2015–2018 cohorts showed international startups landing on its top-companies list at a comparable or slightly higher rate than US and Canadian ones, undercutting the idea that talent was concentrated in one zip code. Standouts like Brazil's NuBank, Argentina-rooted fintechs, India's Razorpay and Africa's Paystack and Flutterwave gave the thesis concrete proof points and made YC a genuinely global brand rather than a Valley club."
+        ],
+        "zh": [
+          "Y Combinator 起步時是個高度在地化的機構,核心是 Mountain View 的晚餐聚會,以及一個預設創辦人就該搬到灣區的人脈網。這個預設從 2016 年開始鬆動——當年合夥人走訪了約十一個國家,包括印度、奈及利亞、阿根廷、智利、墨西哥、德國與俄羅斯,去爭取海外創辦人。這股招募力道一區接一區加強:約 2018 年起對歐洲的支持更積極,2019 年起則更用力切入拉丁美洲與南亞。到了 2019 年,國際公司已占一個典型梯次將近 40%,這在十年前是難以想像的數字。",
+          "這場下注一半出於理念,一半出於數據。YC 自己針對 2015 至 2018 年梯次的資料顯示,國際新創登上其頂尖公司榜的比例,與美國、加拿大新創相當甚至略高,推翻了人才只集中在某一個郵遞區號的想法。巴西的 NuBank、根植阿根廷的金融科技公司、印度的 Razorpay,以及非洲的 Paystack 與 Flutterwave 等明星,為這套論點提供了具體佐證,也讓 YC 從一個矽谷俱樂部變成真正的全球品牌。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The remote interlude", "zh": "遠端的插曲" },
+      "paragraphs": {
+        "en": [
+          "COVID-19 forced the issue overnight. The Winter 2020 Demo Day was pushed forward and moved online into a stripped-down, one-slide-per-startup format; the Summer 2020 batch then became YC's first fully remote cohort, with its 31st Demo Day held live over Zoom and reportedly generating over 28,000 founder–investor introductions. Without the gravitational pull of physical relocation, the funnel widened dramatically. Summer 2021 swelled to 377 startups from 47 countries — the largest batch to date and the most geographically diverse, with India alone fielding 33 companies, the UK 18, Mexico 17 and Singapore 12.",
+          "Remote operation did more than scale headcount; it redistributed access. Roughly half of the S21 cohort was based outside the US, African participation hit a single-batch record, and founders in Lagos, Bangalore, Mexico City or Jakarta could join without uprooting their lives or burning runway on Bay Area rent. For a brief window, geography stopped being a tax on ambition, and YC looked less like a place and more like a protocol any founder anywhere could plug into."
+        ],
+        "zh": [
+          "COVID-19 在一夜之間逼出了答案。2020 年冬季梯的 Demo Day 被提前並搬上線,改成精簡的「每家新創一張投影片」格式;接著 2020 年夏季梯成為 YC 第一個全遠端梯次,其第 31 屆 Demo Day 透過 Zoom 直播舉行,據報創造了超過兩萬八千次創辦人與投資人的引薦。少了實體搬遷這道地心引力,招募漏斗急劇放寬。2021 年夏季梯暴增到來自 47 國的 377 家新創——是當時最大也最具地理多樣性的一梯,光是印度就有 33 家、英國 18 家、墨西哥 17 家、新加坡 12 家。",
+          "遠端運作不只是放大了人數,更重新分配了參與機會。S21 梯次約有一半公司設於美國以外,非洲的參與創下單梯紀錄,而拉哥斯、班加羅爾、墨西哥城或雅加達的創辦人,得以在不連根拔起生活、也不必把資金燒在灣區房租上的情況下加入。在那段短暫的窗口裡,地理位置不再是對野心課的稅,YC 看起來也不那麼像一個地方,而更像是一套任何地方的創辦人都能接上的協定。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The pull back to San Francisco", "zh": "被拉回舊金山" },
+      "paragraphs": {
+        "en": [
+          "The opening did not last. In 2022 YC told its Summer batch to show up in person, kicking off with a Sonoma retreat and weekly in-person meetups, and simultaneously cut cohort size by about 40% — from around 414 to roughly 250 companies — citing the funding downturn. Under Garry Tan, who became president in early 2023, the in-person doctrine hardened: YC relocated its headquarters from Mountain View to San Francisco in spring 2023, and Tan argued bluntly that founders \"have to be in San Francisco,\" close to the frontier of AI, urging them toward neighbourhoods like Dogpatch and Potrero Hill.",
+          "The reversal is visible in the numbers. India's YC count, which peaked at 74 startups across 2021's two batches, fell to roughly 40 in 2022 and 18 in 2023, with YC itself acknowledging the in-person return as a factor. San Francisco's share of companies, around 21% during the remote peak, climbed back toward dominance as batches shrank and US focus reasserted itself. The remote era proved YC could be global; the post-2022 era revealed how much it still believed proximity — to capital, to peers, and to the AI frontier — was the real product."
+        ],
+        "zh": [
+          "這扇門並未一直開著。2022 年 YC 要求夏季梯創辦人親自到場,以一場索諾瑪(Sonoma)靜修營揭開序幕,並搭配每週的實體聚會;同時把梯次規模砍掉約 40%——從約 414 家減到約 250 家公司——並以募資寒冬為由。在 2023 年初接任總裁的 Garry Tan 領導下,實體至上的方針更趨強硬:YC 於 2023 年春把總部從 Mountain View 搬到舊金山,Tan 直言創辦人「必須待在舊金山」,緊鄰 AI 的前沿,並敦促他們搬到 Dogpatch、Potrero Hill 等街區。",
+          "這場逆轉清楚反映在數字上。印度的 YC 公司數在 2021 年兩梯合計達到 74 家的高峰後,2022 年降到約 40 家、2023 年再降到 18 家,而 YC 本身也承認回歸實體是因素之一。舊金山公司占比在遠端高峰時約為 21%,隨著梯次縮小與美國重心重新確立,又一路回升至主導地位。遠端時代證明了 YC 可以是全球性的;而 2022 年之後的時代則揭示,它依然多麼相信「近距離」——靠近資本、靠近同儕、靠近 AI 前沿——才是它真正的產品。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's remote years were less a strategic choice than an emergency, and the speed of the retreat after 2022 suggests it always viewed dispersion as a cost to be tolerated, not a model to be kept. The deeper signal is that for YC, the network's value was never just information but physical density — and when forced to choose between maximal global reach and maximal San Francisco concentration, it chose concentration.",
+    "zh": "YC 的遠端歲月與其說是策略選擇,不如說是緊急應變;而 2022 年後撤退的速度顯示,它始終把分散視為一種可容忍的成本,而非要保留的模式。更深層的訊號是:對 YC 而言,人脈網的價值從來不只是資訊,而是實體的密度——當被迫在最大化的全球觸及與最大化的舊金山集中之間二選一時,它選擇了集中。"
+  }
+}
