@@ -60,27 +60,35 @@
     }
 
     /* ---------------- chart helpers (inline SVG / CSS, no lib) ---------------- */
-    function svgBars(rows) {
-      var max = Math.max.apply(null, rows.map(function (r) { return r.value; }).concat([1]));
-      return '<div class="bars">' + rows.map(function (r) {
-        var pct = (r.value / max * 100).toFixed(1);
-        return '<div class="bar"><span class="bar__label">' + esc(r.label) + "</span>" +
-          '<span class="bar__track"><span class="bar__fill" style="width:' + pct + "%;background:" + (r.color || "var(--accent)") + '"></span></span>' +
-          '<span class="bar__val">' + num(r.value) + "</span></div>";
+    function svgBars(rows, axis) {
+      var max = Math.max.apply(null, rows.map(function (x) { return x.value; }).concat([1]));
+      return '<div class="bars">' + rows.map(function (x) {
+        var pct = (x.value / max * 100).toFixed(1);
+        var inner = '<span class="bar__label">' + esc(x.label) + "</span>" +
+          '<span class="bar__track"><span class="bar__fill" style="width:' + pct + "%;background:" + (x.color || "var(--accent)") + '"></span></span>' +
+          '<span class="bar__val">' + num(x.value) + "</span>";
+        return (axis && x.key != null)
+          ? '<a class="bar bar--link" href="companies.html?' + axis + "=" + encodeURIComponent(x.key) + '">' + inner + "</a>"
+          : '<div class="bar">' + inner + "</div>";
       }).join("") + "</div>";
     }
-    function donut(rows) {
+    function donut(rows, axis) {
       var total = rows.reduce(function (s, x) { return s + x.value; }, 0) || 1;
       var R = 56, C = 2 * Math.PI * R, off = 0;
       var segs = rows.map(function (seg) {
         var len = seg.value / total * C;
-        var s = '<circle r="' + R + '" cx="80" cy="80" fill="none" stroke="' + seg.color + '" stroke-width="26" stroke-dasharray="' +
+        var circle = '<circle r="' + R + '" cx="80" cy="80" fill="none" stroke="' + seg.color + '" stroke-width="26" stroke-dasharray="' +
           r(len) + " " + r(C - len) + '" stroke-dashoffset="' + r(-off) + '" transform="rotate(-90 80 80)"><title>' +
           esc(seg.label) + ": " + num(seg.value) + "</title></circle>";
-        off += len; return s;
+        off += len;
+        return (axis && seg.key != null)
+          ? '<a class="donut-seg" href="companies.html?' + axis + "=" + encodeURIComponent(seg.key) + '">' + circle + "</a>" : circle;
       }).join("");
       var legend = rows.map(function (seg) {
-        return '<div class="lg"><span class="lg__dot" style="background:' + seg.color + '"></span>' + esc(seg.label) + " <b>" + num(seg.value) + "</b></div>";
+        var inner = '<span class="lg__dot" style="background:' + seg.color + '"></span>' + esc(seg.label) + " <b>" + num(seg.value) + "</b>";
+        return (axis && seg.key != null)
+          ? '<a class="lg lg--link" href="companies.html?' + axis + "=" + encodeURIComponent(seg.key) + '">' + inner + "</a>"
+          : '<div class="lg">' + inner + "</div>";
       }).join("");
       return '<div class="donutwrap"><svg viewBox="0 0 160 160" class="donut" role="img" aria-label="breakdown">' + segs + "</svg>" +
         '<div class="legend">' + legend + "</div></div>";
@@ -161,7 +169,20 @@
         if (STATUS_RANK[a.status] !== STATUS_RANK[b.status]) return STATUS_RANK[a.status] - STATUS_RANK[b.status];
         return (b.team || 0) - (a.team || 0);
       });
-      var cstate = { q: "", industry: "all", status: "all", era: "all", region: "all", limit: 48 };
+      var params = new URLSearchParams(location.search);
+      function pval(name, dict) { var v = params.get(name); return (v && byKey(dict, v)) ? v : "all"; }
+      var cstate = {
+        q: params.get("q") || "",
+        industry: pval("industry", IND), status: pval("status", STA),
+        vt: pval("vt", VT), era: pval("era", ERA), region: pval("region", REG),
+        limit: 48
+      };
+      function syncURL() {
+        var qs = [];
+        ["industry", "status", "vt", "era", "region"].forEach(function (k) { if (cstate[k] !== "all") qs.push(k + "=" + encodeURIComponent(cstate[k])); });
+        if (cstate.q) qs.push("q=" + encodeURIComponent(cstate.q));
+        history.replaceState(null, "", location.pathname + (qs.length ? "?" + qs.join("&") : "") + (location.hash || ""));
+      }
       var visible = ALL;
 
       function axisRow(label, dict, field) {
@@ -183,6 +204,7 @@
             '<div class="filterset" id="filterSet">' +
               axisRow(tt("Sector", "產業"), IND, "industry") +
               axisRow(tt("Status", "狀態"), STA, "status") +
+              axisRow(tt("Value", "估值"), VT, "vt") +
               axisRow(tt("Era", "年代"), ERA, "era") +
               axisRow(tt("Region", "地區"), REG, "region") +
             "</div>" +
@@ -201,6 +223,7 @@
       function matches(c) {
         if (cstate.industry !== "all" && c.industry !== cstate.industry) return false;
         if (cstate.status !== "all" && c.status !== cstate.status) return false;
+        if (cstate.vt !== "all" && c.vt !== cstate.vt) return false;
         if (cstate.era !== "all" && c.era !== cstate.era) return false;
         if (cstate.region !== "all" && c.region !== cstate.region) return false;
         if (cstate.q) {
@@ -239,6 +262,7 @@
         grid.querySelectorAll(".co").forEach(function (b) {
           b.addEventListener("click", function () { openDialog(b.getAttribute("data-slug")); });
         });
+        syncURL();
       }
 
       /* ---- dialog ---- */
@@ -271,7 +295,7 @@
         curIdx = idx;
         body.innerHTML = detail(visible[curIdx]);
         if (!dlg.open) dlg.showModal();
-        history.replaceState(null, "", "#" + slug);
+        history.replaceState(null, "", location.pathname + location.search + "#" + slug);
       }
       function navBy(d) { if (curIdx === -1 || !visible.length) return; curIdx = (curIdx + d + visible.length) % visible.length; openDialog(visible[curIdx].slug); }
       document.getElementById("dialogPrev").onclick = function () { navBy(-1); };
@@ -290,6 +314,7 @@
 
       /* ---- wire ---- */
       var searchEl = document.getElementById("coSearch");
+      searchEl.value = cstate.q;
       searchEl.addEventListener("input", function () { cstate.q = this.value.trim().toLowerCase(); cstate.limit = 48; paintGrid(); });
       document.getElementById("filterSet").addEventListener("click", function (e) {
         var b = e.target.closest(".chip"); if (!b) return;
@@ -300,7 +325,7 @@
       });
       moreBtn.addEventListener("click", function () { cstate.limit += 48; paintGrid(); });
       document.getElementById("coReset").addEventListener("click", function () {
-        cstate = { q: "", industry: "all", status: "all", era: "all", region: "all", limit: 48 };
+        cstate = { q: "", industry: "all", status: "all", vt: "all", era: "all", region: "all", limit: 48 };
         searchEl.value = "";
         document.querySelectorAll(".chip").forEach(function (c) { var on = c.getAttribute("data-v") === "all"; c.classList.toggle("chip--on", on); c.setAttribute("aria-pressed", on ? "true" : "false"); });
         paintGrid();
@@ -354,7 +379,7 @@
       function rows(arr, dict, colorFn) {
         return (arr || []).map(function (kv) {
           var o = byKey(dict, kv[0]);
-          return { label: o ? t(o) : kv[0], value: kv[1], color: colorFn ? colorFn(kv[0]) : "var(--accent)" };
+          return { key: kv[0], label: o ? t(o) : kv[0], value: kv[1], color: colorFn ? colorFn(kv[0]) : "var(--accent)" };
         });
       }
       function panel(title, sub, inner) {
@@ -364,16 +389,20 @@
       var statusRows = rows(ch.statuses, STA, function (k) { return "var(--st-" + k + ")"; });
       var valRows = rows(ch.valuations, VT, function (k) { return "var(--vt-" + k + ")"; });
       var growth = (ch.growth || []).map(function (d) { return { x: d.x, y: d.y }; });
-      pageEl.innerHTML = head(p) + '<div class="wrap"><div class="charts">' +
+      pageEl.innerHTML = head(p) + '<div class="wrap">' +
+        '<a class="charthint" href="companies.html"><span class="material-symbols-rounded">ads_click</span>' +
+          tt("Click any bar or legend to see exactly which companies make up that number →",
+             "點任一長條或圖例,即可看到組成那個數字的是哪些公司 →") + "</a>" +
+        '<div class="charts">' +
         panel(tt("Companies funded per year", "每年獲投公司數"),
               tt("By founding year — the batch machine scaling up from 8 to 400 a cohort", "依成立年 — 批次從每屆 8 家放大到 400 家"), lineChart(growth)) +
         panel(tt("Outcome breakdown", "結局分布"),
-              tt("Where the 5,988 companies stand today", "5,988 家公司的現況"), donut(statusRows)) +
-        panel(tt("By sector", "產業分布"), "", svgBars(rows(ch.industries, IND))) +
-        panel(tt("By region", "地區分布"), tt("Top 10", "前 10"), svgBars(rows(ch.regions, REG))) +
-        panel(tt("By era", "依年代"), "", svgBars(rows(ch.eras, ERA))) +
+              tt("Where the 5,988 companies stand today — click a slice", "5,988 家公司的現況 — 點扇形看公司"), donut(statusRows, "status")) +
+        panel(tt("By sector", "產業分布"), "", svgBars(rows(ch.industries, IND), "industry")) +
+        panel(tt("By region", "地區分布"), tt("Top 10", "前 10"), svgBars(rows(ch.regions, REG), "region")) +
+        panel(tt("By era", "依年代"), "", svgBars(rows(ch.eras, ERA), "era")) +
         panel(tt("Confirmed unicorns & above", "確認的獨角獸以上"),
-              tt("From the deep-researched, web-verified tier", "來自深度查證層級"), svgBars(valRows)) +
+              tt("From the deep-researched, web-verified tier", "來自深度查證層級"), svgBars(valRows, "vt")) +
         "</div></div>";
     }
 
@@ -402,6 +431,28 @@
       }).join("");
       pageEl.innerHTML = head(p) + '<div class="wrap"><div class="chaptoc">' + toc + '</div><div class="article">' +
         (body || '<p class="empty">' + tt("Analysis is being prepared.", "分析準備中。") + "</p>") + "</div></div>";
+
+      /* scrollspy — highlight the chapter you're reading in the sticky TOC */
+      var tocbar = pageEl.querySelector(".chaptoc"), tocmap = {};
+      pageEl.querySelectorAll(".tocnav").forEach(function (a) { tocmap[a.getAttribute("href").slice(1)] = a; });
+      var chEls = Array.prototype.slice.call(pageEl.querySelectorAll(".chapter"));
+      if (chEls.length) {
+        var ticking = false;
+        function spy() {
+          ticking = false;
+          var line = 200, current = chEls[0];   // last chapter whose top passed the line
+          chEls.forEach(function (elc) { if (elc.getBoundingClientRect().top - line <= 0) current = elc; });
+          var a = tocmap[current.id];
+          if (!a || a.classList.contains("tocnav--active")) return;
+          Object.keys(tocmap).forEach(function (k) { tocmap[k].classList.remove("tocnav--active"); });
+          a.classList.add("tocnav--active");
+          if (tocbar) tocbar.scrollTo({ left: Math.max(0, a.offsetLeft - 80), behavior: "smooth" });
+        }
+        function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(spy); } }
+        window.addEventListener("scroll", onScroll, { passive: true });
+        spy();
+        teardowns.push(function () { window.removeEventListener("scroll", onScroll); });
+      }
     }
 
     /* =====================================================================

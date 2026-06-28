@@ -178,16 +178,20 @@ main { display: block; }
 /* =========================================================================
    COMPANIES
    ========================================================================= */
-.toolbar { position: sticky; top: 90px; z-index: 40; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(8px);
-  padding: 14px 0; margin-bottom: 8px; border-bottom: 1px solid var(--line); }
-.searchbox { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 999px; padding: 0 16px; height: 46px; box-shadow: var(--shadow); }
+.toolbar { padding: 6px 0 12px; margin-bottom: 4px; }
+.searchbox { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 999px; padding: 0 16px; height: 48px; box-shadow: var(--shadow); }
+.searchbox:focus-within { border-color: var(--accent); }
 .searchbox .material-symbols-rounded { color: var(--ink-faint); }
 .searchbox input { flex: 1; border: 0; outline: 0; background: transparent; color: var(--ink); font: inherit; font-size: 1rem; }
-.filterset { margin-top: 12px; display: flex; flex-direction: column; gap: 9px; }
-.filterrow { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
-.filterrow__label { font-family: "Space Mono",monospace; text-transform: uppercase; letter-spacing: .1em; font-size: .68rem; color: var(--ink-faint); font-weight: 700; min-width: 64px; }
-.resultbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 16px 0 14px; color: var(--ink-soft); font-size: .9rem; }
-.resultbar strong { color: var(--ink); font-family: "Space Grotesk",sans-serif; }
+.filterset { margin-top: 12px; display: flex; flex-direction: column; gap: 7px; }
+/* one horizontally-scrollable row per axis — compact, never blocks the cards */
+.filterrow { display: flex; align-items: center; gap: 7px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 1px; }
+.filterrow::-webkit-scrollbar { display: none; }
+.filterrow__label { position: sticky; left: 0; z-index: 1; flex: 0 0 auto; background: var(--bg); padding-right: 9px;
+  font-family: "Space Mono",monospace; text-transform: uppercase; letter-spacing: .08em; font-size: .68rem; color: var(--ink-faint); font-weight: 700; min-width: 58px; }
+.filterrow .chip { flex: 0 0 auto; }
+.resultbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 14px 0 14px; color: var(--ink-soft); font-size: .95rem; }
+.resultbar strong { color: var(--ink); font-family: "Space Grotesk",sans-serif; font-size: 1.05rem; }
 
 .grid-co { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px,1fr)); gap: 14px; }
 .co { text-align: left; cursor: pointer; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow); transition: .15s; display: flex; flex-direction: column; gap: 10px; font: inherit; color: inherit; }
@@ -257,8 +261,17 @@ main { display: block; }
 .chartpanel__head { margin-bottom: 18px; }
 .chartpanel__head h2 { font-size: 1.2rem; }
 .chartpanel__head p { color: var(--ink-soft); font-size: .88rem; margin: 4px 0 0; }
+.charthint { display: inline-flex; align-items: center; gap: 6px; margin: 2px 0 22px; color: var(--accent-2); font-size: .9rem; font-weight: 600; }
+.charthint .material-symbols-rounded { font-size: 18px; }
 .bars { display: flex; flex-direction: column; gap: 10px; }
-.bar { display: grid; grid-template-columns: 130px 1fr 52px; align-items: center; gap: 12px; }
+.bar { display: grid; grid-template-columns: 130px 1fr 52px; align-items: center; gap: 12px; color: inherit; border-radius: 8px; }
+.bar--link { cursor: pointer; padding: 3px 6px; margin: -3px -6px; transition: background .12s; }
+.bar--link:hover { background: var(--accent-faint); }
+.bar--link:hover .bar__label { color: var(--accent-2); }
+.lg--link { cursor: pointer; border-radius: 8px; padding: 3px 7px; margin: -3px -7px; transition: background .12s; }
+.lg--link:hover { background: var(--accent-faint); color: var(--accent-2); }
+.donut-seg { cursor: pointer; }
+.donut-seg:hover circle { opacity: .82; }
 .bar__label { font-size: .85rem; color: var(--ink-soft); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .bar__track { background: var(--surface-2); border-radius: 999px; height: 14px; overflow: hidden; }
 .bar__fill { display: block; height: 100%; border-radius: 999px; min-width: 3px; transition: width .5s ease; }
@@ -279,12 +292,18 @@ main { display: block; }
 /* =========================================================================
    ANALYSIS (chapters)
    ========================================================================= */
-.chaptoc { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
-.tocnav { display: inline-flex; align-items: center; padding: 6px 13px; border-radius: 999px; border: 1px solid var(--line-strong);
+/* sticky single-row table of contents — stays put while you read */
+.chaptoc { position: sticky; top: 118px; z-index: 30; display: flex; gap: 8px; padding: 11px 0; margin: 0 0 8px;
+  overflow-x: auto; scrollbar-width: none; background: color-mix(in srgb, var(--bg) 94%, transparent);
+  backdrop-filter: saturate(140%) blur(10px); border-bottom: 1px solid var(--line); }
+.chaptoc::-webkit-scrollbar { display: none; }
+.tocnav { flex: 0 0 auto; white-space: nowrap; display: inline-flex; align-items: center; padding: 6px 13px; border-radius: 999px; border: 1px solid var(--line-strong);
   background: var(--surface); color: var(--ink-soft); font-size: .82rem; font-weight: 600; transition: .12s; }
 .tocnav:hover { border-color: var(--accent); color: var(--accent); }
+.tocnav--active { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.tocnav--active:hover { color: var(--accent-ink); }
 .article { max-width: 760px; margin: 0 auto; }
-.chapter { padding: 40px 0; border-top: 1px solid var(--line); }
+.chapter { padding: 38px 0; border-top: 1px solid var(--line); scroll-margin-top: 186px; }
 .chapter:first-child { border-top: 0; }
 .chapter__no { font-family: "Space Mono",monospace; color: var(--accent-2); font-weight: 700; font-size: .8rem; letter-spacing: .1em; }
 .chapter h2 { font-size: clamp(1.6rem,3.4vw,2.2rem); margin: 6px 0 0; display: flex; align-items: center; gap: 12px; }

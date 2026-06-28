@@ -116,7 +116,8 @@ for b in sorted(by_batch, key=border):
 
 # charts for the Insights page
 year_count = Counter(c["year"] for c in companies)
-growth = [{"x": y, "y": year_count[y]} for y in sorted(y for y in year_count if y >= 2005)]
+# cap at 2025: 2026+ batches are still upcoming/partial and would show a misleading cliff
+growth = [{"x": y, "y": year_count[y]} for y in sorted(y for y in year_count if 2005 <= y <= 2025)]
 era_order = ["founding", "mobile-cloud", "global-scale", "pandemic", "ai-inflection", "ai-native"]
 CHARTS = {
     "growth": growth,
@@ -208,8 +209,8 @@ SITE_PAGES = [
      "charts": CHARTS},
     {"slug": "analysis", "layout": "analysis", "icon": "menu_book",
      "title": {"en": "Analysis", "zh": "深度分析"},
-     "subtitle": {"en": "Ten chapters on how YC works and why it matters",
-                  "zh": "十章,談 YC 如何運作、為何重要"},
+     "subtitle": {"en": "Thirteen chapters on how YC works and why it matters",
+                  "zh": "十三章,談 YC 如何運作、為何重要"},
      "chapters": chapters},
     {"slug": "people", "layout": "people", "icon": "diversity_3",
      "title": {"en": "People", "zh": "關鍵人物"},
