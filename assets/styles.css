@@ -113,8 +113,16 @@ main { display: block; }
 .eyebrow { font-family: "Space Mono",monospace; text-transform: uppercase; letter-spacing: .18em; font-size: .72rem; color: var(--accent-2); font-weight: 700; }
 
 .footer { border-top: 1px solid var(--line); margin-top: 64px; }
-.footer__inner { max-width: var(--maxw); margin: 0 auto; padding: 28px 20px 56px; color: var(--ink-soft); font-size: .88rem; }
+.footer__inner { max-width: var(--maxw); margin: 0 auto; padding: 28px 20px 56px; color: var(--ink-soft); font-size: .88rem;
+  display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+.footer__text p { margin: 0; }
 .footer__note { color: var(--ink-faint); font-size: .8rem; margin: 6px 0 0; }
+.footer__links { display: flex; gap: 10px; flex-wrap: wrap; }
+.footer__btn { display: inline-flex; align-items: center; gap: 7px; padding: 9px 15px; border-radius: 999px;
+  border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); font-weight: 600; font-size: .85rem; transition: .15s; }
+.footer__btn:hover { border-color: var(--accent); color: var(--accent); }
+.footer__btn .material-symbols-rounded { font-size: 18px; }
+@media (max-width: 560px) { .footer__inner { flex-direction: column; } }
 
 /* ---------------- buttons / chips ---------------- */
 .btn { display: inline-flex; align-items: center; gap: 8px; padding: 11px 20px; border-radius: 999px; font-weight: 600; cursor: pointer;
@@ -239,6 +247,34 @@ main { display: block; }
 .batchcard__list { display: flex; flex-wrap: wrap; gap: 5px; }
 .minico { font-size: .76rem; color: var(--ink-soft); background: var(--surface-2); border-radius: 6px; padding: 2px 8px; cursor: pointer; border: 1px solid transparent; }
 .minico:hover { border-color: var(--accent); color: var(--accent); }
+
+/* =========================================================================
+   INSIGHTS (charts)
+   ========================================================================= */
+.charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px,1fr)); gap: 18px; }
+.chartpanel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 22px 24px 26px; box-shadow: var(--shadow); }
+.chartpanel:first-child { grid-column: 1 / -1; }
+.chartpanel__head { margin-bottom: 18px; }
+.chartpanel__head h2 { font-size: 1.2rem; }
+.chartpanel__head p { color: var(--ink-soft); font-size: .88rem; margin: 4px 0 0; }
+.bars { display: flex; flex-direction: column; gap: 10px; }
+.bar { display: grid; grid-template-columns: 130px 1fr 52px; align-items: center; gap: 12px; }
+.bar__label { font-size: .85rem; color: var(--ink-soft); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar__track { background: var(--surface-2); border-radius: 999px; height: 14px; overflow: hidden; }
+.bar__fill { display: block; height: 100%; border-radius: 999px; min-width: 3px; transition: width .5s ease; }
+.bar__val { font-family: "Space Mono",monospace; font-size: .82rem; font-weight: 700; text-align: right; }
+.linechart { width: 100%; height: auto; }
+.line-area { fill: var(--accent); opacity: .12; }
+.line-path { stroke: var(--accent); stroke-width: 2.5; }
+.line-dot { fill: var(--accent); }
+.ch-axis { fill: var(--ink-faint); font-size: 11px; font-family: "Space Mono",monospace; }
+.donutwrap { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+.donut { width: 160px; height: 160px; flex: 0 0 auto; }
+.legend { display: flex; flex-direction: column; gap: 8px; }
+.lg { font-size: .9rem; color: var(--ink-soft); display: flex; align-items: center; gap: 8px; }
+.lg b { color: var(--ink); font-family: "Space Mono",monospace; }
+.lg__dot { width: 11px; height: 11px; border-radius: 3px; display: inline-block; }
+@media (max-width: 480px) { .bar { grid-template-columns: 92px 1fr 44px; } }
 
 /* =========================================================================
    ANALYSIS (chapters)

@@ -1,0 +1,54 @@
+{
+  "id": "exits",
+  "icon": "trending_up",
+  "title": { "en": "Exits & Outcomes", "zh": "退出與結局" },
+  "lede": {
+    "en": "For most Y Combinator companies the ending is neither an IPO bell nor a public flameout but a quieter fate, and the few that do make headlines carry almost all of the returns.",
+    "zh": "對絕大多數的 Y Combinator 公司而言,結局既不是敲響 IPO 的鐘聲,也不是公開的轟然倒下,而是一種更安靜的命運;真正登上頭條的少數,卻幾乎扛起了全部的回報。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "Reading the Funnel", "zh": "讀懂這座漏斗" },
+      "paragraphs": {
+        "en": [
+          "Of the roughly 5,988 companies in this dataset, about 69% are still tagged Active, around 13% have been Acquired, and roughly 17% are marked Inactive or shut down. Only 23 companies, about four-tenths of one percent, have reached the public markets. Laid out that way, the YC outcome funnel looks less like a launchpad to Wall Street and more like a wide field in which most startups are simply still standing, a smaller slice has been absorbed by a larger company, a comparable slice has quietly closed, and a vanishingly thin sliver has rung the opening bell. The dominant verb in the portfolio is not 'IPO'd' or 'died' but 'continues'.",
+          "That 69% Active figure deserves a skeptical eye, because 'Active' is the most ambiguous label in the set. It bundles together genuine breakout companies, steady profitable businesses, and so-called zombies that are technically alive but have stopped growing and may never raise again. Because most of these companies are young, the funnel is also incomplete: a startup founded in a recent batch has had little time to be acquired, to fail, or to list, so the Active bucket is partly a measure of age rather than of health. The honest reading is that the dataset captures a snapshot of an unfinished process, not a final scoreboard."
+        ],
+        "zh": [
+          "在本資料集約 5,988 家公司中,約 69% 仍標記為「營運中(Active)」,約 13% 已被「收購(Acquired)」,約 17% 被標為「停止營運或關閉(Inactive/shut down)」。只有 23 家公司——約佔千分之四——走到了公開市場。這樣攤開來看,YC 的結局漏斗,與其說是通往華爾街的發射台,不如說是一片寬闊的原野:大多數新創只是「還站著」,較小的一塊被更大的公司吸收,另一塊規模相當的則悄然關閉,而薄如蟬翼的一小撮敲響了開市鐘。這個投資組合中最主流的動詞,不是「上市了」或「死了」,而是「還在繼續」。",
+          "那 69% 的「營運中」數字值得用懷疑的眼光審視,因為「Active」是這份資料裡最曖昧的標籤。它把真正突圍的公司、穩定獲利的事業,以及所謂的「殭屍企業」——技術上還活著、卻已停止成長、或許永遠募不到下一輪——全都綁在一起。由於這些公司多半年輕,這座漏斗本身也尚未走完:近期梯次成立的新創,還沒有足夠時間被收購、倒閉或上市,因此「營運中」這一桶,有一部分衡量的其實是「年齡」而非「健康度」。誠實的解讀是:這份資料捕捉的是一個尚未結束的過程的快照,而不是最終的記分板。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "What the Tails Look Like", "zh": "兩端的尾巴長什麼樣" },
+      "paragraphs": {
+        "en": [
+          "The 23 public companies are an unusually varied list. The headline names everyone cites are the consumer and fintech giants, Airbnb (W09), DoorDash (S13), Coinbase (S12) and Instacart (S12), joined by infrastructure plays like Dropbox (S07) and GitLab (W15). But the public column also holds companies in biotech, nuclear energy and quantum computing, such as Ginkgo Bioworks, Oklo and Rigetti, several of which listed via SPAC during the 2020 to 2021 boom and have since traded far below their debut prices. Going public, this list quietly reminds us, is the start of a new and often harsher chapter rather than a guaranteed happy ending. The acquired tail is broader and arguably more representative, running from Twitch, sold to Amazon for about $970 million in 2014, through Reddit, Heroku, Segment, Cruise, Optimizely and Twitch's many less famous peers.",
+          "Acquisition is where the realistic version of 'success' usually lives at YC. A clean sale to a Stripe, a Salesforce or an Amazon can return capital to investors, reward founders and staff, and close the story on a positive note, even when the price never approaches unicorn territory. The shutdown column, meanwhile, is the largest of the three completed outcomes at roughly 17%, and it is the one the ecosystem talks about least. Most of those closures are not dramatic blowups but ordinary fade-outs: a product that never found a market, a founding team that ran out of runway or patience, a company that was acqui-hired for talent and then wound down. Plenty of widely admired startups sit in that column, which is precisely why it should not be read as a roll call of failure so much as the base rate of early-stage risk."
+        ],
+        "zh": [
+          "那 23 家上市公司,是一份異常多元的名單。人人引用的頭條名字,是消費與金融科技巨頭——Airbnb(W09)、DoorDash(S13)、Coinbase(S12)與 Instacart(S12)——再加上 Dropbox(S07)、GitLab(W15)這類基礎設施型公司。但這個「上市」欄位裡,也容納了生技、核能與量子運算的公司,例如 Ginkgo Bioworks、Oklo 與 Rigetti;其中數家是在 2020 至 2021 年的熱潮中透過 SPAC 上市,如今股價已遠低於掛牌時的價位。這份名單安靜地提醒我們:上市是一段全新、且往往更嚴酷的篇章的開始,而非保證圓滿的結局。被收購的這條尾巴則更寬、也可說更具代表性——從 2014 年以約 9.7 億美元賣給 Amazon 的 Twitch,一路涵蓋 Reddit、Heroku、Segment、Cruise、Optimizely,以及許多較不出名的同類。",
+          "在 YC,被收購通常才是「成功」最寫實的版本所在之處。一筆乾淨俐落地賣給 Stripe、Salesforce 或 Amazon 的交易,能把資本還給投資人、回報創辦人與員工,並以正面的調性為故事收尾——即便成交價從未接近獨角獸的等級。與此同時,「關閉」欄位是三種已完成結局中最大的一塊,約佔 17%,卻是整個生態系最少談論的那一塊。這些關閉大多不是戲劇性的爆炸,而是平凡的淡出:一個始終沒找到市場的產品、一支耗盡跑道或耐心的創始團隊、一家因人才被「招聘式收購(acqui-hire)」後便收掉的公司。許多備受推崇的新創就坐在這一欄裡,而這正是為什麼,它不該被讀成一張失敗點名簿,而該被讀成早期風險的「基準發生率」。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The Power Law and the Mirror", "zh": "冪律,以及那面鏡子" },
+      "paragraphs": {
+        "en": [
+          "The deeper truth the funnel hides is that these outcomes are not weighted equally in dollars. Venture returns follow a power law: a handful of extreme winners generate the overwhelming majority of the value, while everything else, including most acquisitions and every shutdown, contributes comparatively little. By widely cited estimates, just a few of YC's billion-dollar companies account for the large majority of its entire portfolio value, and across the family a small set led by Airbnb, Stripe, Coinbase, DoorDash and Instacart carries returns that the other thousands of companies, in aggregate, do not. This is not a flaw in the model; it is the model. YC writes many small checks precisely because no one can pick the few that will matter in advance, so the strategy is to fund broadly and let the distribution do the sorting.",
+          "This is also where survivorship bias quietly distorts the story. The companies that get studied, quoted and turned into playbooks are the survivors and the breakouts, while the shut-down 17% and the stagnating share of the Active 69% rarely get written up at all. Reading the funnel honestly means holding two facts at once: that the typical YC outcome is modest or unresolved rather than triumphant, and that the rare triumphs are large enough to make the average look far better than the median. The dataset is most useful not as a promise of where any single company will end up, but as a mirror showing the real shape of early-stage risk, in which being still in the game is the common case, a clean acquisition is a good case, quietly closing is an ordinary case, and the public-market giant is the spectacular exception that the whole system is built to occasionally produce."
+        ],
+        "zh": [
+          "這座漏斗所隱藏的更深層真相是:這些結局在「金額」上的權重並不相等。創投回報遵循冪律——少數幾個極端贏家,創造了壓倒性多數的價值,而其餘的一切(包括大多數收購案與每一樁關閉)貢獻相對微小。根據被廣泛引用的估算,YC 那十億美元級公司中的少數幾家,就佔了其整個投資組合價值的絕大部分;而在這個大家族裡,以 Airbnb、Stripe、Coinbase、DoorDash 與 Instacart 為首的一小撮,所扛起的回報,是其餘數千家公司加總起來也無法企及的。這不是模式的瑕疵,這就是模式本身。YC 開出許多小額支票,正是因為沒有人能事先挑出那幾家真正重要的;於是策略便是廣撒網,讓分布去完成篩選。",
+          "這也正是「倖存者偏差」悄悄扭曲故事的地方。被研究、被引用、被寫成方法論的,是那些倖存者與突圍者;而關閉的那 17%,以及「營運中」那 69% 裡停滯不前的部分,幾乎從不被書寫。誠實地讀這座漏斗,意味著同時握住兩個事實:典型的 YC 結局是樸實或懸而未決的,而非凱旋的;而那些罕見的凱旋,又大到足以讓「平均值」看起來遠比「中位數」漂亮。這份資料最大的用處,不在於承諾任何一家公司最終會走到哪裡,而在於它是一面鏡子,照出早期風險的真實形狀——「還留在牌桌上」是常態,「乾淨地被收購」是好結果,「安靜地關閉」是平常事,而「公開市場上的巨頭」,則是整套系統為了偶爾產出它、而精心打造的那個壯觀例外。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "At YC, 'success' almost never means the IPO that dominates the imagination: with only 23 of nearly 6,000 companies public, roughly 13% acquired and about 17% shut down, the realistic best case is a clean acquisition and the common case is simply staying alive. Because venture returns obey a power law, a handful of names carry nearly all the value, so any honest reading has to correct for survivorship bias and treat the average outcome as far less rosy than the celebrated few suggest.",
+    "zh": "在 YC,「成功」幾乎從不等於那個盤踞眾人想像的 IPO:近 6,000 家公司中只有 23 家上市、約 13% 被收購、約 17% 關閉,因此寫實的最佳結果是一樁乾淨的收購,而最常見的結果不過是「活下來」。由於創投回報遵循冪律,少數幾個名字幾乎扛起了全部價值,所以任何誠實的解讀,都必須校正倖存者偏差,並把「平均結局」看得遠比那被歌頌的少數所暗示的更不光鮮。"
+  }
+}

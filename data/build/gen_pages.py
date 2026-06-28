@@ -19,6 +19,8 @@ PAGES = [
      "Browse and filter all 5,988 launched Y Combinator companies by sector, status, era and region."),
     ("batches", "batches.html", "Batches & Eras · " + SITE,
      "Twenty years of YC batches and eras, from Summer 2005 to today, with the notable companies in each cohort."),
+    ("insights", "insights.html", "Insights · " + SITE,
+     "The 5,988-company YC dataset visualised: companies funded per year, outcomes, sectors, regions, eras and valuation tiers."),
     ("analysis", "analysis.html", "Analysis · " + SITE,
      "Ten chapters on how Y Combinator works and why it became the world's most influential startup accelerator."),
     ("people", "people.html", "People · " + SITE,

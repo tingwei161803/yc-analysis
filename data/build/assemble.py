@@ -114,6 +114,19 @@ for b in sorted(by_batch, key=border):
     lst = by_batch[b]
     batch_rows.append({"batch": b, "count": len(lst), "notable": notable(lst, 6)})
 
+# charts for the Insights page
+year_count = Counter(c["year"] for c in companies)
+growth = [{"x": y, "y": year_count[y]} for y in sorted(y for y in year_count if y >= 2005)]
+era_order = ["founding", "mobile-cloud", "global-scale", "pandemic", "ai-inflection", "ai-native"]
+CHARTS = {
+    "growth": growth,
+    "industries": sorted(industry_count.items(), key=lambda kv: -kv[1]),
+    "statuses": [(k, status_count.get(k, 0)) for k in ["active", "ipo", "acquired", "shutdown"]],
+    "regions": sorted(region_count.items(), key=lambda kv: -kv[1])[:10],
+    "eras": [(k, era_count.get(k, 0)) for k in era_order],
+    "valuations": [(k, val_counter.get(k, 0)) for k in ["unicorn", "decacorn", "hectocorn"]],
+}
+
 YC_STATS = {
     "total": n_total,
     "public": status_count["ipo"],
@@ -134,7 +147,8 @@ def content_arr(name):
     return jload(os.path.join(CONTENT, name), []) or []
 
 CHAPTER_ORDER = ["origin","standard-deal","batch-demoday","network","eating-world",
-                 "leadership","global-remote","ai-wave","criticism","model-impact"]
+                 "leadership","global-remote","ai-wave","criticism","model-impact",
+                 "by-numbers","geography","exits"]
 chapters = []
 for cid in CHAPTER_ORDER:
     ch = jload(os.path.join(CONTENT, f"ch_{cid}.json"))
@@ -187,6 +201,11 @@ SITE_PAGES = [
      "subtitle": {"en": "Twenty years of cohorts, from S05 to today",
                   "zh": "二十年的批次,從 S05 到今天"},
      "eras": eras_page, "batchRows": batch_rows},
+    {"slug": "insights", "layout": "insights", "icon": "insights",
+     "title": {"en": "Insights", "zh": "數據洞察"},
+     "subtitle": {"en": "The 5,988-company dataset, visualised",
+                  "zh": "把 5,988 家資料畫成圖表"},
+     "charts": CHARTS},
     {"slug": "analysis", "layout": "analysis", "icon": "menu_book",
      "title": {"en": "Analysis", "zh": "深度分析"},
      "subtitle": {"en": "Ten chapters on how YC works and why it matters",

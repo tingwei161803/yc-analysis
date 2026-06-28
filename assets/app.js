@@ -14,7 +14,7 @@
       document.addEventListener("ldw:shell-ready", boot, { once: true });
       return;
     }
-    var L = window.LDW, t = L.t, esc = L.escapeHtml, st = L.state;
+    var L = window.LDW, t = L.t, esc = L.escapeHtml, st = L.state, r = L.r;
     var pageEl = document.getElementById("page");
     var DICTS = window.YC_DICTS || {}, STATS = window.YC_STATS || {}, CONTENT = window.YC_CONTENT || {};
     var COMPANIES = Array.isArray(window.YC_COMPANIES) ? window.YC_COMPANIES : [];
@@ -57,6 +57,45 @@
     function eraForYear(y) {
       for (var i = 0; i < ERA.length; i++) if (y >= ERA[i].lo && y <= ERA[i].hi) return ERA[i].key;
       return "founding";
+    }
+
+    /* ---------------- chart helpers (inline SVG / CSS, no lib) ---------------- */
+    function svgBars(rows) {
+      var max = Math.max.apply(null, rows.map(function (r) { return r.value; }).concat([1]));
+      return '<div class="bars">' + rows.map(function (r) {
+        var pct = (r.value / max * 100).toFixed(1);
+        return '<div class="bar"><span class="bar__label">' + esc(r.label) + "</span>" +
+          '<span class="bar__track"><span class="bar__fill" style="width:' + pct + "%;background:" + (r.color || "var(--accent)") + '"></span></span>' +
+          '<span class="bar__val">' + num(r.value) + "</span></div>";
+      }).join("") + "</div>";
+    }
+    function donut(rows) {
+      var total = rows.reduce(function (s, x) { return s + x.value; }, 0) || 1;
+      var R = 56, C = 2 * Math.PI * R, off = 0;
+      var segs = rows.map(function (seg) {
+        var len = seg.value / total * C;
+        var s = '<circle r="' + R + '" cx="80" cy="80" fill="none" stroke="' + seg.color + '" stroke-width="26" stroke-dasharray="' +
+          r(len) + " " + r(C - len) + '" stroke-dashoffset="' + r(-off) + '" transform="rotate(-90 80 80)"><title>' +
+          esc(seg.label) + ": " + num(seg.value) + "</title></circle>";
+        off += len; return s;
+      }).join("");
+      var legend = rows.map(function (seg) {
+        return '<div class="lg"><span class="lg__dot" style="background:' + seg.color + '"></span>' + esc(seg.label) + " <b>" + num(seg.value) + "</b></div>";
+      }).join("");
+      return '<div class="donutwrap"><svg viewBox="0 0 160 160" class="donut" role="img" aria-label="breakdown">' + segs + "</svg>" +
+        '<div class="legend">' + legend + "</div></div>";
+    }
+    function lineChart(pts) {
+      if (!pts.length) return "";
+      var W = 640, H = 240, pl = 36, pr = 14, ptp = 14, pb = 28, pw = W - pl - pr, ph = H - ptp - pb;
+      var maxY = Math.max.apply(null, pts.map(function (p) { return p.y; }).concat([1])), n = pts.length;
+      var xy = pts.map(function (p, i) { return { x: pl + (n === 1 ? pw / 2 : (i / (n - 1)) * pw), y: ptp + ph - (p.y / maxY) * ph, p: p }; });
+      var path = xy.map(function (q, i) { return (i ? "L" : "M") + r(q.x) + " " + r(q.y); }).join(" ");
+      var area = path + " L" + r(xy[n - 1].x) + " " + (ptp + ph) + " L" + r(xy[0].x) + " " + (ptp + ph) + " Z";
+      var dots = xy.map(function (q) { return '<circle cx="' + r(q.x) + '" cy="' + r(q.y) + '" r="2.5" class="line-dot"><title>' + esc(String(q.p.x)) + ": " + num(q.p.y) + "</title></circle>"; }).join("");
+      var labels = xy.map(function (q, i) { return (i % 3 === 0 || i === n - 1) ? '<text x="' + r(q.x) + '" y="' + (ptp + ph + 18) + '" class="ch-axis" text-anchor="middle">' + esc(String(q.p.x)) + "</text>" : ""; }).join("");
+      return '<svg viewBox="0 0 ' + W + " " + H + '" class="linechart" preserveAspectRatio="xMidYMid meet" role="img" aria-label="companies per year">' +
+        '<path class="line-area" d="' + area + '"/><path class="line-path" d="' + path + '" fill="none"/>' + dots + labels + "</svg>";
     }
 
     /* =====================================================================
@@ -308,6 +347,37 @@
     }
 
     /* =====================================================================
+       INSIGHTS (data visualisation)
+       ===================================================================== */
+    function renderInsights(p) {
+      var ch = p.charts || {};
+      function rows(arr, dict, colorFn) {
+        return (arr || []).map(function (kv) {
+          var o = byKey(dict, kv[0]);
+          return { label: o ? t(o) : kv[0], value: kv[1], color: colorFn ? colorFn(kv[0]) : "var(--accent)" };
+        });
+      }
+      function panel(title, sub, inner) {
+        return '<section class="chartpanel" data-item><div class="chartpanel__head"><h2>' + esc(title) + "</h2>" +
+          (sub ? "<p>" + esc(sub) + "</p>" : "") + "</div>" + inner + "</section>";
+      }
+      var statusRows = rows(ch.statuses, STA, function (k) { return "var(--st-" + k + ")"; });
+      var valRows = rows(ch.valuations, VT, function (k) { return "var(--vt-" + k + ")"; });
+      var growth = (ch.growth || []).map(function (d) { return { x: d.x, y: d.y }; });
+      pageEl.innerHTML = head(p) + '<div class="wrap"><div class="charts">' +
+        panel(tt("Companies funded per year", "每年獲投公司數"),
+              tt("By founding year — the batch machine scaling up from 8 to 400 a cohort", "依成立年 — 批次從每屆 8 家放大到 400 家"), lineChart(growth)) +
+        panel(tt("Outcome breakdown", "結局分布"),
+              tt("Where the 5,988 companies stand today", "5,988 家公司的現況"), donut(statusRows)) +
+        panel(tt("By sector", "產業分布"), "", svgBars(rows(ch.industries, IND))) +
+        panel(tt("By region", "地區分布"), tt("Top 10", "前 10"), svgBars(rows(ch.regions, REG))) +
+        panel(tt("By era", "依年代"), "", svgBars(rows(ch.eras, ERA))) +
+        panel(tt("Confirmed unicorns & above", "確認的獨角獸以上"),
+              tt("From the deep-researched, web-verified tier", "來自深度查證層級"), svgBars(valRows)) +
+        "</div></div>";
+    }
+
+    /* =====================================================================
        ANALYSIS (chapters)
        ===================================================================== */
     function renderAnalysis(p) {
@@ -419,8 +489,8 @@
     /* ---------------- registry + paint ---------------- */
     var RENDERERS = {
       home: renderHome, companies: renderCompanies, batches: renderBatches,
-      analysis: renderAnalysis, people: renderPeople, ecosystem: renderEcosystem,
-      essays: renderEssays, glossary: renderGlossary
+      insights: renderInsights, analysis: renderAnalysis, people: renderPeople,
+      ecosystem: renderEcosystem, essays: renderEssays, glossary: renderGlossary
     };
     function paint() {
       teardowns.forEach(function (fn) { try { fn(); } catch (e) {} });

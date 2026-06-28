@@ -1,0 +1,54 @@
+{
+  "id": "geography",
+  "icon": "public",
+  "title": { "en": "The Geography of YC", "zh": "YC 的地理" },
+  "lede": {
+    "en": "Y Combinator is a worldwide brand run from a few square miles of San Francisco — a global funnel that empties, by design, into one bay.",
+    "zh": "Y Combinator 是個全球品牌,卻由舊金山幾平方英里的地方掌舵——一條全球性的漏斗,卻刻意地通通匯流進同一個海灣。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "One bay, gravitationally", "zh": "一個海灣,如同地心引力" },
+      "paragraphs": {
+        "en": [
+          "Whatever the passport on the application, the centre of mass has barely moved. Roughly 85–90% of all YC companies are headquartered in the United States, and within that share the San Francisco Bay Area is dominant rather than merely large: external trackers put San Francisco's slice of recent batches above half of all companies — around 51% in 2024 and 53% in 2025. Add New York, Seattle, Austin and the rest of the US, and the international cohort is left contesting a minority of seats. YC is, in the most literal sense, a San Francisco institution that recruits everywhere.",
+          "This concentration is not an accident of where applications come from; it is a property of where companies end up. The application pool is genuinely planetary — founders apply from dozens of countries each cycle — but the program's gravity bends trajectories toward a single metro. The relevant geography of YC is therefore two maps laid over each other: a wide, dispersed map of origin, and a narrow, dense map of destination. Most of the analysis that calls YC 'global' is reading the first map; most of the value YC sells is priced off the second."
+        ],
+        "zh": [
+          "無論申請表上是哪一國護照,重心幾乎沒有移動。所有 YC 公司中約有 85%–90% 將總部設在美國,而在這個範圍內,舊金山灣區並非只是龐大,而是壓倒性的:外部追蹤資料顯示,舊金山在近期梯次中所占的比例已超過全部公司的一半——2024 年約 51%、2025 年約 53%。再加上紐約、西雅圖、奧斯汀與美國其餘各地,國際梯次能爭奪的只剩少數席位。從最字面的意義上說,YC 是一個向全世界招募、卻設址於舊金山的機構。",
+          "這種集中並非源自申請來自何處的偶然,而是公司最終落腳何處的屬性。申請池確實遍及全球——每一輪都有來自數十國的創辦人投件——但這個專案的引力把所有軌跡都彎向同一個都會區。因此 YC 真正的地理是兩張疊在一起的地圖:一張寬廣分散的「來源圖」,以及一張狹窄密集的「去向圖」。多數把 YC 稱為「全球性」的分析,讀的是第一張圖;而 YC 真正出售的價值,定價的依據卻是第二張圖。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "The growing edges of the map", "zh": "地圖上正在擴張的邊緣" },
+      "paragraphs": {
+        "en": [
+          "Around that core, the rest of the world has gone from anecdote to standing fixture. India is now the single largest non-US source by cumulative count, with well over a hundred and fifty YC-funded companies; Latin America anchors a fintech-heavy contingent that runs from Brazil's Nubank to a steady stream of cross-border payments and banking startups; Europe contributes a deep developer-tools and B2B SaaS bench led by the UK, France and Germany; Africa is carried by the Nigerian fintech lineage of Paystack and Flutterwave; and Southeast Asia, with Singapore and Indonesia, rounds out a genuinely five-continent applicant base. Each region brings a recognisable specialisation rather than a generic copy of the Valley playbook.",
+          "But 'growing share' has to be read against a moving baseline. India and Southeast Asia together fielded scores of companies a year at the pandemic peak — on the order of 96 in 2021 — before that pipeline thinned sharply: by 2023 only a handful of YC's roughly 349 startups came from South and Southeast Asia combined, and 2024 batches counted Indian participation in the low single digits. The emerging-market presence is real and structurally larger than a decade ago, yet it is also volatile, sensitive to batch size, to YC's AI pivot after ChatGPT, and to whether a given cycle is run with relocation in mind. The edges are growing, but they expand and contract with the centre's policy, not independently of it."
+        ],
+        "zh": [
+          "圍繞著這個核心,世界其餘地區已從零星案例變成常設成員。以累計數量計,印度如今是美國以外最大的單一來源,YC 資助的公司遠超過一百五十家;拉丁美洲撐起一支金融科技色彩濃厚的隊伍,從巴西的 Nubank 一路延伸到源源不絕的跨境支付與銀行新創;歐洲則由英國、法國與德國領軍,貢獻了深厚的開發者工具與 B2B SaaS 陣容;非洲靠 Paystack 與 Flutterwave 所開創的奈及利亞金融科技血脈撐場;而東南亞則以新加坡與印尼,補齊了一個真正橫跨五大洲的申請基礎。每個地區帶來的都是可辨識的專長,而非矽谷劇本的通用複製。",
+          "但「占比成長」必須對照一條移動中的基線來讀。在疫情高峰時,印度與東南亞合計一年可派出數十家公司——2021 年約達 96 家——之後這條管線急遽變細:到 2023 年,YC 約 349 家新創中,南亞與東南亞合計只剩寥寥數家,而 2024 年各梯的印度參與更降至個位數低點。新興市場的存在是真實的,在結構上也比十年前龐大許多,但它同樣劇烈起伏,對梯次規模、對 YC 在 ChatGPT 後轉向 AI、以及對某一輪是否以「搬遷」為前提運作,都極度敏感。邊緣確實在擴張,但它隨著中心的政策一起膨脹與收縮,而非獨立於中心之外。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "Relocation as the product", "zh": "搬遷即是產品" },
+      "paragraphs": {
+        "en": [
+          "The cleanest way to understand YC's geography is to stop treating relocation as friction and start treating it as the offer. Under Garry Tan, who became CEO in 2023, the program moved its headquarters from Mountain View to San Francisco's Dogpatch, declared the batch fully in-person, and stated plainly that founders 'have to be in San Francisco' — encouraged to live in Dogpatch or Potrero Hill, with the 2022 jump to a $500,000 standard deal partly framed as runway for Bay Area rent. The argument is proximity: to AI labs like OpenAI and Anthropic, to capital, and to a dense peer group of other founders. From this view, asking a Lagos or Bangalore founder to move is not a barrier to inclusion but the mechanism of it.",
+          "That framing is coherent, and it is also a filter with sharp edges. Relocation-as-feature works cleanly for the founder who is young, unencumbered and chasing the frontier; it works less cleanly for one solving a payments problem specific to Brazil, a logistics problem specific to Indonesia, or a market that simply cannot be operated from 8,000 miles away. So YC's geography settles into a stable equilibrium: it scouts the entire world for talent, accepts a meaningfully global slate, and then routes the resulting energy through one zip code — exporting its brand outward while importing its founders inward. The map of where YC looks keeps widening; the map of where YC lives stays almost exactly where it began."
+        ],
+        "zh": [
+          "理解 YC 地理最乾淨的方式,是別再把搬遷當成阻力,而開始把它當成這份提案的本體。在 2023 年接任執行長的 Garry Tan 領導下,專案把總部從 Mountain View 搬到舊金山的 Dogpatch,宣布梯次全程實體進行,並直白地表示創辦人「必須待在舊金山」——被鼓勵住進 Dogpatch 或 Potrero Hill,而 2022 年標準投資額跳升至五十萬美元,有一部分正是被定位成支應灣區房租的緩衝。其論點在於「近距離」:靠近 OpenAI、Anthropic 這類 AI 實驗室、靠近資本,也靠近一群密集的同儕創辦人。從這個視角看,要求拉哥斯或班加羅爾的創辦人搬過來,並非參與的障礙,反而正是參與的機制。",
+          "這套框架自有其一致性,但它同時也是一張帶著鋒利邊緣的篩網。「搬遷即特色」對年輕、無牽掛、追逐前沿的創辦人運作得很順;但對一個正在解決巴西特有支付問題、印尼特有物流問題,或一個根本無法從八千英里外營運的市場的人來說,就沒那麼順了。於是 YC 的地理穩定在一個均衡點上:它向全世界搜羅人才,接受一份確實具全球色彩的名單,再把由此匯聚的能量導入同一個郵遞區號——對外輸出品牌,對內輸入創辦人。YC「望向何處」的地圖持續變寬;而 YC「身在何處」的地圖,幾乎仍停在它最初的地方。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "YC's geography is best read as a deliberate asymmetry: a globally cast net feeding a locally fixed point. The international share is large and real, but it functions as a recruiting radius, not a relocation of the centre — and the post-2022 return to in-person SF was less a retreat from globalisation than a clarification that, for YC, density in one bay was always the product the network was selling.",
+    "zh": "YC 的地理最好被解讀為一種刻意的不對稱:一張全球撒出的網,餵養著一個在地固定的點。國際占比既龐大又真實,但它的作用是招募半徑,而非中心的遷移——2022 年後回歸實體的舊金山,與其說是從全球化撤退,不如說是一次澄清:對 YC 而言,集中於同一個海灣的密度,始終就是這個人脈網真正在賣的產品。"
+  }
+}

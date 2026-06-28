@@ -1,0 +1,55 @@
+{
+  "id": "by-numbers",
+  "icon": "query_stats",
+  "title": { "en": "By the Numbers", "zh": "數據總覽" },
+  "lede": {
+    "en": "Run the totals and a single shape appears: roughly 5,988 launched companies across 50 batches, a portfolio valuation cited in the hundreds of billions, and a winners' list so short that almost the entire figure rests on it.",
+    "zh": "把所有數字加總起來,會浮現出一個清晰的形狀:約 5,988 家公司、橫跨 50 個梯次、被引用為數千億美元的投資組合估值,以及一份短到幾乎整個數字都壓在它身上的贏家名單。"
+  },
+  "sections": [
+    {
+      "heading": { "en": "The Aggregate at a Glance", "zh": "一眼看盡的總量" },
+      "paragraphs": {
+        "en": [
+          "This dataset records 5,988 companies launched across 50 batches between Summer 2005 and the most recent 2026 cohorts. Of those, 4,129 are still tracked as active, 794 have been acquired, 1,042 have shut down, and 23 are public companies on the dataset, names ranging from Airbnb, Coinbase, DoorDash and Dropbox to GitLab, Instacart, Ginkgo Bioworks and Rigetti. A further 91 are flagged as top companies and 237 sit in the curated top tier. Those counts are the skeleton everything else hangs on, and they are unusually clean for a venture portfolio because YC defines membership precisely: you were either in a batch or you were not.",
+          "The valuation numbers are where precision gives way to estimate. Y Combinator's own marketing has at times claimed a combined alumni valuation 'over $1 trillion,' while independent trackers and press accounts more often cite a range from roughly $600 billion to $800 billion. Unicorn counts vary just as widely: public lists track on the order of 80 active billion-dollar companies, while YC and some analysts cite 250 or more unicorns historically, a cumulative figure that counts every company that ever crossed the line, including those since acquired, taken private, or marked back down. None of these is wrong; they answer different questions, and the gap between them is itself the first lesson of the chapter."
+        ],
+        "zh": [
+          "本資料集記錄了在 2005 年夏季至最近 2026 年梯次之間、橫跨 50 個梯次推出的 5,988 家公司。其中 4,129 家仍被列為營運中,794 家已被收購,1,042 家已歇業,另有 23 家是資料集上的上市公司——從 Airbnb、Coinbase、DoorDash、Dropbox,到 GitLab、Instacart、Ginkgo Bioworks 與 Rigetti。此外有 91 家被標記為頂尖公司,237 家位列精選的最高層級。這些數字是其餘一切賴以掛載的骨架,而且就創投投資組合而言異常乾淨,因為 YC 對「成員」的定義很精確:你要嘛在某個梯次裡,要嘛不在。",
+          "估值數字則是精確讓位給估算之處。Y Combinator 自己的行銷文案曾宣稱校友合計估值「超過 1 兆美元」,而獨立追蹤者與媒體報導更常引用約 6,000 億至 8,000 億美元的區間。獨角獸數量的差異同樣巨大:公開名單追蹤到約 80 家現存的十億美元級公司,而 YC 與部分分析師則引用歷史上 250 家以上的獨角獸——這是個累計數字,把每一家曾跨過門檻的公司都算進去,包含後來被收購、私有化或被調降估值的。這些說法都不算錯;它們回答的是不同的問題,而它們之間的落差,本身就是本章的第一課。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "From Eight to Four Hundred", "zh": "從八家到四百家" },
+      "paragraphs": {
+        "en": [
+          "The most legible trend in the data is batch size. The founding Summer 2005 cohort had just 9 companies; Winter 2006 had 7. For years the batches stayed small, an intimate dinner-and-office-hours format that scaled into the dozens. Then the curve bent sharply upward: by the early 2020s the largest single batches reached 398 (Winter 2022) and 391 (Summer 2021), with Winter 2021, Winter 2023 and Winter 2024 all clearing 250. Since 2024 YC has run four batches a year rather than two, so the annual intake now dwarfs anything from the first decade.",
+          "That growth changes what the accelerator structurally is. A 9-company batch is a workshop; a 400-company batch is closer to a seed-stage index, writing a standardized check into a very wide slice of the year's startups and accepting that most individual bets will not pay off. The bet is not on any one company but on the portfolio's right tail being fat enough that one Stripe, Airbnb or Coinbase per era covers the rest many times over. Scaling the funnel raises the absolute number of shots on goal, but it does nothing to guarantee the hit rate, and it dilutes the hands-on attention that the small early batches could lavish on each team."
+        ],
+        "zh": [
+          "資料中最清晰可讀的趨勢是梯次規模。創始的 2005 年夏季梯次只有 9 家公司;2006 年冬季是 7 家。多年來梯次都維持小巧,是一種能擴展到數十家的、親密的「晚餐加辦公室時間」形式。接著曲線急遽向上彎折:到了 2020 年代初,單一梯次最大已達 398 家(2022 冬)與 391 家(2021 夏),而 2021 冬、2023 冬與 2024 冬都越過了 250 家。自 2024 年起,YC 每年舉辦四個梯次而非兩個,因此如今的年度錄取量,讓第一個十年的任何數字都相形見絀。",
+          "這樣的成長改變了這家加速器在結構上「是什麼」。一個 9 家公司的梯次是工作坊;一個 400 家公司的梯次則更接近一檔種子期指數基金——對當年新創中極為廣闊的一塊開出標準化支票,並接受多數單筆下注不會有回報。這個賭注押的不是任何單一公司,而是賭投資組合的右尾夠肥,肥到每個時代一家 Stripe、Airbnb 或 Coinbase,就能把其餘所有公司的損失補回好幾倍。把漏斗放大,提高了射門的絕對次數,卻絲毫無法保證命中率,而且它稀釋了早期小梯次能對每支團隊揮霍投入的親手關照。"
+        ]
+      }
+    },
+    {
+      "heading": { "en": "What the Hit-Rate Reveals", "zh": "命中率揭露了什麼" },
+      "paragraphs": {
+        "en": [
+          "Read as a survival table, the portfolio is a textbook power law. Of the 5,988 companies, 23 reaching the public markets is about 0.4 percent; if 80-odd are current unicorns, that is on the order of 1 to 1.5 percent at any one time, and even the broader historical unicorn tally lands near 4 to 6 percent. Against that, 1,042 recorded shutdowns and a long base of never-scaling startups make up the bulk of the cohort. The arithmetic is deliberately lopsided: the model assumes most companies return little or nothing and is engineered so that the rare outlier pays for the whole book.",
+          "This is the 'index fund of startups' logic stated plainly, and it cuts both ways. On the upside, a roughly 4 percent unicorn rate is several times the seed-stage baseline often cited near 2.5 percent, which is a genuine edge from selection, brand and network effects. On the downside, an index only works if you can hold the whole index, and YC's economics depend on the handful of names at the top, the same concentration that makes the headline valuation impressive also makes it fragile, since a repricing of two or three giants moves the aggregate more than the launch of an entire new batch. The numbers do not show a machine that reliably manufactures winners; they show a wide net, cast deliberately wide, whose value is decided by how heavy a few fish in the tail turn out to be."
+        ],
+        "zh": [
+          "若把投資組合當成一張存活表來讀,它是一個教科書級的冪律分布。在 5,988 家公司中,有 23 家走上公開市場,約佔 0.4%;若約 80 餘家是現存獨角獸,則任一時點約落在 1% 至 1.5%,即便是較寬的歷史獨角獸總數也約在 4% 到 6% 之間。相對地,1,042 家有紀錄的歇業,加上一長串從未做大的新創,構成了梯次的主體。這套算術是刻意失衡的:模式假設多數公司回報甚少甚至為零,並被設計成讓罕見的異數扛起整本帳。",
+          "這正是「新創指數基金」邏輯的直白版本,而它是雙面刃。在好的一面,約 4% 的獨角獸率是常被引用、約 2.5% 的種子期基準的數倍,這是來自選案、品牌與網絡效應的真實優勢。在壞的一面,指數只有在你能持有整個指數時才管用,而 YC 的經濟命脈仰賴頂端那一小撮名字——讓頭條估值看來亮眼的那份集中度,同時也讓它脆弱,因為兩三家巨頭的估值重估,對總量的影響大過整整一個新梯次的推出。這些數字呈現的,不是一台能可靠量產贏家的機器;而是一張刻意撒得很寬的網,其價值取決於尾端那幾條魚最終有多重。"
+        ]
+      }
+    }
+  ],
+  "observation": {
+    "en": "The aggregate looks colossal, 5,988 companies and a portfolio valued in the hundreds of billions, but the distribution does the real talking: 23 public names and a thin band of unicorns carry almost the entire dollar figure, while well over a thousand recorded shutdowns sit at the base. Ballooning batch sizes from single digits to nearly 400 confirm that YC scaled the strategy rather than the odds, widening the net in the bet that one outsized winner per era still pays for everyone else. The honest reading is that YC's 'index fund of startups' is less a reliable winner-maker than a disciplined volume bet on a power law it can shape but not control."
+  ,
+    "zh": "總量看起來宏大——5,988 家公司、估值達數千億美元的投資組合——但真正說話的是分布:23 家上市公司加上一薄帶獨角獸扛起了幾乎全部金額,而一千多家有紀錄的歇業則沉在底層。梯次規模從個位數膨脹到近 400 家,證實 YC 擴張的是策略而非勝率——把網撒得更寬,賭的是每個時代一家超大贏家仍能養活其餘所有人。誠實的解讀是:YC 的「新創指數基金」與其說是可靠的贏家製造機,不如說是對一條它能塑造卻無法控制的冪律,所下的一場有紀律的量化大注。"
+  }
+}
