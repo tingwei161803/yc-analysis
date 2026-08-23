@@ -5,6 +5,9 @@
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yc-analysis.peteraim.com/</loc>
+  </url>
+  <url>
     <loc>https://yc-analysis.peteraim.com/analysis.html</loc>
   </url>
   <url>
@@ -23,12 +26,36 @@
     <loc>https://yc-analysis.peteraim.com/glossary.html</loc>
   </url>
   <url>
-    <loc>https://yc-analysis.peteraim.com/</loc>
-  </url>
-  <url>
     <loc>https://yc-analysis.peteraim.com/insights.html</loc>
   </url>
   <url>
     <loc>https://yc-analysis.peteraim.com/people.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/analysis.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/batches.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/companies.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/ecosystem.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/essays.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/glossary.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/insights.html</loc>
+  </url>
+  <url>
+    <loc>https://yc-analysis.peteraim.com/zh-Hant/people.html</loc>
   </url>
 </urlset>
