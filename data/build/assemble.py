@@ -223,7 +223,7 @@ SITE_PAGES = [
                   "zh": "YC 與同業加速器的比較"},
      "competitors": competitors},
     {"slug": "essays", "layout": "essays", "icon": "history_edu",
-     "title": {"en": "Essays", "zh": "essays"},
+     "title": {"en": "Essays", "zh": "經典文章"},
      "subtitle": {"en": "Digests of the Paul Graham canon",
                   "zh": "Paul Graham 經典文章摘要"},
      "essays": essays},
