@@ -3,8 +3,11 @@
 
    Page-level layout engine. shell.js has injected the chrome and published
    window.LDW. This script picks a renderer by the current page's `layout`
-   (from SITE_PAGES), paints it into <main id="page">, wires interactions, and
-   repaints on a language switch so nothing is ever left in one language.
+   (from SITE_PAGES), paints it into <main id="page">, and wires interactions.
+
+   It paints in the page's own language (LDW.state.lang, which comes from
+   <html lang>) and never repaints for a language change: switching language is
+   a navigation to the twin URL, not an in-page redraw.
    ========================================================================= */
 (function () {
   "use strict";
@@ -551,7 +554,6 @@
       pageEl.innerHTML = "";
       fn(p || {});
     }
-    L.onLang(function () { paint(); });
     paint();
   }
 

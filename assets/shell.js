@@ -6,8 +6,11 @@
    page renderers in app.js. Loaded on EVERY page BEFORE app.js, AFTER
    data/site-data.js (which defines SITE_META + SITE_PAGES).
 
-   Default language is ENGLISH; a toggle switches the whole page to 繁體中文
-   and the choice persists across pages via localStorage.
+   Language comes from the URL — English at the root, 繁體中文 under /zh-Hant/ —
+   and each page declares it in <html lang>. The language control is a link to
+   this same page in the other language, so every address shows the language it
+   promises, to visitors and to crawlers alike. Only the theme persists across
+   pages via localStorage.
    ========================================================================= */
 (function () {
   "use strict";
@@ -23,8 +26,30 @@
   function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
   function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 
+  /* ---------- language: decided by the URL, never by localStorage ----------
+     Every page declares its own language in <html lang>, and its Chinese twin
+     lives at the same filename under /zh-Hant/. Reading a stored preference
+     here would override what the address says — and would strand crawlers,
+     which have no localStorage, on the default language forever. */
+  var TWIN_DIR = "/zh-Hant";
+  var LANG_CODE = { en: "en", zh: "zh-Hant" };
+
+  function pageLang() {
+    var declared = (document.documentElement.getAttribute("lang") || "en").toLowerCase();
+    return declared.indexOf("zh") === 0 ? "zh" : "en";
+  }
+  /* this same page in the other language, derived from the path — so adding a
+     page never means coming back here to add a link */
+  function otherLangHref() {
+    var p = location.pathname;
+    if (p === TWIN_DIR || p.indexOf(TWIN_DIR + "/") === 0) {
+      return p.slice(TWIN_DIR.length) || "/";
+    }
+    return TWIN_DIR + p;
+  }
+
   var state = {
-    lang:  lsGet("lang")  || "en",   // ENGLISH default
+    lang:  pageLang(),
     theme: lsGet("theme") || "light"
   };
 
@@ -49,9 +74,6 @@
     return PAGES[0] || null;
   }
 
-  var langSubscribers = [];
-  function onLang(fn) { if (typeof fn === "function") langSubscribers.push(fn); }
-
   var REPO = "tingwei161803/yc-analysis";
 
   function injectChrome() {
@@ -75,10 +97,12 @@
             '<span class="material-symbols-rounded">star</span>' +
             '<span class="ghbtn__count" id="ghCount">GitHub</span>' +
           '</a>' +
-          '<button class="icon-btn" id="langToggle" type="button" aria-label="Toggle language / 切換語言">' +
+          '<a class="icon-btn" id="langToggle" href="' + otherLangHref() + '"' +
+             ' rel="alternate" hreflang="' + LANG_CODE[state.lang === "en" ? "zh" : "en"] + '"' +
+             ' aria-label="Switch language / 切換語言">' +
             '<span class="material-symbols-rounded">translate</span>' +
-            '<span class="icon-btn__txt" id="langLabel">中文</span>' +
-          '</button>' +
+            '<span class="icon-btn__txt" id="langLabel"></span>' +
+          '</a>' +
           '<button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme / 切換主題">' +
             '<span class="material-symbols-rounded" id="themeIcon">dark_mode</span>' +
           '</button>' +
@@ -143,7 +167,6 @@
   }
 
   function refreshChrome() {
-    document.documentElement.setAttribute("lang", state.lang === "zh" ? "zh-Hant" : "en");
     var page = currentPage();
     var siteTitle = t(META.title);
     var pageTitle = page ? t(page.title) : "";
@@ -170,20 +193,19 @@
     if (icon) icon.textContent = state.theme === "dark" ? "light_mode" : "dark_mode";
     lsSet("theme", state.theme);
   }
+  /* the language control is a link, so its label names where it goes rather
+     than where you already are */
   function applyLangChrome() {
     var label = document.getElementById("langLabel");
-    if (label) label.textContent = state.lang === "en" ? "中文" : "EN";
-    lsSet("lang", state.lang);
+    if (!label) return;
+    var other = state.lang === "en" ? "zh" : "en";
+    label.textContent = other === "zh" ? "中文" : "EN";
+    label.setAttribute("lang", LANG_CODE[other]);
   }
 
   function wire() {
     document.getElementById("themeToggle").addEventListener("click", function () {
       state.theme = state.theme === "dark" ? "light" : "dark"; applyTheme();
-    });
-    document.getElementById("langToggle").addEventListener("click", function () {
-      state.lang = state.lang === "en" ? "zh" : "en";
-      applyLangChrome(); refreshChrome();
-      langSubscribers.forEach(function (fn) { try { fn(state.lang); } catch (e) {} });
     });
   }
 
@@ -209,7 +231,7 @@
     lsGet: lsGet, lsSet: lsSet,
     pages: PAGES, meta: META,
     currentPage: currentPage, currentSlug: currentSlug, pageHref: pageHref,
-    onLang: onLang, refreshChrome: refreshChrome,
+    refreshChrome: refreshChrome,
     dialog: function () { return document.getElementById("dialog"); }
   };
 
