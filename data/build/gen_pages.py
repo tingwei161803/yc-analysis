@@ -58,14 +58,14 @@ def jsonld(slug, title, desc):
             '  <script type="application/ld+json">\n'
             '  {"@context":"https://schema.org","@type":"WebSite","name":"' + SITE + '",'
             '"url":"' + DOMAIN + '/","description":"' + desc.replace('"', '\\"') + '",'
-            '"inLanguage":["en","zh-Hant"]}\n'
+            '"inLanguage":"en"}\n'
             '  </script>\n'
         )
     return (
         '  <script type="application/ld+json">\n'
         '  {"@context":"https://schema.org","@type":"WebPage","name":"' + title.replace('"', '\\"') + '",'
         '"isPartOf":{"@type":"WebSite","name":"' + SITE + '","url":"' + DOMAIN + '/"},'
-        '"url":"' + DOMAIN + '/' + slug + '.html","inLanguage":["en","zh-Hant"]}\n'
+        '"url":"' + DOMAIN + '/' + slug + '.html","inLanguage":"en"}\n'
         '  </script>\n'
     )
 
